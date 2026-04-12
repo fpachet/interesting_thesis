@@ -5,6 +5,7 @@ __pycache__/
 *.pyc
 *.egg-info/
 .env
+.DS_Store
 
 output/*.md
 output/*.txt

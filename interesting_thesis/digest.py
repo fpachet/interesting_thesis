@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from collections.abc import Callable
 from collections.abc import Sequence
 
 from .config import length_instruction
@@ -9,6 +10,8 @@ from .prompts import PromptLibrary
 from .schemas import digest_schema
 from .text_utils import excerpt, split_text, unique_preserve_order
 
+ProgressCallback = Callable[[str], None]
+
 
 def build_corpus_digest(
     documents: Sequence[SourceDocument],
@@ -16,8 +19,10 @@ def build_corpus_digest(
     config: PipelineConfig,
     prompt_library: PromptLibrary,
     llm_client: LLMClient,
+    progress_callback: ProgressCallback | None = None,
 ) -> DigestResult:
     chunks = build_chunks(documents, max_chars=config.max_chunk_chars)
+    report(progress_callback, f"Digest will use {len(chunks)} chunk(s).")
     system_prompt = prompt_library.render(
         "digest.md",
         theme=config.theme,
@@ -26,10 +31,12 @@ def build_corpus_digest(
     document_inventory = render_document_inventory(documents)
 
     if len(chunks) == 1:
+        report(progress_callback, "Digest: using a single chunk, no partial summaries needed.")
         digest_input = render_chunk(chunks[0])
     else:
         partial_summaries: list[str] = []
-        for chunk in chunks:
+        for index, chunk in enumerate(chunks, start=1):
+            report(progress_callback, f"Digest partial summary {index}/{len(chunks)} ({chunk.chunk_id}).")
             summary = llm_client.generate_text(
                 [
                     {"role": "developer", "content": system_prompt},
@@ -47,6 +54,7 @@ def build_corpus_digest(
             partial_summaries.append(f"## {chunk.chunk_id}\n{summary}")
         digest_input = "\n\n".join(partial_summaries)
 
+    report(progress_callback, "Digest: building final structured synthesis.")
     data = llm_client.generate_json(
         [
             {"role": "developer", "content": system_prompt},
@@ -125,3 +133,8 @@ def render_document_inventory(documents: Sequence[SourceDocument]) -> str:
             f"{excerpt(document.text, max_chars=180) or '[No extractable text]'}"
         )
     return "\n".join(lines)
+
+
+def report(progress_callback: ProgressCallback | None, message: str) -> None:
+    if progress_callback is not None:
+        progress_callback(message)

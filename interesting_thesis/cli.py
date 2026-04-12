@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from datetime import datetime
 from pathlib import Path
 from typing import Sequence
 
@@ -14,11 +15,12 @@ def main(argv: Sequence[str] | None = None) -> int:
     load_env_file(project_root / ".env")
     parser = build_parser(project_root)
     args = parser.parse_args(list(argv) if argv is not None else None)
+    progress_callback = build_progress_callback()
 
     try:
         config = resolve_config(args, project_root)
         roles = load_roles(config.roles_file)
-        outputs = run_pipeline(config, roles)
+        outputs = run_pipeline(config, roles, progress_callback=progress_callback)
     except InterestingThesisError as exc:
         parser.exit(status=2, message=f"Error: {exc}\n")
     except KeyboardInterrupt:
@@ -28,3 +30,11 @@ def main(argv: Sequence[str] | None = None) -> int:
     for label, path in outputs.items():
         print(f"- {label}: {path}")
     return 0
+
+
+def build_progress_callback():
+    def report(message: str) -> None:
+        timestamp = datetime.now().strftime("%H:%M:%S")
+        print(f"[{timestamp}] {message}", flush=True)
+
+    return report

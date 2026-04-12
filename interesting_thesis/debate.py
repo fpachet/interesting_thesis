@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from collections.abc import Callable
 from datetime import UTC, datetime
 
 from .config import length_instruction
@@ -19,6 +20,8 @@ from .prompts import PromptLibrary
 from .schemas import final_synthesis_schema, round_synthesis_schema
 from .text_utils import unique_preserve_order
 
+ProgressCallback = Callable[[str], None]
+
 
 def run_round(
     *,
@@ -29,6 +32,7 @@ def run_round(
     config: PipelineConfig,
     prompt_library: PromptLibrary,
     llm_client: LLMClient,
+    progress_callback: ProgressCallback | None = None,
 ) -> DebateRound:
     agent_outputs: list[AgentOutput] = []
     synthesis: RoundSynthesis | None = None
@@ -38,7 +42,11 @@ def run_round(
         memory=memory,
     )
 
-    for role in roles:
+    for role_index, role in enumerate(roles, start=1):
+        report(
+            progress_callback,
+            f"Round {round_index}/{config.rounds}: {role.name} ({role_index}/{len(roles)}).",
+        )
         system_prompt = prompt_library.render(
             role.prompt_file,
             theme=config.theme,
@@ -114,7 +122,9 @@ def build_final_synthesis(
     config: PipelineConfig,
     prompt_library: PromptLibrary,
     llm_client: LLMClient,
+    progress_callback: ProgressCallback | None = None,
 ) -> FinalSynthesis:
+    report(progress_callback, "Final synthesis: generating structured output.")
     system_prompt = prompt_library.render(
         "final_synthesis.md",
         theme=config.theme,
@@ -237,3 +247,8 @@ def render_paragraphs_markdown(paragraphs: list[str]) -> str:
         blocks.append(paragraph)
         blocks.append("")
     return "\n".join(blocks).strip() + "\n"
+
+
+def report(progress_callback: ProgressCallback | None, message: str) -> None:
+    if progress_callback is not None:
+        progress_callback(message)
