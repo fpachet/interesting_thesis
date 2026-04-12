@@ -1,0 +1,20 @@
+[
+  {
+    "key": "constructeur",
+    "name": "Constructeur",
+    "kind": "builder",
+    "prompt_file": "constructeur.md"
+  },
+  {
+    "key": "critique",
+    "name": "Critique",
+    "kind": "critic",
+    "prompt_file": "critique.md"
+  },
+  {
+    "key": "synthetiseur",
+    "name": "Synthetiseur",
+    "kind": "synthesizer",
+    "prompt_file": "synthetiseur.md"
+  }
+]

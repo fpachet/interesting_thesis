@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "interesting-thesis"
+version = "0.1.0"
+description = "Multi-agent philosophical dialogue pipeline over a personal corpus."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "openai",
+  "pypdf",
+  "python-docx",
+]
+
+[project.scripts]
+interesting-thesis = "interesting_thesis.cli:main"
+
+[tool.setuptools]
+packages = ["interesting_thesis"]

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+output/*.md
+output/*.txt
+!output/.gitkeep
+
+memory/state.json
+!memory/.gitkeep
