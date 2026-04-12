@@ -11,6 +11,12 @@ class OutputLength(StrEnum):
     LONG = "long"
 
 
+class RunMode(StrEnum):
+    START = "start"
+    RESUME = "resume"
+    FORK = "fork"
+
+
 class RoleKind(StrEnum):
     BUILDER = "builder"
     CRITIC = "critic"
@@ -32,6 +38,8 @@ class PipelineConfig:
     input_dir: Path
     output_dir: Path
     memory_file: Path
+    run_output_dir: Path
+    run_memory_file: Path
     prompts_dir: Path
     roles_file: Path
     theme: str
@@ -39,6 +47,13 @@ class PipelineConfig:
     rounds: int
     output_length: OutputLength
     dry_run: bool
+    run_id: str
+    run_mode: RunMode
+    resume_checkpoint_path: Path | None = None
+    resume_checkpoint_name: str | None = None
+    parent_run_id: str | None = None
+    user_note: str | None = None
+    mirror_latest_outputs: bool = True
     max_chunk_chars: int = 12_000
     max_output_tokens: int = 3_000
     reasoning_effort: str | None = None
@@ -130,3 +145,4 @@ class MemoryState:
     open_questions: list[str] = field(default_factory=list)
     reusable_paragraphs: list[str] = field(default_factory=list)
     final_synthesis: FinalSynthesis | None = None
+    user_notes: list[str] = field(default_factory=list)

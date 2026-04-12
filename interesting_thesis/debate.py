@@ -185,9 +185,12 @@ def render_memory_for_prompt(memory: MemoryState) -> str:
     reusable_paragraphs = "\n".join(
         f"- {item}" for item in memory.reusable_paragraphs[:6]
     ) or "- None"
+    user_notes = "\n".join(f"- {item}" for item in memory.user_notes[-4:]) or "- None"
 
     return (
         f"{rounds_text}\n\n"
+        "Notes utilisateur actives:\n"
+        f"{user_notes}\n\n"
         "Questions ouvertes:\n"
         f"{open_questions}\n\n"
         "Paragraphes reutilisables deja identifies:\n"

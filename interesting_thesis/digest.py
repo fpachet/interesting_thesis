@@ -29,6 +29,12 @@ def build_corpus_digest(
         output_length_instruction=length_instruction(config.output_length),
     )
     document_inventory = render_document_inventory(documents)
+    guidance_block = (
+        "Consigne utilisateur supplementaire pour cette execution :\n"
+        f"{config.user_note}\n\n"
+        if config.user_note
+        else ""
+    )
 
     if len(chunks) == 1:
         report(progress_callback, "Digest: using a single chunk, no partial summaries needed.")
@@ -43,6 +49,7 @@ def build_corpus_digest(
                     {
                         "role": "user",
                         "content": (
+                            f"{guidance_block}"
                             "Produis un digest partiel du segment suivant.\n\n"
                             f"{render_chunk(chunk)}"
                         ),
@@ -61,6 +68,7 @@ def build_corpus_digest(
             {
                 "role": "user",
                 "content": (
+                    f"{guidance_block}"
                     "Construit un digest de corpus a partir du materiau suivant.\n\n"
                     f"Inventaire des sources:\n{document_inventory}\n\n"
                     f"{digest_input}"

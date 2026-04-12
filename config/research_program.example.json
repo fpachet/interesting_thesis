@@ -1,0 +1,70 @@
+{
+  "program_id": "interestingness_thesis",
+  "title": "L emergence de l interessant",
+  "theme": "L objet interessant comme solution relativement rare d un probleme d echantillonnage sous contrainte.",
+  "output_format": "markdown",
+  "orchestration": {
+    "default_question_workflow": "philosophical_question",
+    "question_selection_policy": "dependency_order_with_manual_override",
+    "outline_workflow": "materials_to_outline",
+    "draft_workflow": "section_drafting"
+  },
+  "personas": [
+    {
+      "key": "descartes",
+      "name": "Descartes",
+      "source_paths": [
+        "input/personas/descartes/discours_de_la_methode.pdf",
+        "input/personas/descartes/meditations.pdf"
+      ],
+      "tags": ["intuition", "evidence", "distinction"]
+    },
+    {
+      "key": "simondon",
+      "name": "Simondon",
+      "source_paths": [
+        "input/personas/simondon/du_mode_d_existence_des_objets_techniques.pdf",
+        "input/personas/simondon/l_individuation.pdf"
+      ],
+      "tags": ["individuation", "technique", "invention"]
+    }
+  ],
+  "sections": [
+    {
+      "id": "01_introduction",
+      "title": "Introduction"
+    },
+    {
+      "id": "02_cadre_conceptuel",
+      "title": "Cadre conceptuel"
+    },
+    {
+      "id": "03_regimes_de_l_interessant",
+      "title": "Regimes de l interessant"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q00_baseline",
+      "title": "Version forte initiale de la these",
+      "prompt": "Consolider la these de base et identifier ses limites.",
+      "workflow_template": "philosophical_question",
+      "depends_on": [],
+      "personas": [],
+      "source_paths": ["input/global"],
+      "target_sections": ["01_introduction", "02_cadre_conceptuel"],
+      "status": "done"
+    },
+    {
+      "id": "q01_regimes_interet",
+      "title": "Unite ou pluralite des regimes d interessant",
+      "prompt": "Determiner si le terme interessant designe un concept unifie ou plusieurs regimes distincts.",
+      "workflow_template": "philosophical_question",
+      "depends_on": ["q00_baseline"],
+      "personas": ["descartes", "simondon"],
+      "source_paths": ["input/global", "input/personas/descartes", "input/personas/simondon"],
+      "target_sections": ["02_cadre_conceptuel", "03_regimes_de_l_interessant"],
+      "status": "planned"
+    }
+  ]
+}

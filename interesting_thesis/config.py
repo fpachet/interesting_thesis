@@ -2,10 +2,12 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
+from datetime import datetime
 from pathlib import Path
 
 from .errors import ConfigurationError
-from .models import OutputLength, PipelineConfig, RoleConfig, RoleKind
+from .models import OutputLength, PipelineConfig, RoleConfig, RoleKind, RunMode
 
 DEFAULT_THEME = (
     "L'objet interessant comme solution relativement rare d'un probleme "
@@ -87,6 +89,31 @@ def build_parser(project_root: Path) -> argparse.ArgumentParser:
         action="store_true",
         help="Run locally without calling the OpenAI API.",
     )
+    parser.add_argument(
+        "--run-id",
+        help="Optional stable identifier for this run.",
+    )
+    parser.add_argument(
+        "--resume-run",
+        help="Resume an existing run from its latest checkpoint.",
+    )
+    parser.add_argument(
+        "--fork-run",
+        help="Create a new run from a checkpoint of an existing run.",
+    )
+    parser.add_argument(
+        "--from-checkpoint",
+        help="Checkpoint name to use when forking, for example 'digest' or 'round_02'.",
+    )
+    parser.add_argument(
+        "--user-note",
+        help="Optional user note injected into downstream prompts and checkpoints.",
+    )
+    parser.add_argument(
+        "--no-latest-mirror",
+        action="store_true",
+        help="Do not mirror the latest run outputs to the legacy top-level files.",
+    )
     return parser
 
 
@@ -111,12 +138,57 @@ def resolve_config(args: argparse.Namespace, project_root: Path) -> PipelineConf
         raise ConfigurationError("--theme must not be empty.")
     if not str(args.model).strip():
         raise ConfigurationError("--model must not be empty.")
+    if args.resume_run and args.fork_run:
+        raise ConfigurationError("--resume-run and --fork-run cannot be used together.")
+    if args.resume_run and args.run_id:
+        raise ConfigurationError("--run-id cannot be used with --resume-run.")
+    if args.resume_run and args.from_checkpoint:
+        raise ConfigurationError("--from-checkpoint can only be used with --fork-run.")
+    if args.from_checkpoint and not args.fork_run:
+        raise ConfigurationError("--from-checkpoint requires --fork-run.")
+
+    project_root = project_root.resolve()
+    output_dir = resolve_path(args.output_dir, project_root)
+    memory_file = resolve_path(args.memory_file, project_root)
+
+    run_mode = RunMode.START
+    run_id: str
+    resume_checkpoint_path: Path | None = None
+    resume_checkpoint_name: str | None = None
+    parent_run_id: str | None = None
+
+    if args.resume_run:
+        run_mode = RunMode.RESUME
+        run_id = _normalize_run_id(args.resume_run)
+        resume_checkpoint_path = _resolve_existing_checkpoint(
+            output_dir=output_dir,
+            run_id=run_id,
+            checkpoint_name=None,
+        )
+        resume_checkpoint_name = resume_checkpoint_path.stem
+    elif args.fork_run:
+        run_mode = RunMode.FORK
+        parent_run_id = _normalize_run_id(args.fork_run)
+        resume_checkpoint_path = _resolve_existing_checkpoint(
+            output_dir=output_dir,
+            run_id=parent_run_id,
+            checkpoint_name=args.from_checkpoint,
+        )
+        resume_checkpoint_name = resume_checkpoint_path.stem
+        run_id = _normalize_run_id(args.run_id) if args.run_id else _default_fork_run_id(parent_run_id)
+    else:
+        run_id = _normalize_run_id(args.run_id) if args.run_id else _default_run_id()
+
+    run_output_dir = output_dir / "runs" / run_id
+    run_memory_file = memory_file.parent / "runs" / f"{run_id}.json"
 
     return PipelineConfig(
-        project_root=project_root.resolve(),
+        project_root=project_root,
         input_dir=resolve_path(args.input_dir, project_root),
-        output_dir=resolve_path(args.output_dir, project_root),
-        memory_file=resolve_path(args.memory_file, project_root),
+        output_dir=output_dir,
+        memory_file=memory_file,
+        run_output_dir=run_output_dir,
+        run_memory_file=run_memory_file,
         prompts_dir=resolve_path(args.prompts_dir, project_root),
         roles_file=resolve_path(args.roles_file, project_root),
         theme=args.theme.strip(),
@@ -124,10 +196,105 @@ def resolve_config(args: argparse.Namespace, project_root: Path) -> PipelineConf
         rounds=args.rounds,
         output_length=OutputLength(args.output_length),
         dry_run=args.dry_run,
+        run_id=run_id,
+        run_mode=run_mode,
+        resume_checkpoint_path=resume_checkpoint_path,
+        resume_checkpoint_name=resume_checkpoint_name,
+        parent_run_id=parent_run_id,
+        user_note=args.user_note.strip() if args.user_note and args.user_note.strip() else None,
+        mirror_latest_outputs=not args.no_latest_mirror,
         max_chunk_chars=args.max_chunk_chars,
         max_output_tokens=args.max_output_tokens,
         reasoning_effort=args.reasoning_effort,
     )
+
+
+def checkpoint_path(run_output_dir: Path, checkpoint_name: str) -> Path:
+    return run_output_dir / "checkpoints" / f"{checkpoint_name}.json"
+
+
+def write_config_snapshot(config: PipelineConfig, roles: list[RoleConfig]) -> None:
+    payload = {
+        "run_id": config.run_id,
+        "run_mode": config.run_mode.value,
+        "parent_run_id": config.parent_run_id,
+        "resume_checkpoint_name": config.resume_checkpoint_name,
+        "theme": config.theme,
+        "model": config.model,
+        "rounds": config.rounds,
+        "output_length": config.output_length.value,
+        "dry_run": config.dry_run,
+        "max_chunk_chars": config.max_chunk_chars,
+        "max_output_tokens": config.max_output_tokens,
+        "reasoning_effort": config.reasoning_effort,
+        "user_note": config.user_note,
+        "mirror_latest_outputs": config.mirror_latest_outputs,
+        "paths": {
+            "project_root": str(config.project_root),
+            "input_dir": str(config.input_dir),
+            "output_dir": str(config.output_dir),
+            "run_output_dir": str(config.run_output_dir),
+            "memory_file": str(config.memory_file),
+            "run_memory_file": str(config.run_memory_file),
+            "prompts_dir": str(config.prompts_dir),
+            "roles_file": str(config.roles_file),
+        },
+        "roles": [
+            {
+                "key": role.key,
+                "name": role.name,
+                "kind": role.kind.value,
+                "prompt_file": role.prompt_file,
+            }
+            for role in roles
+        ],
+    }
+    snapshot_path = config.run_output_dir / "config_snapshot.json"
+    snapshot_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def _normalize_run_id(value: str) -> str:
+    cleaned = re.sub(r"[^A-Za-z0-9._-]+", "_", value.strip())
+    cleaned = cleaned.strip("._-")
+    if not cleaned:
+        raise ConfigurationError("Run id cannot be empty after normalization.")
+    return cleaned
+
+
+def _default_run_id() -> str:
+    return f"run_{datetime.now().strftime('%Y%m%d_%H%M%S_%f')}"
+
+
+def _default_fork_run_id(parent_run_id: str) -> str:
+    return f"{parent_run_id}_fork_{datetime.now().strftime('%Y%m%d_%H%M%S_%f')}"
+
+
+def _resolve_existing_checkpoint(
+    *,
+    output_dir: Path,
+    run_id: str,
+    checkpoint_name: str | None,
+) -> Path:
+    run_output_dir = output_dir / "runs" / run_id
+    checkpoints_dir = run_output_dir / "checkpoints"
+    if not checkpoints_dir.exists():
+        raise ConfigurationError(f"Checkpoint directory not found for run '{run_id}'.")
+
+    if checkpoint_name:
+        candidate = checkpoints_dir / f"{checkpoint_name}.json"
+        if not candidate.exists():
+            raise ConfigurationError(
+                f"Checkpoint '{checkpoint_name}' not found for run '{run_id}'."
+            )
+        return candidate
+
+    checkpoints = sorted(
+        checkpoints_dir.glob("*.json"),
+        key=lambda path: path.stat().st_mtime_ns,
+    )
+    if not checkpoints:
+        raise ConfigurationError(f"No checkpoints found for run '{run_id}'.")
+    return checkpoints[-1]
 
 
 def load_roles(roles_file: Path) -> list[RoleConfig]:

@@ -1,0 +1,51 @@
+{
+  "template_id": "philosophical_question",
+  "title": "Philosophical Question Workflow",
+  "description": "Default workflow for one bounded philosophical research question.",
+  "stages": [
+    {
+      "id": "problematization",
+      "kind": "debate",
+      "roles": ["problematiseur", "constructeur", "critique", "synthetiseur"],
+      "persona_policy": {
+        "mode": "none",
+        "max_active": 0
+      },
+      "artifacts": ["problematisation.md", "materials.json"],
+      "checkpoint": true
+    },
+    {
+      "id": "theory_dialogue",
+      "kind": "debate",
+      "roles": ["moderateur", "persona_panel", "critique", "synthetiseur"],
+      "persona_policy": {
+        "mode": "subset",
+        "max_active": 3
+      },
+      "artifacts": ["theory_dialogue.md", "materials.json"],
+      "checkpoint": true
+    },
+    {
+      "id": "examples",
+      "kind": "debate",
+      "roles": ["exemplificateur", "critique", "synthetiseur"],
+      "persona_policy": {
+        "mode": "optional",
+        "max_active": 1
+      },
+      "artifacts": ["examples_and_counterexamples.md", "materials.json"],
+      "checkpoint": true
+    },
+    {
+      "id": "local_synthesis",
+      "kind": "synthesis",
+      "roles": ["synthetiseur"],
+      "persona_policy": {
+        "mode": "none",
+        "max_active": 0
+      },
+      "artifacts": ["final_synthesis.md", "materials.json"],
+      "checkpoint": true
+    }
+  ]
+}
