@@ -37,6 +37,14 @@ Pour un vrai run avec l'API OpenAI :
 export OPENAI_API_KEY="sk-..."
 ```
 
+Ou bien creer un fichier `.env` a la racine du projet :
+
+```bash
+OPENAI_API_KEY="sk-..."
+```
+
+Le fichier `.env` est charge automatiquement au demarrage et n'est pas versionne.
+
 ## Utilisation
 
 Lancer le pipeline avec les valeurs par defaut :

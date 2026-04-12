@@ -4,12 +4,14 @@ from pathlib import Path
 from typing import Sequence
 
 from .config import build_parser, load_roles, resolve_config
+from .env import load_env_file
 from .errors import InterestingThesisError
 from .pipeline import run_pipeline
 
 
 def main(argv: Sequence[str] | None = None) -> int:
     project_root = Path.cwd()
+    load_env_file(project_root / ".env")
     parser = build_parser(project_root)
     args = parser.parse_args(list(argv) if argv is not None else None)
 
