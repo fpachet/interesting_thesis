@@ -1,34 +1,64 @@
 # Paragraphes Bons Pour La These
 
 ## Paragraphe 1
-Un objet intéressant n’est pas d’abord une exception statistique, mais une solution rare parmi les configurations admissibles d’un espace de contraintes. Cette rareté ne vaut toutefois que si elle reste discriminable : une forme peut être rare sans être intéressante, parce qu’elle est trop opaque, trop arbitraire ou trop peu lisible pour soutenir une reprise.
+L’objet intéressant n’est pas simplement rare, ni simplement nouveau, ni simplement contraint. Dans les espaces saturés où la sélection est limitée, il peut apparaître comme une solution peu fréquente, structurellement lisible, à un problème de compatibilité entre contraintes. Son intérêt ne tient pas à la rareté brute, mais à la manière dont la forme rend perceptible une résolution qui aurait pu demeurer invisible, incomplète ou bruitée.
 
 ## Paragraphe 2
-La contrainte ne produit pas mécaniquement de l’intérêt ; elle en organise seulement les conditions de visibilité. Certaines contraintes filtrent des solutions saillantes, d’autres appauvrissent le support, favorisent le cliché ou réduisent la diversité sans créer de prise pour l’attention.
+La rareté statistique ne suffit pas à produire de l’intérêt. Ce qui compte est une rareté structurelle, c’est-à-dire une faible disponibilité de solutions admissibles dans un espace déjà contraint, jointe à la possibilité d’une reconnaissance par un observateur compétent.
 
 ## Paragraphe 3
-L’intérêt n’est pas réductible à la nouveauté ni à l’optimisation. Il suppose une non-substituabilité perceptible : la solution retenue doit paraître singulière sans devenir incompréhensible, et suffisamment structurée pour pouvoir être reconnue comme une réponse possible à la contrainte qui l’a rendue rare.
+L’intérêt n’est ni une propriété purement objectale ni une simple projection subjective. Il naît du couplage entre une forme, un régime de sélection, une mémoire de la contrainte et une compétence de reconnaissance.
 
 ## Paragraphe 4
-Un objet intéressant n’est pas seulement une solution rare dans un espace de contraintes ; il faut encore que cette rareté soit structurelle, discriminable et capable de produire une prise non substituable. Sans cette dernière condition, la rareté décrit une difficulté ou une singularité, mais pas encore un intérêt.
+La contrainte n’est pas productrice d’intérêt par elle-même : elle peut engendrer du banal, du médiocre, du bruit ou de l’artefact. Elle ne devient féconde que lorsqu’elle rend possible une résolution rare, lisible et pertinente.
 
 ## Paragraphe 5
-La contrainte ne produit pas mécaniquement de l’intérêt ; elle en organise seulement les conditions de visibilité. Certaines contraintes rendent certaines formes saillantes, d’autres appauvrissent le support, homogénéisent les solutions ou favorisent le cliché.
+Dans certains espaces saturés, sous contraintes réelles et sélection serrée, l’objet intéressant prend souvent la forme d’une solution peu fréquente à un problème de compatibilité entre contraintes. Cette solution n’est intéressante que si elle est lisible, non simplement atteinte.
 
 ## Paragraphe 6
-La thèse ne doit pas être lue comme une définition totale de l’intérêt, mais comme une théorie régionale des objets intéressants sous contrainte : elle éclaire les cas où l’intérêt dépend d’un espace de possibles réduit, d’une sélection globale et d’une reconnaissance effective.
+La rareté pertinente est structurale et non statistique. Une forme peut être rare sans intérêt, et intéressante sans rareté marquée ; la rareté n’est donc qu’un indice, jamais un critère suffisant.
 
 ## Paragraphe 7
-Un objet intéressant est souvent une solution relativement rare dans un espace de contraintes, mais seulement lorsque cette rareté est structurelle, que la solution demeure reconnaissable comme réponse à la contrainte, et qu’elle produit une prise durable et non substituable ; sinon, il ne s’agit que d’une rareté technique, d’une admissibilité remarquable ou d’un effet de surprise.
+La contrainte ne produit pas l’intérêt par elle-même. Elle peut faire émerger une solution rare, mais elle peut aussi engendrer du banal, du bruit, du stéréotype ou de l’artefact.
 
 ## Paragraphe 8
-La contrainte n’est pas une vertu en soi. Elle peut révéler des formes saillantes, mais elle peut aussi homogénéiser, appauvrir ou produire du cliché. L’intérêt n’est donc pas un effet automatique du filtrage ; il dépend d’une configuration plus étroite où rareté, lisibilité et prise se combinent sans se confondre.
+L’intérêt n’est pas univoque : intérêt subjectif, technique, épistémique et esthétique ne se recouvrent pas. La thèse sur l’objet rare sous contrainte vaut d’abord pour les régimes technique et compositionnel.
 
 ## Paragraphe 9
-La thèse ne doit pas être lue comme une définition totale de l’intérêt, mais comme une théorie régionale des objets intéressants sous contrainte : elle éclaire les cas où l’intérêt dépend d’un espace de possibles filtré, d’une sélection globale et d’une reconnaissance effective.
+Les cas où l’intérêt provient d’un déplacement de cadre doivent être tenus à part : ils ne relèvent pas d’abord d’un problème d’échantillonnage, mais d’une reconfiguration du régime de saisie.
 
 ## Paragraphe 10
-La distinction décisive n’est pas seulement entre rare et non rare, mais entre saillance, pertinence et intérêt. Une forme peut attirer l’attention sans être intéressante ; elle peut être pertinente sans être singulière ; elle peut même être bien formée sans produire de prise durable.
+Dans certains domaines à espace saturé, à contraintes réelles et à sélection serrée, l’objet intéressant apparaît souvent comme une solution relativement rare à un problème de compatibilité entre contraintes. Cette rareté n’est pertinente que si elle est lisible comme résolution, non simplement atteinte.
 
 ## Paragraphe 11
-L’objet intéressant n’émerge pas dans un simple champ de variations ; il apparaît là où une contrainte sélectionne, réduit le support admissible et rend certaines configurations suffisamment rares pour devenir saillantes sans cesser d’être lisibles.
+La contrainte n’est pas productrice d’intérêt par elle-même : elle peut engendrer du banal, du bruit, du stéréotype ou de l’artefact. Elle ne devient féconde que lorsqu’elle rend possible une résolution rare et lisible.
+
+## Paragraphe 12
+La meilleure version de la thèse n’est pas universelle : elle décrit un schème robuste de l’intérêt dans les contextes saturés et contraints, sans prétendre réduire à ce schème les cas où l’intérêt naît d’un déplacement de cadre ou d’une reconfiguration de la perception.
+
+## Paragraphe 13
+L’objet intéressant n’est ni simplement rare, ni simplement nouveau, ni simplement difficile à produire. Dans les espaces saturés où les contraintes sont réelles et la sélection serrée, il apparaît souvent comme une solution relativement rare à un problème de compatibilité entre contraintes. Son intérêt ne tient pas à la rareté brute, mais à la manière dont la forme rend lisible une résolution qui aurait pu rester invisible, bruitée ou indistincte.
+
+## Paragraphe 14
+La rareté pertinente est structurale plutôt que statistique. Une forme peut être rare sans intérêt, et intéressante sans rareté marquée ; la rareté n’est donc qu’un indice local, jamais un critère suffisant.
+
+## Paragraphe 15
+Une solution peut être admissible et même techniquement correcte sans être intéressante. Pour qu’il y ait intérêt, il faut une transformation lisible du cadre formel ou perceptif ; sinon la solution reste inerte, banale ou artificielle.
+
+## Paragraphe 16
+La contrainte n’est pas productrice d’intérêt par elle-même : elle peut engendrer du banal, du bruit, de la pseudo-virtuosité ou de l’artefact. Elle ne devient féconde que lorsqu’elle rend possible une résolution rare, lisible et pertinente.
+
+## Paragraphe 17
+La thèse vaut d’abord pour l’intérêt technique et compositionnel. Elle ne doit pas être étendue sans précaution aux cas où l’intérêt naît surtout d’un déplacement de cadre, ni aux cas où la rareté signale une pénurie de solutions plutôt qu’une fécondité formelle.
+
+## Paragraphe 18
+Dans certains domaines saturés et sous contraintes réellement actives, l’objet intéressant peut apparaître comme une solution structurellement rare à un problème de compatibilité. Mais cette rareté ne devient pertinente que si la solution est lisible comme résolution dans un cadre de sélection donné : une forme peut être admissible sans être intéressante, et techniquement correcte sans devenir perceptible comme forme.
+
+## Paragraphe 19
+La rareté pertinente n’est pas une rareté brute. Elle est structurelle : elle tient à la géométrie du problème et à la faible disponibilité de solutions admissibles dans un espace déjà filtré. Une rareté statistique, accidentelle ou fabriquée peut mimer l’intérêt sans le produire.
+
+## Paragraphe 20
+L’intérêt ne se confond pas avec la simple atteinte d’une solution. Il suppose qu’une résolution soit lisible, c’est-à-dire qu’elle rende perceptible la contrainte qu’elle surmonte. Ce n’est pas la conformité qui suffit, mais la transformation visible d’une contrainte en forme.
+
+## Paragraphe 21
+La thèse vaut d’abord pour l’intérêt technique et compositionnel. Elle devient plus fragile dès qu’on prétend l’étendre à l’intérêt esthétique, subjectif, épistémique ou historique. Il faut donc la présenter comme une théorie de certains objets intéressants, non de l’intérêt en général.

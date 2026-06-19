@@ -3,152 +3,124 @@
 ## Constructeur
 ### Version forte de la thèse
 
-La formulation la plus défendable est la suivante : **un objet intéressant est une solution relativement rare dans un espace de contraintes, mais seulement lorsque cette rareté est structurelle, discriminable et capable de produire une prise non substituable**. Il faut tenir ensemble ces trois exigences, sinon la thèse se défait : la rareté seule donne des exceptions, pas de l’intérêt ; la lisibilité seule donne de la reconnaissance, pas de la singularité ; la prise seule donne de l’efficacité locale, pas de la valeur d’attention.
+La thèse la plus solide n’est pas que l’objet intéressant serait rare en général, ni même qu’il serait simplement nouveau, mais qu’il apparaît souvent comme **une solution peu fréquente à un problème de sélection sous contrainte**, dans un espace déjà saturé de possibles et de quasi-possibles. Cette formulation est plus forte que la simple équation entre intérêt et rareté, parce qu’elle introduit ce qui faisait défaut à la version naïve : la contrainte n’est pas un décor, elle est constitutive du problème ; la rareté n’est pas statistique seulement, elle est structurelle ; et l’objet n’est pas intéressant parce qu’il existe, mais parce qu’il **résout lisiblement** une tension que le cadre rendait difficile à satisfaire.
 
-Cette version est plus forte qu’une simple thèse de la nouveauté ou du goût, parce qu’elle situe l’intérêt dans une économie de sélection. L’objet intéressant n’est pas ce qui existe en dehors de toute contrainte, ni ce qui plaît immédiatement, ni ce qui surprend pour surprendre. Il est ce qui **survit à une sélection** sans devenir trivial : une configuration qui occupe de façon non interchangeable une place étroite dans un espace de possibles déjà filtré. L’intérêt n’est donc pas une essence de l’objet, mais un effet de position : il apparaît quand une forme tient suffisamment ensemble rareté, lisibilité et pertinence pour retenir l’attention et justifier une reprise.
+Autrement dit, l’intérêt n’est ni dans l’inédit brut, ni dans le spectaculaire, ni dans le succès de marché, ni dans la difficulté exhibée. Il tient à une forme qui, dans un régime donné de contraintes, **trouve une compatibilité improbable** entre plusieurs exigences qui semblaient tirer en sens contraire : simplicité et complexité, évidence et surprise, fluidité et résistance, autonomie et intégration, nouveauté et intelligibilité. Ce qui compte n’est donc pas la rareté comme telle, mais la rareté **d’une solution qui “tient”** : une solution qui ne se contente pas d’être atteignable, mais qui devient perceptible comme bonne réponse à un problème formel réel.
 
-Cette thèse gagne encore en force si l’on précise qu’elle est **régionale** et non totale. Elle n’explique pas tout ce qu’on peut appeler intérêt ; elle explique de manière particulièrement nette les cas où l’intérêt dépend d’un **échantillonnage sous contrainte**. C’est là son vrai terrain. Dès qu’on doit choisir, générer, comparer ou évaluer parmi des candidats soumis à des contraintes globales, l’intérêt cesse d’être un vague sentiment et devient une propriété relationnelle de sélection : l’objet intéressant est celui que la contrainte ne produit pas seulement comme admissible, mais comme saillant, non substituable et digne d’attention.
+Cette thèse gagne encore en précision si l’on ajoute que l’objet intéressant n’est pas seulement une solution rare, mais une solution rare **dans un régime d’attention limité**. L’attention n’est pas une variable externe : elle est l’instance de sélection qui transforme un espace de possibles en champ de pertinence. Dans un espace saturé, beaucoup de choses existent, peu de choses se distinguent ; l’objet intéressant est précisément celui qui parvient à sortir du bruit sans quitter les contraintes du jeu. Il n’est pas un dehors de la contrainte ; il est une manière rare de l’habiter.
+
+D’où une conséquence importante : l’intérêt n’est pas une propriété absolue de l’objet, mais le résultat d’un couplage entre forme, contrainte, mémoire et compétence de reconnaissance. Une solution peut être formellement correcte, voire rare, et rester inintéressante si elle ne reconfigure rien de perceptible ; inversement, un objet peut paraître banal à un œil non préparé et devenir très intéressant pour un observateur capable d’en voir la résolution interne. La thèse ne dit donc pas que la rareté suffit, mais que **l’intérêt apparaît souvent là où une rareté structurelle devient lisible comme résolution**.
 
 ### Distinctions decisives
 
-La première distinction décisive est celle entre **rare** et **intéressant**. Une chose peut être rare parce qu’elle est accidentelle, opaque, aberrante ou simplement difficile à rencontrer. Cela ne suffit pas. Pour être intéressante, la rareté doit être **structurelle** : elle doit résulter d’un espace de contraintes qui rend la solution peu fréquente parmi les solutions admissibles. Autrement dit, l’objet intéressant n’est pas une curiosité statistique ; c’est une configuration peu disponible dans un espace déjà organisé par des règles.
+La première distinction décisive oppose **rareté statistique** et **rareté structurelle**. La première mesure la fréquence d’apparition d’un objet ; la seconde désigne la faiblesse de disponibilité des solutions admissibles dans un espace déjà contraint. Un objet peut être statistiquement rare sans rien résoudre, et donc sans intérêt véritable ; un autre peut être statistiquement commun tout en concentrant une forte intelligence de la contrainte. La rareté pertinente n’est donc pas celle du comptage, mais celle de la compatibilité.
 
-La deuxième distinction est celle entre **discriminable** et **valable**. Une forme peut être détectée comme singulière sans produire de prise, ou produire une prise sans être comprise comme réponse à la contrainte. L’intérêt demande davantage : il faut qu’elle soit reconnaissable comme forme, qu’elle se détache comme solution, et qu’elle puisse être reprise comme telle. La lisibilité n’est donc pas un simple supplément ; elle est la condition pour que la rareté devienne attention.
+La deuxième distinction oppose **solution atteinte** et **solution lisible**. L’échantillonnage sous contrainte peut produire, par hasard ou par optimisation, des formes admissibles qui restent opaques. Or le corpus impose de ne pas confondre l’obtention d’un objet avec son intérêt. Pour qu’il y ait intérêt, il faut que la solution soit non seulement présente, mais reconnaissable comme solution. La lisibilité est ici une condition forte : elle relie la forme à son problème, et non à la seule trajectoire qui l’a produite.
 
-La troisième distinction est celle entre **surprise** et **non-substituabilité**. La surprise mesure le choc du nouveau ; la non-substituabilité mesure la résistance à l’échange. Un objet intéressant n’est pas seulement ce qui étonne, mais ce qui semble difficilement remplaçable sans perte. C’est cette résistance qui donne à la rareté une portée proprement esthétique, cognitive ou attentionnelle. Sans elle, on reste dans l’effet de nouveauté ; avec elle, on entre dans l’intérêt durable.
+La troisième distinction oppose **difficulté réelle** et **difficulté exhibée**. Beaucoup d’objets se donnent comme difficiles parce qu’ils affichent des marques de complexité, de virtuosité ou de sophistication, mais cette difficulté peut être décorative, stratégique ou sociale. La thèse ne valorise pas la difficulté pour elle-même ; elle valorise les formes où la contrainte est réellement active et où la solution garde une économie propre. La difficulté n’a de valeur heuristique que si elle est intégrée dans une forme qui la dépasse sans la trahir.
 
-La quatrième distinction est celle entre **contrainte comme filtre** et **contrainte comme productrice de saillance**. Certaines contraintes ne font que restreindre le champ et appauvrir les solutions ; d’autres organisent une scène où certaines formes deviennent lisibles précisément parce que d’autres sont exclues. La contrainte n’est donc pas, en elle-même, une vertu : elle est une condition de visibilité qui peut aussi bien révéler que stériliser.
+La quatrième distinction oppose **intérêt formel** et **intérêt subjectif ou social**. Une forme peut être intéressante pour un praticien, pour un théoricien, pour un public, ou dans une histoire donnée des formes, sans que ces régimes coïncident. La thèse vise d’abord l’intérêt compositionnel ou technique : celui qui tient à l’agencement de la forme sous contrainte. Elle ne prétend pas réduire tout intérêt à cette dimension, mais elle refuse de diluer la question dans la seule réception, la seule popularité ou la seule valeur sociale.
 
-La cinquième distinction, cruciale, est celle entre **solution** et **déplacement du problème**. La thèse du corpus vise d’abord les objets comme solutions rares dans un espace donné. Mais il faut reconnaître un second cas, plus difficile : certains objets intéressants ne se contentent pas de résoudre un problème sous contrainte, ils reconfigurent le problème lui-même. La théorie ne doit pas prétendre absorber ce cas ; elle doit l’admettre comme limite interne de sa portée.
+La cinquième distinction oppose **nouveauté locale** et **reconfiguration de cadre**. Certaines formes sont intéressantes parce qu’elles occupent une zone encore peu exploitée d’un espace déjà connu ; d’autres le sont parce qu’elles changent la manière même de poser le problème. La première relève bien du schème de la solution rare ; la seconde en relève moins directement. Il faut donc éviter d’absorber tout intérêt dans la combinatoire : il existe des intérêts qui tiennent non à une rareté dans l’espace, mais à une transformation de l’espace lui-même.
 
-### Conditions de validité et de portee
+### Conditions de validité et de portée
 
-La thèse tient vraiment dans des conditions précises. D’abord, il faut que l’espace de contraintes soit identifiable indépendamment du verdict d’intérêt ; sinon, on retombe dans une circularité où tout objet intéressant est déclaré tel parce qu’il est déjà choisi comme tel. La rareté structurelle n’a de force explicative que si elle est définie avant l’évaluation.
+La thèse tient vraiment dans les espaces où trois conditions sont réunies : d’abord, l’existence de **contraintes réelles**, non symboliques ou purement déclaratives ; ensuite, une **saturation suffisante** de l’espace des possibles, qui rend les solutions ordinaires peu discriminantes ; enfin, un **régime de sélection serré**, c’est-à-dire un dispositif où tout ne peut pas être retenu, ni perçu, ni conservé. C’est dans ce triptyque que l’objet intéressant devient intelligible comme solution rare.
 
-Ensuite, il faut que la contrainte réduise effectivement l’espace des possibles sans l’écraser. Si elle appauvrit trop le support, elle produit du cliché, de l’homogénéité ou du bruit décoratif ; si elle est trop lâche, elle ne discrimine rien. L’intérêt naît dans cet intervalle étroit où la sélection est assez forte pour faire apparaître des solutions peu banales, mais pas au point de rendre ces solutions inintelligibles.
+Elle est donc forte, mais non universelle. Elle vaut particulièrement pour les formes techniques, compositionnelles, esthétiques, algorithmiques ou musicales, là où la structure du problème peut être décrite comme un échantillonnage sous contrainte. Elle vaut moins, ou autrement, dans les situations où l’intérêt naît d’un déplacement conceptuel, d’une conversion de perspective ou d’une invention de cadre. Dans ces cas, la rareté de solution n’est pas le centre du phénomène ; c’est la question elle-même qui change.
 
-Il faut aussi distinguer les niveaux que la thèse a tendance à confondre si on ne l’y oblige pas. La difficulté de génération n’est pas encore l’intérêt ; la reconnaissance perceptive n’est pas encore la valeur ; la valeur n’est pas encore la non-substituabilité. La thèse n’est solide que si elle maintient cette stratification. Elle ne dit pas que toute solution difficile est intéressante ; elle dit qu’une solution peut devenir intéressante lorsqu’elle est à la fois rare dans son espace, accessible à la reconnaissance, et suffisamment singulière pour résister à la substitution.
+La thèse doit également intégrer son envers négatif : la contrainte ne produit pas mécaniquement de l’intérêt. Elle produit souvent du bruit, du banal, du stéréotype, de l’artefact, voire une pseudo-maîtrise. Cela n’affaiblit pas la thèse ; cela la rend plus robuste. Car dire qu’une solution rare est intéressante, ce n’est pas dire que toute contrainte fabrique du rare intéressant ; c’est dire que, lorsque la contrainte est réelle et la sélection stricte, l’intérêt se localise souvent dans les rares cas où la forme transforme la contrainte en lisibilité.
 
-Enfin, la portée de la thèse est asymétrique : elle éclaire bien les objets qui apparaissent dans des systèmes de sélection, de comparaison ou d’échantillonnage, mais elle n’épuise pas le phénomène général de l’intérêt humain. Elle ne doit pas être surchargée. Sa force vient précisément de sa restriction : elle décrit avec précision les cas où l’intérêt est produit par une contrainte qui filtre, rend visible et singularise. C’est dans ce cadre qu’elle est la plus convaincante.
+Enfin, la portée historique compte. Une solution peut être rare dans un état donné du champ, puis devenir banale dès que les conventions se stabilisent ou que les procédés se diffusent. L’intérêt n’est donc pas seulement une propriété synchronique ; il est aussi indexé sur un régime historique de saturation et de reconnaissance. Cela permet d’éviter deux pièges : celui de naturaliser l’intérêt, et celui de le dissoudre dans l’air du temps.
 
 ### Paragraphe reutilisable
 
-Un objet intéressant n’est pas d’abord une exception statistique, mais une solution relativement rare parmi les configurations admissibles d’un espace de contraintes. Cette rareté ne suffit pourtant pas : elle ne devient intérêt que si elle est structurelle, donc liée à la forme des contraintes, discriminable pour un sujet ou un dispositif, et capable de produire une prise non substituable. Sans cette dernière condition, la rareté décrit seulement une difficulté, une singularité ou un artefact ; avec elle, elle devient une forme qui retient l’attention parce qu’elle occupe, dans l’espace des possibles, une place à la fois étroite, lisible et difficile à remplacer.
+L’objet intéressant n’est ni simplement rare, ni simplement nouveau, ni simplement difficile. Dans les espaces saturés où la sélection est contrainte, il apparaît souvent comme une solution peu fréquente, structurellement lisible, à un problème de compatibilité entre exigences concurrentes. Son intérêt ne tient pas à la rareté brute, mais à la manière dont la forme rend perceptible une résolution qui aurait pu rester invisible, incomplète ou bruitée. La rareté pertinente est donc structurelle plutôt que statistique, et l’intérêt n’est pas une propriété isolée de l’objet : il naît du couplage entre forme, contrainte, attention et compétence de reconnaissance.
 
 ## Critique
 ### Point mis sous pression
-La version produite est nettement meilleure que les versions trop générales, mais elle reste encore vulnérable sur un point décisif : elle tend à faire de la **rareté structurée + lisibilité + prise non substituable** une quasi-formule de l’intérêt, alors que ce trio peut encore décrire des cas très différents — de l’objet intéressant au simple objet bien formé, du bon compromis au dispositif efficace, voire au résultat seulement “propre” dans un espace contraint.
+La version la plus forte reste exposée à une ambiguïté centrale : elle tend à faire de l’« objet intéressant » le nom d’un succès rare dans un espace contraint, alors que le corpus lui-même oscille entre au moins quatre régimes de l’intérêt : **technique**, **épistémique**, **esthétique** et **subjectif**. Or ces régimes ne se laissent pas fusionner proprement. Une solution rare peut être techniquement élégante sans être esthétiquement saisissante ; elle peut être épistémiquement féconde sans être belle ; elle peut être subjectivement intéressante pour un initié et totalement opaque pour un autre. Dire que l’intérêt « apparaît souvent là où une rareté structurelle devient lisible comme résolution » est fort, mais encore trop compact si l’on ne précise pas **pour qui**, **à quel niveau**, et **dans quel régime de reconnaissance**.
 
-Autrement dit, la thèse est plus précise, mais elle risque encore de faire passer pour une condition d’intérêt ce qui n’est parfois qu’une condition de **bonne sélection** ou de **bonne admissibilité**. On n’a pas encore isolé le saut conceptuel qui ferait passer de “solution rare et reconnaissable” à “objet intéressant”.
+Autre point sous pression : la thèse gagne en puissance en parlant de « solution rare à un problème de sélection sous contrainte », mais elle risque de glisser de l’analyse vers la valorisation. On ne décrit pas seulement ce qui se produit ; on suggère facilement que cela mérite d’être tenu pour plus intéressant, plus haut, plus réussi. C’est précisément le passage qu’il faut surveiller.
 
 ### Pourquoi cela resiste mal
-Il y a ici un glissement silencieux entre trois registres :
+Le mot « intéressant » sert ici de connecteur très élastique. Il peut désigner :
+- ce qui attire l’attention,
+- ce qui est cognitivement informatif,
+- ce qui est formellement ingénieux,
+- ce qui est historiquement décisif,
+- ce qui plaît à un observateur compétent.
 
-1. **Le registre combinatoire** : l’objet est une solution rare dans un espace réduit.
-2. **Le registre cognitif** : l’objet est discriminable, donc identifiable comme forme.
-3. **Le registre axiologique** : l’objet “produit une prise”, donc mérite attention ou reprise.
+Si on ne fixe pas le sens opératoire, la thèse devient difficile à réfuter, parce qu’elle peut toujours se replier sur une autre acception : une rareté non intéressante était simplement « rare mais pas lisible » ; une banalité intéressante était « intéressante à un autre niveau » ; une solution techniquement excellente mais ennuyeuse n’était « pas encore dans le bon régime d’évaluation ». Cette plasticité protège la théorie, mais au prix d’un risque sérieux d’**irréfutabilité par déplacement sémantique**.
 
-Le problème est que la thèse les aligne comme si leur conjonction suffisait à faire intérêt. Or elle ne fait peut-être que décrire un **bon candidat** à l’intérêt. Il manque encore une différence entre :
-- ce qui est **saillant**,
-- ce qui est **pertinent**,
-- et ce qui est **intéressant en soi ou pour un sujet donné**.
+Même problème avec la rareté. Le texte parle tantôt de rareté statistique, tantôt structurale, tantôt computationnelle, tantôt historique. Ces niveaux sont réels, mais ils ne sont pas automatiquement convergents. Une solution peut être rare statistiquement parce qu’elle est peu produite, tout en étant structurellement banale ; elle peut être structurellement rare dans un espace d’options, tout en étant historiquement déjà vue ; elle peut être computationnellement difficile à échantillonner, sans être intéressante pour autant. Sans hiérarchie claire, la rareté risque de devenir un mot-gigogne qui soutient la thèse sans la tester.
 
-C’est exactement là que la formule peut devenir élastique : dès qu’un objet attire un peu l’attention et n’est pas trivial, on peut être tenté de le ranger dans la catégorie. Mais alors la thèse ne distingue plus l’intérêt fort du simple fait d’être un bon point de coupe dans un espace de contraintes.
+Enfin, la formule « solution rare à un problème d’échantillonnage sous contrainte » devient fragile dès qu’on sort des domaines effectivement combinatoires. Elle marche bien pour certains objets musicaux, algorithmico-formels, ou pour des systèmes saturés où la sélection est serrée. Mais elle perd beaucoup de sa force pour les cas où l’intérêt vient d’un **changement de question**, d’un **déplacement de cadre**, ou d’une **reconfiguration perceptive**. Dans ces cas, l’objet intéressant n’est pas principalement rare dans un espace donné : il modifie l’espace lui-même.
 
 ### Cas test ou contre-exemple
-Quelques cas simples mettent la formule en tension.
+1. **La rareté médiocre**  
+   Un objet peut être très rare parce qu’il est mal calibré, aberrant, ou simplement raté. Un prototype bizarre, une phrase accidentelle, une forme peu fréquente mais maladroite : la rareté est bien là, l’intérêt beaucoup moins. Ce cas est décisif, car il montre que la rareté n’est pas seulement insuffisante ; elle peut même masquer l’absence de solution.
 
-#### 1) La rareté stérile
-Un objet peut être très rare dans un espace de contraintes, parfaitement admissible, même techniquement élégant, et pourtant sans aucune prise : trop abstrait, trop arbitraire, trop opaque, ou simplement sans effet d’attention durable.  
-Exemple conceptuel : une solution minimale mais inexpressive, rare parce que les contraintes sont sévères, mais qui ne retient rien.
+2. **Le banal excellent**  
+   Certaines formes très communes sont réellement intéressantes : un motif ultra-connu peut devenir exemplaire par sa justesse, sa netteté, son économie ou sa puissance d’organisation. Ici, l’intérêt ne vient pas de la rareté mais de la capacité à condenser un problème déjà stabilisé. La thèse doit donc accepter que l’intérêt puisse naître d’une **intensification du banal**, non d’une rareté.
 
-Cela montre que la rareté structurelle + admissibilité ne suffit pas, et que la “prise” doit être elle-même distinguée entre :
-- attraction momentanée,
-- lisibilité,
-- fécondité,
-- valeur durable.
+3. **Le rare invisible**  
+   Une solution techniquement admirable peut rester inintéressante pour la plupart des observateurs si elle n’est pas lisible. Le cas est important parce qu’il sépare l’atteinte de la reconnaissance. On peut avoir un objet rare, correct et même difficile à produire, sans qu’il y ait intérêt perceptible.
 
-Sans cette distinction, “prise non substituable” reste encore trop flou.
+4. **Le déplacement de cadre**
+   Une œuvre, un concept ou une idée peut être fascinant non parce qu’il est une solution rare dans un espace fixé, mais parce qu’il change le cadre qui définissait l’espace. Ici, l’intérêt n’est pas échantillonnage sous contrainte, mais transformation du problème. C’est un contre-exemple structurel, pas un cas marginal.
 
-#### 2) Le bruit rare
-Il existe des objets rares au sens fort mais qui ne relèvent pas d’un espace de solutions intéressant : anomalie de mesure, accident de génération, résidu de procédure, artefact technique.  
-Ils sont rares, parfois discriminables, mais leur singularité n’a aucune valeur autre que contingente.  
-Ici, la rareté n’est pas structurale au sens pertinent, ou bien la structure est celle du bruit lui-même, ce qui vide le terme de son pouvoir discriminant.
-
-#### 3) Le banal sous contrainte forte
-À l’inverse, une forte contrainte peut produire des objets très lisibles mais complètement banals. Dans beaucoup de systèmes, plus on restreint, plus on homogénéise.  
-Le résultat est alors admissible, propre, voire optimal localement, mais sans intérêt particulier.  
-C’est un contre-exemple important parce qu’il montre que la contrainte n’engendre pas la saillance : elle peut parfaitement engendrer le cliché.
-
-#### 4) L’objet qui intéresse par déplacement
-Certains objets intéressants ne sont pas de bonnes solutions dans un espace donné ; ils modifient le cadre de validité du problème.  
-Exemple conceptuel : en art, en science, en design, un objet peut être intéressant précisément parce qu’il rend caduque la grille qui servait à le juger.  
-Dans ce cas, la notion de “solution rare” devient insuffisante : l’objet n’est pas rare **dans** le problème, il redéfinit ce qu’on appelle le problème.
-
-C’est une limite interne forte de la thèse, et elle n’est pas marginale. Elle touche les cas où l’intérêt n’est pas conservateur de la contrainte mais transformateur du cadre.
+5. **Le bruit contraint**
+   Dans certains dispositifs, la contrainte produit surtout du stéréotype ou de l’artefact : le résultat semble contraint, mais il n’est ni rare au sens pertinent, ni lisible, ni vraiment transformateur. Ce cas confirme qu’il faut distinguer la présence d’une contrainte de sa fécondité.
 
 ### Revision exigee
-La formule doit être durcie en introduisant une hiérarchie plus nette. Il ne suffit pas de dire qu’une solution rare doit être discriminable et produire une prise ; il faut encore préciser **quelle sorte de prise** et **dans quelles conditions elle devient intérêt**.
+Il faut durcir la thèse en la rendant moins universelle et plus hiérarchisée. Une formulation plus robuste serait :
 
-Une révision plus robuste serait :
+> Dans certains domaines à espace saturé, à contraintes réelles et à sélection serrée, l’objet intéressant peut apparaître comme une solution relativement rare, structurellement lisible, à un problème de compatibilité entre contraintes. Cette rareté n’est ni suffisante ni générale : elle devient pertinente seulement pour un observateur compétent, dans un régime donné de reconnaissance, et lorsqu’elle se traduit par une résolution perceptible plutôt que par du bruit, du banal ou une simple aberration.
 
-> Un objet intéressant est parfois une solution relativement rare dans un espace de contraintes, mais seulement si cette rareté est structurelle, si l’objet est effectivement reconnaissable comme réponse à la contrainte, et si cette reconnaissance s’accompagne d’une prise qui dépasse la simple surprise, la simple admissibilité ou l’optimisation locale.
+Cette révision oblige à ajouter trois distinctions décisives :
 
-Cette version a deux avantages :
-- elle évite de confondre l’intérêt avec la seule combinaison rareté/lisibilité ;
-- elle reconnaît que la prise doit être évaluée par rapport à son intensité, sa stabilité et sa non-substituabilité, et non comme un simple effet d’accroche.
+1. **Intéressant pour qui ?**  
+   Il faut distinguer intérêt subjectif, intérêt technique, intérêt épistémique, intérêt esthétique. Sans cela, la thèse parle d’un intérêt abstrait qui n’existe nulle part.
 
-Mais la revision la plus importante est ailleurs : il faut probablement assumer explicitement que la thèse est une théorie des **objets intéressants sous contrainte**, non une théorie de l’intérêt tout court. Et il faut ajouter une clause de limite :
+2. **Intéressant à quel niveau ?**  
+   Localement, un objet peut être remarquable ; globalement, il peut être insignifiant. Ou l’inverse. La thèse doit préciser son unité d’analyse : forme, occurrence, œuvre, type, histoire, pratique.
 
-> Elle ne s’applique pas aux objets intéressants parce qu’ils déplacent ou reconfigurent le problème lui-même.
+3. **Intéressant par quoi ?**  
+   Par rareté, par lisibilité, par transformation du cadre, par économie, par puissance de reconfiguration ? Tant que cette question reste ouverte, la formule est encore trop souple.
 
-### Formulation resserrée proposée
-Voici une version plus résistante :
-
-> Un objet intéressant est souvent une solution relativement rare dans un espace de contraintes, à condition que cette rareté soit structurelle, que la solution demeure reconnaissable comme telle, et qu’elle produise une prise durable et non substituable ; sinon, on n’a qu’une rareté technique, une admissibilité remarquable ou un simple effet de surprise.
-
-Cette version est plus prudente, mais aussi plus juste : elle évite le piège de l’élasticité en reconnaissant que la formule décrit un **cas fort** de l’intérêt, pas son essence totale.
+En bref, la thèse est forte comme **schème local** de compréhension de certains objets sous contrainte. Elle devient beaucoup moins convaincante si elle prétend définir l’intérêt en général. Sa meilleure version n’est pas : « l’objet intéressant est une solution rare à un problème d’échantillonnage sous contrainte », mais :  
+**dans des contextes saturés et contraints, certaines solutions rares deviennent intéressantes lorsqu’elles sont lisibles comme réponses structurelles à une tension réelle ; hors de ce cadre, l’intérêt peut relever d’autres mécanismes, notamment le déplacement de cadre, l’intensification du banal ou la simple surprise.**
 
 ## Synthetiseur
 ## Acquis robustes
-La manche a durci la thèse sans la dissoudre. L’acquis principal est la séparation plus nette entre trois registres qui ne doivent plus être confondus : la rareté combinatoire, la reconnaissance cognitive et la valeur attentionnelle. L’objet intéressant ne peut plus être défini comme une simple solution rare ; il faut qu’il soit une solution **structurellement** rare, **discriminable** et capable de produire une **prise non substituable**.
+La manche a fait passer la thèse d’une formule forte mais encore compacte à une version plus discriminante. Le point désormais solide est le suivant : dans certains domaines à espace saturé, à contraintes réelles et à sélection serrée, l’objet intéressant apparaît souvent comme une solution relativement rare à un problème de compatibilité entre contraintes. Cette solution n’est intéressante que si elle est lisible comme résolution, et non simplement atteinte.
 
-Un second acquis est négatif mais décisif : la formule ne doit pas être lue comme une théorie totale de l’intérêt, mais comme une théorie **régionale** des objets intéressants **sous contrainte**. Cette restriction n’affaiblit pas la thèse ; elle la rend plus défendable, car elle la situe dans les cas où l’intérêt dépend d’un espace de possibles filtré, d’une sélection globale et d’une reconnaissance effective.
+Un second acquis est la hiérarchisation des niveaux de rareté. La rareté statistique ne suffit pas ; la rareté pertinente est structurelle, parfois computationnelle ou historique, mais elle ne vaut que si elle se traduit par une faible disponibilité de solutions admissibles dans un cadre donné. La rareté devient alors un indice localement pertinent, non un critère universel.
 
-Enfin, la manche a consolidé une asymétrie essentielle : la contrainte n’est pas une vertu en soi. Elle peut révéler des formes saillantes, mais elle peut aussi homogénéiser, appauvrir ou produire du cliché. L’intérêt n’est donc pas un effet automatique du filtrage ; il dépend d’une configuration plus étroite où rareté, lisibilité et prise se combinent sans se confondre.
+Un troisième acquis est la clarification des régimes d’intérêt. Le corpus ne parle pas d’un intérêt homogène : intérêt technique, épistémique, esthétique et subjectif doivent être distingués. La thèse sur la solution rare sous contrainte concerne d’abord l’intérêt compositionnel ou technique, et seulement ensuite, de manière dérivée, les autres régimes.
 
-## Objections encore actives
-La première objection encore active porte sur le **seuil**. On sait mieux ce qui n’est pas encore suffisant, mais on ne sait pas encore formuler les conditions minimales qui font passer une solution de l’état d’admissible ou de remarquable à celui d’intéressant. La notion de prise non substituable reste décisive, mais encore trop indéterminée.
-
-La deuxième objection est celle du **glissement élastique** : rareté structurée, lisibilité et prise peuvent décrire un bon candidat à l’intérêt, un objet bien formé, ou un dispositif efficace, sans garantir le saut conceptuel vers l’intérêt fort. Il faut donc encore distinguer saillance, pertinence et intérêt.
-
-La troisième objection concerne la **circularité de l’espace de contraintes**. Si l’on identifie les contraintes à partir des objets déjà jugés intéressants, la rareté perd sa valeur explicative. L’espace de contraintes doit être définissable indépendamment du verdict.
-
-La quatrième objection est plus substantielle : certains objets intéressants ne sont pas d’abord des solutions rares dans un espace donné, mais des objets qui **reconfigurent le problème lui-même**. La thèse couvre bien les objets comme solutions sous contrainte ; elle couvre moins bien les objets comme opérateurs de déplacement.
-
-## Reformulation de la these pour la suite
-La version la plus robuste à ce stade est la suivante : **un objet intéressant est souvent une solution relativement rare dans un espace de contraintes, mais seulement lorsque cette rareté est structurelle, que la solution demeure reconnaissable comme réponse à la contrainte, et qu’elle produit une prise durable et non substituable ; sinon, il ne s’agit que d’une rareté technique, d’une admissibilité remarquable ou d’un effet de surprise**.
-
-Cette formulation doit être lue comme une thèse de cas fort, non comme une définition totale de l’intérêt. Sa force est de fixer une hiérarchie : la rareté ne suffit pas, la reconnaissance ne suffit pas, la surprise ne suffit pas. L’intérêt apparaît seulement quand la forme rare devient une prise stable, c’est-à-dire une différence qui retient, relance et justifie une reprise.
-
-Pour la suite, la question décisive n’est plus seulement de raffiner la rareté, mais de spécifier la **prise** : comment la distinguer de l’accroche, de la surprise et de la simple pertinence locale ; et comment intégrer, sans les absorber de force, les objets qui intéressent non parce qu’ils résolvent un problème rare, mais parce qu’ils déplacent le cadre même de la contrainte.
+Enfin, la critique a consolidé la thèse en la forçant à intégrer ses cas négatifs : rareté médiocre, banal excellent, rare invisible, bruit contraint. La contrainte n’est pas féconde par elle-même ; elle produit aussi du stéréotype, de l’artefact et du banal.
 
 ## Acquis
-- La thèse est désormais explicitement régionale : elle vise les objets intéressants sous contrainte, non l’intérêt en général.
-- Le triptyque rareté structurelle / discriminabilité / prise non substituable est stabilisé comme noyau défendable.
-- La contrainte est désormais traitée comme condition de visibilité possible, non comme valeur en soi.
-- La distinction entre saillance, pertinence et intérêt est devenue nécessaire pour éviter l’élasticité conceptuelle.
-- La limite interne majeure est reconnue : certains objets intéressants reconfigurent le problème au lieu de le résoudre.
+- La thèse gagne en précision : objet intéressant = solution relativement rare, lisible, sous contrainte réelle, dans un espace saturé.
+- La rareté pertinente est structurelle plutôt que statistique ; elle n’est qu’un indice, jamais un critère suffisant.
+- L’intérêt doit être différencié selon ses régimes : technique, épistémique, esthétique, subjectif.
+- La lisibilité de la solution devient une condition centrale : l’objet doit être reconnu comme résolution, non seulement produit.
+- La thèse intègre désormais ses échecs constitutifs : rareté médiocre, banal excellent, rare invisible, bruit contraint.
 
 ## Objections Restantes
-- Quel seuil minimal transforme une solution rare en objet intéressant plutôt qu’en simple admissible remarquable ?
-- Comment définir la prise non substituable sans la réduire à la surprise, à l’accroche ou à la pertinence locale ?
-- Comment distinguer rigoureusement détection, interprétation et évaluation dans la lisibilité d’une forme ?
-- Comment identifier l’espace de contraintes sans circularité explicative ?
-- Dans quelle mesure la thèse peut-elle intégrer les objets qui déplacent ou reconfigurent le problème lui-même ?
+- Comment fixer une hiérarchie stable entre rareté statistique, structurelle, computationnelle et historique ?
+- Quels critères permettent de dire qu’une solution rare est lisible comme résolution, et non seulement techniquement atteinte ?
+- Comment préciser pour qui l’objet est intéressant : observateur compétent, public général, praticien, historien ?
+- À quelle échelle faut-il juger l’intérêt : occurrence, forme, œuvre, type, histoire ?
+- Comment traiter les cas où l’intérêt vient d’un déplacement de cadre plutôt que d’une solution rare dans un espace fixe ?
+- Comment éviter que la thèse devienne irréfutable par glissement entre sens de l’« intéressant » ?
+- Comment distinguer l’intensification du banal de la rareté structurelle sans les confondre ?
 
 ## Paragraphes Reutilisables
-- Un objet intéressant est souvent une solution relativement rare dans un espace de contraintes, mais seulement lorsque cette rareté est structurelle, que la solution demeure reconnaissable comme réponse à la contrainte, et qu’elle produit une prise durable et non substituable ; sinon, il ne s’agit que d’une rareté technique, d’une admissibilité remarquable ou d’un effet de surprise.
-- La contrainte n’est pas une vertu en soi. Elle peut révéler des formes saillantes, mais elle peut aussi homogénéiser, appauvrir ou produire du cliché. L’intérêt n’est donc pas un effet automatique du filtrage ; il dépend d’une configuration plus étroite où rareté, lisibilité et prise se combinent sans se confondre.
-- La thèse ne doit pas être lue comme une définition totale de l’intérêt, mais comme une théorie régionale des objets intéressants sous contrainte : elle éclaire les cas où l’intérêt dépend d’un espace de possibles filtré, d’une sélection globale et d’une reconnaissance effective.
-- La distinction décisive n’est pas seulement entre rare et non rare, mais entre saillance, pertinence et intérêt. Une forme peut attirer l’attention sans être intéressante ; elle peut être pertinente sans être singulière ; elle peut même être bien formée sans produire de prise durable.
+- Dans certains domaines à espace saturé, à contraintes réelles et à sélection serrée, l’objet intéressant apparaît souvent comme une solution relativement rare à un problème de compatibilité entre contraintes. Cette rareté n’est pertinente que si elle est lisible comme résolution, non simplement atteinte.
+- La rareté statistique ne suffit pas à produire de l’intérêt. Ce qui compte est une rareté structurelle, c’est-à-dire une faible disponibilité de solutions admissibles dans un espace déjà contraint, jointe à la possibilité d’une reconnaissance par un observateur compétent.
+- L’intérêt n’est ni une propriété purement objectale ni une simple projection subjective. Il naît du couplage entre une forme, un régime de sélection, une mémoire de la contrainte et une compétence de reconnaissance.
+- La contrainte n’est pas productrice d’intérêt par elle-même : elle peut engendrer du banal, du bruit, du stéréotype ou de l’artefact. Elle ne devient féconde que lorsqu’elle rend possible une résolution rare et lisible.
+- La meilleure version de la thèse n’est pas universelle : elle décrit un schème robuste de l’intérêt dans les contextes saturés et contraints, sans prétendre réduire à ce schème les cas où l’intérêt naît d’un déplacement de cadre ou d’une reconfiguration de la perception.

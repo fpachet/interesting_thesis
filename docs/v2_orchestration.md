@@ -1,5 +1,20 @@
 # V2 Orchestration Proposal
 
+## Current Implementation Status
+
+The first orchestration layer is now partially implemented in the main CLI:
+
+- immutable run directories under `output/runs/<run_id>/`
+- per-run memory files under `memory/runs/<run_id>.json`
+- config snapshots for reproducibility
+- checkpoints after digest, each round, and final synthesis
+- resume from the latest checkpoint with `--resume-run`
+- fork from a named checkpoint with `--fork-run` and `--from-checkpoint`
+- optional user notes with `--user-note`
+- optional disabling of legacy top-level output mirrors with `--no-latest-mirror`
+
+The remaining sections still describe the broader target architecture: program-level orchestration, question registries, material cards, outline building, personas, and drafting support.
+
 ## Goal
 
 Turn the current "one corpus -> one debate -> one final synthesis" pipeline into a research workflow that can:

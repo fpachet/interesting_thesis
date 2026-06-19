@@ -1,0 +1,46 @@
+{
+  "run_id": "q00_baseline_20260412",
+  "run_mode": "start",
+  "parent_run_id": null,
+  "resume_checkpoint_name": null,
+  "theme": "L'objet interessant comme solution relativement rare d'un probleme d'echantillonnage sous contrainte.",
+  "model": "gpt-5.4-mini",
+  "rounds": 5,
+  "output_length": "medium",
+  "dry_run": false,
+  "max_chunk_chars": 12000,
+  "max_output_tokens": 3000,
+  "reasoning_effort": null,
+  "user_note": null,
+  "mirror_latest_outputs": false,
+  "paths": {
+    "project_root": "/Users/francoispachet/IdeaProjects/interesting_thesis",
+    "input_dir": "/Users/francoispachet/IdeaProjects/interesting_thesis/input",
+    "output_dir": "/Users/francoispachet/IdeaProjects/interesting_thesis/output",
+    "run_output_dir": "/Users/francoispachet/IdeaProjects/interesting_thesis/output/runs/q00_baseline_20260412",
+    "memory_file": "/Users/francoispachet/IdeaProjects/interesting_thesis/memory/state.json",
+    "run_memory_file": "/Users/francoispachet/IdeaProjects/interesting_thesis/memory/runs/q00_baseline_20260412.json",
+    "prompts_dir": "/Users/francoispachet/IdeaProjects/interesting_thesis/prompts",
+    "roles_file": "/Users/francoispachet/IdeaProjects/interesting_thesis/config/default_roles.json"
+  },
+  "roles": [
+    {
+      "key": "constructeur",
+      "name": "Constructeur",
+      "kind": "builder",
+      "prompt_file": "constructeur.md"
+    },
+    {
+      "key": "critique",
+      "name": "Critique",
+      "kind": "critic",
+      "prompt_file": "critique.md"
+    },
+    {
+      "key": "synthetiseur",
+      "name": "Synthetiseur",
+      "kind": "synthesizer",
+      "prompt_file": "synthetiseur.md"
+    }
+  ]
+}

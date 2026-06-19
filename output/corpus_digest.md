@@ -2,132 +2,104 @@
 
 ## Noyau de these
 
-Le corpus construit une thèse unificatrice : l’objet intéressant est une **solution relativement rare à un problème d’échantillonnage sous contrainte**. Cette formule ne doit pas être lue au sens d’une rareté purement statistique. La rareté pertinente est structurale, relationnelle et algorithmique : un objet est intéressant parce qu’il occupe une position singulière dans un espace de possibles réduit par des contraintes de forme, de génération, de perception ou de sélection. L’intérêt n’est donc ni une propriété intrinsèque de l’objet, ni un simple effet subjectif ; il apparaît dans une relation entre un artefact, un sujet, et un dispositif qui filtre, compare ou génère des candidats.
+Le corpus construit un problème unique sous plusieurs vocabulaires : création, virtuosité, interestingness, IA générative, contrainte formelle, attention, rareté. La thèse la plus stable est que **l’objet intéressant n’est ni un simple inédit, ni un simple contenu saillant, ni un simple produit populaire, mais une solution rare à un problème d’échantillonnage sous contrainte**. Cette rareté n’est pas seulement statistique ; elle est structurale, computationnelle, perceptive et historique.
 
-Le corpus fait converger deux lignes argumentatives.
+Le corpus insiste sur une idée de fond : **la création n’est pas production ex nihilo, mais émergence locale d’une forme stable dans un espace de possibles déjà limité**. D’où une série de reformulations récurrentes : la création comme transformation, recomposition, réorganisation, réactivation, ou résolution d’une impossibilité posée par le cadre lui-même. L’originalité n’est pas niée, mais requalifiée : elle ne vaut qu’à l’intérieur d’un voisinage de possibles, d’un adjacent possible, ou d’un espace combinatoire fortement filtré.
 
-1. **Ligne philosophique et cognitive** : l’intéressant n’est pas réductible au goût, au beau, au plaisir ou à la nouveauté brute. Il relève d’une relation de saillance entre une forme et une mémoire capable d’en éprouver la singularité. L’objet intéressant est ce qui attire, retient, surprend, relance, et parfois fait apparaître la question qu’il semble résoudre. Il combine intelligibilité, singularité et fécondité.
+Dans les textes sur la musique, la virtuosité et les chansons « Jotney », l’objet intéressant apparaît comme une **solution rare qui maintient ensemble des contraintes apparemment incompatibles** : simplicité apparente et complexité réelle, autonomie mélodique et mobilité harmonique, fluidité et difficulté, nouveauté et intelligibilité, surprise et nécessité rétrospective. La valeur ne vient pas de la nouveauté brute, mais de la manière dont une forme transforme la contrainte en lisibilité.
 
-2. **Ligne computationnelle et formelle** : dès qu’on veut produire ou échantillonner des objets sous contraintes globales dans des modèles autoregressifs, la difficulté devient structurelle. La génération locale reste facile, mais le conditionnement exact, la couverture du support admissible, le MAP global ou l’échantillonnage fidèle sont en général intractables. Cela donne au thème de la rareté une portée plus précise : un objet intéressant n’est pas seulement rare dans le monde ; il est aussi rare dans l’espace des solutions correctement accessibles.
+Dans les textes sur l’IA, l’interestingness est pensée comme un problème de **sélection sous contrainte dans un espace saturé** : l’attention est limitée, les corpus sont redondants, les systèmes apprennent des régularités plutôt que des singularités, et les procédures de génération sous contrainte sont souvent biaisées ou inexactes. L’IA révèle alors la structure du déjà-là : elle apprend la répétition, rend visible la redondance, et oblige à distinguer le support exact d’un ensemble admissible de son support atteignable par un algorithme.
 
-Le corpus insiste sur un point décisif : la contrainte n’est pas un obstacle externe à l’intérêt, mais sa condition de visibilité. Sans contrainte, pas de sélection ; sans sélection, pas de rareté ; sans rareté structurée, pas d’objet intéressant au sens fort. L’intérêt apparaît alors comme une économie de l’attention sous contrainte : assez de nouveauté pour surprendre, assez de structure pour être reconnu, assez de rareté pour justifier le choix.
+Le corpus suggère enfin que l’objet intéressant n’est pas seulement rare parce qu’il est difficile à produire ; il est rare parce qu’il est difficile à **laisser apparaître sans le neutraliser**. Cela vaut pour la création artistique, la production de discours, l’inférence sous contrainte et la sélection attentionnelle. L’intérêt n’est donc pas une propriété isolée de l’objet, mais un **effet de relation entre forme, contrainte, sujet, mémoire et régime de sélection**.
 
 ## Distinctions operatoires
 
-### 1) Intérêt, goût, beauté, nouveauté
-Le corpus refuse de confondre ces notions.
-- **Goût** : souvent traité comme un profil stable de préférences ; cette vision est critiquée comme trop statique.
-- **Beauté** : domaine voisin, mais trop normatif ou trop étroit pour servir de cadre principal.
-- **Nouveauté** : nécessaire mais insuffisante ; le neuf n’est pas encore l’intéressant.
-- **Intérêt** : ce qui capte l’attention, résiste à la trivialité, et produit une sélection ou une reprise.
+### Création / créativité
+Le corpus oppose implicitement la création au sens fort à une créativité diffusée, économisée, monétisée ou automatisée. La création est liée à la difficulté, à l’épreuve, à la rareté et au coût ; la créativité, dans sa version faible ou industrielle, devient compétence générale, fonctionnalité, ressource ou effet de surface.
 
-Le glissement de sens le plus important va de l’“aimé” à l’“intéressant” : le corpus ne veut pas réduire l’intérêt à une évaluation déclarative, mais le rapporte à des effets observables sur l’attention, l’engagement ou la production.
+### Œuvre / contenu
+L’« œuvre » désigne ce qui résiste à la réduction au flux, ce qui a une épaisseur de forme et de facture ; le « contenu » est ce qui circule, remplit des tuyaux, se mesure et se consomme. Le corpus critique la conversion de l’œuvre en contenu.
 
-### 2) Objet, solution, relation
-Le corpus glisse fréquemment de l’objet vers la solution. Ce glissement est fondamental : un objet intéressant est pensé comme **solution rare dans un espace de contraintes**. Cela permet de distinguer :
-- l’objet comme support matériel ou symbolique ;
-- la solution comme configuration admissible ;
-- la relation comme rencontre entre cette configuration et un sujet/dispositif capable de l’identifier.
+### Virtuosité / fluidité / pseudo-virtuosité
+La virtuosité authentique est une maîtrise sous contrainte, incorporée par un travail long. La fluidité peut en être un effet légitime, mais elle devient suspecte quand elle sert à masquer l’absence de résistance. La pseudo-virtuosité ou chalépodoxie verbale désigne la capture des signes de maîtrise sans l’épreuve correspondante.
 
-### 3) Rareté statistique vs rareté structurale
-La rareté n’est pas seulement fréquence faible.
-- **Rareté statistique** : peu d’occurrences.
-- **Rareté structurale** : peu de solutions satisfont un ensemble de contraintes.
-- **Rareté algorithmique** : peu de procédures savent atteindre correctement ces solutions.
+### Difficulté / difficultuosité / difficulté exhibée
+La difficulté peut être objective, ressentie, ou mise en scène. La difficultuosité est la difficulté telle qu’elle est perceptible pour un sujet compétent ; la difficulté exhibée est un artefact social, souvent vidé de contrainte réelle mais riche en effets de prestige.
 
-C’est la rareté structurale et algorithmique qui intéressent le corpus, parce qu’elles rendent l’objet saillant sans le réduire à l’exception accidentelle.
+### Rareté / saturation
+La rareté pertinente n’est pas le simple manque quantitatif ; c’est la faible accessibilité d’une solution dans un espace saturé de possibilités. La saturation détruit les critères de sélection et raréfie la visibilité du singulier.
 
-### 4) Génération locale vs sélection globale
-Les modèles autoregressifs fournissent des probabilités locales de prochain token. Mais l’objet intéressant sous contrainte exige une **sélection globale** parmi des séquences complètes. Le corpus oppose donc :
-- l’évaluation locale, facile ;
-- la satisfaction globale d’une contrainte, difficile ;
-- l’échantillonnage exact sous contrainte, encore plus difficile.
+### Nouveau / nouveauté / adjacent possible
+Le nouveau n’est pas un absolu. Il est local, conditionnel, rétrospectivement lisible. L’Adjacent Possible en donne la figure la plus stable : ce qui devient possible à partir d’un état donné, et non ce qui était déjà là en droit.
 
-### 5) Support exact vs support atteignable
-Le corpus distingue implicitement ce qui existe dans le support conditionnel et ce qu’un algorithme peut effectivement produire. Cette distinction est cruciale : un procédé peut préserver la validité apparente tout en perdant une partie du support admissible. La question n’est donc pas seulement “le résultat est-il correct ?” mais aussi “tous les objets admissibles restent-ils atteignables ?”.
+### Intéressant / beau / préférable / populaire
+Le corpus refuse de réduire l’intéressant au beau, au plaisant, au préféré ou au populaire. La popularité relève des boucles de visibilité et de l’imitation sociale ; l’importance ou l’intérêt relèvent d’une capacité structurante, souvent visible seulement a posteriori.
 
-### 6) Observation passive vs provocation active
-L’intérêt ne se laisse pas toujours inférer d’une observation passive. Certains passages défendent des dispositifs actifs qui créent des situations discriminantes pour révéler des préférences ou des critères cachés. Cela déplace le problème : l’objet intéressant peut devoir être **produit comme stimulus rare mais révélateur**, et non simplement observé.
+### Exact / approximatif / biaisé
+Dans les textes sur la génération sous contrainte, l’exact conditioning, le support exact et l’échantillonnage exact sont distincts des heuristiques de génération. Le biais peut être un biais de poids, ou un biais plus grave de support (perte de séquences admissibles).
+
+### Support conditionné / support atteignable
+Le corpus distingue ce qui est admissible dans la loi conditionnelle exacte et ce qu’une procédure peut effectivement produire. Cette distinction est capitale pour penser la rareté algorithmique des solutions.
 
 ## Tensions et points instables
 
-### 1) Objet ou relation ?
-Le corpus oscille entre une objectivation forte de l’intérêt et une conception relationnelle. D’un côté, il cherche des features, des contraintes et des solutions rares ; de l’autre, il insiste sur l’histoire perceptive, les buts du sujet, les catégories d’utilisateurs et le contexte. La tension n’est pas résolue : l’intérêt semble être à la fois dans l’objet et dans la relation de reconnaissance.
+### Démocratisation légitime vs dilution des critères
+Le corpus défend l’accès universel aux œuvres tout en critiquant la confusion entre accès, production et valeur. La tension n’est pas résolue : comment universaliser l’accès sans dissoudre les critères de l’œuvre ?
 
-### 2) Rareté comme cause ou effet ?
-L’objet intéressant est-il rare parce qu’il est difficile à produire, ou est-il difficile à produire parce qu’il est déjà intéressant pour un sujet/dispositif ? Le corpus laisse ouverte cette circularité, qui est conceptuellement productive mais instable.
+### Création comme rareté vs création comme pratique distribuée
+Le texte tend à rarefier la création, mais il reconnaît que des pratiques ordinaires, collectives et distribuées y participent. Reste ambivalent le statut des gestes communs : création affaiblie, création partagée, ou autre chose ?
 
-### 3) Nouveauté vs structure
-Le corpus veut préserver la nouveauté sans perdre la lisibilité. Mais la nouveauté pure détruit la reconnaissance, tandis qu’une structure trop forte neutralise la surprise. L’objet intéressant doit donc se tenir dans un intervalle étroit : suffisamment nouveau pour surprendre, suffisamment structuré pour être perçu comme pertinent.
+### Fluidité comme maîtrise vs fluidité comme masque
+La fluidité peut être l’effet d’une compétence très haute, ou le signe d’une économie de la preuve. Le corpus maintient cette ambiguïté sans la lever complètement.
 
-### 4) Optimisation vs valeur
-Les exemples de génération contrainte montrent qu’on peut optimiser des features, voire surpasser le naturel selon un critère donné. Mais le corpus ne réduit pas pour autant l’intérêt à l’optimisation. Il reste une tension entre :
-- performance sur un critère local ;
-- valeur stable ou significative de l’objet produit.
+### Rareté féconde vs rareté-symptôme
+La rareté est à la fois condition de l’intérêt et symptôme de systèmes saturés ou dégradés. Elle est ressource et diagnostic.
 
-### 5) Exactitude théorique vs utilité empirique
-Les résultats d’intractabilité sont fermes, mais les systèmes pratiques peuvent fonctionner “assez bien”. Le corpus maintient donc une séparation nette entre correction statistique et efficacité pratique. Cette tension est centrale pour tout débat sur l’échantillonnage sous contrainte.
+### Nouveauté réelle vs nouveauté reconnue
+Une forme peut être nouvelle sans être reconnue comme telle, et l’inverse. Le corpus insiste sur l’écart entre l’apparition de la nouveauté et sa reconnaissance.
 
-## Ce que le corpus soutient fermement
+### Modélisation vs irréductibilité
+Le corpus veut formaliser l’intéressant, mais il travaille avec des notions de singularité, de surprise et de nécessité rétrospective qui résistent à la simple règle.
 
-- L’objet intéressant doit être pensé dans un **espace de contraintes**.
-- Le modèle du goût comme dictionnaire stable est insuffisant.
-- L’intérêt ne se réduit ni au beau ni au nouveau.
-- La sélection globale sous contrainte est plus fondamentale que la génération locale.
-- Les contraintes globales rendent l’échantillonnage exact difficile, parfois intractable.
-- La rareté pertinente est structurale autant qu’algorithmique.
-- L’attention, la surprise, la préférence et la valeur sont liées mais non identiques.
-- On peut avoir des procédures utiles qui restent théoriquement biaisées.
+### Exactitude théorique vs utilité pratique
+Les résultats sur l’inférence sous contrainte montrent l’intractabilité générale, mais la pratique continue à fonctionner par approximations. Le corpus ne tranche pas complètement la valeur relative de ces approximations.
 
-## Ce qui est seulement esquissé
-
-- Une définition unifiée de l’interestingness.
-- Une théorie générale du passage entre surprise, intérêt et valeur.
-- Un critère stable pour distinguer intérêt, beauté, plaisir et préférence.
-- Une formalisation complète de la relation entre rareté structurale et rareté vécue.
-- Une théorie explicite de la saillance relationnelle.
-
-## Ce qui reste ambivalent
-
-- Le statut exact de la contrainte : simple filtre, condition de possibilité, ou productrice de valeur.
-- La part respective de l’objet, du sujet et du dispositif de sélection.
-- Le rapport entre optimisation et intérêt : proximité réelle ou simple analogie.
-- La portée des résultats d’intractabilité pour les systèmes réels.
-- La frontière entre biais acceptable et biais destructeur de support.
-
-## Reformulations réutilisables
-
-- L’objet intéressant est une **solution rare dans un espace de contraintes qui organise l’attention**.
-- L’intérêt n’est pas une propriété brute de l’objet, mais une **performance locale dans une économie contrainte de sélection**.
-- La contrainte ne détruit pas l’intérêt ; elle **rend possible sa discrimination**.
-- L’objet intéressant est ce qui **survit à la sélection sans devenir trivial**.
-- Sous contrainte, la vraie difficulté n’est pas seulement de générer, mais de **préserver le support admissible tout en gardant de la saillance**.
-- Une forme intéressante est à la fois **rare, lisible et non substituable sans perte**.
+### Intérêt comme propriété de l’objet vs relation de sélection
+Le texte oscille entre une propriété objectale de la forme et un effet relationnel entre objet, sujet, contexte et dispositif de sélection. La position dominante est relationnelle, mais jamais au prix d’une dissolution totale de la structure de l’objet.
 
 ## Notable sources
-- /Users/francoispachet/IdeaProjects/interesting_thesis/input/ERCGrantPachetInterestingness.pdf
-- /Users/francoispachet/IdeaProjects/interesting_thesis/input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf
-- /Users/francoispachet/IdeaProjects/interesting_thesis/input/projet thèse philo.pdf
+
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/De l'impossibilité de créer (12).pdf`
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/ERCGrantPachetInterestingness.pdf`
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf`
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf`
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/The Mystery of Jotney Songs.pdf`
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/projet thèse philo.pdf`
+- `/Users/francoispachet/IdeaProjects/interesting_thesis/input/Notes thèse.pdf`
 
 ## Key Ideas
-- L’objet intéressant est une solution rare dans un espace de contraintes.
-- L’intérêt est relationnel : il advient entre forme, sujet et dispositif de sélection.
-- La contrainte conditionne la saillance plutôt qu’elle ne la détruit.
-- Le goût stable est un mauvais modèle du phénomène.
-- L’échantillonnage exact sous contrainte globale est structurellement difficile.
-- La rareté pertinente est structurale et algorithmique, pas seulement statistique.
-- L’attention convertit la nouveauté en valeur seulement sous structure suffisante.
-- Le support atteignable peut diverger du support conditionnel exact.
+- Objet intéressant comme solution rare à un échantillonnage sous contrainte
+- Création comme émergence locale, non comme production ex nihilo
+- Rareté structurale, computationnelle et attentionnelle
+- Virtuosité authentique vs pseudo-virtuosité fluide
+- Intéressant = relation entre forme, mémoire, attention et sélection
+- Nouveauté comme catégorie reconstruite, non absolue
+- IA générative comme révélateur de la redondance du déjà-là
+- Contrainte comme condition de lisibilité de la valeur
 
 ## Tensions
-- Intérêt comme propriété de l’objet vs intérêt comme relation au sujet.
-- Rareté comme cause de l’intérêt vs rareté comme effet de la sélection.
-- Nouveauté nécessaire vs nouveauté insuffisante.
-- Optimisation locale vs valeur globale stable.
-- Exactitude théorique vs utilité empirique des heuristiques.
-- Préservation du support vs perte de support par pruning ou approximation.
+- Démocratisation de l’accès vs dilution des critères de l’œuvre
+- Virtuosité comme maîtrise réelle vs fluidité comme simulacre
+- Intéressant comme propriété de l’objet vs effet relationnel de sélection
+- Rareté féconde vs rareté-symptôme de saturation
+- Nouveauté réelle vs nouveauté reconnue
+- Modélisation computationnelle vs irréductibilité de la singularité
 
 ## Notable Sources
+- /Users/francoispachet/IdeaProjects/interesting_thesis/input/De l'impossibilité de créer (12).pdf
 - /Users/francoispachet/IdeaProjects/interesting_thesis/input/ERCGrantPachetInterestingness.pdf
+- /Users/francoispachet/IdeaProjects/interesting_thesis/input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf
 - /Users/francoispachet/IdeaProjects/interesting_thesis/input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf
+- /Users/francoispachet/IdeaProjects/interesting_thesis/input/The Mystery of Jotney Songs.pdf
 - /Users/francoispachet/IdeaProjects/interesting_thesis/input/projet thèse philo.pdf
+- /Users/francoispachet/IdeaProjects/interesting_thesis/input/Notes thèse.pdf

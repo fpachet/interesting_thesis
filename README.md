@@ -12,8 +12,10 @@ Le pipeline :
 - lit les fichiers `.md`, `.txt`, `.pdf` et `.docx` dans `input/`
 - produit un digest du corpus
 - lance un debat en plusieurs manches entre des roles configurables
-- conserve une memoire structuree dans `memory/state.json`
-- ecrit dans `output/` un fichier Markdown par manche, une synthese finale et une liste de paragraphes reutilisables
+- conserve une memoire structuree par run dans `memory/runs/`
+- ecrit chaque execution dans un dossier immuable `output/runs/<run_id>/`
+- peut reprendre ou forker un run depuis un checkpoint
+- peut aussi maintenir, par defaut, des fichiers miroir dans `output/` pour compatibilite
 
 Les trois roles par defaut sont :
 
@@ -66,7 +68,24 @@ python -m interesting_thesis \
   --theme "L'objet interessant comme solution relativement rare d'un probleme d'echantillonnage sous contrainte." \
   --rounds 4 \
   --output-length long \
-  --model gpt-5.4-mini
+  --model gpt-5.4-mini \
+  --run-id q00_baseline
+```
+
+Reprendre un run existant depuis son dernier checkpoint :
+
+```bash
+python -m interesting_thesis --resume-run q00_baseline
+```
+
+Forker un run depuis un checkpoint precis :
+
+```bash
+python -m interesting_thesis \
+  --fork-run q00_baseline \
+  --from-checkpoint round_02 \
+  --run-id q00_baseline_variant \
+  --user-note "Insister davantage sur les exemples musicaux."
 ```
 
 ## Options principales
@@ -80,6 +99,15 @@ python -m interesting_thesis \
 - `--input-dir` : dossier d'entree
 - `--output-dir` : dossier de sortie
 - `--memory-file` : fichier de memoire JSON
+- `--run-id` : identifiant stable du run a creer
+- `--resume-run` : reprendre un run existant depuis son dernier checkpoint
+- `--fork-run` : creer un nouveau run depuis un checkpoint d'un run existant
+- `--from-checkpoint` : checkpoint source pour un fork, par exemple `digest` ou `round_02`
+- `--user-note` : note utilisateur injectee dans les etapes suivantes
+- `--no-latest-mirror` : ne pas recopier les sorties du run dans les fichiers legacy de `output/`
+- `--max-chunk-chars` : taille approximative maximale des fragments de corpus
+- `--max-output-tokens` : plafond de tokens generes par appel
+- `--reasoning-effort` : effort de raisonnement optionnel pour les modeles compatibles
 - `--dry-run` : mode local sans reseau pour valider la chaine
 
 ## Structure du projet
@@ -103,6 +131,9 @@ interesting_thesis/
   text_utils.py
 config/
   default_roles.json
+  research_program.example.json
+  workflows/
+    philosophical_question.example.json
 prompts/
   critique.md
   constructeur.md
@@ -111,18 +142,42 @@ prompts/
   synthetiseur.md
 input/
 output/
+  runs/
 memory/
+  runs/
 ```
 
 ## Fichiers generes
 
 Un run ecrit typiquement :
 
+- `output/runs/<run_id>/config_snapshot.json`
+- `output/runs/<run_id>/corpus_digest.md`
+- `output/runs/<run_id>/round_01.md`, `round_02.md`, etc.
+- `output/runs/<run_id>/final_synthesis.md`
+- `output/runs/<run_id>/thesis_paragraphs.md`
+- `output/runs/<run_id>/checkpoints/digest.json`
+- `output/runs/<run_id>/checkpoints/round_01.json`, `round_02.json`, etc.
+- `output/runs/<run_id>/checkpoints/final.json`
+- `memory/runs/<run_id>.json`
+
+Par defaut, le dernier run est aussi recopie dans les fichiers historiques :
+
 - `output/corpus_digest.md`
 - `output/round_01.md`, `output/round_02.md`, etc.
 - `output/final_synthesis.md`
 - `output/thesis_paragraphs.md`
 - `memory/state.json`
+
+Utiliser `--no-latest-mirror` pour desactiver cette recopie.
+
+## Reprise et fork
+
+Chaque checkpoint est une image JSON complete de l'etat du run.
+
+- `--resume-run <run_id>` charge le checkpoint le plus recent du run et ne recalcule que les etapes restantes.
+- `--fork-run <run_id> --from-checkpoint <checkpoint>` cree un nouveau run a partir d'un etat anterieur, sans modifier le run parent.
+- `--user-note` permet d'ajouter une contrainte ou une orientation qui sera conservee dans la memoire du run.
 
 ## Format des roles
 
