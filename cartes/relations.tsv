@@ -1,0 +1,66 @@
+# source	relation	cible	note
+# Relations autorisees : specifies, supports, operationalizes, illustrates, limits, objects_to, contrasts_with, bridges, motivates.
+idea_0084	specifies	idea_0083	Donne une definition relationnelle a l'hypothese d'unification.
+idea_0001	specifies	idea_0084	Ajoute la dimension temporelle et sequentielle.
+idea_0002	specifies	idea_0084	Remplace la preference fixe par une histoire du gout.
+idea_0071	specifies	idea_0084	Identifie l'interet comme transformation temporaire d'un observateur.
+idea_0027	operationalizes	idea_0071	Propose le progres de compression comme mecanisme possible.
+idea_0107	specifies	idea_0071	Situe le gain sur une frontiere mouvante du presque-apprenable.
+idea_0108	contrasts_with	idea_0071	Distingue beaute stable et interet lie a une decouverte.
+idea_0005	limits	idea_0038	La surprise ou l'ecart a l'attente ne suffit pas seul.
+idea_0079	objects_to	idea_0083	Avertit qu'un concept unificateur peut masquer les mecanismes.
+idea_0095	limits	idea_0027	Exige des predictions et des criteres de falsification.
+idea_0085	specifies	idea_0083	Caracterise l'emergence comme invention simultanee d'un probleme.
+idea_0096	operationalizes	idea_0085	Reformule la necessite inventee comme rarete dans un probleme implicite.
+idea_0087	supports	idea_0085	Explique pourquoi une solution peut paraitre simple apres une genese improbable.
+idea_0099	specifies	idea_0087	Distingue simplicite du resultat et singularite du chemin.
+idea_0113	operationalizes	idea_0085	Teste la necessite par variations voisines.
+idea_0115	limits	idea_0113	La surattention peut fabriquer l'optimum qu'elle croit constater.
+idea_0114	illustrates	idea_0001	La suite requalifie retrospectivement une phrase initialement banale.
+idea_0112	specifies	idea_0084	Decrit la rencontre forme-memoire a l'echelle d'une micro-emotion.
+idea_0086	illustrates	idea_0084	La musique rend la relation temporelle directement analysable.
+idea_0038	operationalizes	idea_0086	Modele la formation et la realisation des attentes musicales.
+idea_0019	specifies	idea_0038	La surprise interessante devient necessaire apres coup.
+idea_0111	supports	idea_0019	Donne un regime structural a la surprise necessaire.
+idea_0034	illustrates	idea_0112	Les hooks sont des cas de micro-solutions locales.
+idea_0032	operationalizes	idea_0001	Transforme l'interet temporel en choix du prochain evenement.
+idea_0039	specifies	idea_0038	Ajoute la contrainte mutuelle entre dimensions musicales.
+idea_0004	specifies	idea_0001	Integre attente, ennui et relance dans une trajectoire.
+idea_0023	illustrates	idea_0001	Montre qu'une structure temporelle minimale peut capter l'attention.
+idea_0097	operationalizes	idea_0002	Mesure le gout comme trajectoire modifiee par l'exposition.
+idea_0011	operationalizes	idea_0002	Substitue les comportements d'attention aux declarations statiques.
+idea_0070	specifies	idea_0011	L'observation devient active en provoquant des situations.
+idea_0031	specifies	idea_0107	Donne une version relationnelle de la zone presque-apprenable.
+idea_0029	supports	idea_0084	Relie l'interet d'un motif a l'etat des croyances du sujet.
+idea_0008	supports	idea_0009	L'impossibilite initiale motive l'ouverture locale d'un possible.
+idea_0043	specifies	idea_0008	Explique comment l'impossible devient productif.
+idea_0009	supports	idea_0085	La solution rend pensable une possibilite qui ne l'etait pas avant.
+idea_0012	supports	idea_0109	Fournit le pole sampling sans but explicite.
+idea_0096	supports	idea_0109	Fournit le pole resolution d'un probleme implicite.
+idea_0017	supports	idea_0109	Montre techniquement les limites du sampling local sous contraintes.
+idea_0100	specifies	idea_0017	Precise quand une contrainte est calculable par etat conjoint.
+idea_0098	limits	idea_0017	La validite contrainte ne suffit pas a produire une bonne solution.
+idea_0103	bridges	idea_0109	Situe la generation entre ordre fixe et hasard.
+idea_0016	supports	idea_0109	Formule le besoin d'un sens global de la direction.
+idea_0067	motivates	idea_0094	Le decalage production-evaluation impose leur etude conjointe.
+idea_0068	operationalizes	idea_0094	La trace complete permet d'etudier perception et creation ensemble.
+idea_0018	supports	idea_0110	Fait de la construction de systemes un materiau philosophique.
+idea_0088	limits	idea_0018	Un modele eprouve une hypothese sans epuiser son objet.
+idea_0110	specifies	idea_0018	Separe resultats, propositions et articulations.
+idea_0006	illustrates	idea_0018	Les systemes reflexifs constituent un cas de laboratoire construit.
+idea_0104	specifies	idea_0006	Caracterise l'interaction par autonomie et ajustement mutuel.
+idea_0007	supports	idea_0006	La creation apparait comme effet secondaire du miroir.
+idea_0102	operationalizes	idea_0104	Definit un controle par preservation d'invariants semantiques.
+idea_0049	specifies	idea_0010	Place la difficultuosite dans une zone de credibilite.
+idea_0058	supports	idea_0010	Relie la fluidite visible au travail incorpore.
+idea_0078	supports	idea_0010	Propose une resonance corporelle pour percevoir la difficulte.
+idea_0089	specifies	idea_0010	Ajoute l'absorption de l'imprevu comme critere de maitrise.
+idea_0090	specifies	idea_0078	L'expertise transforme sans necessairement abolir l'admiration.
+idea_0057	contrasts_with	idea_0062	La glisse seductrice s'oppose a la resistance du reel.
+idea_0061	illustrates	idea_0057	Le langage fournit un terrain aux impostures de fluidite.
+idea_0066	objects_to	idea_0057	La democratie exige une resistance aux fantasmagories fluides.
+idea_0091	specifies	idea_0061	Distingue deformation qui fait penser et deformation qui impressionne.
+idea_0054	supports	idea_0075	L'apprentissage statistique prolonge les repetitions du corpus.
+idea_0073	supports	idea_0040	La liquefaction transforme l'oeuvre en contenu interchangeable.
+idea_0053	specifies	idea_0013	Distingue popularite sociale et importance historique.
+idea_0026	motivates	idea_0074	L'homogeneisation rend necessaire la preservation de voies diverses.

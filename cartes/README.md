@@ -7,7 +7,8 @@ Le principe est volontairement simple :
 - une carte = une proposition substantielle et manipulable ;
 - les cartes commencent dans `inbox/` avec le statut `inbox` ;
 - le registre indique quels documents ont ete lus, partiellement lus, ou seulement inventories ;
-- l'organisation fine vient plus tard, dans les index et dans un futur plan de these.
+- l'organisation reste reversible : les index et le graphe argumentatif precedent
+  le futur plan de these.
 
 Une carte ne doit pas seulement annoncer un theme (`la curiosite`, `la surprise`) ni
 resumer une section. Elle doit formuler une affirmation, une hypothese, une
@@ -32,6 +33,20 @@ resultat scientifique. Une carte d'articulation doit signaler ce qui vient
 directement des sources et ce qui releve de la reconstruction proposee par la
 these. L'index `indexes/by_level.md` permet de parcourir ces trois ensembles.
 
+## Trois vues complementaires
+
+L'organisation actuelle ne repose pas sur une taxonomie unique :
+
+- `indexes/by_theme.md` rassemble les cartes par objet ou vocabulaire ;
+- `indexes/by_level.md` distingue leur statut epistemique ;
+- `indexes/by_argument.md` affecte chacune des 112 cartes a une famille
+  argumentative principale, de maniere exhaustive et reversible.
+
+Le document `ORGANISATION.md` presente les pivots, les recouvrements et les
+questions ouvertes. Le registre `relations.tsv` conserve un graphe plus restreint
+de relations fortes et typees (`supports`, `limits`, `operationalizes`, etc.). Il
+complete les liens associatifs inscrits dans chaque carte sans les remplacer.
+
 On ne cree pas une carte pour chaque detail d'un argument. Les mecanismes, exemples,
 resultats experimentaux et limites restent dans la meme carte lorsqu'ils servent une
 seule proposition. On separe deux cartes seulement lorsque les propositions peuvent
@@ -46,8 +61,11 @@ etre contestees, utilisees ou reliees independamment.
 4. Noter dans `REGISTRE_TRAITEMENT.md` le niveau de traitement du document.
 5. Ajouter ou verifier la reference dans `bibliographie/references.bib` lorsqu'il
    s'agit d'une publication citable, puis relier sa cle a la carte.
-6. Ajouter les cartes aux index thematiques si un regroupement devient evident.
-7. Ne pas forcer trop tot un plan lineaire : laisser les familles emerger.
+6. Affecter chaque nouvelle carte a une famille dans `indexes/by_argument.md` et
+   l'ajouter aux index thematiques pertinents.
+7. Si elle soutient, limite ou precise une proposition pivot, ajouter une relation
+   expliquee dans `relations.tsv`.
+8. Ne pas forcer trop tot un plan lineaire : laisser les familles emerger.
 
 ## Format d'une carte
 

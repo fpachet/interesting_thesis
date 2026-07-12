@@ -40,6 +40,12 @@ des objections ou comparer plusieurs architectures argumentatives.
 - [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : evolution explicite
   du projet ;
 - [`cartes/inbox/`](cartes/inbox/) : propositions extraites du corpus ;
+- [`cartes/ORGANISATION.md`](cartes/ORGANISATION.md) : lignes argumentatives,
+  pivots, recouvrements et questions ouvertes ;
+- [`cartes/indexes/by_argument.md`](cartes/indexes/by_argument.md) : affectation
+  exhaustive des cartes a sept familles argumentatives ;
+- [`cartes/relations.tsv`](cartes/relations.tsv) : premier graphe de relations
+  fortes et typees entre propositions ;
 - [`cartes/indexes/by_theme.md`](cartes/indexes/by_theme.md) : regroupement
   thematique provisoire ;
 - [`cartes/indexes/by_level.md`](cartes/indexes/by_level.md) : distinction entre
