@@ -8,6 +8,7 @@ sources:
   - "input/The Mystery of Jotney Songs.pdf"
   - "old docs /Synopsis MIT Press.doc"
 source_notes:
+  - "The Mystery of Jotney Songs, necessary surprise et justification retrospective, PDF p. 1-3"
   - "Synopsis MIT Press, chapitre Aha, rendu PDF p. 31-34"
 tags:
   - musique
@@ -41,3 +42,4 @@ Cette carte fournit un exemple musical concret de l'objet interessant : une solu
 
 - Proche de `idea_0009`.
 - Proche de `idea_0016`.
+- `idea_0111` decrit l'equilibre musical dans lequel cette surprise opere.

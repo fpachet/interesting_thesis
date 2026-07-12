@@ -1,6 +1,6 @@
 # Ordre de traitement des documents
 
-Cette liste classe les 31 documents textuels actuellement presents selon leur
+Cette liste classe les documents textuels actuellement presents selon leur
 importance pour la these et l'urgence de leur extraction propositionnelle.
 
 Les criteres sont : centralite pour la question de l'interessant, densite probable
@@ -30,9 +30,9 @@ jugement absolu sur la valeur intellectuelle des textes.
 | ---: | --- | --- | --- |
 | 10 | `old docs /interestingness.pdf` | Schmidhuber fournit une theorie computationnelle centrale : regularites apprenables, curiosite et progres de compression. | Couverture propositionnelle complete ; 23 pages verifiees et formulations precisees. |
 | 11 | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | Ancrage technique precis sur les contraintes globales et les biais de generation. | Couverture propositionnelle complete ; resultats, hypotheses et limites verifies sur 16 pages. |
-| 12 | `input/The Mystery of Jotney Songs.pdf` | Developpe une hypothese musicale originale sur la surprise necessaire et la complexite invisible. | Extraire les propositions secondaires testables et leurs contre-exemples. |
-| 13 | `input/Notes thèse.pdf` | Notes courtes mais proches de la pensee actuelle de la these. | Verifier chaque note contre les cartes existantes. |
-| 14 | `old docs /ERCGrantPachetInterestingness (1).docx` | Variante ancienne du grant canonique, susceptible de contenir des formulations ou hypotheses supprimees. | Faire une comparaison differentielle avec le PDF du rang 4, pas une extraction independante aveugle. |
+| 12 | `input/The Mystery of Jotney Songs.pdf` et `input/The Mystery of Jotney Songs -full.pdf` | Developpent une hypothese musicale originale sur la surprise necessaire et la complexite invisible ; la version longue conserve les etapes exploratoires et le programme empirique. | Couverture propositionnelle complete ; essai court de 4 pages et dossier composite de 38 pages verifies. |
+| 13 | `input/Notes thèse.pdf` | Notes courtes mais proches de la pensee actuelle de la these. | Couverture propositionnelle complete ; page unique verifiee et raccordee a trois cartes existantes. |
+| 14 | `old docs /ERCGrantPachetInterestingness (1).docx` | Variante supposee du grant canonique. | Comparaison differentielle complete : meme contenu que le PDF du rang 4 ; copie Word supprimee comme doublon. |
 | 15 | `old docs /interestingness-ijhcs.pdf` | Colton, Bundy et Walsh donnent une conception pragmatique de l'interet comme guide de recherche mathematique. | Extraire les propositions sur recherche, evaluation precoce et pluralite des criteres. |
 | 16 | `old docs /kdd95.pdf` | Source majeure pour l'interet relatif aux croyances, l'inattendu et l'actionabilite. | Distinguer mesures objectives, subjectives et effet de revision des croyances. |
 | 17 | `old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Excited Bored.doc` | Formalise l'interessant comme jeu sequentiel entre producteur et auditeur. | Extraire les hypotheses du modele et ses consequences, sans atomiser ses regles. |
@@ -94,5 +94,8 @@ de quelques formulations alternatives de ses propositions centrales.
 | 9 | `old docs /TBKLullyNOTES.doc` | couverture propositionnelle complete | 12 juillet 2026 |
 | 10 | `old docs /interestingness.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
 | 11 | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 12 | `input/The Mystery of Jotney Songs.pdf` et `input/The Mystery of Jotney Songs -full.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 13 | `input/Notes thèse.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 14 | `old docs /ERCGrantPachetInterestingness (1).docx` | doublon verifie et supprime | 12 juillet 2026 |
 
-Prochain document : rang 12, `input/The Mystery of Jotney Songs.pdf`.
+Prochain document : rang 15, `old docs /interestingness-ijhcs.pdf`.

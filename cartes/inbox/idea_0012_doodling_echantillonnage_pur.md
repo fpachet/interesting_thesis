@@ -7,8 +7,8 @@ status: inbox
 sources:
   - "input/Notes thèse.pdf"
   - "old docs /Synopsis MIT Press.doc"
-  - "old docs /ERCGrantPachetInterestingness (1).docx"
 source_notes:
+  - "Notes these, doodling comme echantillonnage peu contraint en dessin et en musique, PDF p. 1"
   - "Synopsis MIT Press, rendu PDF p. 37 et 40"
 tags:
   - doodling

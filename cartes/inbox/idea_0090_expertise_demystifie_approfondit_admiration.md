@@ -6,8 +6,10 @@ level: conceptual
 status: inbox
 sources:
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
+  - "input/The Mystery of Jotney Songs.pdf"
 source_notes:
   - "PDF p. 17-19 et 33"
+  - "Jotney, analyse qui remplace le tour par la forme et augmente la singularite, PDF p. 3"
 tags:
   - expertise
   - admiration

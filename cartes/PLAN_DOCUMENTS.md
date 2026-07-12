@@ -20,8 +20,9 @@ articulations reflexives entre ces deux niveaux.
 | `input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf` | essai adjacent | virtuosite spectaculaire, fantasmagories politiques, pensee deviante, exposition reseaux |
 | `input/ERCGrantPachetInterestingness.pdf` | programme scientifique | computational interestingness, gout non statique, popularite, difficultuosite, doodling, ethologie artificielle |
 | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | couverture propositionnelle complete | biais inferentiels et etat borne ; ancrage technique de l'articulation sampling/resolution, non theorie directe de l'interessant |
-| `input/Notes thèse.pdf` | notes courtes | doodling comme echantillonnage pur, pole sampling de l'articulation avec les contraintes |
-| `input/The Mystery of Jotney Songs.pdf` | exemple musical | rare equilibre melodie/harmonie, naturel apparent, chanson autonome, contraintes invisibles |
+| `input/Notes thèse.pdf` | couverture propositionnelle complete | 1 page ; doodling comme sampling peu contraint, trace de la facture, exemple paradigmatique et pistes ZPD/adjacent possible |
+| `input/The Mystery of Jotney Songs.pdf` | couverture propositionnelle complete | 3 pages de contenu et une page blanche ; surprise necessaire, autonomie melodique, mobilite harmonique, contraintes invisibles et ecoute relationnelle |
+| `input/The Mystery of Jotney Songs -full.pdf` | dossier de travail composite, couverture propositionnelle complete | 38 pages ; versions successives, dialogue exploratoire, profil analytique, test contrefactuel et programme empirique Jotney |
 
 ## Documents anciens dans `old docs `
 
@@ -33,7 +34,7 @@ Le dossier existe bien sous le nom exact `old docs `, avec un espace final.
 | `old docs /Interesting Interactions (sent to Luc).doc` | couverture propositionnelle complete | interaction reflexive, apprentissage progressif, attention soutenue et parametre d'attachement |
 | `old docs /TBKLullyNOTES.doc` | couverture propositionnelle complete | parcours, gout comme activite, ordres d'interessant, apprentissage, similarite culturelle et abondance |
 | `old docs /ERCInteractiveReflexions2.docx` | couverture propositionnelle complete | reflexive interactive systems, ecart production/evaluation, miroir, protocole de creation et reception |
-| `old docs /ERCGrantPachetInterestingness (1).docx` | lu en premiere passe | version docx du programme Computational Interestingness |
+| `old docs /ERCGrantPachetInterestingness (1).docx` | supprime comme doublon | source Word du PDF canonique, sans proposition ni passage distinct apres comparaison integrale |
 | `old docs /Paper citations_updated.docx` | couverture propositionnelle complete | sens de la direction, correlations longues, innovation externe et multidimensionnalite de l'interessant |
 | `old docs /interestingness.pdf` | couverture propositionnelle complete | 23 pages relues ; regularites apprenables, progres de compression, frontiere dynamique, curiosite conditionnelle, beaute et limites du modele |
 | `old docs /interestingness-ijhcs.pdf` | lu en premiere passe | Colton/Bundy/Walsh, interestingness en decouverte mathematique |

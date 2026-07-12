@@ -110,6 +110,12 @@ l'autopresentation administrative.
 | 6-7 | Ethologie artificielle et active | `idea_0070` | traite |
 | 7-8 | Workplan, biographie et references | aucune carte autonome | inventorie |
 
+La copie `old docs /ERCGrantPachetInterestingness (1).docx` a ete rendue en huit
+pages puis comparee integralement a ce PDF le 12 juillet 2026. Le texte, les
+sections, les hypotheses, les projets et la bibliographie sont identiques ; seuls
+les retours de ligne, certaines espaces typographiques et le rendu des puces
+different. Le DOCX a donc ete supprime comme doublon, sans carte supplementaire.
+
 ### `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
@@ -136,6 +142,78 @@ preciser `idea_0100`. `idea_0109` formule le lien avec la these : l'interessant
 demande souvent de coupler sampling et resolution de contraintes. Cette derniere
 est explicitement une synthese avec `input/Notes thèse.pdf` et le grant ERC, non
 une conclusion esthetique attribuee au papier technique seul.
+
+### `input/Notes thèse.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
+
+La page unique a ete relue integralement et controlee sur le rendu. Sa forme est
+celle d'un aide-memoire : seules les propositions ou questions suffisamment
+determinees ont ete rattachees aux cartes.
+
+| Page | Noyaux examines | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1 | Doodling comme sampling peu contraint en dessin et en musique | `idea_0012`, `idea_0109` | traite |
+| 1 | Trace perceptible de la facture dans les artefacts sous contraintes | `idea_0087` | traite comme question empirique, non comme resultat |
+| 1 | Recherche d'un exemple paradigmatique ou factoriel | - | piste non developpee inventoriee |
+| 1 | ZPD, Vygotsky, Flow Machines et adjacent possible | cartes existantes non modifiees | rappels bibliographiques ou conceptuels inventories |
+
+Aucune nouvelle carte n'est necessaire : les deux apports substantiels precisent
+des propositions deja formulees, et les autres lignes ne contiennent pas encore
+d'affirmation defendue.
+
+### `input/The Mystery of Jotney Songs.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
+
+Les trois pages de contenu ont ete relues integralement et controlees sur le rendu ;
+la quatrieme page est blanche. Le texte propose une categorie musicale et plusieurs
+hypotheses interpretatives, non une etude de corpus ou un resultat empirique.
+
+| Pages | Noyaux examines | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1 | Autonomie melodique, mobilite harmonique et surprise necessaire | `idea_0019`, `idea_0111` | traite |
+| 1-2 | Chanson comme probleme invente, preuve et necessite cachee | `idea_0085`, `idea_0087` | traite |
+| 2-3 | Traditions musicales et hypothese prosodique | - | inventorie ; conjectures non demontrees |
+| 3 | Bande etroite entre densite et monotonie | `idea_0107`, `idea_0111` | traite |
+| 3 | Jotneyness relative a l'oreille et resistance a l'analyse | `idea_0071`, `idea_0090` | traite |
+| 3 | Questions de mesure et de modelisation | - | programme de recherche inventorie |
+| 4 | Page blanche | - | inventorie |
+
+`idea_0111` isole la proposition structurale nouvelle sur la compatibilite entre
+autonomie melodique et mobilite harmonique. Les pistes de causalite culturelle,
+linguistique et prosodique sont trop conjecturales dans ce texte pour devenir des
+cartes substantielles.
+
+### `input/The Mystery of Jotney Songs -full.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
+
+Les 38 pages ont ete relues integralement et controlees sur le rendu. Ce fichier
+est un dossier de travail composite : il juxtapose plusieurs versions de l'essai,
+un dialogue exploratoire, une fiche analytique, un essai structure et des notes.
+Les repetitions ont ete comparees entre elles ; elles ne justifient pas plusieurs
+cartes pour une meme proposition.
+
+| Pages | Noyaux examines | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1-4 | Essai developpe : surprise necessaire, propriete relationnelle et continuation simplement competente | `idea_0019`, `idea_0032`, `idea_0084`, `idea_0111` | traite |
+| 5-9 | Version courte de l'essai et page blanche | cartes deja rattachees au PDF court | doublon interne verifie |
+| 10-13 | Variante d'essai et notes | `idea_0019`, `idea_0085`, `idea_0087` | traite ; formulations redondantes regroupees |
+| 14-18 | Dialogue exploratoire sur le nom et la definition | `idea_0111` | traite ; echanges metadiscursifs non autonomises |
+| 19-23 | Traits harmoniques, melodiques, structurels et checklist | `idea_0039`, `idea_0111` | indices analytiques inventories, non eriges en definition |
+| 24-27 | Cas, contre-exemples et implications theoriques | `idea_0107`, `idea_0111` | traite ; bande d'entropie classee comme hypothese a tester |
+| 28-36 | Essai The Jotney Equilibrium | `idea_0039`, `idea_0084`, `idea_0111` | traite ; regime graduel distingue du genre |
+| 33-35 | Prosodie, geographie, cognition et contingence historique | - | programme empirique inventorie ; aucune conclusion attribuee |
+| 35-36 | Questions ouvertes et conclusion | cartes precedentes | programme de recherche inventorie |
+| 37-38 | Intercalaire et notes finales | - | exemples et anti-exemple inventories |
+
+La contribution propositionnelle propre du dossier long tient surtout a trois
+precisions : Jotney est un regime graduel plutot qu'un genre ; son analyse peut
+partir de l'ecart avec une continuation simplement competente ; et son equilibre
+doit etre mesure comme interaction entre dimensions. Les regroupements de corpus,
+la bande d'entropie intermediaire, l'explication prosodique et le declin suppose
+dans les systemes a boucles sont explicitement conserves comme hypotheses.
 
 ### `old docs /Synopsis MIT Press.doc`
 
@@ -270,15 +348,19 @@ les simulations demeurent des justifications, non des idees autonomes.
 
 ### Projets ERC sur interestingness
 
-Statut actuel : `couverture_partielle`.
+Statut actuel : `couverture_propositionnelle_complete` pour les quatre documents
+examines ; la copie Word redondante a ete supprimee.
 
 | Document | Couverture actuelle | Manques visibles |
 | --- | --- | --- |
 | `input/ERCGrantPachetInterestingness.pdf` | couverture propositionnelle complete ; voir ci-dessus | aucun manque propositionnel identifie |
-| `old docs /ERCGrantPachetInterestingness (1).docx` | recoupe le PDF ci-dessus | verifier s'il contient des differences non reprises |
+| `old docs /ERCGrantPachetInterestingness (1).docx` | comparaison differentielle complete ; doublon supprime | aucun contenu distinct |
 | `old docs /ERCInteractiveReflexions2.docx` | couverture propositionnelle complete ; onze cartes existantes raccordees | aucun manque propositionnel identifie |
 | `old docs /Paper citations_updated.docx` | couverture propositionnelle complete ; neuf cartes existantes raccordees | aucun manque propositionnel identifie |
 
 ## Conclusion provisoire
 
-Les 40 premieres cartes donnaient une carte du territoire. Elles ne suffisent pas a garantir que rien d'important ne manque. Les nouvelles cartes `idea_0041` a `idea_0070` ameliorent la couverture, mais la vraie garantie demandera une passe section par section, en cochant chaque plage de pages.
+La couverture est maintenant etablie document par document et plage par plage
+pour les sources marquees `couverture_propositionnelle_complete`. Cette garantie
+reste locale : les documents encore en `premiere_passe` doivent suivre le meme
+protocole avant que l'ensemble du corpus puisse etre declare complet.

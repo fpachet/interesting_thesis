@@ -10,6 +10,7 @@
 - `idea_0071` - L'interet est un gain temporaire propre a un observateur.
 - `idea_0107` - L'interessant se situe a la frontiere mouvante de ce qui est presque apprenable.
 - `idea_0108` - Une forme peut etre belle et neanmoins ennuyeuse parce qu'elle est deja connue.
+- `idea_0111` - Autonomie melodique et mobilite harmonique peuvent se renforcer au lieu de s'opposer.
 - `idea_0028` - Une mesure d'interet peut diriger la decouverte avant de juger sa valeur.
 - `idea_0029` - Un motif n'est interessant que par son effet sur des croyances.
 - `idea_0079` - Un concept hypertrophie peut cacher les mecanismes qu'il pretend expliquer.

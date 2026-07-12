@@ -7,7 +7,6 @@ status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
-  - "old docs /ERCGrantPachetInterestingness (1).docx"
   - "input/ERCGrantPachetInterestingness.pdf"
 source_notes:
   - "De l'impossibilite de creer, PDF p. 46-58"

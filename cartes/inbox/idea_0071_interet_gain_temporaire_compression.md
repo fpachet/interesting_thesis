@@ -6,8 +6,10 @@ level: articulation
 status: inbox
 sources:
   - "old docs /interestingness.pdf"
+  - "input/The Mystery of Jotney Songs.pdf"
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20"
+  - "Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3"
 tags:
   - schmidhuber
   - compression
@@ -45,3 +47,4 @@ differents, plutot qu'une seule surprise rapidement epuisee.
 - Consequence temporelle de `idea_0027`.
 - Precise `idea_0001` et `idea_0002` par un mecanisme d'apprentissage.
 - Eclaire `idea_0004` : l'ennui peut etre l'effet normal d'une comprehension reussie.
+- Le cas Jotney montre aussi que certaines formes survivent a l'epuisement de leur premiere surprise.

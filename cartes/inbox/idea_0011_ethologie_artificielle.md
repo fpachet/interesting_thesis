@@ -6,7 +6,6 @@ level: scientific
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /ERCGrantPachetInterestingness (1).docx"
   - "old docs /Paper citations_updated.docx"
 source_notes:
   - "Grant ERC PDF p. 3-4"

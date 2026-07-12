@@ -6,7 +6,6 @@ level: articulation
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /ERCGrantPachetInterestingness (1).docx"
   - "old docs /ERCInteractiveReflexions2.docx"
 source_notes:
   - "Grant ERC PDF p. 5"

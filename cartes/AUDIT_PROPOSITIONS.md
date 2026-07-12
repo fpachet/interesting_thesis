@@ -117,8 +117,8 @@ pas lui-meme cette theorie de l'interessant.
 
 ## Niveaux de proposition
 
-Les 107 cartes actives ont ete classees selon leur role argumentatif, independamment
-du genre de leur document source : 66 `conceptual`, 18 `scientific` et 23
+Les 108 cartes actives ont ete classees selon leur role argumentatif, independamment
+du genre de leur document source : 67 `conceptual`, 18 `scientific` et 23
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -127,6 +127,31 @@ dans le champ YAML `level` de chaque carte.
 les resultats scientifiques constituent un premier niveau ; les propositions sur
 l'interessant un second ; les passages argumentes entre les deux forment le niveau
 `articulation` et peuvent constituer une contribution propre de la these.
+
+`idea_0111` a ete creee lors de la lecture complete de
+`input/The Mystery of Jotney Songs.pdf`, puis precisee par le dossier composite
+`input/The Mystery of Jotney Songs -full.pdf`. Elle isole la proposition structurale
+absente des cartes existantes : autonomie melodique et mobilite harmonique peuvent
+se renforcer dans un equilibre etroit qui constitue un regime graduel, non un
+genre. La surprise necessaire, le probleme invente, la complexite invisible et
+l'effet de l'expertise ont ete raccordes a six cartes existantes. Le dossier long
+a en outre renforce `idea_0032`, `idea_0039` et `idea_0084` : comparaison avec la
+continuation simplement competente, interdependance des dimensions et caractere
+relationnel robuste. Les hypotheses sur l'entropie, la prosodie, l'histoire et la
+distribution France-Bresil-monde anglo-americain restent des pistes non
+demontrees, sans carte autonome.
+
+La page unique de `input/Notes thèse.pdf` a ensuite ete confrontee aux cartes
+existantes. Elle renforce `idea_0012` pour le doodling, `idea_0109` pour
+l'articulation entre sampling et contraintes, et `idea_0087` pour la question
+testable des traces laissees par une genese difficile. Ses mentions de ZPD, de
+l'exemple factoriel, de Flow Machines et de l'adjacent possible sont des rappels
+sans argument developpe ; elles ne deviennent donc pas des cartes.
+
+`old docs /ERCGrantPachetInterestingness (1).docx` a ete rendu en huit pages et
+compare integralement a `input/ERCGrantPachetInterestingness.pdf`. Il s'agit de la
+meme version textuelle du grant, sans formulation ni hypothese distincte. La copie
+Word a ete supprimee et aucune carte n'a ete modifiee pour cette source redondante.
 
 ## Identifiants retires
 

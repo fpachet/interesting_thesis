@@ -6,8 +6,12 @@ level: conceptual
 status: inbox
 sources:
   - "input/projet thèse philo.pdf"
+  - "input/The Mystery of Jotney Songs.pdf"
+  - "input/Notes thèse.pdf"
 source_notes:
   - "PDF p. 3"
+  - "Jotney, complexite invisible et necessites cachees sous l'aisance, PDF p. 1-3"
+  - "Notes these, question de la trace de la facture et de la difficultuosite, PDF p. 1"
 tags:
   - forme
   - rarete
@@ -27,6 +31,11 @@ L'interet nait alors d'une double perception : la forme va de soi une fois enten
 mais l'auditeur pressent qu'elle etait improbable avant d'exister. La simplicite du
 resultat et la difficulte de production ne s'opposent pas ; leur ecart constitue
 une source de singularite.
+
+Cette proposition ouvre une question empirique : quelles traces de la facture
+permettent effectivement d'inferer une genese contrainte lorsque les essais et les
+impasses ont disparu ? Il ne faut pas presupposer que la difficulte reelle laisse
+toujours une marque perceptible, ni qu'une marque de difficulte prouve l'interet.
 
 ## Interet pour la these
 

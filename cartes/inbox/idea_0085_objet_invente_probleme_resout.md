@@ -6,8 +6,10 @@ level: conceptual
 status: inbox
 sources:
   - "input/projet thèse philo.pdf"
+  - "input/The Mystery of Jotney Songs.pdf"
 source_notes:
   - "PDF p. 2"
+  - "Jotney, chanson comme probleme melodico-harmonique et preuve de sa solution, PDF p. 1-2"
 tags:
   - interessant
   - probleme

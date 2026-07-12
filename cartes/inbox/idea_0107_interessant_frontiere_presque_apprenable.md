@@ -6,8 +6,10 @@ level: conceptual
 status: inbox
 sources:
   - "old docs /interestingness.pdf"
+  - "input/The Mystery of Jotney Songs.pdf"
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-3 et 20"
+  - "Jotney, bande etroite entre mobilite, densite, monotonie et surprise, PDF p. 3"
 tags:
   - schmidhuber
   - apprentissage
@@ -43,4 +45,3 @@ credible de la virtuosite sans les confondre.
 - Precise `idea_0027` en caracterisant les regularites susceptibles de produire un progres.
 - Donne un mecanisme dynamique a `idea_0049` sur la zone de credibilite.
 - Complete `idea_0071`, qui explique pourquoi cette frontiere se deplace.
-
