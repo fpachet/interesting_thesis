@@ -5,7 +5,7 @@ kind: argument
 level: articulation
 status: inbox
 sources:
-  - "old docs /interestingness.pdf"
+  - "input/old_docs/interestingness.pdf"
   - "input/ERCGrantPachetInterestingness.pdf"
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-4 et 18-21"

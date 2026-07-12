@@ -5,8 +5,8 @@ kind: distinction
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf"
-  - "old docs /kdd95.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf"
+  - "input/old_docs/kdd95.pdf"
 tags:
   - knowledge_discovery
   - actionabilite

@@ -5,9 +5,9 @@ kind: argument
 level: articulation
 status: inbox
 sources:
-  - "old docs /Interesting Interactions (sent to Luc).doc"
-  - "old docs /ERCInteractiveReflexions2.docx"
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Interesting Interactions (sent to Luc).doc"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
+  - "input/old_docs/Synopsis MIT Press.doc"
   - "input/ERCGrantPachetInterestingness.pdf"
 source_notes:
   - "Grant ERC PDF p. 4"

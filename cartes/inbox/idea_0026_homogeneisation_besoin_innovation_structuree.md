@@ -5,7 +5,7 @@ kind: argument
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/Paper citations_updated.docx"
 source_notes:
   - "Projet SenseOfDirection, overview, rendu PDF p. 2"
 tags:

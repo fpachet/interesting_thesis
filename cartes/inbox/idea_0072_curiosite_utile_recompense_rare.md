@@ -5,7 +5,7 @@ kind: hypothesis
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness.pdf"
+  - "input/old_docs/interestingness.pdf"
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 3 et 13-17 ; limites p. 20-21"
 tags:

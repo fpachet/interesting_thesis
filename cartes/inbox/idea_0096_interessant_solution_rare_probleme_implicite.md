@@ -6,8 +6,8 @@ level: articulation
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /Synopsis MIT Press.doc"
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "PDF p. 4"
   - "Synopsis MIT Press, rendu PDF p. 22-23"

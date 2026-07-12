@@ -6,8 +6,8 @@ level: scientific
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /Synopsis MIT Press.doc"
-  - "old docs /ERCInteractiveReflexions2.docx"
+  - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
 source_notes:
   - "Grant ERC PDF p. 4-5"
   - "Synopsis MIT Press, prologue, rendu PDF p. 3"

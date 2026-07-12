@@ -5,8 +5,8 @@ kind: argument
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf"
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf"
 tags:
   - musique
   - attente

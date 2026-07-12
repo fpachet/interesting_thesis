@@ -6,7 +6,7 @@ level: scientific
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/Paper citations_updated.docx"
 source_notes:
   - "Grant ERC PDF p. 3-4"
   - "Projet SenseOfDirection, comportement de skip, rendu PDF p. 6"

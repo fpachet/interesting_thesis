@@ -5,7 +5,7 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "TBKLullyNOTES, aimer faire et mauvais candidats, rendu PDF p. 2"
 tags:

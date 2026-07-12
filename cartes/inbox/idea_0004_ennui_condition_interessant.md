@@ -5,7 +5,7 @@ kind: argument
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 6-7, 10 et 27-30"
 tags:

@@ -5,8 +5,8 @@ kind: argument
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "Synopsis MIT Press, chapitre Active Listening, rendu PDF p. 14-20"
   - "TBKLullyNOTES, le beaucoup relatif a ce qui peut etre apprehende, rendu PDF p. 8"

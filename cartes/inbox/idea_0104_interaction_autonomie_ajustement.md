@@ -5,9 +5,9 @@ kind: hypothesis
 level: articulation
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
-  - "old docs /Interesting Interactions (sent to Luc).doc"
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/old_docs/Interesting Interactions (sent to Luc).doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "Synopsis MIT Press, chapitre Interesting Interactions, rendu PDF p. 36"
   - "Interesting Interactions, parametre d'attachement, rendu PDF p. 7"

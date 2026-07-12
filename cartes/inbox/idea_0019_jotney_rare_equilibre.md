@@ -6,7 +6,7 @@ level: conceptual
 status: inbox
 sources:
   - "input/The Mystery of Jotney Songs.pdf"
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
   - "The Mystery of Jotney Songs, necessary surprise et justification retrospective, PDF p. 1-3"
   - "Synopsis MIT Press, chapitre Aha, rendu PDF p. 31-34"

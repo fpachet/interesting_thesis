@@ -6,7 +6,7 @@ level: scientific
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/Paper citations_updated.docx"
   - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
 source_notes:
   - "PDF p. 6"

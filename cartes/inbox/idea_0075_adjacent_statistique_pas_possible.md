@@ -6,7 +6,7 @@ level: articulation
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/Paper citations_updated.docx"
 source_notes:
   - "PDF p. 22-25"
   - "Projet SenseOfDirection, mecanismes explicites d'innovation, rendu PDF p. 5"

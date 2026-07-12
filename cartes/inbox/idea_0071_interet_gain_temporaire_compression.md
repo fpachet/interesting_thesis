@@ -5,7 +5,7 @@ kind: hypothesis
 level: articulation
 status: inbox
 sources:
-  - "old docs /interestingness.pdf"
+  - "input/old_docs/interestingness.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20"

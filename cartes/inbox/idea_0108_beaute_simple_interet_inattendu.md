@@ -5,7 +5,7 @@ kind: distinction
 level: conceptual
 status: inbox
 sources:
-  - "old docs /interestingness.pdf"
+  - "input/old_docs/interestingness.pdf"
 source_notes:
   - "Schmidhuber, What's Interesting?, distinction entre beauty et interestingness, PDF p. 20-21"
 tags:

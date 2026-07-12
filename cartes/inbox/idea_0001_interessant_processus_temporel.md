@@ -5,9 +5,9 @@ kind: definition
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
   - "input/projet thèse philo.pdf"
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "Projet these philo, PDF p. 1-3"
   - "Synopsis MIT Press, rendu PDF p. 7-10 et 18-20"

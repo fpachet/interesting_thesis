@@ -5,7 +5,7 @@ kind: argument
 level: scientific
 status: inbox
 sources:
-  - "old docs /kdd95.pdf"
+  - "input/old_docs/kdd95.pdf"
 tags:
   - knowledge_discovery
   - croyance

@@ -5,7 +5,7 @@ kind: argument
 level: articulation
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
   - "Synopsis MIT Press, chapitre Active Listening, rendu PDF p. 11-16 et 20"
 tags:

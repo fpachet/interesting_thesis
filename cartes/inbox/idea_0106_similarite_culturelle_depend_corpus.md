@@ -5,7 +5,7 @@ kind: distinction
 level: scientific
 status: inbox
 sources:
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "TBKLullyNOTES, similarites calculables et choix du corpus, rendu PDF p. 6"
 tags:

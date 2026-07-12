@@ -6,7 +6,7 @@ level: scientific
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /ERCInteractiveReflexions2.docx"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
 source_notes:
   - "Grant ERC PDF p. 1"
   - "Projet REFLEX, discussion de Salganik, rendu PDF p. 4"

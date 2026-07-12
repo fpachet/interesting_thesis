@@ -5,7 +5,7 @@ kind: argument
 level: articulation
 status: inbox
 sources:
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "TBKLullyNOTES, jeu de regle et erreur non repetee, rendu PDF p. 2 et 5"
 tags:

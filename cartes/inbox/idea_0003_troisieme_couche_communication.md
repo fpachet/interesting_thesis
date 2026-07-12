@@ -6,7 +6,7 @@ level: conceptual
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /ERCInteractiveReflexions2.docx"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
 source_notes:
   - "Grant ERC PDF p. 2"
   - "Projet REFLEX, notes d'hypotheses, rendu PDF p. 5"

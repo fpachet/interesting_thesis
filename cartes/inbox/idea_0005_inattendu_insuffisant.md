@@ -5,8 +5,8 @@ kind: objection
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
-  - "old docs /interestingness.pdf"
+  - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/old_docs/interestingness.pdf"
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 4 et 28"
   - "Schmidhuber, What's Interesting?, PDF p. 2 et 4"

@@ -5,7 +5,7 @@ kind: example
 level: articulation
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf"
 tags:
   - thue_morse
   - sequence

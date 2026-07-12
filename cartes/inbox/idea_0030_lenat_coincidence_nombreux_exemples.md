@@ -5,7 +5,7 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Lenat and interestingness.eml"
+  - "input/old_docs/Lenat and interestingness.eml"
 tags:
   - lenat
   - coincidence

@@ -6,8 +6,8 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
-  - "old docs /ERCInteractiveReflexions2.docx"
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "PDF p. 39-43"
   - "Projet REFLEX, hypothese sur l'evaluation de ses propres artefacts, rendu PDF p. 5"

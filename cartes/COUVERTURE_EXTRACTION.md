@@ -110,7 +110,7 @@ l'autopresentation administrative.
 | 6-7 | Ethologie artificielle et active | `idea_0070` | traite |
 | 7-8 | Workplan, biographie et references | aucune carte autonome | inventorie |
 
-La copie `old docs /ERCGrantPachetInterestingness (1).docx` a ete rendue en huit
+La copie `input/old_docs/ERCGrantPachetInterestingness (1).docx` a ete rendue en huit
 pages puis comparee integralement a ce PDF le 12 juillet 2026. Le texte, les
 sections, les hypotheses, les projets et la bibliographie sont identiques ; seuls
 les retours de ligne, certaines espaces typographiques et le rendu des puces
@@ -215,7 +215,7 @@ doit etre mesure comme interaction entre dimensions. Les regroupements de corpus
 la bande d'entropie intermediaire, l'explication prosodique et le declin suppose
 dans les systemes a boucles sont explicitement conserves comme hypotheses.
 
-### `old docs /Synopsis MIT Press.doc`
+### `input/old_docs/Synopsis MIT Press.doc`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
@@ -240,7 +240,7 @@ artificiellement en propositions.
 | 37-40 | Prospection, conclusion et position philosophique | `idea_0012` | traite ; plusieurs fragments seulement inventories |
 | 41-43 | Bibliographie et index de travail | aucune carte autonome | inventorie |
 
-### `old docs /ERCInteractiveReflexions2.docx`
+### `input/old_docs/ERCInteractiveReflexions2.docx`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
@@ -261,7 +261,7 @@ trois theories distinctes de l'interessant.
 | 12-15 | Bibliographies | aucune carte autonome | inventorie |
 | 16-17 | Criteres ERC, risques et boucle semantique | `idea_0006`, `idea_0068` | traite ; criteres administratifs ecartes |
 
-### `old docs /Paper citations_updated.docx`
+### `input/old_docs/Paper citations_updated.docx`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
@@ -282,7 +282,7 @@ des appuis de ces propositions et les annexes ERC ne sont pas devenues des carte
 | 10-12 | CV et financements | aucune carte autonome | hors du theme propositionnel |
 | 13-15 | Track record | aucune carte autonome | inventorie ; resultats deja representes ailleurs |
 
-### `old docs /Interesting Interactions (sent to Luc).doc`
+### `input/old_docs/Interesting Interactions (sent to Luc).doc`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
@@ -300,7 +300,7 @@ autonomie et attachement au geste de l'utilisateur.
 | 7 | Interesting Interactions | `idea_0006`, `idea_0007`, `idea_0104` | traite |
 | 8-9 | Bibliographie Continuator | aucune carte autonome | inventorie |
 
-### `old docs /TBKLullyNOTES.doc`
+### `input/old_docs/TBKLullyNOTES.doc`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
@@ -354,9 +354,9 @@ examines ; la copie Word redondante a ete supprimee.
 | Document | Couverture actuelle | Manques visibles |
 | --- | --- | --- |
 | `input/ERCGrantPachetInterestingness.pdf` | couverture propositionnelle complete ; voir ci-dessus | aucun manque propositionnel identifie |
-| `old docs /ERCGrantPachetInterestingness (1).docx` | comparaison differentielle complete ; doublon supprime | aucun contenu distinct |
-| `old docs /ERCInteractiveReflexions2.docx` | couverture propositionnelle complete ; onze cartes existantes raccordees | aucun manque propositionnel identifie |
-| `old docs /Paper citations_updated.docx` | couverture propositionnelle complete ; neuf cartes existantes raccordees | aucun manque propositionnel identifie |
+| `input/old_docs/ERCGrantPachetInterestingness (1).docx` | comparaison differentielle complete ; doublon supprime | aucun contenu distinct |
+| `input/old_docs/ERCInteractiveReflexions2.docx` | couverture propositionnelle complete ; onze cartes existantes raccordees | aucun manque propositionnel identifie |
+| `input/old_docs/Paper citations_updated.docx` | couverture propositionnelle complete ; neuf cartes existantes raccordees | aucun manque propositionnel identifie |
 
 ## Conclusion provisoire
 

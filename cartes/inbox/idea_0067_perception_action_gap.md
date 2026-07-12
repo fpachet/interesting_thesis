@@ -6,7 +6,7 @@ level: articulation
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /ERCInteractiveReflexions2.docx"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
 source_notes:
   - "Grant ERC PDF p. 5"
   - "Projet REFLEX, hypothese sur l'anticipation du gout, rendu PDF p. 5"

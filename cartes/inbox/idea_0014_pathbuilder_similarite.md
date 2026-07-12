@@ -5,8 +5,8 @@ kind: hypothesis
 level: scientific
 status: inbox
 sources:
-  - "old docs /TBKLullyNOTES.doc"
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
   - "TBKLullyNOTES, hypothese PathBuilder, rendu PDF p. 1"
   - "Synopsis MIT Press, rendu PDF p. 18-21"

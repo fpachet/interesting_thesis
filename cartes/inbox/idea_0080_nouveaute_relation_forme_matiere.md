@@ -6,7 +6,7 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/Paper citations_updated.docx"
 source_notes:
   - "PDF p. 87-88"
   - "Projet SenseOfDirection, templagiarism et structure adaptee au contenu, rendu PDF p. 2-6"

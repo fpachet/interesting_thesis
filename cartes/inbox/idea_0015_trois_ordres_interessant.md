@@ -5,7 +5,7 @@ kind: distinction
 level: conceptual
 status: inbox
 sources:
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "TBKLullyNOTES, trois ordres d'interestingness, rendu PDF p. 3"
 tags:

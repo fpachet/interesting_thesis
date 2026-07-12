@@ -5,7 +5,7 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 10"
 tags:

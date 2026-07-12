@@ -5,7 +5,7 @@ kind: argument
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf"
 tags:
   - sequence_mining
   - croyances

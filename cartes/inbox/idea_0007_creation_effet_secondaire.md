@@ -5,9 +5,9 @@ kind: argument
 level: articulation
 status: inbox
 sources:
-  - "old docs /Interesting Interactions (sent to Luc).doc"
-  - "old docs /ERCInteractiveReflexions2.docx"
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/Interesting Interactions (sent to Luc).doc"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "Projet REFLEX, resume et description du projet, rendu PDF p. 1 et 4-6"
   - "Interesting Interactions, rendu PDF p. 7"

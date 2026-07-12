@@ -62,36 +62,36 @@ propositionnelle complete de `input/ERCGrantPachetInterestingness.pdf`.
 
 `idea_0101`, `idea_0102`, `idea_0103`, `idea_0104` et `idea_0105` ont ete
 creees lors de la lecture propositionnelle complete de
-`old docs /Synopsis MIT Press.doc`. Elles distinguent des propositions seulement
+`input/old_docs/Synopsis MIT Press.doc`. Elles distinguent des propositions seulement
 esquissees dans les cartes anterieures sans transformer chaque exemple ou titre de
 chapitre en idee autonome.
 
-La lecture complete de `old docs /ERCInteractiveReflexions2.docx` n'a produit
+La lecture complete de `input/old_docs/ERCInteractiveReflexions2.docx` n'a produit
 aucun nouvel identifiant. Ses propositions pertinentes pour l'interessant ont ete
 raccordees a onze cartes existantes, principalement `idea_0006`, `idea_0007`,
 `idea_0067`, `idea_0068` et `idea_0094`. Les elements propres au montage ERC ou
 insuffisamment developpes n'ont pas ete convertis en cartes.
 
-La lecture complete de `old docs /Paper citations_updated.docx` n'a produit aucun
+La lecture complete de `input/old_docs/Paper citations_updated.docx` n'a produit aucun
 nouvel identifiant. Les trois idees explicites du projet SenseOfDirection ont ete
 raccordees a neuf cartes existantes. `idea_0039` a notamment ete elargie pour
 formuler la proposition selon laquelle l'interessant d'une sequence emerge de
 dimensions qui se contraignent mutuellement, plutot que d'ajouter une carte
 redondante sur la multidimensionnalite.
 
-La lecture complete de `old docs /Interesting Interactions (sent to Luc).doc` n'a
+La lecture complete de `input/old_docs/Interesting Interactions (sent to Luc).doc` n'a
 produit aucun nouvel identifiant. Son unique chapitre original renforce
 `idea_0006`, `idea_0007` et `idea_0104`; le prologue et l'outline reprennent le
 `Synopsis MIT Press.doc` et ont ete traites comme doublons textuels.
 
 `idea_0106` a ete creee lors de la lecture complete de
-`old docs /TBKLullyNOTES.doc`. Elle conserve une proposition absente des cartes de
+`input/old_docs/TBKLullyNOTES.doc`. Elle conserve une proposition absente des cartes de
 parcours : une similarite culturelle est relative au corpus qui rend les
 cooccurrences observables et ne possede pas de verite terrain unique. Les autres
 propositions du carnet ont ete raccordees a douze cartes existantes.
 
 `idea_0107` et `idea_0108` ont ete creees lors de la verification complete de
-`old docs /interestingness.pdf`. La premiere remplace l'idee trop vague d'un ratio
+`input/old_docs/interestingness.pdf`. La premiere remplace l'idee trop vague d'un ratio
 ideal ordre/hasard par une frontiere dynamique du presque-apprenable ; la seconde
 distingue la simplicite qui peut fonder la beaute de la decouverte qui produit
 l'interet. Six cartes existantes ont ete renforcees. Les deux cerveaux, la
@@ -148,7 +148,7 @@ testable des traces laissees par une genese difficile. Ses mentions de ZPD, de
 l'exemple factoriel, de Flow Machines et de l'adjacent possible sont des rappels
 sans argument developpe ; elles ne deviennent donc pas des cartes.
 
-`old docs /ERCGrantPachetInterestingness (1).docx` a ete rendu en huit pages et
+`input/old_docs/ERCGrantPachetInterestingness (1).docx` a ete rendu en huit pages et
 compare integralement a `input/ERCGrantPachetInterestingness.pdf`. Il s'agit de la
 meme version textuelle du grant, sans formulation ni hypothese distincte. La copie
 Word a ete supprimee et aucune carte n'a ete modifiee pour cette source redondante.

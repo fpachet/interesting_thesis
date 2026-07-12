@@ -6,8 +6,8 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
-  - "old docs /ERCInteractiveReflexions2.docx"
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
+  - "input/old_docs/Paper citations_updated.docx"
 source_notes:
   - "PDF p. 96-101"
   - "Projet REFLEX, note de travail sur le stopping problem, rendu PDF p. 5"

@@ -5,7 +5,7 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc"
 tags:
   - musique
   - relation

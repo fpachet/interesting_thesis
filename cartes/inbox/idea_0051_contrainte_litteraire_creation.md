@@ -6,7 +6,7 @@ level: articulation
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
   - "PDF p. 62-68"
   - "Synopsis MIT Press, rendu PDF p. 22 et 36"

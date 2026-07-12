@@ -5,7 +5,7 @@ kind: argument
 level: articulation
 status: inbox
 sources:
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/Paper citations_updated.docx"
   - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
 source_notes:
   - "Projet SenseOfDirection, resume et challenge, rendu PDF p. 1-3"

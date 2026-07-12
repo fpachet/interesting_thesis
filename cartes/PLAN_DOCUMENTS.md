@@ -1,6 +1,9 @@
 # Plan documentaire initial
 
-Ce plan sert de carte du territoire avant classement des idees. Il distingue les documents de these actuels, les anciens documents ajoutes dans `old docs `, et les artefacts deja produits par le pipeline.
+Ce plan sert de carte du territoire avant classement des idees. Toutes les sources
+sont regroupees sous `input/` : les documents de these actuels sont a sa racine et
+les archives sont conservees dans `input/old_docs/`. Les artefacts produits par le
+pipeline restent separes.
 
 L'ordre de lecture et d'extraction propositionnelle est maintenu dans
 `ORDRE_TRAITEMENT_DOCUMENTS.md`. Ce fichier-ci reste l'inventaire descriptif du
@@ -24,24 +27,25 @@ articulations reflexives entre ces deux niveaux.
 | `input/The Mystery of Jotney Songs.pdf` | couverture propositionnelle complete | 3 pages de contenu et une page blanche ; surprise necessaire, autonomie melodique, mobilite harmonique, contraintes invisibles et ecoute relationnelle |
 | `input/The Mystery of Jotney Songs -full.pdf` | dossier de travail composite, couverture propositionnelle complete | 38 pages ; versions successives, dialogue exploratoire, profil analytique, test contrefactuel et programme empirique Jotney |
 
-## Documents anciens dans `old docs `
+## Documents anciens dans `input/old_docs/`
 
-Le dossier existe bien sous le nom exact `old docs `, avec un espace final.
+Ce sous-dossier preserve la provenance historique des archives tout en maintenant
+une seule racine documentaire.
 
 | Document | Statut de lecture | Idees dominantes |
 | --- | --- | --- |
-| `old docs /Synopsis MIT Press.doc` | couverture propositionnelle complete | temporal interestingness, ennui, active listening, exploration contrainte, effet de aha, interaction autonome |
-| `old docs /Interesting Interactions (sent to Luc).doc` | couverture propositionnelle complete | interaction reflexive, apprentissage progressif, attention soutenue et parametre d'attachement |
-| `old docs /TBKLullyNOTES.doc` | couverture propositionnelle complete | parcours, gout comme activite, ordres d'interessant, apprentissage, similarite culturelle et abondance |
-| `old docs /ERCInteractiveReflexions2.docx` | couverture propositionnelle complete | reflexive interactive systems, ecart production/evaluation, miroir, protocole de creation et reception |
-| `old docs /ERCGrantPachetInterestingness (1).docx` | supprime comme doublon | source Word du PDF canonique, sans proposition ni passage distinct apres comparaison integrale |
-| `old docs /Paper citations_updated.docx` | couverture propositionnelle complete | sens de la direction, correlations longues, innovation externe et multidimensionnalite de l'interessant |
-| `old docs /interestingness.pdf` | couverture propositionnelle complete | 23 pages relues ; regularites apprenables, progres de compression, frontiere dynamique, curiosite conditionnelle, beaute et limites du modele |
-| `old docs /interestingness-ijhcs.pdf` | lu en premiere passe | Colton/Bundy/Walsh, interestingness en decouverte mathematique |
-| `old docs /kdd95.pdf` | lu en premiere passe | mesures subjectives d'interet en knowledge discovery, croyances, surprise, actionabilite |
-| `old docs /Lenat and interestingness.eml` | lu en premiere passe | Lenat, coincidence, nombreux exemples |
-| `old docs /interestingness ERC.docx` | lisible mais vide a l'extraction | probablement conteneur docx sans texte principal exploitable |
-| `old docs /interestingness.zip` | dezippe puis supprime | archive de references anciennes ; les fichiers texte uniques ont ete distilles, les `.ps` doublonnant des PDF et les doublons exacts ont ete supprimes, les MP3 restent non transcrits |
+| `input/old_docs/Synopsis MIT Press.doc` | couverture propositionnelle complete | temporal interestingness, ennui, active listening, exploration contrainte, effet de aha, interaction autonome |
+| `input/old_docs/Interesting Interactions (sent to Luc).doc` | couverture propositionnelle complete | interaction reflexive, apprentissage progressif, attention soutenue et parametre d'attachement |
+| `input/old_docs/TBKLullyNOTES.doc` | couverture propositionnelle complete | parcours, gout comme activite, ordres d'interessant, apprentissage, similarite culturelle et abondance |
+| `input/old_docs/ERCInteractiveReflexions2.docx` | couverture propositionnelle complete | reflexive interactive systems, ecart production/evaluation, miroir, protocole de creation et reception |
+| `input/old_docs/ERCGrantPachetInterestingness (1).docx` | supprime comme doublon | source Word du PDF canonique, sans proposition ni passage distinct apres comparaison integrale |
+| `input/old_docs/Paper citations_updated.docx` | couverture propositionnelle complete | sens de la direction, correlations longues, innovation externe et multidimensionnalite de l'interessant |
+| `input/old_docs/interestingness.pdf` | couverture propositionnelle complete | 23 pages relues ; regularites apprenables, progres de compression, frontiere dynamique, curiosite conditionnelle, beaute et limites du modele |
+| `input/old_docs/interestingness-ijhcs.pdf` | lu en premiere passe | Colton/Bundy/Walsh, interestingness en decouverte mathematique |
+| `input/old_docs/kdd95.pdf` | lu en premiere passe | mesures subjectives d'interet en knowledge discovery, croyances, surprise, actionabilite |
+| `input/old_docs/Lenat and interestingness.eml` | lu en premiere passe | Lenat, coincidence, nombreux exemples |
+| `input/old_docs/interestingness ERC.docx` | lisible mais vide a l'extraction | probablement conteneur docx sans texte principal exploitable |
+| `input/old_docs/interestingness.zip` | dezippe puis supprime | archive de references anciennes ; les fichiers texte uniques ont ete distilles, les `.ps` doublonnant des PDF et les doublons exacts ont ete supprimes, les MP3 restent non transcrits |
 
 ## Fichiers extraits de `interestingness.zip`
 
@@ -58,7 +62,7 @@ Le dossier existe bien sous le nom exact `old docs `, avec un espace final.
 | `Dan Gang/aaai99A.pdf`, `aaai99B.pdf`, `netneg.pdf` | premiere_passe | systemes hybrides neuro-symboliques, connaissance musicale, regles/fuzzy/apprentissage |
 | `WhereMusicWillBeComingFromNYTArticle.txt` | premiere_passe | copies parfaites/gratuites/liquides, attention comme rarete, musique comme verbe |
 | `mvdig003.htm` | premiere_passe_legere | discussion fan autour de paroles/musique, interpretation, hooks, collaboration |
-| `interestingness-ijhcs.pdf`, `kdd95.pdf` | supprimes_doublons | memes documents que ceux deja presents directement dans `old docs ` |
+| `interestingness-ijhcs.pdf`, `kdd95.pdf` | supprimes_doublons | memes documents que ceux deja presents directement dans `input/old_docs/` |
 | fichiers `.ps` | supprimes_doublons | doublons PostScript des PDF disponibles |
 | fichiers `.mp3` | non_transcrits | exemples sonores non analyses dans cette passe |
 

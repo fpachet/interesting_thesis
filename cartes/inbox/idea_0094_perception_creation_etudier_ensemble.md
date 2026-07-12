@@ -6,7 +6,7 @@ level: articulation
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
-  - "old docs /ERCInteractiveReflexions2.docx"
+  - "input/old_docs/ERCInteractiveReflexions2.docx"
 source_notes:
   - "PDF p. 2 et 4"
   - "Projet REFLEX, resume et hypotheses, rendu PDF p. 1 et 5 ; protocole p. 6-8"

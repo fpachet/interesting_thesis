@@ -5,9 +5,9 @@ kind: method
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Excited Bored.doc"
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html"
-  - "old docs /Synopsis MIT Press.doc"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Excited Bored.doc"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html"
+  - "input/old_docs/Synopsis MIT Press.doc"
   - "input/The Mystery of Jotney Songs -full.pdf"
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 27-30"

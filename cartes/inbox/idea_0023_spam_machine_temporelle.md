@@ -5,7 +5,7 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
-  - "old docs /TBKLullyNOTES.doc"
+  - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "TBKLullyNOTES, titres, fausse date et relance, rendu PDF p. 1 et 3-5"
 tags:

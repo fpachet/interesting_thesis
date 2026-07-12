@@ -5,10 +5,10 @@ kind: method
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf"
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf"
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf"
-  - "old docs /Paper citations_updated.docx"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf"
+  - "input/old_docs/Paper citations_updated.docx"
   - "input/The Mystery of Jotney Songs -full.pdf"
 source_notes:
   - "Projet SenseOfDirection, idee 3 sur la multidimensionnalite, rendu PDF p. 6"

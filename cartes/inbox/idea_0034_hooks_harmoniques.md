@@ -5,8 +5,8 @@ kind: example
 level: articulation
 status: inbox
 sources:
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/hooks in hits/Hooks in hits.doc"
-  - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/hooks in hits/Hooks in hits.doc"
+  - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm"
 tags:
   - musique
   - harmonie

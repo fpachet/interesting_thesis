@@ -5,7 +5,7 @@ kind: argument
 level: scientific
 status: inbox
 sources:
-  - "old docs /interestingness-ijhcs.pdf"
+  - "input/old_docs/interestingness-ijhcs.pdf"
 tags:
   - mathematiques
   - decouverte
