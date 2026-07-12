@@ -1,6 +1,6 @@
 ---
 id: idea_0102
-title: "Un controle devient significatif lorsqu'il preserve des invariants semantiques"
+title: "Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques"
 kind: argument
 level: articulation
 status: inbox
@@ -14,27 +14,24 @@ tags:
   - active_listening
   - invariants
 ---
+## Idée
 
-## Idee
+Les contrôles d'un dispositif musical héritent souvent des possibilités de la technique
+: volume, position, vitesse ou paramètres atomiques. Ils deviennent musicalement
+significatifs seulement si le système connaît des relations entre les parties et propage
+l'action de l'utilisateur de manière à préserver certaines intentions globales.
 
-Les controles d'un dispositif musical heritent souvent des possibilites de la
-technique : volume, position, vitesse ou parametres atomiques. Ils deviennent
-musicalement significatifs seulement si le systeme connait des relations entre les
-parties et propage l'action de l'utilisateur de maniere a preserver certaines
-intentions globales.
+Dans MusicSpace, déplacer un instrument peut ainsi entraîner le déplacement d'un autre
+pour conserver un groupe ou un équilibre. L'invariant ne dicte pas une configuration
+unique; il définit une famille de variations dans laquelle l'action reste cohérente. Le
+contrôle exprime alors une intention plutôt qu'une manipulation de bouton.
 
-Dans MusicSpace, deplacer un instrument peut ainsi entrainer le deplacement d'un
-autre pour conserver un groupe ou un equilibre. L'invariant ne dicte pas une
-configuration unique; il definit une famille de variations dans laquelle l'action
-reste coherente. Le controle exprime alors une intention plutot qu'une manipulation
-de bouton.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette proposition donne un critere de conception concret pour une participation qui
-transforme l'oeuvre sans rendre toute action equivalente.
+Cette proposition donne un critère de conception concret pour une participation qui
+transforme l'œuvre sans rendre toute action équivalente.
 
 ## Liens
 
-- Complete `idea_0006` sur la boucle entre utilisateur et systeme.
-- A distinguer de la simple legalite syntaxique de `idea_0098`.
+- Complète `idea_0006` sur la boucle entre utilisateur et système.
+- à distinguer de la simple légalité syntaxique de `idea_0098`.

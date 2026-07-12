@@ -1,6 +1,6 @@
 ---
 id: idea_0058
-title: "Le vrai virtuose paie la fluidite par une vie de travail"
+title: "Le vrai virtuose paie la fluidité par une vie de travail"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,22 +14,21 @@ tags:
   - style
   - musique
 ---
+## Idée
 
-## Idee
+La vraie virtuosité ne se réduit ni à la vitesse ni à l'absence de faute. Des années de
+travail incorporent des contraintes techniques et des heuristiques jusqu'à ce que le
+geste devienne disponible sans calcul conscient. Mais cette fluidité reste singulière :
+McLaughlin, Di Meola ou Paco de Lucia peuvent être également virtuoses sans produire les
+mêmes trajectoires ni résoudre les mêmes résistances.
 
-La vraie virtuosite ne se reduit ni a la vitesse ni a l'absence de faute. Des
-annees de travail incorporent des contraintes techniques et des heuristiques jusqu'a
-ce que le geste devienne disponible sans calcul conscient. Mais cette fluidite reste
-singuliere : McLaughlin, Di Meola ou Paco de Lucia peuvent etre egalement virtuoses
-sans produire les memes trajectoires ni resoudre les memes resistances.
+L'apprentissage a aussi un effet moral et perceptif. Plus l'expert maîtrise, plus il
+voit les contraintes et l'étendue de ce qui lui échappe. La fluidité authentique produit
+de l'humilité parce qu'elle conserve la mémoire du prix paye.
 
-L'apprentissage a aussi un effet moral et perceptif. Plus l'expert maitrise, plus il
-voit les contraintes et l'etendue de ce qui lui echappe. La fluidite authentique
-produit de l'humilite parce qu'elle conserve la memoire du prix paye.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte oppose la fluidite acquise a la pseudo-fluidite spectaculaire.
+Cette carte oppose la fluidité acquise à la pseudo-fluidité spectaculaire.
 
 ## Liens
 

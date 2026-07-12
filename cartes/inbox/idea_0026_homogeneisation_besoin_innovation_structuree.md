@@ -1,6 +1,6 @@
 ---
 id: idea_0026
-title: "L'homogeneisation culturelle appelle une innovation structuree"
+title: "L'homogénéisation culturelle appelle une innovation structurée"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,18 +14,17 @@ tags:
   - homogenisation
   - innovation
 ---
+## Idée
 
-## Idee
+La pression industrielle produit beaucoup de contenus imitatifs et homogènes. Une
+production orientée par la demande anticipée tend à réutiliser les traits des succès
+antérieurs et peut accélérer cette convergence. Le problème de l'IA créative n'est donc
+pas seulement d'automatiser la production, mais d'introduire des mécanismes d'innovation
+structurante sans confondre nouveauté et anomalie locale.
 
-La pression industrielle produit beaucoup de contenus imitatifs et homogenes. Une
-production orientee par la demande anticipee tend a reutiliser les traits des succes
-anterieurs et peut accelerer cette convergence. Le probleme de l'IA creative n'est
-donc pas seulement d'automatiser la production, mais d'introduire des mecanismes
-d'innovation structurante sans confondre nouveaute et anomalie locale.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne un enjeu historique et economique au probleme de l'interessant.
+Cette carte donne un enjeu historique et économique au problème de l'intéressant.
 
 ## Liens
 

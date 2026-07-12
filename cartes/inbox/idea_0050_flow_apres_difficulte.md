@@ -1,6 +1,6 @@
 ---
 id: idea_0050
-title: "Le flow est le signal tardif d'une difficulte incorporee, pas un moteur creatif"
+title: "Le flow est le signal tardif d'une difficulté incorporée, pas un moteur créatif"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,24 +14,22 @@ tags:
   - apprentissage
   - fluidite
 ---
+## Idée
 
-## Idee
+Le flow apparaît lorsque les compétences acquises sont ajustées à une difficulté réelle
+: trop facile, la tâche ennuie ; trop difficile, elle angoisse. Il ne génère donc pas la
+création et n'explique pas la formation des compétences. Il signale subjectivement que
+le travail antérieur a rendu la difficulté traversable.
 
-Le flow apparait lorsque les competences acquises sont ajustees a une difficulte
-reelle : trop facile, la tache ennuie ; trop difficile, elle angoisse. Il ne genere
-donc pas la creation et n'explique pas la formation des competences. Il signale
-subjectivement que le travail anterieur a rendu la difficulte traversable.
+Une interface sans friction peut imiter cette sensation tout en désengageant les
+compétences. Supprimer l'obstacle ne produit pas le flow : cela supprime la résistance
+que le sujet aurait pu incorporer et transforme la fluidité en illusion de maîtrise.
 
-Une interface sans friction peut imiter cette sensation tout en desengageant les
-competences. Supprimer l'obstacle ne produit pas le flow : cela supprime la
-resistance que le sujet aurait pu incorporer et transforme la fluidite en illusion
-de maitrise.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte combat la promesse technologique de creation sans effort.
+Cette carte combat la promesse technologique de création sans effort.
 
 ## Liens
 
-- Proche de `idea_0007`, sur la creation produite par une interaction soutenue.
+- Proche de `idea_0007`, sur la création produite par une interaction soutenue.
 - Proche de `idea_0060`.

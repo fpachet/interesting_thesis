@@ -1,6 +1,6 @@
 ---
 id: idea_0001
-title: "Pour les objets temporels, l'interet appartient a l'agencement plus qu'a l'item isole"
+title: "Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé"
 kind: definition
 level: conceptual
 status: inbox
@@ -9,7 +9,7 @@ sources:
   - "input/projet thèse philo.pdf"
   - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
-  - "Projet these philo, PDF p. 1-3"
+  - "Projet thèse philo, PDF p. 1-3"
   - "Synopsis MIT Press, rendu PDF p. 7-10 et 18-20"
   - "TBKLullyNOTES, distinction temporel/atemporal, rendu PDF p. 5"
 tags:
@@ -17,31 +17,31 @@ tags:
   - temporalite
   - experience
 ---
+## Idée
 
-## Idee
+Un objet n'est pas intéressant par la seule possession de certaines propriétés. Son
+intérêt dépend de la séquence dans laquelle il apparaît : ce qui le précède fait naître
+des attentes, son apparition les confirme ou les déplace, puis la répétition transforme
+l'effet en reconnaissance ou en fatigue. Le même objet peut donc captiver ou ennuyer
+selon son ordre d'apparition.
 
-Un objet n'est pas interessant par la seule possession de certaines proprietes.
-Son interet depend de la sequence dans laquelle il apparait : ce qui le precede
-fait naitre des attentes, son apparition les confirme ou les deplace, puis la
-repetition transforme l'effet en reconnaissance ou en fatigue. Le meme objet peut
-donc captiver ou ennuyer selon son ordre d'apparition.
-
-Cette proposition deplace l'unite d'analyse : il faut modeliser des trajectoires
+Cette proposition déplace l'unité d'analyse : il faut modéliser des trajectoires
 d'attention et des agencements, non classer une collection d'objets une fois pour
 toutes.
 
-Sa portee doit cependant etre delimitee. Certains dispositifs semblent surtout
-attirants par les items qu'ils montrent et supportent une inversion de l'ordre sans
-perte majeure; d'autres utilisent des materiaux pauvres dont toute la force vient de
-l'organisation. Inverser ou permuter la sequence fournit ainsi un test empirique du
-poids propre de la structure temporelle.
+Sa portée doit cependant être délimitée. Certains dispositifs semblent surtout attirants
+par les items qu'ils montrent et supportent une inversion de l'ordre sans perte majeure;
+d'autres utilisent des matériaux pauvres dont toute la force vient de l'organisation.
+Inverser ou permuter la séquence fournit ainsi un test empirique du poids propre de la
+structure temporelle.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette carte peut servir de definition de depart : l'interessant n'est pas seulement ce qui attire, mais ce qui organise une duree d'attention.
+Cette carte peut servir de définition de départ : l'intéressant n'est pas seulement ce
+qui attire, mais ce qui organise une durée d'attention.
 
 ## Liens
 
 - Proche de `idea_0004` sur l'ennui.
-- Proche de `idea_0015` sur les ordres d'interessant.
-- A mettre en tension avec les approches statiques du gout.
+- Proche de `idea_0015` sur les ordres d'intéressant.
+- à mettre en tension avec les approches statiques du goût.

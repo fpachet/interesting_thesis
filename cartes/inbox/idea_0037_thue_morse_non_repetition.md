@@ -1,6 +1,6 @@
 ---
 id: idea_0037
-title: "Thue-Morse : non-repetition structuree"
+title: "Thue-Morse : non-répétition structurée"
 kind: example
 level: articulation
 status: inbox
@@ -9,23 +9,31 @@ sources:
 references:
   - allouche1999thueMorse
 source_notes:
-  - "Allouche et Shallit, The ubiquitous Prouhet-Thue-Morse sequence, pp. 1-4 et 12-13 : definition morphique, absence de chevauchements, regularite non ultimement periodique et equivalence de nombreuses caracterisations."
+  - "Allouche et Shallit, The ubiquitous Prouhet-Thue-Morse séquence, pp. 1-4 et 12-13 : définition morphique, absence de chevauchements, régularité non ultimement périodique et équivalence de nombreuses caractérisations."
 tags:
   - thue_morse
   - sequence
   - repetition
   - combinatoire
 ---
+## Idée
 
-## Idee
+La suite de Prouhet-Thue-Morse est engendrée par une règle morphique très simple, tout
+en étant sans chevauchement et non ultimement périodique. Elle constitue donc un
+contre-exemple formel à l'assimilation du non-répétitif au hasard : une séquence peut
+être facile à produire, fortement structurée et pourtant éviter des répétitions
+triviales.
 
-La suite de Prouhet-Thue-Morse est engendree par une regle morphique tres simple, tout en etant sans chevauchement et non ultimement periodique. Elle constitue donc un contre-exemple formel a l'assimilation du non-repetitif au hasard : une sequence peut etre facile a produire, fortement structuree et pourtant eviter des repetitions triviales.
+Son ubiquité dans plusieurs domaines tient notamment à l'équivalence de nombreuses
+définitions qui font apparaître la même structure sous des problèmes différents.
+L'article établit ces propriétés mathématiques, mais aucun effet esthétique ou
+attentionnel ; son usage pour penser l'intéressant est un transfert théorique de la
+thèse, pas un résultat du papier.
 
-Son ubiquite dans plusieurs domaines tient notamment a l'equivalence de nombreuses definitions qui font apparaitre la meme structure sous des problemes differents. L'article etablit ces proprietes mathematiques, mais aucun effet esthetique ou attentionnel ; son usage pour penser l'interessant est un transfert theorique de la these, pas un resultat du papier.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne un modele formel du compromis entre repetition et variation, utile pour penser musique, scenarios, jeux et generation.
+Cette carte donne un modèle formel du compromis entre répétition et variation, utile
+pour penser musique, scénarios, jeux et génération.
 
 ## Liens
 

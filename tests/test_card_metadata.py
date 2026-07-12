@@ -6,6 +6,17 @@ from pathlib import Path
 
 
 class CardMetadataTests(unittest.TestCase):
+    def test_every_card_uses_accented_french_sections(self) -> None:
+        project_root = Path(__file__).resolve().parents[1]
+        cards = sorted((project_root / "cartes" / "inbox").glob("idea_*.md"))
+
+        for card in cards:
+            text = card.read_text(encoding="utf-8")
+            self.assertEqual(text.count("## Idée"), 1, card.name)
+            self.assertEqual(text.count("## Intérêt pour la thèse"), 1, card.name)
+            self.assertNotIn("## Idee", text, card.name)
+            self.assertNotIn("## Interet pour la these", text, card.name)
+
     def test_every_card_has_one_valid_level_and_unique_id(self) -> None:
         project_root = Path(__file__).resolve().parents[1]
         cards = sorted((project_root / "cartes" / "inbox").glob("idea_*.md"))

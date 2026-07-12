@@ -1,6 +1,6 @@
 ---
 id: idea_0010
-title: "Virtuosite et difficultuosite"
+title: "Virtuosité et difficultuosité"
 kind: distinction
 level: conceptual
 status: inbox
@@ -9,8 +9,8 @@ sources:
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
   - "input/ERCGrantPachetInterestingness.pdf"
 source_notes:
-  - "De l'impossibilite de creer, PDF p. 46-58"
-  - "La Virtuosite a portee des caniches, PDF p. 13-16"
+  - "De l'impossibilité de créer, PDF p. 46-58"
+  - "La Virtuosité à portée des caniches, PDF p. 13-16"
   - "Grant ERC PDF p. 4 et 6"
 tags:
   - virtuosite
@@ -18,16 +18,18 @@ tags:
   - spectacle
   - creation
 ---
+## Idée
 
-## Idee
+La virtuosité n'est pas seulement une difficulté vaincue. Elle met en scène la
+difficulté, la rend perceptible, parfois spectaculaire, parfois trompeuse. La
+difficultuosité serait le régime où la difficulté devient elle-même matériau d'intérêt.
 
-La virtuosite n'est pas seulement une difficulte vaincue. Elle met en scene la difficulte, la rend perceptible, parfois spectaculaire, parfois trompeuse. La difficultuosite serait le regime ou la difficulte devient elle-meme materiau d'interet.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte aide a distinguer effort reel, effort visible, performance, seduction et valeur creative.
+Cette carte aide à distinguer effort réel, effort visible, performance, séduction et
+valeur créative.
 
 ## Liens
 
-- Proche de `idea_0057`, sur la seduction exercee par la fluidite.
-- A relier a l'effet IKEA dans `idea_0020`.
+- Proche de `idea_0057`, sur la séduction exercée par la fluidité.
+- à relier à l'effet IKEA dans `idea_0020`.

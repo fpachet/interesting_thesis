@@ -9,7 +9,11 @@ __pycache__/
 
 output/*.md
 output/*.txt
+output/pdf/
+output/graph/
 !output/.gitkeep
+
+tmp/
 
 memory/state.json
 !memory/.gitkeep

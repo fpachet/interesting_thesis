@@ -14,14 +14,15 @@ tags:
   - attente
   - trivialisation
 ---
+## Idée
 
-## Idee
+Certains objets sont désirables tant qu'ils restent impossibles. Leur réalisation ferme
+l'espace imaginaire qui les rendait fascinants et les rend presque triviaux.
 
-Certains objets sont desirables tant qu'ils restent impossibles. Leur realisation ferme l'espace imaginaire qui les rendait fascinants et les rend presque triviaux.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte lie l'interessant a la promesse, a l'attente et a l'indetermine, non seulement a l'objet realise.
+Cette carte lie l'intéressant à la promesse, à l'attente et à l'indéterminé, non
+seulement à l'objet réalise.
 
 ## Liens
 

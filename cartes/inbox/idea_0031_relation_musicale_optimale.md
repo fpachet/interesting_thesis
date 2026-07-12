@@ -7,31 +7,31 @@ status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc"
 source_notes:
-  - "Document integral, rendu PDF p. 1"
+  - "Document intégral, rendu PDF p. 1"
 tags:
   - musique
   - relation
   - similarite
   - recommandation
 ---
+## Idée
 
-## Idee
+Une relation musicale intéressante suppose une distance optimale : assez proche pour que
+la recommandation soit comprise et digne de confiance, assez lointaine pour qu'elle
+apporte une vraie nouveauté.
 
-Une relation musicale interessante suppose une distance optimale : assez proche
-pour que la recommandation soit comprise et digne de confiance, assez lointaine
-pour qu'elle apporte une vraie nouveaute.
+Cette distance ne peut pas rester fixe. Les recommandations réussies augmentent la
+confiance et rapprochent progressivement les profils ; mais cette convergence finit par
+rendre les recommandations prévisibles. Une relation durable doit donc produire de la
+confiance sans abolir l'altérité qui lui permet encore de surprendre.
 
-Cette distance ne peut pas rester fixe. Les recommandations reussies augmentent la
-confiance et rapprochent progressivement les profils ; mais cette convergence finit
-par rendre les recommandations previsibles. Une relation durable doit donc
-produire de la confiance sans abolir l'alterite qui lui permet encore de surprendre.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte precise le probleme de la recommandation comme compromis dynamique entre confiance, similarite et surprise.
+Cette carte précise le problème de la recommandation comme compromis dynamique entre
+confiance, similarité et surprise.
 
 ## Liens
 
 - Proche de `idea_0014`.
 - Proche de `idea_0002`.
-- Cas relationnel de la frontiere dynamique de `idea_0107`.
+- Cas relationnel de la frontière dynamique de `idea_0107`.

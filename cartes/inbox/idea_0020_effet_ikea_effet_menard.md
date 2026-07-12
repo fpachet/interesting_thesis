@@ -1,6 +1,6 @@
 ---
 id: idea_0020
-title: "L'appropriation par participation s'oppose a l'appropriation par confrontation"
+title: "L'appropriation par participation s'oppose à l'appropriation par confrontation"
 kind: distinction
 level: conceptual
 status: inbox
@@ -14,24 +14,24 @@ tags:
   - imitation
   - valeur
 ---
-
-## Idee
+## Idée
 
 L'effet IKEA maximise l'appropriation tout en minimisant le risque : une
-micro-difficulte calibree suffit pour que le sujet survalorise ce qu'il a active ou
-assemble. L'effet Menard suit le mouvement inverse : refaire a l'identique devient
-signifiant lorsque le chemin est volontairement couteux, non optimise et expose a
-l'echec.
+micro-difficulté calibrée suffit pour que le sujet survalorise ce qu'il a activé ou
+assemble. L'effet Ménard suit le mouvement inverse : refaire à l'identique devient
+signifiant lorsque le chemin est volontairement coûteux, non optimisé et exposé à
+l'échec.
 
-L'originalite de l'artefact ne suffit donc pas a distinguer production et creation.
-Il faut considerer la facture et la relation au processus : participation guidee
-d'un cote, confrontation consciente a une impossibilite de l'autre.
+L'originalité de l'artefact ne suffit donc pas à distinguer production et création. Il
+faut considérer la facture et la relation au processus : participation guidée d'un côté,
+confrontation consciente à une impossibilité de l'autre.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette carte permet de separer production materielle, effort subjectif, nouveaute objective et effet de cadre.
+Cette carte permet de séparer production matérielle, effort subjectif, nouveauté
+objective et effet de cadre.
 
 ## Liens
 
 - Proche de `idea_0010`.
-- A relier a `idea_0008`.
+- à relier a `idea_0008`.

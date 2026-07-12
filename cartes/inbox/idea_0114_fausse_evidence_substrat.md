@@ -1,6 +1,6 @@
 ---
 id: idea_0114
-title: "Une phrase banale peut devenir interessante apres coup ou rester un simple substrat"
+title: "Une phrase banale peut devenir intéressante après coup ou rester un simple substrat"
 kind: distinction
 level: conceptual
 status: inbox
@@ -9,7 +9,7 @@ sources:
 references:
   - pachet2018oreille
 source_notes:
-  - "Fausse naivete et interdifference, PDF p. 133-135 ; realisation progressive, fausses evidences, matraquage transformatif et substrat necessaire, p. 218-220."
+  - "Fausse naïveté et interdifference, PDF p. 133-135 ; réalisation progressive, fausses évidences, matraquage transformatif et substrat nécessaire, p. 218-220."
 tags:
   - musique
   - repetition
@@ -17,45 +17,42 @@ tags:
   - ennui
   - attention
 ---
+## Idée
 
-## Idee
+Deux phrases initialement banales peuvent avoir des fonctions temporelles opposées. Une
+fausse évidence devient intéressante lorsqu'une reprise ou une transformation ultérieure
+révèle que sa simplicité préparait une contrainte : le présent requalifie alors
+rétrospectivement la première écoute. Un substrat nécessaire reste au contraire pauvre
+en lui-même ; il fournit seulement le temps, le contraste ou l'appui dont un événement
+futur a besoin.
 
-Deux phrases initialement banales peuvent avoir des fonctions temporelles
-opposees. Une fausse evidence devient interessante lorsqu'une reprise ou une
-transformation ulterieure revele que sa simplicite preparait une contrainte : le
-present requalifie alors retrospectivement la premiere ecoute. Un substrat
-necessaire reste au contraire pauvre en lui-meme ; il fournit seulement le temps,
-le contraste ou l'appui dont un evenement futur a besoin.
+La répétition ne vaut donc ni comme bien ni comme défaut général. Dans le « matraquage
+transformatif », elle rend perceptible une organisation qui ne pouvait pas l'être à la
+première exposition et donne à l'auditeur le sentiment d'avoir résolu un problème. Dans
+le substrat, elle peut seulement prolonger une préparation. La différence ne se voit
+qu'en suivant ce que la suite fait au matériau initial.
 
-La repetition ne vaut donc ni comme bien ni comme defaut general. Dans le
-« matraquage transformatif », elle rend perceptible une organisation qui ne
-pouvait pas l'etre a la premiere exposition et donne a l'auditeur le sentiment
-d'avoir resolu un probleme. Dans le substrat, elle peut seulement prolonger une
-preparation. La difference ne se voit qu'en suivant ce que la suite fait au
-materiau initial.
-
-La « fausse naivete » pousse cette strategie pres de l'echec : une oeuvre laisse
+La « fausse naïveté » pousse cette stratégie près de l'échec : une œuvre laisse
 l'attention s'approcher de la rupture avant qu'une trouvaille tardive justifie la
-patience demandee. Ce risque explique pourquoi l'ennui local peut participer a
-l'interessant sans que tout ennui devienne retrospectivement vertueux.
+patience demandée. Ce risque explique pourquoi l'ennui local peut participer à
+l'intéressant sans que tout ennui devienne rétrospectivement vertueux.
 
 ## Exemple
 
-Les melodies de Nino Rota pour *Amarcord* paraissent d'abord suivre des rails
-connus. Leurs repetitions legerement transformees font ensuite entendre la
-fonction de phrases auparavant creuses, comme un coup de jeu dont la pertinence
-n'apparait qu'apres la chute d'un groupe de pieces. *Lovely Rita*, pourtant connue
-par coeur, sert de contre-exemple : la repetition n'y revele pas necessairement
-une organisation cachee.
+Les mélodies de Nino Rota pour *Amarcord* paraissent d'abord suivre des rails connus.
+Leurs répétitions légèrement transformées font ensuite entendre la fonction de phrases
+auparavant creuses, comme un coup de jeu dont la pertinence n'apparaît qu'après la chute
+d'un groupe de pièces. *Lovely Rita*, pourtant connue par coeur, sert de contre-exemple
+: la répétition n'y révèle pas nécessairement une organisation cachée.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette distinction donne une grammaire plus precise de l'attente. Elle permet
-d'analyser pourquoi un titre apparemment simple gagne a la reecoute, tout en
-conservant la possibilite qu'un passage soit effectivement vide.
+Cette distinction donne une grammaire plus précise de l'attente. Elle permet d'analyser
+pourquoi un titre apparemment simple gagne à la réécoute, tout en conservant la
+possibilité qu'un passage soit effectivement vide.
 
 ## Liens
 
-- Precise le role productif mais conditionnel de l'ennui dans `idea_0004`.
-- Developpe la reinterpretation retrospective de `idea_0038`.
-- Decrit un cas ou l'objet invente apres coup le probleme de `idea_0085`.
+- Précise le rôle productif mais conditionnel de l'ennui dans `idea_0004`.
+- Développe la reinterpretation rétrospective de `idea_0038`.
+- Décrit un cas où l'objet invente après coup le problème de `idea_0085`.

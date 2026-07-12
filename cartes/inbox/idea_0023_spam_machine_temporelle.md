@@ -14,21 +14,20 @@ tags:
   - temporalite
   - manipulation
 ---
+## Idée
 
-## Idee
+Un message sans valeur propre peut devenir momentanément saillant s'il installe une
+attente : objet énigmatique, faux contexte, date future, puis relance qui semble
+répondre au premier envoi. Le spam montre à échelle minimale que l'intérêt peut être
+produit par une relation entre occurrences plutôt que par la qualité de leur contenu. La
+seconde apparition transforme rétrospectivement la première en début d'une séquence.
 
-Un message sans valeur propre peut devenir momentanement saillant s'il installe une
-attente : objet enigmatique, faux contexte, date future, puis relance qui semble
-repondre au premier envoi. Le spam montre a echelle minimale que l'interet peut
-etre produit par une relation entre occurrences plutot que par la qualite de leur
-contenu. La seconde apparition transforme retrospectivement la premiere en debut
-d'une sequence.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Le spam est un laboratoire minuscule de capture attentionnelle : il montre comment une promesse narrative ou temporelle peut suffire a ouvrir une boucle.
+Le spam est un laboratoire minuscule de capture attentionnelle : il montre comment une
+promesse narrative ou temporelle peut suffire à ouvrir une boucle.
 
 ## Liens
 
 - Proche de `idea_0015`.
-- A relier aux mecanismes de suspense et de page-turner.
+- à relier aux mécanismes de suspense et de page-turner.

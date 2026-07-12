@@ -1,6 +1,6 @@
 ---
 id: idea_0035
-title: "Les sequences interessantes mettent a jour un systeme de croyances"
+title: "Les séquences intéressantes mettent à jour un système de croyances"
 kind: argument
 level: scientific
 status: inbox
@@ -9,31 +9,30 @@ sources:
 references:
   - spiliopoulou1999rules
 source_notes:
-  - "Spiliopoulou, PostMine et categories d'unexpectedness, PDF p. 3-7"
+  - "Spiliopoulou, PostMine et catégories d'unexpectedness, PDF p. 3-7"
 tags:
   - sequence_mining
   - croyances
   - regles
   - unexpectedness
 ---
+## Idée
 
-## Idee
+Dans le séquence mining, la fréquence ne suffit pas. Les règles deviennent intéressantes
+lorsqu'elles confirment, contredisent ou transforment un système de croyances, puis
+orientent la prochaine session de fouille.
 
-Dans le sequence mining, la frequence ne suffit pas. Les regles deviennent
-interessantes lorsqu'elles confirment, contredisent ou transforment un systeme de
-croyances, puis orientent la prochaine session de fouille.
+L'inattendu doit lui-même être qualifié : une règle peut dévier statistiquement,
+produire une prédiction différente, reposer sur des conditions inattendues, ou n'avoir
+aucun précédent comparable. Ces cas n'appellent pas la même révision. Le post-mining
+peut ainsi transformer certaines règles attendues en croyances, remplacer des croyances
+devenues caduques et utiliser chaque type d'écart pour construire la requête suivante.
+Le contexte d'évaluation se forme donc en même temps que les découvertes qu'il évalue.
 
-L'inattendu doit lui-meme etre qualifie : une regle peut devier statistiquement,
-produire une prediction differente, reposer sur des conditions inattendues, ou
-n'avoir aucun precedent comparable. Ces cas n'appellent pas la meme revision. Le
-post-mining peut ainsi transformer certaines regles attendues en croyances,
-remplacer des croyances devenues caduques et utiliser chaque type d'ecart pour
-construire la requete suivante. Le contexte d'evaluation se forme donc en meme
-temps que les decouvertes qu'il evalue.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte renforce l'idee que l'interessant n'est pas seulement une propriete statistique : il depend d'une histoire interpretative et d'une memoire du chercheur.
+Cette carte renforce l'idée que l'intéressant n'est pas seulement une propriété
+statistique : il dépend d'une histoire interpretative et d'une mémoire du chercheur.
 
 ## Liens
 

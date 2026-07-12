@@ -1,6 +1,6 @@
 ---
 id: idea_0108
-title: "Une forme peut etre belle parce qu'elle est simple et ennuyeuse parce qu'elle est deja connue"
+title: "Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue"
 kind: distinction
 level: conceptual
 status: inbox
@@ -17,29 +17,27 @@ tags:
   - surprise
   - ennui
 ---
+## Idée
 
-## Idee
+La beauté et l'intérêt ne sélectionnent pas nécessairement les mêmes objets. Une forme
+peut être belle parce qu'elle possède une description simple relativement au codage de
+l'observateur, tout en étant ennuyeuse si cette simplicité est déjà connue. L'intérêt
+exige en plus que la régularité simple soit encore inattendue ou nouvellement
+saisissable.
 
-La beaute et l'interet ne selectionnent pas necessairement les memes objets. Une
-forme peut etre belle parce qu'elle possede une description simple relativement au
-codage de l'observateur, tout en etant ennuyeuse si cette simplicite est deja
-connue. L'interet exige en plus que la regularite simple soit encore inattendue ou
-nouvellement saisissable.
+Inversement, un objet peut être intéressant sans constituer le meilleur exemple de
+beauté : ce qui compte alors est la transformation du modèle de l'observateur, pas
+seulement l'économie de la forme. Identifier beau, bon et intéressant effacerait donc le
+rôle propre de la découverte.
 
-Inversement, un objet peut etre interessant sans constituer le meilleur exemple de
-beaute : ce qui compte alors est la transformation du modele de l'observateur, pas
-seulement l'economie de la forme. Identifier beau, bon et interessant effacerait
-donc le role propre de la decouverte.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette distinction interdit de traiter l'interessant comme un simple synonyme de
-valeur esthetique. Elle permet de demander separement ce qui rend une forme
-economique, ce qui la rend nouvelle pour quelqu'un et ce qui maintient son pouvoir
-d'attention.
+Cette distinction interdit de traiter l'intéressant comme un simple synonyme de valeur
+esthétique. Elle permet de demander séparément ce qui rend une forme économique, ce qui
+la rend nouvelle pour quelqu'un et ce qui maintient son pouvoir d'attention.
 
 ## Liens
 
-- Complete `idea_0022`, qui distingue deja l'interessant du bon ou du reussi.
-- Relie `idea_0027` a `idea_0087` : la simplicite ne devient interessante qu'au moment de sa decouverte.
-- Eclaire `idea_0004` : une comprehension accomplie peut laisser subsister la beaute tout en produisant l'ennui.
+- Complète `idea_0022`, qui distingue déjà l'intéressant du bon ou du réussi.
+- Relie `idea_0027` a `idea_0087` : la simplicité ne devient intéressante qu'au moment de sa découverte.
+- Éclaire `idea_0004` : une compréhension accomplie peut laisser subsister la beauté tout en produisant l'ennui.

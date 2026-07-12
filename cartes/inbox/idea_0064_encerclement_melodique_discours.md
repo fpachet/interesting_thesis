@@ -1,6 +1,6 @@
 ---
 id: idea_0064
-title: "L'encerclement melodique du discours"
+title: "L'encerclement mélodique du discours"
 kind: example
 level: conceptual
 status: inbox
@@ -14,22 +14,22 @@ tags:
   - reformulation
   - virtuosite
 ---
+## Idée
 
-## Idee
+Un discours peut tourner autour d'une idée par reformulations successives et montées en
+généralité. En musique, l'encerclement n'a de sens que parce qu'il doit atteindre une
+note cible imposée par l'harmonie. Sans cible conceptuelle définie, condition de
+falsification ou objection capable de l'interrompre, le discours peut circuler
+indéfiniment sans jamais sonner faux.
 
-Un discours peut tourner autour d'une idee par reformulations successives et
-montees en generalite. En musique, l'encerclement n'a de sens que parce qu'il doit
-atteindre une note cible imposee par l'harmonie. Sans cible conceptuelle definie,
-condition de falsification ou objection capable de l'interrompre, le discours peut
-circuler indefiniment sans jamais sonner faux.
+L'impression de travail conceptuel vient alors du mouvement autour de la notion, non
+d'une progression démonstrative. La butée est précisément ce qui distingue la variation
+risquée de la paraphrase protégée.
 
-L'impression de travail conceptuel vient alors du mouvement autour de la notion,
-non d'une progression demonstrative. La butee est precisement ce qui distingue la
-variation risquee de la paraphrase protegee.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte precise comment une forme musicale peut devenir instrument critique de la prose ideologique.
+Cette carte précise comment une forme musicale peut devenir instrument critique de la
+prose idéologique.
 
 ## Liens
 

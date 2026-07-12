@@ -1,6 +1,6 @@
 ---
 id: idea_0045
-title: "On ne se chatouille pas soi-meme"
+title: "On ne se chatouille pas soi-même"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,21 +14,21 @@ tags:
   - alterite
   - creation
 ---
+## Idée
 
-## Idee
+Le cerveau soustrait les effets sensoriels qu'il prédit de ses propres actions : c'est
+pourquoi on ne peut pas se chatouiller soi-même. Mais un léger délai entre l'action et
+son effet suffit à faire réapparaître l'étrangeté et le chatouillement.
 
-Le cerveau soustrait les effets sensoriels qu'il predit de ses propres actions :
-c'est pourquoi on ne peut pas se chatouiller soi-meme. Mais un leger delai entre
-l'action et son effet suffit a faire reapparaitre l'etrangete et le chatouillement.
+La surprise exige donc moins un autre sujet qu'une altération de la boucle de
+prédiction. Le créateur, condamne à anticiper ses gestes, doit introduire du délai, de
+l'opacité ou une altérité artificielle pour que sa propre production puisse lui
+échapper.
 
-La surprise exige donc moins un autre sujet qu'une alteration de la boucle de
-prediction. Le createur, condamne a anticiper ses gestes, doit introduire du delai,
-de l'opacite ou une alterite artificielle pour que sa propre production puisse lui
-echapper.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne une analogie puissante : l'interessant suppose peut-etre un ecart que le sujet ne peut pas se donner integralement lui-meme.
+Cette carte donne une analogie puissante : l'intéressant suppose peut-être un écart que
+le sujet ne peut pas se donner intégralement lui-même.
 
 ## Liens
 

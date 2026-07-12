@@ -1,6 +1,6 @@
 ---
 id: idea_0041
-title: "L'injonction democratique a creer"
+title: "L'injonction démocratique à créer"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,16 +14,18 @@ tags:
   - industrie_creative
   - technologie
 ---
+## Idée
 
-## Idee
+Les industries technologiques promettent de démocratiser la création en supprimant les
+difficultés. Cette promesse transforme la création en slogan de masse et confond
+expression facile, circulation et valeur créative.
 
-Les industries technologiques promettent de democratiser la creation en supprimant les difficultes. Cette promesse transforme la creation en slogan de masse et confond expression facile, circulation et valeur creative.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte pose l'adversaire principal : le discours contemporain selon lequel tout le monde peut creer pourvu qu'un outil rende l'acte fluide.
+Cette carte pose l'adversaire principal : le discours contemporain selon lequel tout le
+monde peut créer pourvu qu'un outil rende l'acte fluide.
 
 ## Liens
 
 - Proche de `idea_0008`.
-- A relier a `idea_0040` sur l'abondance numerique.
+- à relier a `idea_0040` sur l'abondance numérique.

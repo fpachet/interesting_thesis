@@ -1,6 +1,6 @@
 ---
 id: idea_0018
-title: "L'IA comme laboratoire philosophique de la naissance des idees"
+title: "L'IA comme laboratoire philosophique de la naissance des idées"
 kind: method
 level: articulation
 status: inbox
@@ -14,29 +14,29 @@ tags:
   - naissance_des_idees
   - methode
 ---
+## Idée
 
-## Idee
-
-Construire un systeme d'IA oblige a rendre explicites des operations que le
-discours philosophique peut laisser indeterminees : comment produire une variante,
-la selectionner, reconnaitre une forme ou constater un echec. La construction ne
-demontre pas a elle seule une theorie de l'esprit, mais elle transforme une notion
-en dispositif dont les presupposes et les limites deviennent observables.
+Construire un système d'IA oblige à rendre explicites des opérations que le discours
+philosophique peut laisser indéterminées : comment produire une variante, la
+sélectionner, reconnaître une forme ou constater un échec. La construction ne démontre
+pas a elle seule une théorie de l'esprit, mais elle transforme une notion en dispositif
+dont les présupposés et les limites deviennent observables.
 
 L'IA est donc ici moins un objet auquel appliquer la philosophie qu'une pratique
-experimentale capable de faire surgir de nouvelles questions philosophiques sur la
-naissance et la selection des idees.
+expérimentale capable de faire surgir de nouvelles questions philosophiques sur la
+naissance et la sélection des idées.
 
-Cette fonction de laboratoire ne transforme pas automatiquement un resultat
-scientifique en proposition philosophique. Elle fournit des operations, des echecs
-et des contrastes qu'une enquete reflexive doit encore reconstruire et argumenter.
+Cette fonction de laboratoire ne transforme pas automatiquement un résultat scientifique
+en proposition philosophique. Elle fournit des opérations, des échecs et des contrastes
+qu'une enquête réflexive doit encore reconstruire et argumenter.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette carte justifie la legitimite d'une these philosophique appuyee sur une pratique de recherche en IA.
+Cette carte justifie la légitimité d'une thèse philosophique appuyée sur une pratique de
+recherche en IA.
 
 ## Liens
 
 - Proche de `idea_0016`.
 - Proche de `idea_0008`.
-- Cas particulier de la methode reflexive formulee dans `idea_0110`.
+- Cas particulier de la méthode réflexive formulée dans `idea_0110`.

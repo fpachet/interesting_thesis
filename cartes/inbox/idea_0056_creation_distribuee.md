@@ -1,6 +1,6 @@
 ---
 id: idea_0056
-title: "La creation contemporaine est distribuee"
+title: "La création contemporaine est distribuée"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,14 +14,16 @@ tags:
   - outils
   - ia
 ---
+## Idée
 
-## Idee
+La figure romantique du créateur solitaire masque une réalité distribuée : artistes,
+outils, publics, infrastructures, corpus et machines apprenantes participent tous à la
+circulation et à la transformation des œuvres.
 
-La figure romantique du createur solitaire masque une realite distribuee : artistes, outils, publics, infrastructures, corpus et machines apprenantes participent tous a la circulation et a la transformation des oeuvres.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte peut servir a deplacer la these de l'individu createur vers l'ecologie de creation.
+Cette carte peut servir à déplacer la thèse de l'individu créateur vers l'écologie de
+création.
 
 ## Liens
 

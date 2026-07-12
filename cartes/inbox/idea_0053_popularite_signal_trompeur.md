@@ -1,6 +1,6 @@
 ---
 id: idea_0053
-title: "La popularite mesure une dynamique sociale, l'importance une transformation historique"
+title: "La popularité mesure une dynamique sociale, l'importance une transformation historique"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,22 +14,20 @@ tags:
   - numerique
   - attention
 ---
+## Idée
 
-## Idee
+La popularité amplifie de petites différences initiales jusqu'à produire des succès
+inégaux et imprévisibles. Elle mesure ce que les autres font d'une œuvre, non ce que
+cette œuvre transforme. L'importance, au contraire, se reconnait aux bifurcations,
+filiations et changements de langage qu'une œuvre produit dans le temps.
 
-La popularite amplifie de petites differences initiales jusqu'a produire des succes
-inegaux et imprevisibles. Elle mesure ce que les autres font d'une oeuvre, non ce
-que cette oeuvre transforme. L'importance, au contraire, se reconnait aux
-bifurcations, filiations et changements de langage qu'une oeuvre produit dans le
-temps.
+Une IA entraînée sur les clics et les usages apprend donc principalement la popularité.
+Elle risque de stabiliser les dominances accidentelles du présent au lieu de reconnaître
+ce qui pourrait réorganiser durablement le paysage.
 
-Une IA entrainee sur les clics et les usages apprend donc principalement la
-popularite. Elle risque de stabiliser les dominances accidentelles du present au
-lieu de reconnaitre ce qui pourrait reorganiser durablement le paysage.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte relie interestingness, valeur et temporalite longue de la reconnaissance.
+Cette carte relie interestingness, valeur et temporalité longue de la reconnaissance.
 
 ## Liens
 

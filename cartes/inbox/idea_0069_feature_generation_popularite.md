@@ -1,6 +1,6 @@
 ---
 id: idea_0069
-title: "La popularite musicale exige des traits generes, pas seulement mesures"
+title: "La popularité musicale exige des traits générés, pas seulement mesurés"
 kind: method
 level: scientific
 status: inbox
@@ -14,21 +14,20 @@ tags:
   - signal_processing
   - features
 ---
+## Idée
 
-## Idee
+Les traits audio génériques ne suffisent pas à expliquer la popularité ou la qualité
+d'une harmonisation. Un apprentissage de descripteurs doit pouvoir inventer des
+propriétés adaptées à une tâche supervisée, notamment des relations mélodico-harmoniques
+et des structures longues.
 
-Les traits audio generiques ne suffisent pas a expliquer la popularite ou la
-qualite d'une harmonisation. Un apprentissage de descripteurs doit pouvoir inventer
-des proprietes adaptees a une tache supervisee, notamment des relations
-melodico-harmoniques et des structures longues.
+La réduction usuelle d'un morceau à un sac de trames détruit précisément ces relations
+temporelles. Générer de bons traits exige donc de représenter la séquence entière au
+lieu d'agréger des mesures locales avant l'apprentissage.
 
-La reduction usuelle d'un morceau a un sac de trames detruit precisement ces
-relations temporelles. Generer de bons traits exige donc de representer la sequence
-entiere au lieu d'agreger des mesures locales avant l'apprentissage.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte relie l'interessant a la construction active des descripteurs.
+Cette carte relie l'intéressant à la construction active des descripteurs.
 
 ## Liens
 

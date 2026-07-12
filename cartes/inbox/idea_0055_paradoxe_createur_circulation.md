@@ -1,6 +1,6 @@
 ---
 id: idea_0055
-title: "Le createur veut circuler sans etre dissous"
+title: "Le créateur veut circuler sans être dissous"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,14 +14,15 @@ tags:
   - appropriation
   - numerique
 ---
+## Idée
 
-## Idee
+Le créateur veut être vu, lu, entendu, mais craint que son œuvre, en circulant, cesse de
+lui appartenir. La diffusion est à la fois accomplissement et dépossession.
 
-Le createur veut etre vu, lu, entendu, mais craint que son oeuvre, en circulant, cesse de lui appartenir. La diffusion est a la fois accomplissement et depossession.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte situe la creation dans une economie d'usages, de reprises et de transformations.
+Cette carte situe la création dans une économie d'usages, de reprises et de
+transformations.
 
 ## Liens
 

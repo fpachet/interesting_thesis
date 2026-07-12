@@ -1,6 +1,6 @@
 ---
 id: idea_0068
-title: "Democratic composition : enregistrer tout le processus de creation"
+title: "Democratic composition : enregistrer tout le processus de création"
 kind: method
 level: scientific
 status: inbox
@@ -13,35 +13,34 @@ source_notes:
   - "Grant ERC PDF p. 4-5"
   - "Synopsis MIT Press, prologue, rendu PDF p. 3"
   - "Projet REFLEX, protocole des etudes pilotes, rendu PDF p. 6-8 et 17"
-  - "mvdig003.htm, message MV94 : le compositeur distingue l'analyse du produit fini de celle du processus d'ecriture et juge le recit retrospectif de l'artiste peu fiable."
+  - "mvdig003.htm, message MV94 : le compositeur distingue l'analyse du produit fini de celle du processus d'écriture et juge le récit rétrospectif de l'artiste peu fiable."
 tags:
   - erc
   - composition
   - methode
   - trace
 ---
+## Idée
 
-## Idee
-
-Pour comprendre la creation, il faut enregistrer les essais, erreurs, abandons et
-choix melodiques, harmoniques et timbraux d'une composition complete, puis suivre
-l'oeuvre jusqu'a sa production et sa reception. L'objet final efface la topologie
-du parcours : les bifurcations, retours et solutions refusees qui rendent la
-decision intelligible.
+Pour comprendre la création, il faut enregistrer les essais, erreurs, abandons et choix
+mélodiques, harmoniques et timbraux d'une composition complète, puis suivre l'œuvre
+jusqu'à sa production et sa réception. L'objet final efface la topologie du parcours :
+les bifurcations, retours et solutions refusées qui rendent la décision intelligible.
 
 La trace doit inclure le contexte et le moment des actions, pas seulement leurs
-resultats. Elle permet alors d'etudier la creation comme chemin singulier plutot
-que de reconstruire apres coup une intention lineaire.
+résultats. Elle permet alors d'étudier la création comme chemin singulier plutôt que de
+reconstruire après coup une intention linéaire.
 
-Cette distinction interdit aussi de confondre deux explications legitimes : une
-analyse peut montrer comment l'oeuvre finie agit sur un auditeur sans decrire le
-processus qui l'a produite. Inversement, le souvenir de l'auteur ne constitue pas
-a lui seul une trace fiable de ce processus ; il doit etre confronte aux actions
-et bifurcations enregistrees au moment de la creation.
+Cette distinction interdit aussi de confondre deux explications légitimes : une analyse
+peut montrer comment l'œuvre finie agit sur un auditeur sans décrire le processus qui
+l'a produite. Inversement, le souvenir de l'auteur ne constitue pas à lui seul une trace
+fiable de ce processus ; il doit être confronté aux actions et bifurcations enregistrées
+au moment de la création.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette carte donne une methode empirique pour rendre visible ce que la preuve ou l'oeuvre achevee effacent.
+Cette carte donne une méthode empirique pour rendre visible ce que la preuve ou l'œuvre
+achevée effacent.
 
 ## Liens
 

@@ -1,6 +1,6 @@
 ---
 id: idea_0014
-title: "PathBuilder : l'interessant entre deux choses aimees"
+title: "PathBuilder : l'intéressant entre deux choses aimées"
 kind: hypothesis
 level: scientific
 status: inbox
@@ -8,7 +8,7 @@ sources:
   - "input/old_docs/TBKLullyNOTES.doc"
   - "input/old_docs/Synopsis MIT Press.doc"
 source_notes:
-  - "TBKLullyNOTES, hypothese PathBuilder, rendu PDF p. 1"
+  - "TBKLullyNOTES, hypothèse PathBuilder, rendu PDF p. 1"
   - "Synopsis MIT Press, rendu PDF p. 18-21"
 tags:
   - similarite
@@ -16,20 +16,20 @@ tags:
   - pathbuilder
   - gout
 ---
+## Idée
 
-## Idee
+Si quelqu'un aime A et B, il devrait exister des chemins intéressants entre A et B, à
+condition de disposer d'une relation de similarité assez riche. L'intérêt ne vient pas
+seulement des points, mais du parcours entre eux. Un tel chemin doit combiner des
+contraintes locales de continuité et des propriétés globales de la séquence; la
+similarité seule ne suffit pas à garantir une progression.
 
-Si quelqu'un aime A et B, il devrait exister des chemins interessants entre A et
-B, a condition de disposer d'une relation de similarite assez riche. L'interet ne
-vient pas seulement des points, mais du parcours entre eux. Un tel chemin doit
-combiner des contraintes locales de continuite et des proprietes globales de la
-sequence; la similarite seule ne suffit pas a garantir une progression.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte transforme la recommandation en probleme de navigation : faire emerger des transitions interessantes plutot que predire un objet prefere.
+Cette carte transforme la recommandation en problème de navigation : faire émerger des
+transitions intéressantes plutôt que prédire un objet préféré.
 
 ## Liens
 
 - Proche de `idea_0002`.
-- A opposer a la croyance naive : aimer se transfere simplement par similarite.
+- à opposer à la croyance naïve : aimer se transfère simplement par similarité.

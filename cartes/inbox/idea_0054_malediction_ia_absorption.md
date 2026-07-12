@@ -1,6 +1,6 @@
 ---
 id: idea_0054
-title: "L'IA apprend nos repetitions plutot que la singularite des oeuvres"
+title: "L'IA apprend nos répétitions plutôt que la singularité des œuvres"
 kind: argument
 level: conceptual
 status: inbox
@@ -16,27 +16,27 @@ tags:
   - creation
   - appropriation
 ---
+## Idée
 
-## Idee
+Un modèle génératif apprend ce qui revient assez souvent pour former une régularité. Un
+corpus d'œuvres radicalement singulières et sans points communs lui apparaîtrait comme
+du bruit. Sa performance ne prouve donc pas qu'il a absorbé l'essence des œuvres ; elle
+révèle l'ampleur de l'auto-similarité de nos productions.
 
-Un modele generatif apprend ce qui revient assez souvent pour former une regularite.
-Un corpus d'oeuvres radicalement singulieres et sans points communs lui apparaitrait
-comme du bruit. Sa performance ne prouve donc pas qu'il a absorbe l'essence des
-oeuvres ; elle revele l'ampleur de l'auto-similarite de nos productions.
+Utilisée comme anti-modèle, l'IA peut cartographier ce qui vient facilement, les pentes
+statistiques d'un style et les solutions déjà disponibles. Créer avec elle consisterait
+alors moins à accepter ses sorties qu'à chercher précisément ce qu'elle ne sait pas
+généraliser.
 
-Utilisee comme anti-modele, l'IA peut cartographier ce qui vient facilement, les
-pentes statistiques d'un style et les solutions deja disponibles. Creer avec elle
-consisterait alors moins a accepter ses sorties qu'a chercher precisement ce
-qu'elle ne sait pas generaliser.
+Le transfert de style illustre cette limite : il peut reproduire une texture locale tout
+en empruntant à une cible la structure globale qui lui manque. Cette apparence de
+direction ne prouve pas que le modèle a appris à engendrer une forme adaptée à son
+propre contenu.
 
-Le transfert de style illustre cette limite : il peut reproduire une texture locale
-tout en empruntant a une cible la structure globale qui lui manque. Cette apparence
-de direction ne prouve pas que le modele a appris a engendrer une forme adaptee a
-son propre contenu.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte prolonge la question de la creation impossible vers celle de la depossession contemporaine.
+Cette carte prolonge la question de la création impossible vers celle de la dépossession
+contemporaine.
 
 ## Liens
 

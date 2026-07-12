@@ -1,6 +1,6 @@
 ---
 id: idea_0060
-title: "On desire l'etat du virtuose plus que son objet"
+title: "On désire l'état du virtuose plus que son objet"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,21 +14,21 @@ tags:
   - etat
   - apprentissage
 ---
+## Idée
 
-## Idee
+Ce qui attire dans la virtuosité n'est pas seulement l'objet produit, mais l'état
+suppose du virtuose : aisance, maîtrise, continuité parfaite entre intention et
+exécution. Le spectacle du geste fluide fait croire cet état proche et disponible, alors
+même que la raison sait qu'il résulte d'années de travail.
 
-Ce qui attire dans la virtuosite n'est pas seulement l'objet produit, mais l'etat
-suppose du virtuose : aisance, maitrise, continuite parfaite entre intention et
-execution. Le spectacle du geste fluide fait croire cet etat proche et disponible,
-alors meme que la raison sait qu'il resulte d'annees de travail.
+L'image abolit fictivement la distance temporelle de l'apprentissage. En masquant la
+répétition, la fatigue et l'échec, elle transforme l'admiration en injonction mimétique
+: voir la maîtrise devient croire à son accessibilité immédiate.
 
-L'image abolit fictivement la distance temporelle de l'apprentissage. En masquant
-la repetition, la fatigue et l'echec, elle transforme l'admiration en injonction
-mimetique : voir la maitrise devient croire a son accessibilite immediate.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte explique pourquoi la pseudo-virtuosite peut seduire meme lorsqu'elle ne produit pas de vraie pensee.
+Cette carte explique pourquoi la pseudo-virtuosité peut séduire même lorsqu'elle ne
+produit pas de vraie pensée.
 
 ## Liens
 

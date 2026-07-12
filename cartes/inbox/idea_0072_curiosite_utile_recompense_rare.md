@@ -1,6 +1,6 @@
 ---
 id: idea_0072
-title: "La curiosite aide surtout lorsque la recompense externe est rare"
+title: "La curiosité aide surtout lorsque la récompense externe est rare"
 kind: hypothesis
 level: scientific
 status: inbox
@@ -17,35 +17,34 @@ tags:
   - apprentissage
   - recompense
 ---
+## Idée
 
-## Idee
+Une récompense interne pour la découverte de régularités peut accélérer l'apprentissage
+orienté vers un but lorsque les récompenses externes sont trop rares pour guider
+efficacement l'exploration. Mais cet avantage n'est pas universel : lorsque le but
+externe fournit déjà beaucoup de signal, la curiosité peut détourner du perfectionnement
+de la politique utile et devenir coûteuse.
 
-Une recompense interne pour la decouverte de regularites peut accelerer
-l'apprentissage oriente vers un but lorsque les recompenses externes sont trop
-rares pour guider efficacement l'exploration. Mais cet avantage n'est pas
-universel : lorsque le but externe fournit deja beaucoup de signal, la curiosite
-peut detourner du perfectionnement de la politique utile et devenir couteuse.
+Les simulations de Schmidhuber soutiennent cette hypothèse de façon nuancée : le système
+curieux trouve d'abord plus vite la récompense externe, puis son avantage disparaît avec
+l'accumulation des exemples orientés vers le but. La curiosité n'est donc pas posée
+comme une vertu absolue, mais comme une stratégie dont la valeur dépend du régime de
+rareté du signal externe.
 
-Les simulations de Schmidhuber soutiennent cette hypothese de facon nuancee : le
-systeme curieux trouve d'abord plus vite la recompense externe, puis son avantage
-disparait avec l'accumulation des exemples orientes vers le but. La curiosite n'est
-donc pas posee comme une vertu absolue, mais comme une strategie dont la valeur
-depend du regime de rarete du signal externe.
+Dans l'expérience 2a, les résultats moyens du système curieux dépassent fortement ceux
+du système sans récompense interne, mais un essai curieux ne trouve jamais le but. Dans
+l'expérience 2b, l'avantage initial disparaît après un apprentissage plus long et le
+système non curieux finit même légèrement devant. Le papier présente ces résultats comme
+exploratoires et ne prétend pas établir une loi générale.
 
-Dans l'experience 2a, les resultats moyens du systeme curieux depassent fortement
-ceux du systeme sans recompense interne, mais un essai curieux ne trouve jamais le
-but. Dans l'experience 2b, l'avantage initial disparait apres un apprentissage plus
-long et le systeme non curieux finit meme legerement devant. Le papier presente ces
-resultats comme exploratoires et ne pretend pas etablir une loi generale.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette proposition relie une theorie de l'interessant a une fonction pratique :
-l'interessant peut servir de guide provisoire lorsqu'aucun objectif externe ne
-donne encore de direction suffisante. Elle fournit aussi une limite testable aux
-discours qui identifient curiosite et performance.
+Cette proposition relie une théorie de l'intéressant à une fonction pratique :
+l'intéressant peut servir de guide provisoire lorsqu'aucun objectif externe ne donne
+encore de direction suffisante. Elle fournit aussi une limite testable aux discours qui
+identifient curiosité et performance.
 
 ## Liens
 
 - `idea_0027` fournit le signal interne qui rend cette exploration possible.
-- A rapprocher de `idea_0012` sur le doodling comme exploration peu dirigee.
+- à rapprocher de `idea_0012` sur le doodling comme exploration peu dirigée.

@@ -1,6 +1,6 @@
 ---
 id: idea_0046
-title: "Le createur doit se dedoubler en generateur et juge"
+title: "Le créateur doit se dédoubler en générateur et juge"
 kind: argument
 level: conceptual
 status: inbox
@@ -10,26 +10,25 @@ sources:
   - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
   - "PDF p. 39-43"
-  - "Projet REFLEX, hypothese sur l'evaluation de ses propres artefacts, rendu PDF p. 5"
-  - "TBKLullyNOTES, distribution des roles utilisateur-Continuator, rendu PDF p. 6-7"
+  - "Projet REFLEX, hypothèse sur l'évaluation de ses propres artefacts, rendu PDF p. 5"
+  - "TBKLullyNOTES, distribution des rôles utilisateur-Continuator, rendu PDF p. 6-7"
 tags:
   - creation
   - jugement
   - inhibition
   - collaboration
 ---
+## Idée
 
-## Idee
-
-La creation exige deux fonctions difficiles a tenir ensemble : relacher les filtres
-pour produire, puis juger severement. Le couple, l'alter ego ou le systeme interactif
+La création exige deux fonctions difficiles à tenir ensemble : relâcher les filtres pour
+produire, puis juger sévèrement. Le couple, l'alter ego ou le système interactif
 permettent de distribuer ces fonctions. Une machine infatigable peut engendrer de
 nombreuses variations tandis que l'utilisateur reconnait rapidement celles qui lui
-ressemblent tout en allant la ou il n'aurait pas su aller seul.
+ressemblent tout en allant là où il n'aurait pas su aller seul.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette carte relie creation, alterite, collaboration et systemes reflexifs.
+Cette carte relie création, altérité, collaboration et systèmes réflexifs.
 
 ## Liens
 

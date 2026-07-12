@@ -1,6 +1,6 @@
 ---
 id: idea_0011
-title: "L'attention observee renseigne mieux sur l'interet que la preference declaree"
+title: "L'attention observée renseigne mieux sur l'intérêt que la préférence déclarée"
 kind: method
 level: scientific
 status: inbox
@@ -16,19 +16,19 @@ tags:
   - experiment
   - interaction
 ---
+## Idée
 
-## Idee
+Les jugements déclarés réduisent une expérience temporelle à une réponse finale et sont
+exposés aux rationalisations. Les durées d'attention, reprises, abandons et
+transformations effectuées sur l'objet donnent accès à ce que celui-ci fait
+effectivement au sujet. Une science computationnelle de l'intéressant doit donc traiter
+le comportement observable comme une donnée centrale, et non comme un simple supplément
+au questionnaire.
 
-Les jugements declares reduisent une experience temporelle a une reponse finale et
-sont exposes aux rationalisations. Les durees d'attention, reprises, abandons et
-transformations effectuees sur l'objet donnent acces a ce que celui-ci fait
-effectivement au sujet. Une science computationnelle de l'interessant doit donc
-traiter le comportement observable comme une donnee centrale, et non comme un
-simple supplement au questionnaire.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte propose une methode : regarder l'interessant comme comportement situe plutot que jugement abstrait.
+Cette carte propose une méthode : regarder l'intéressant comme comportement situé plutôt
+que jugement abstrait.
 
 ## Liens
 

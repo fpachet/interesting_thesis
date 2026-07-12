@@ -1,6 +1,6 @@
 ---
 id: idea_0078
-title: "La virtuosite est percue par comparaison avec les capacites corporelles latentes du public"
+title: "La virtuosité est perçue par comparaison avec les capacités corporelles latentes du public"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -14,25 +14,24 @@ tags:
   - perception
   - seduction
 ---
+## Idée
 
-## Idee
+Le public n'évalue pas nécessairement la difficulté par une mesure externe. Il peut
+simuler implicitement le geste et comparer la performance à ce que son propre corps
+pourrait produire. Les femelles canaris, qui possèdent l'appareil latent du chant sans
+chanter dans les conditions ordinaires, pourraient ainsi percevoir de l'intérieur le
+caractère impossible des trilles qu'elles préfèrent.
 
-Le public n'evalue pas necessairement la difficulte par une mesure externe. Il peut
-simuler implicitement le geste et comparer la performance a ce que son propre corps
-pourrait produire. Les femelles canaris, qui possedent l'appareil latent du chant
-sans chanter dans les conditions ordinaires, pourraient ainsi percevoir de
-l'interieur le caractere impossible des trilles qu'elles preferent.
+La difficultuosité est alors une relation entre un geste perçu et un corps possible. Une
+performance séduit parce que le public sait, au moins en puissance, ce qu'elle coûterait
+et jusqu'où elle dépasse une norme corporelle partagée.
 
-La difficultuosite est alors une relation entre un geste percu et un corps possible.
-Une performance seduit parce que le public sait, au moins en puissance, ce qu'elle
-couterait et jusqu'ou elle depasse une norme corporelle partagee.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette hypothese donne un mecanisme perceptif et incarne a la distinction entre
-difficulte objective et difficulte ressentie.
+Cette hypothèse donne un mécanisme perceptif et incarne la distinction entre difficulté
+objective et difficulté ressentie.
 
 ## Liens
 
-- Fonde le regime relationnel de `idea_0010`.
-- Precise la zone de credibilite de `idea_0049`.
+- Fonde le régime relationnel de `idea_0010`.
+- Précise la zone de crédibilité de `idea_0049`.

@@ -14,21 +14,20 @@ tags:
   - contraste
   - temporalite
 ---
+## Idée
 
-## Idee
+Une excitation continue et sans résistance s'annule elle-même. Comme le plaisir de la
+vitesse vient de l'accélération et du ralentissement avant le virage, le plaisir
+attentionnel vient d'une variation entre tension, attente et relance. L'ennui ou la
+contrainte ne sont donc pas seulement des échecs du dispositif : ils constituent le
+contraste et le prix sans lesquels l'excitation ne peut pas être perçue.
 
-Une excitation continue et sans resistance s'annule elle-meme. Comme le plaisir
-de la vitesse vient de l'acceleration et du ralentissement avant le virage, le
-plaisir attentionnel vient d'une variation entre tension, attente et relance.
-L'ennui ou la contrainte ne sont donc pas seulement des echecs du dispositif :
-ils constituent le contraste et le prix sans lesquels l'excitation ne peut pas
-etre percue.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte permet de penser l'interessant comme region instable entre saturation, attente et relance.
+Cette carte permet de penser l'intéressant comme région instable entre saturation,
+attente et relance.
 
 ## Liens
 
-- Proche de `idea_0027` : trivial versus aleatoire.
-- A relier aux exemples televisuels de `idea_0022`.
+- Proche de `idea_0027` : trivial versus aléatoire.
+- à relier aux exemples télévisuels de `idea_0022`.

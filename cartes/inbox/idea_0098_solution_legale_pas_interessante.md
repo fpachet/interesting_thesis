@@ -16,24 +16,23 @@ tags:
   - harmonisation
   - valeur
 ---
+## Idée
 
-## Idee
+Un solveur peut énumérer rapidement toutes les harmonisations conformes aux règles d'un
+style sans disposer d'aucun critère pour séparer les solutions musicales des solutions
+seulement légales. La correction syntaxique définit l'espace admissible mais ne
+l'ordonne pas selon la singularité, l'intérêt ou la valeur.
 
-Un solveur peut enumerer rapidement toutes les harmonisations conformes aux regles
-d'un style sans disposer d'aucun critere pour separer les solutions musicales des
-solutions seulement legales. La correction syntaxique definit l'espace admissible
-mais ne l'ordonne pas selon la singularite, l'interet ou la valeur.
+Le problème de l'intéressant commence donc là où la satisfaction des contraintes
+s'arrête. Il exige des propriétés structurelles, notamment à long terme, qui ne sont pas
+nécessairement connues avant l'exploration des solutions.
 
-Le probleme de l'interessant commence donc la ou la satisfaction des contraintes
-s'arrete. Il exige des proprietes structurelles, notamment a long terme, qui ne
-sont pas necessairement connues avant l'exploration des solutions.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette proposition fournit un cas technique net de la difference entre forme
-correcte et forme qui merite l'attention.
+Cette proposition fournit un cas technique net de la différence entre forme correcte et
+forme qui mérite l'attention.
 
 ## Liens
 
-- Exemple concret de la troisieme couche de `idea_0003`.
-- Motive la generation de traits de `idea_0069`.
+- Exemple concret de la troisième couche de `idea_0003`.
+- Motive la génération de traits de `idea_0069`.

@@ -1,42 +1,40 @@
 ---
 id: idea_0106
-title: "Une similarite culturelle depend du corpus interroge, pas d'une verite terrain unique"
+title: "Une similarité culturelle dépend du corpus interrogé, pas d'une vérité terrain unique"
 kind: distinction
 level: scientific
 status: inbox
 sources:
   - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
-  - "TBKLullyNOTES, similarites calculables et choix du corpus, rendu PDF p. 6"
+  - "TBKLullyNOTES, similarités calculables et choix du corpus, rendu PDF p. 6"
 tags:
   - similarite
   - corpus
   - culture
   - recommandation
 ---
+## Idée
 
-## Idee
+Une similarité culturelle calculée par cooccurrence ne mesure pas une distance qui
+existerait indépendamment des données. Elle dépend de la portion de culture choisie, des
+noms reconnus, des contextes conservés et des pratiques qui ont laissé des traces dans
+le corpus. La comparer à une unique vérité terrain revient donc à masquer la question
+culturelle sous une procédure d'évaluation technique.
 
-Une similarite culturelle calculee par cooccurrence ne mesure pas une distance qui
-existerait independamment des donnees. Elle depend de la portion de culture choisie,
-des noms reconnus, des contextes conserves et des pratiques qui ont laisse des
-traces dans le corpus. La comparer a une unique verite terrain revient donc a
-masquer la question culturelle sous une procedure d'evaluation technique.
+Cette dépendance peut devenir un paramètre plutôt qu'un défaut. Choisir un corpus, c'est
+choisir le monde dans lequel deux objets seront dits proches : discours de fans, presse,
+catalogue spécialisé ou usages d'une communauté. Plusieurs mesures peuvent être valides
+si elles rendent explicites les populations et relations qu'elles représentent.
 
-Cette dependance peut devenir un parametre plutot qu'un defaut. Choisir un corpus,
-c'est choisir le monde dans lequel deux objets seront dits proches : discours de
-fans, presse, catalogue specialise ou usages d'une communaute. Plusieurs mesures
-peuvent etre valides si elles rendent explicites les populations et relations
-qu'elles representent.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Les parcours interessants heritent de cette construction. Leur continuite et leurs
-ecarts ne sont pas neutres : ils dependent du corpus qui definit les voisinages
+Les parcours intéressants héritent de cette construction. Leur continuité et leurs
+écarts ne sont pas neutres : ils dépendent du corpus qui définit les voisinages
 possibles.
 
 ## Liens
 
-- Donne une condition methodologique a `idea_0014`.
-- Complete la distance optimale de `idea_0031`.
-- A distinguer des similarites acoustiques dites objectives.
+- Donne une condition méthodologique a `idea_0014`.
+- Complète la distance optimale de `idea_0031`.
+- à distinguer des similarités acoustiques dites objectives.

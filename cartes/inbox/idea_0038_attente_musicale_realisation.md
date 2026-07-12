@@ -1,6 +1,6 @@
 ---
 id: idea_0038
-title: "La surprise musicale depend du degre de realisation de l'attente"
+title: "La surprise musicale dépend du degré de réalisation de l'attente"
 kind: argument
 level: scientific
 status: inbox
@@ -16,56 +16,56 @@ references:
   - narmour1992complexity
   - pachet2018oreille
 source_notes:
-  - "Berger et Gang, manuscrit integral, modele DRE et etudes Haydn, PDF p. 1-34 et figures p. 39-48"
-  - "Version condensee neurosymbolique, PDF p. 1-6"
-  - "Histoire d'une oreille, escatte et escassepte comme resolutions distinctes, PDF p. 12-17 ; attentes moins accessibles avec l'expertise, p. 241-242."
+  - "Berger et Gang, manuscrit intégral, modèle DRE et etudes Haydn, PDF p. 1-34 et figures p. 39-48"
+  - "Version condensée neurosymbolique, PDF p. 1-6"
+  - "Histoire d'une oreille, escatte et escassepte comme résolutions distinctes, PDF p. 12-17 ; attentes moins accessibles avec l'expertise, p. 241-242."
 tags:
   - musique
   - attente
   - surprise
   - temps_reel
 ---
+## Idée
 
-## Idee
+L'écoute musicale construit en temps réel des attentes plus ou moins fortes et
+spécifiques. La surprise vient du degré de correspondance entre ce qui était attendu et
+ce qui advient.
 
-L'ecoute musicale construit en temps reel des attentes plus ou moins fortes et
-specifiques. La surprise vient du degre de correspondance entre ce qui etait
-attendu et ce qui advient.
+Un même écart objectif ne produit donc pas toujours la même surprise. Une attente forte
+et précise rend sa non-réalisation saillante ; une attente vague ou ambiguë distribue
+l'erreur entre plusieurs interprétations possibles. Harmonie, mètre, mémoire et contexte
+construisent ensemble l'attente, et une surprise peut conduire à réinterpréter
+rétrospectivement ce qui la précédait.
 
-Un meme ecart objectif ne produit donc pas toujours la meme surprise. Une attente
-forte et precise rend sa non-realisation saillante ; une attente vague ou ambigue
-distribue l'erreur entre plusieurs interpretations possibles. Harmonie, metre,
-memoire et contexte construisent ensemble l'attente, et une surprise peut conduire
-a reinterpreter retrospectivement ce qui la precedait.
+La régularité n'est pas l'ennemie de la surprise mais sa condition locale : pour déjouer
+une attente, le compositeur doit d'abord permettre qu'elle se forme. Il doit être simple
+avant d'être complexe et régulier avant d'être irrégulier.
 
-La regularite n'est pas l'ennemie de la surprise mais sa condition locale : pour
-dejouer une attente, le compositeur doit d'abord permettre qu'elle se forme. Il
-doit etre simple avant d'etre complexe et regulier avant d'etre irregulier.
-
-L'escatte et l'escassepte montrent que la resolution elle-meme doit etre qualifiee.
-Une tension peut aboutir a une stabilite qui absorbe retrospectivement le mouvement,
-ou a une nouvelle instabilite qui renvoie l'attention vers l'attente non close.
-L'expertise deplace en outre ces effets : elle rend les surprises plus rares, mais
-peut ouvrir l'ecoute a des structures auparavant inaccessibles.
+L'escatte et l'escassepte montrent que la résolution elle-même doit être qualifiée. Une
+tension peut aboutir à une stabilité qui absorbe rétrospectivement le mouvement, ou à
+une nouvelle instabilité qui renvoie l'attention vers l'attente non close. L'expertise
+déplace en outre ces effets : elle rend les surprises plus rares, mais peut ouvrir
+l'écoute à des structures auparavant inaccessibles.
 
 ## Contexte bibliographique
 
-Le modele s'inscrit dans une filiation plus ancienne. Meyer relie l'affect et le
-sens musical aux attentes apprises, ainsi qu'a leur inhibition, leur retard ou
-leur resolution. Narmour prolonge cette intuition avec le modele
-implication-realisation : certains intervalles melodiques creent des implications
-dont la continuation peut constituer une realisation ou un ecart, en combinant
-des principes perceptifs ascendants et des schemas stylistiques appris.
+Le modèle s'inscrit dans une filiation plus ancienne. Meyer relie l'affect et le sens
+musical aux attentes apprises, ainsi qu'à leur inhibition, leur retard ou leur
+résolution. Narmour prolonge cette intuition avec le modèle implication-réalisation :
+certains intervalles mélodiques créent des implications dont la continuation peut
+constituer une réalisation ou un écart, en combinant des principes perceptifs ascendants
+et des schémas stylistiques appris.
 
-Ces trois ouvrages sont ici des references structurantes, pas encore des sources
-locales ingerees. Leurs mecanismes precis devront etre verifies par lecture directe
-avant d'etre mobilises comme preuves detaillees dans le manuscrit.
+Ces trois ouvrages sont ici des références structurantes, pas encore des sources locales
+ingérées. Leurs mécanismes précis devront être vérifiés par lecture directe avant d'être
+mobilisés comme preuves détaillées dans le manuscrit.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette carte donne un modele precis de l'interessant temporel : pas seulement surprise, mais ecart mesure entre prediction et realisation.
+Cette carte donne un modèle précis de l'intéressant temporel : pas seulement surprise,
+mais écart mesuré entre prédiction et réalisation.
 
 ## Liens
 
-- Proche de `idea_0032`, qui formule le choix du meilleur prochain evenement.
+- Proche de `idea_0032`, qui formule le choix du meilleur prochain événement.
 - Proche de `idea_0034`.

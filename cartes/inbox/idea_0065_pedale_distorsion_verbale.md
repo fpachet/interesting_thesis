@@ -1,6 +1,6 @@
 ---
 id: idea_0065
-title: "La pedale de distorsion verbale"
+title: "La pédale de distorsion verbale"
 kind: example
 level: conceptual
 status: inbox
@@ -14,12 +14,13 @@ tags:
   - saturation
   - rhetorique
 ---
+## Idée
 
-## Idee
+Des mots explosifs peuvent fonctionner comme une pédale de distorsion : ils saturent le
+signal, gomment les hésitations, prolongent l'effet et donnent à une attaque faible
+l'intensité d'un geste maîtrise.
 
-Des mots explosifs peuvent fonctionner comme une pedale de distorsion : ils saturent le signal, gomment les hesitations, prolongent l'effet et donnent a une attaque faible l'intensite d'un geste maitrise.
-
-## Interet pour la these
+## Intérêt pour la thèse
 
 Cette carte enrichit la grammaire musicale des impostures discursives.
 

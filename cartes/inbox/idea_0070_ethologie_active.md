@@ -1,6 +1,6 @@
 ---
 id: idea_0070
-title: "L'ethologie active provoque des situations au lieu de seulement observer"
+title: "L'éthologie active provoque des situations au lieu de seulement observer"
 kind: method
 level: scientific
 status: inbox
@@ -14,22 +14,22 @@ tags:
   - preference
   - interaction
 ---
+## Idée
 
-## Idee
+L'éthologie active ne se contente pas d'attendre qu'un comportement révèle une
+préférence. Un dispositif en boucle fermée produit une variation, observe la réaction de
+l'animal et adapte l'interaction suivante afin de provoquer des situations
+discriminantes.
 
-L'ethologie active ne se contente pas d'attendre qu'un comportement revele une
-preference. Un dispositif en boucle fermee produit une variation, observe la
-reaction de l'animal et adapte l'interaction suivante afin de provoquer des
-situations discriminantes.
+Cette intervention permet de tester si certains principes de l'intéressant sont
+spécifiquement humains. Les chants artificiels de canaris, qui exagèrent des traits de
+virtuosité au-delà des performances naturelles, montrent notamment que la préférence
+peut porter sur une possibilité produite par l'expérience elle-même.
 
-Cette intervention permet de tester si certains principes de l'interessant sont
-specifiquement humains. Les chants artificiels de canaris, qui exagerent des traits
-de virtuosite au-dela des performances naturelles, montrent notamment que la
-preference peut porter sur une possibilite produite par l'experience elle-meme.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte renforce la dimension experimentale de l'interessant : il faut fabriquer des scenes ou l'interet devient observable.
+Cette carte renforce la dimension expérimentale de l'intéressant : il faut fabriquer des
+scènes ou l'intérêt devient observable.
 
 ## Liens
 

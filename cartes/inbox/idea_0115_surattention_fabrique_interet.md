@@ -1,6 +1,6 @@
 ---
 id: idea_0115
-title: "L'ecoute surattentive peut fabriquer l'interet qu'elle pretend decouvrir"
+title: "L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir"
 kind: objection
 level: conceptual
 status: inbox
@@ -9,7 +9,7 @@ sources:
 references:
   - pachet2018oreille
 source_notes:
-  - "Auto-evanescence de l'objet analyse, PDF p. 191 ; contagion, p. 220 ; ecoute surattentive et resolution forcee des fausses evidences, p. 221-222 ; enigme resolue qui detruit l'interet, p. 284-285."
+  - "Auto-évanescence de l'objet analyse, PDF p. 191 ; contagion, p. 220 ; écoute surattentive et résolution forcée des fausses évidences, p. 221-222 ; énigme résolue qui détruit l'intérêt, p. 284-285."
 tags:
   - musique
   - attention
@@ -17,43 +17,42 @@ tags:
   - interpretation
   - objection
 ---
+## Idée
 
-## Idee
+L'attention n'est pas seulement un détecteur passif de qualités. Lorsqu'un auditeur
+admire déjà un artiste, il peut traiter chaque faiblesse comme un code, inventer la
+résolution d'une banalité et produire lui-même le plaisir qu'il attribue ensuite au
+morceau. La confiance, la contagion d'un album ou le désir de retrouver un effet ancien
+deviennent une assistance interpretative.
 
-L'attention n'est pas seulement un detecteur passif de qualites. Lorsqu'un
-auditeur admire deja un artiste, il peut traiter chaque faiblesse comme un code,
-inventer la resolution d'une banalite et produire lui-meme le plaisir qu'il
-attribue ensuite au morceau. La confiance, la contagion d'un album ou le desir de
-retrouver un effet ancien deviennent une assistance interpretative.
-
-Ce pouvoir actif rend l'enquete reflexive mais aussi circulaire : plus on cherche
-la singularite, plus on donne de l'importance au passage examine. Inversement,
-l'objet peut s'auto-evanouir lorsque sa reconstruction reussit, ou perdre son
-attrait lorsque l'enigme est effectivement resolue. L'analyse transforme donc la
-valeur qu'elle cherche a expliquer dans les deux directions.
+Ce pouvoir actif rend l'enquête réflexive mais aussi circulaire : plus on cherche la
+singularité, plus on donne de l'importance au passage examiné. Inversement, l'objet peut
+s'auto-évanouir lorsque sa reconstruction réussit, ou perdre son attrait lorsque
+l'énigme est effectivement résolue. L'analyse transforme donc la valeur qu'elle cherche
+à expliquer dans les deux directions.
 
 La surattention n'invalide pas toute analyse. Elle impose de comparer les
-interpretations, d'utiliser des variantes et des contre-exemples, de distinguer
-une surprise qui s'impose sans assistance d'une resolution laborieusement
-fabriquee, et de documenter l'histoire de l'ecoute au lieu de presenter le
-jugement final comme une propriete immediate de l'objet.
+interprétations, d'utiliser des variantes et des contre-exemples, de distinguer une
+surprise qui s'impose sans assistance d'une résolution laborieusement fabriquée, et de
+documenter l'histoire de l'écoute au lieu de présenter le jugement final comme une
+propriété immédiate de l'objet.
 
 ## Exemples
 
-Les albums tardifs de Take 6 et *Free as a Bird* montrent une ecoute qui pardonne
-et complete parce qu'elle veut retrouver une magie ancienne. *Surf's Up* sert de
-cas contraste : la surprise y est decrite comme s'imposant avant le travail de
-justification. La version complete de *Her Majesty* fournit l'autre limite de
-l'enquete : resoudre l'enigme peut supprimer l'interet qui motivait sa recherche.
+Les albums tardifs de Take 6 et *Free as a Bird* montrent une écoute qui pardonne et
+complète parce qu'elle veut retrouver une magie ancienne. *Surf's Up* sert de cas
+contrasté : la surprise y est décrite comme s'imposant avant le travail de
+justification. La version complète de *Her Majesty* fournit l'autre limite de l'enquête
+: résoudre l'énigme peut supprimer l'intérêt qui motivait sa recherche.
 
-## Interet pour la these
+## Intérêt pour la thèse
 
-Cette objection protege la theorie des micro-emotions et de l'optale contre
-l'auto-confirmation. Elle fait aussi de la transformation de l'observateur par sa
-propre methode un probleme central de la these.
+Cette objection protège la théorie des micro-émotions et de l'optale contre
+l'auto-confirmation. Elle fait aussi de la transformation de l'observateur par sa propre
+méthode un problème central de la thèse.
 
 ## Liens
 
-- Faux positif complementaire de la pseudoptale dans `idea_0113`.
-- Limite methodologique de la relation forme-memoire dans `idea_0084`.
-- Renforce la necessite d'observer des trajectoires dans `idea_0097`.
+- Faux positif complémentaire de la pseudoptale dans `idea_0113`.
+- Limite méthodologique de la relation forme-mémoire dans `idea_0084`.
+- Renforce la nécessité d'observer des trajectoires dans `idea_0097`.

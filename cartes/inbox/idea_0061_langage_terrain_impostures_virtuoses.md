@@ -1,6 +1,6 @@
 ---
 id: idea_0061
-title: "Le langage est le terrain privilegie des impostures virtuoses"
+title: "Le langage est le terrain privilégié des impostures virtuoses"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,21 +14,21 @@ tags:
   - virtuosite
   - pensee
 ---
+## Idée
 
-## Idee
+Le langage permet très tôt a chacun de produire des séquences fluides. Pour simuler la
+virtuosité, il suffit alors de relâcher des contraintes dont la violation est moins
+immédiatement sanctionnée que dans le sport ou la musique : vérité, cohérence à long
+terme, refutabilite, précision et responsabilité.
 
-Le langage permet tres tot a chacun de produire des sequences fluides. Pour simuler
-la virtuosite, il suffit alors de relacher des contraintes dont la violation est
-moins immediatement sanctionnee que dans le sport ou la musique : verite,
-coherence a long terme, refutabilite, precision et responsabilite.
+La parole conserve l'allure d'une performance tout en supprimant la possibilité de la
+fausse note. C'est pourquoi le langage devient un terrain privilégié pour confondre
+continuité verbale et maîtrise cognitive.
 
-La parole conserve l'allure d'une performance tout en supprimant la possibilite de
-la fausse note. C'est pourquoi le langage devient un terrain privilegie pour
-confondre continuite verbale et maitrise cognitive.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte relie virtuosite, sophistique contemporaine et critique de la pensée sans resistance.
+Cette carte relie virtuosité, sophistique contemporaine et critique de la pensée sans
+résistance.
 
 ## Liens
 

@@ -1,6 +1,6 @@
 ---
 id: idea_0052
-title: "Celine : creer comme ruse contre la langue"
+title: "Céline : créer comme ruse contre la langue"
 kind: example
 level: conceptual
 status: inbox
@@ -14,14 +14,15 @@ tags:
   - langue
   - ruse
 ---
+## Idée
 
-## Idee
+Créer peut consister à lutter contre une langue déjà formée, à la déformer par des ruses
+rythmiques, syntaxiques ou stylistiques pour rouvrir un espace d'expression.
 
-Creer peut consister a lutter contre une langue deja formee, a la deformer par des ruses rythmiques, syntaxiques ou stylistiques pour rouvrir un espace d'expression.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte nuance la contrainte : elle n'est pas seulement regle externe, elle peut devenir adversaire intime de l'ecriture.
+Cette carte nuance la contrainte : elle n'est pas seulement règle externe, elle peut
+devenir adversaire intime de l'écriture.
 
 ## Liens
 

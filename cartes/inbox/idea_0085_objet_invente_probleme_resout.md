@@ -1,6 +1,6 @@
 ---
 id: idea_0085
-title: "L'objet interessant peut inventer le probleme dont il apparait ensuite comme la solution necessaire"
+title: "L'objet intéressant peut inventer le problème dont il apparaît ensuite comme la solution nécessaire"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -12,39 +12,38 @@ references:
   - pachet2018oreille
 source_notes:
   - "PDF p. 2"
-  - "Jotney, chanson comme probleme melodico-harmonique et preuve de sa solution, PDF p. 1-2"
-  - "Histoire d'une oreille, sentiment d'optale obtenu par variations voisines, PDF p. 17-21 et 64-66 ; solution d'ouverture trouvee apres recherche, p. 282."
+  - "Jotney, chanson comme problème melodico-harmonique et preuve de sa solution, PDF p. 1-2"
+  - "Histoire d'une oreille, sentiment d'optale obtenu par variations voisines, PDF p. 17-21 et 64-66 ; solution d'ouverture trouvée après recherche, p. 282."
 tags:
   - interessant
   - probleme
   - necessite
   - invention
 ---
+## Idée
 
-## Idee
+Certaines formes ne répondent pas à une question déjà formulée. Leur apparition fait
+simultanément comprendre la contrainte qu'elles résolvent. Elles semblent alors
+nécessaires après coup, bien qu'aucune méthode n'ait permis de les déduire avant leur
+existence.
 
-Certaines formes ne repondent pas a une question deja formulee. Leur apparition
-fait simultanement comprendre la contrainte qu'elles resolvent. Elles semblent
-alors necessaires apres coup, bien qu'aucune methode n'ait permis de les deduire
-avant leur existence.
+Cette `nécessité inventée` distingue la singularité intéressante de la solution
+simplement correcte. L'objet reconfigure l'espace des problèmes : il ne remplit pas une
+place vide, il rend cette place visible en l'occupant.
 
-Cette `necessite inventee` distingue la singularite interessante de la solution
-simplement correcte. L'objet reconfigure l'espace des problemes : il ne remplit pas
-une place vide, il rend cette place visible en l'occupant.
+Le sentiment d'optale fournit une opération perceptive pour cette reconfiguration : les
+alternatives voisines échouent après que la forme a été entendue, faisant apparaître
+simultanément la solution et les contraintes qu'elle satisfait. Cette épreuve doit
+toutefois être distinguée de la pseudoptale, où la familiarité seule fait passer une
+trajectoire répétée pour nécessaire.
 
-Le sentiment d'optale fournit une operation perceptive pour cette reconfiguration :
-les alternatives voisines echouent apres que la forme a ete entendue, faisant
-apparaitre simultanement la solution et les contraintes qu'elle satisfait. Cette
-epreuve doit toutefois etre distinguee de la pseudoptale, ou la familiarite seule
-fait passer une trajectoire repetee pour necessaire.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette proposition relie l'interessant a la naissance des problemes et explique
-pourquoi certaines trouvailles paraissent a la fois surprenantes et evidentes.
+Cette proposition relie l'intéressant à la naissance des problèmes et explique pourquoi
+certaines trouvailles paraissent à la fois surprenantes et évidentes.
 
 ## Liens
 
-- Formulation philosophique de la porte qui apparait dans `idea_0009`.
-- Proche de la surprise retrospectivement necessaire de `idea_0019`.
-- A rapprocher de la reification dans `idea_0076`.
+- Formulation philosophique de la porte qui apparaît dans `idea_0009`.
+- Proche de la surprise rétrospectivement nécessaire de `idea_0019`.
+- à rapprocher de la réification dans `idea_0076`.

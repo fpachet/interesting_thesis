@@ -1,6 +1,6 @@
 ---
 id: idea_0009
-title: "Le nouveau devient accessible localement sans avoir ete concevable a l'avance"
+title: "Le nouveau devient accessible localement sans avoir été concevable à l'avance"
 kind: argument
 level: conceptual
 status: inbox
@@ -8,32 +8,31 @@ sources:
   - "input/De l'impossibilité de créer.pdf"
   - "input/Notes thèse.pdf"
 source_notes:
-  - "De l'impossibilite de creer, PDF p. 20-25"
+  - "De l'impossibilité de créer, PDF p. 20-25"
 tags:
   - adjacent_possible
   - creation
   - contraintes
   - exploration
 ---
+## Idée
 
-## Idee
+L'Adjacent Possible n'est pas un catalogue de possibilités qui attendraient d'être
+sélectionnées. Il désigne les transformations accessibles depuis l'état historique d'un
+système. Ouvrir une possibilité fait apparaître de nouvelles fonctions et de nouvelles
+relations qui n'étaient pas seulement inconnues, mais impossibles à décrire auparavant.
 
-L'Adjacent Possible n'est pas un catalogue de possibilites qui attendraient d'etre
-selectionnees. Il designe les transformations accessibles depuis l'etat historique
-d'un systeme. Ouvrir une possibilite fait apparaitre de nouvelles fonctions et de
-nouvelles relations qui n'etaient pas seulement inconnues, mais impossibles a
-decrire auparavant.
+La nouveauté est donc imprévisible sans être miraculeuse : elle émerge par bifurcations
+locales dans un système contraint. Si l'on pouvait en dresser la carte complète à
+l'avance, l'espace serait déjà donné et il n'y aurait plus d'Adjacent Possible au sens
+fort.
 
-La nouveaute est donc imprevisible sans etre miraculeuse : elle emerge par
-bifurcations locales dans un systeme contraint. Si l'on pouvait en dresser la carte
-complete a l'avance, l'espace serait deja donne et il n'y aurait plus d'Adjacent
-Possible au sens fort.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte articule creation, contrainte et rarete. L'objet interessant peut etre pense comme un point trouve dans un voisinage de possibles, ni evident ni arbitraire.
+Cette carte articule création, contrainte et rareté. L'objet intéressant peut être pensé
+comme un point trouvé dans un voisinage de possibles, ni évident ni arbitraire.
 
 ## Liens
 
-- Proche de `idea_0012` sur l'echantillonnage.
-- Proche de `idea_0019` sur l'equilibre rare.
+- Proche de `idea_0012` sur l'échantillonnage.
+- Proche de `idea_0019` sur l'équilibre rare.

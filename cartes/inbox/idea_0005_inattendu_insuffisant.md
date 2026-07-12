@@ -18,26 +18,25 @@ tags:
   - ennui
   - design
 ---
+## Idée
 
-## Idee
+Une chose inattendue n'est pas automatiquement intéressante. L'inattendu peut produire
+une surprise locale, mais aussi une fatigue ou un ennui infini s'il n'est pas inscrit
+dans une structure interprétable. Les interfaces qui multiplient les anomalies et les
+scénarios qui ne font que violer les attentes illustrent cette limite : l'événement doit
+être non seulement inattendu, mais pertinent pour ce qui précède et susceptible de
+recevoir une interprétation.
 
-Une chose inattendue n'est pas automatiquement interessante. L'inattendu peut
-produire une surprise locale, mais aussi une fatigue ou un ennui infini s'il n'est
-pas inscrit dans une structure interpretable. Les interfaces qui multiplient les
-anomalies et les scenarios qui ne font que violer les attentes illustrent cette
-limite : l'evenement doit etre non seulement inattendu, mais pertinent pour ce qui
-precede et susceptible de recevoir une interpretation.
+Le bruit fournit ainsi beaucoup d'information au sens de Shannon et peut faire échouer
+indéfiniment un prédicteur sans devenir intéressant. Chez Schmidhuber, une surprise
+digne de récompense suppose au contraire une attente confiante et la possibilité qu'une
+régularité soit apprise.
 
-Le bruit fournit ainsi beaucoup d'information au sens de Shannon et peut faire
-echouer indefiniment un predicteur sans devenir interessant. Chez Schmidhuber, une
-surprise digne de recompense suppose au contraire une attente confiante et la
-possibilite qu'une regularite soit apprise.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte evite une definition trop courte de l'interessant par la simple surprise.
+Cette carte évite une définition trop courte de l'intéressant par la simple surprise.
 
 ## Liens
 
-- A opposer a `idea_0027`, qui ajoute la notion de regularite decouvrable.
-- Proche de `idea_0017`, ou la contrainte donne une forme a la surprise.
+- à opposer a `idea_0027`, qui ajoute la notion de régularité decouvrable.
+- Proche de `idea_0017`, ou la contrainte donne une forme à la surprise.

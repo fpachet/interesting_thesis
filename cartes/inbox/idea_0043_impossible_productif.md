@@ -14,23 +14,21 @@ tags:
   - contraintes
   - science
 ---
+## Idée
 
-## Idee
+Les impossibilités les plus fécondes ne sont pas des murs extérieurs : elles naissent
+des ambitions internes d'un système. Plus un langage est expressif, plus il produit
+d'indécidable ; plus une méthode est efficace sur une classe de problèmes, plus elle
+renonce à l'universalité. La puissance se paie par une zone d'interdiction.
 
-Les impossibilites les plus fecondes ne sont pas des murs exterieurs : elles
-naissent des ambitions internes d'un systeme. Plus un langage est expressif, plus
-il produit d'indecidable ; plus une methode est efficace sur une classe de
-problemes, plus elle renonce a l'universalite. La puissance se paie par une zone
-d'interdiction.
+La création utilise intelligemment cette incompatibilité. Elle ne supprime pas la limite
+mais construit une réponse singulière qui la rend visible et sensible. Toute création
+durable peut ainsi être lue comme une réponse à une impossibilité bien posée.
 
-La creation utilise intelligemment cette incompatibilite. Elle ne supprime pas la
-limite mais construit une reponse singuliere qui la rend visible et sensible. Toute
-creation durable peut ainsi etre lue comme une reponse a une impossibilite bien
-posee.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte renverse la valeur de la limite : l'impossibilite n'est pas l'ennemie de la creation, elle en est parfois le moteur.
+Cette carte renverse la valeur de la limite : l'impossibilité n'est pas l'ennemie de la
+création, elle en est parfois le moteur.
 
 ## Liens
 

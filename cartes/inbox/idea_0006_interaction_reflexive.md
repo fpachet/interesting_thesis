@@ -1,6 +1,6 @@
 ---
 id: idea_0006
-title: "Le systeme interessant agit comme miroir interactif"
+title: "Le système intéressant agit comme miroir interactif"
 kind: argument
 level: articulation
 status: inbox
@@ -20,32 +20,32 @@ tags:
   - continuator
   - miroir
 ---
+## Idée
 
-## Idee
+Un système réflexif apprend en cours d'interaction des régularités du geste de
+l'utilisateur et les lui renvoie sous une forme transformée. Il ne produit pas une œuvre
+intéressante sur commande et n'expose pas seulement davantage d'options : chaque action
+humaine déclenche une imitation à laquelle l'utilisateur peut à son tour réagir.
+L'intérêt vient de la reconnaissance de sa propre activité, déplacée assez fortement
+pour appeler une nouvelle action.
 
-Un systeme reflexif apprend en cours d'interaction des regularites du geste de
-l'utilisateur et les lui renvoie sous une forme transformee. Il ne produit pas une
-oeuvre interessante sur commande et n'expose pas seulement davantage d'options :
-chaque action humaine declenche une imitation a laquelle l'utilisateur peut a son
-tour reagir. L'interet vient de la reconnaissance de sa propre activite, deplacee
-assez fortement pour appeler une nouvelle action.
+Cette boucle diminue aussi le besoin d'un modèle semantique complet. L'ambiguïté et la
+dépendance au contexte peuvent être corrigées localement par les réactions de
+l'utilisateur : la signification utile au système se construit dans les reprises et les
+rectifications plutôt que d'être entièrement spécifiée avant l'interaction.
 
-Cette boucle diminue aussi le besoin d'un modele semantique complet. L'ambiguite et
-la dependance au contexte peuvent etre corrigees localement par les reactions de
-l'utilisateur : la signification utile au systeme se construit dans les reprises et
-les rectifications plutot que d'etre entierement specifiee avant l'interaction.
+Le critère de succès n'est pas l'effet bref d'une démonstration. à chaque tour du
+Continuator, l'utilisateur fournit davantage de matériau, le modèle se précise et la
+réponse suivante modifie ce que l'utilisateur joue. L'interaction devient intéressante
+si cette évolution soutient l'attention sur plusieurs cycles, au lieu de répéter
+indéfiniment le même tour de passe-passe.
 
-Le critere de succes n'est pas l'effet bref d'une demonstration. A chaque tour du
-Continuator, l'utilisateur fournit davantage de materiau, le modele se precise et
-la reponse suivante modifie ce que l'utilisateur joue. L'interaction devient
-interessante si cette evolution soutient l'attention sur plusieurs cycles, au lieu
-de repeter indefiniment le meme tour de passe-passe.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Le Continuator devient un cas exemplaire : l'interessant n'est ni dans l'utilisateur seul, ni dans le systeme seul, mais dans la boucle.
+Le Continuator devient un cas exemplaire : l'intéressant n'est ni dans l'utilisateur
+seul, ni dans le système seul, mais dans la boucle.
 
 ## Liens
 
-- Proche de `idea_0007`, sur la creation comme effet de l'interaction.
-- A rapprocher de `idea_0104`, sur l'equilibre entre autonomie et ajustement.
+- Proche de `idea_0007`, sur la création comme effet de l'interaction.
+- à rapprocher de `idea_0104`, sur l'équilibre entre autonomie et ajustement.

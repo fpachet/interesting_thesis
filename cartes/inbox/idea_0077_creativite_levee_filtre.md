@@ -1,6 +1,6 @@
 ---
 id: idea_0077
-title: "La creativite peut venir d'une levee provisoire des filtres plutot que d'une capacite ajoutee"
+title: "La créativité peut venir d'une levée provisoire des filtres plutôt que d'une capacité ajoutée"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -14,26 +14,25 @@ tags:
   - perception
   - creativite
 ---
+## Idée
 
-## Idee
+Les mécanismes cognitifs qui catégorisent, simplifient et rendent la perception fluide
+masquent aussi des détails et des relations inhabituelles. Affaiblir provisoirement
+certains filtres peut donner accès à une information plus littérale et modifier la
+stratégie avec laquelle un sujet dessine ou résout un problème.
 
-Les mecanismes cognitifs qui categorisent, simplifient et rendent la perception
-fluide masquent aussi des details et des relations inhabituelles. Affaiblir
-provisoirement certains filtres peut donner acces a une information plus litterale
-et modifier la strategie avec laquelle un sujet dessine ou resout un probleme.
+La nouveauté n'exige donc pas toujours une puissance supplémentaire. Elle peut
+apparaître lorsqu'un automatisme utile cesse momentanément d'imposer ses solutions.
+Cette fragilisation ne garantit ni originalité ni qualité, et les résultats
+expérimentaux invoques restent modestes et discutes : elle ouvre des possibilités, elle
+ne produit pas une œuvre.
 
-La nouveaute n'exige donc pas toujours une puissance supplementaire. Elle peut
-apparaitre lorsqu'un automatisme utile cesse momentanement d'imposer ses solutions.
-Cette fragilisation ne garantit ni originalite ni qualite, et les resultats
-experimentaux invoques restent modestes et discutes : elle ouvre des possibilites,
-elle ne produit pas une oeuvre.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette hypothese inverse la conception cumulative de la creativite et en conserve
-les limites empiriques, sans transformer la desinhibition en recette.
+Cette hypothèse inverse la conception cumulative de la créativité et en conserve les
+limites empiriques, sans transformer la desinhibition en recette.
 
 ## Liens
 
-- Prepare la separation entre generation et jugement de `idea_0046`.
-- A rapprocher de `idea_0012`, ou la selection suit une production peu dirigee.
+- Prépare la séparation entre génération et jugement de `idea_0046`.
+- à rapprocher de `idea_0012`, ou la sélection suit une production peu dirigée.

@@ -2,135 +2,135 @@
 
 ## Definition de l'interessant
 
-- `idea_0001` - Pour les objets temporels, l'interet appartient a l'agencement plus qu'a l'item isole.
-- `idea_0002` - Le gout n'est pas un dictionnaire statique.
-- `idea_0003` - Syntaxe et sens ne suffisent pas a expliquer ce qui retient l'attention.
-- `idea_0013` - L'influence sociale n'abolit pas les proprietes qui orientent la popularite.
-- `idea_0027` - L'interessant comme progres de compression.
-- `idea_0071` - L'interet est un gain temporaire propre a un observateur.
-- `idea_0107` - L'interessant se situe a la frontiere mouvante de ce qui est presque apprenable.
-- `idea_0108` - Une forme peut etre belle et neanmoins ennuyeuse parce qu'elle est deja connue.
-- `idea_0111` - Autonomie melodique et mobilite harmonique peuvent se renforcer au lieu de s'opposer.
-- `idea_0112` - Une micro-emotion musicale qualifie une transformation de l'attention, pas un accord isole.
-- `idea_0113` - L'optale eprouve une necessite par variation, la pseudoptale la simule par familiarite.
-- `idea_0028` - Une mesure d'interet peut diriger la decouverte avant de juger sa valeur.
-- `idea_0029` - Un motif n'est interessant que par son effet sur des croyances.
-- `idea_0079` - Un concept hypertrophie peut cacher les mecanismes qu'il pretend expliquer.
-- `idea_0081` - Fougue, foucade et fulgurance distinguent trois regimes du nouveau.
-- `idea_0083` - Idee, comprehension et fascination sont trois faces de l'emergence d'une forme.
-- `idea_0084` - L'interessant est la rencontre entre une forme et une memoire.
-- `idea_0085` - L'objet interessant peut inventer le probleme qu'il resout.
-- `idea_0090` - L'expertise dissipe le mystere mais peut approfondir l'admiration.
-- `idea_0096` - L'objet interessant peut etre une solution rare d'un probleme implicite.
-- `idea_0097` - Mesurer une preference peut la modifier en faisant evoluer le gout.
-- `idea_0101` - Une preference declaree peut etre une image de soi plutot qu'une anticipation du plaisir.
+- `idea_0001` - Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé.
+- `idea_0002` - Le goût n'est pas un dictionnaire statique.
+- `idea_0003` - Syntaxe et sens ne suffisent pas à expliquer ce qui retient l'attention.
+- `idea_0013` - L'influence sociale n'abolit pas les propriétés propres qui orientent la popularité.
+- `idea_0027` - L'intéressant mesure un progrès de compression, pas une surprise.
+- `idea_0071` - L'intérêt est un gain temporaire propre à un observateur.
+- `idea_0107` - L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable.
+- `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
+- `idea_0111` - Autonomie mélodique et mobilité harmonique peuvent se renforcer au lieu de s'opposer.
+- `idea_0112` - Une micro-émotion musicale qualifie une transformation attentionnelle, pas un objet harmonique.
+- `idea_0113` - L'optale éprouve une nécessité par variation, la pseudoptale la simule par familiarité.
+- `idea_0028` - Une mesure d'intérêt peut diriger la découverte avant de pouvoir juger sa valeur.
+- `idea_0029` - Un motif fréquent n'est intéressant que par l'effet qu'il produit sur des croyances.
+- `idea_0079` - Un concept hypertrophié peut cacher les mécanismes qu'il prétend expliquer.
+- `idea_0081` - Fougue, foucade et fulgurance distinguent potentiel, rupture et nouveauté accomplie.
+- `idea_0083` - Naissance d'une idée, compréhension et fascination sont trois faces de l'émergence d'une forme.
+- `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
+- `idea_0085` - L'objet intéressant peut inventer le problème dont il apparaît ensuite comme la solution nécessaire.
+- `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
+- `idea_0096` - Un objet peut être intéressant parce qu'il apparaît comme une solution rare d'un problème implicite.
+- `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
+- `idea_0101` - Une préférence déclarée peut être une image de soi plutôt qu'une anticipation du plaisir.
 
 ## Ennui, surprise, rarete
 
 - `idea_0004` - L'ennui est le prix de l'excitation parce que le plaisir vient d'une variation.
 - `idea_0005` - L'inattendu ne suffit pas.
-- `idea_0019` - Une surprise musicale forte devient retrospectivement necessaire.
-- `idea_0030` - Une coincidence devient interessante quand ses exemples forment un motif.
-- `idea_0032` - L'interessant comme choix du meilleur prochain evenement.
-- `idea_0037` - Thue-Morse comme non-repetition structuree.
-- `idea_0114` - Une phrase banale peut devenir interessante apres coup ou rester un simple substrat.
-- `idea_0115` - L'ecoute surattentive peut fabriquer l'interet qu'elle pretend decouvrir.
-- `idea_0045` - On ne se chatouille pas soi-meme.
+- `idea_0019` - Une surprise musicale forte devient rétrospectivement nécessaire.
+- `idea_0030` - Une coïncidence devient intéressante quand ses exemples forment eux-mêmes un motif.
+- `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
+- `idea_0037` - Thue-Morse : non-répétition structurée.
+- `idea_0114` - Une phrase banale peut devenir intéressante après coup ou rester un simple substrat.
+- `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
+- `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 
 ## Creation, contrainte, impossibilite
 
-- `idea_0008` - Creer commence par une impossibilite.
-- `idea_0009` - Le nouveau devient accessible sans avoir ete concevable a l'avance.
-- `idea_0010` - Virtuosite et difficultuosite.
-- `idea_0012` - Produire sans but explicite peut faire apparaitre le but apres coup.
-- `idea_0016` - Generer avec un sens de la direction.
-- `idea_0017` - Une generation contrainte peut etre valide tout en biaisant la distribution cible.
-- `idea_0041` - L'injonction democratique a creer.
-- `idea_0042` - Creer n'ajoute rien au monde physique.
+- `idea_0008` - Créer commence par une impossibilité.
+- `idea_0009` - Le nouveau devient accessible localement sans avoir été concevable à l'avance.
+- `idea_0010` - Virtuosité et difficultuosité.
+- `idea_0012` - Produire sans but explicite peut faire apparaître le but après coup.
+- `idea_0016` - La génération a besoin d'un sens de la direction.
+- `idea_0017` - Une génération contrainte peut être validée tout en biaisant la distribution cible.
+- `idea_0041` - L'injonction démocratique à créer.
+- `idea_0042` - Créer n'ajoute rien au monde physique.
 - `idea_0043` - L'impossible est productif.
-- `idea_0044` - Les theories de la creativite sont souvent sans theoremes.
-- `idea_0046` - Le createur doit se dedoubler en generateur et juge.
-- `idea_0051` - La contrainte litteraire fait surgir du nouveau sans miracle.
-- `idea_0052` - Celine : creer comme ruse contre la langue.
-- `idea_0054` - L'IA apprend nos repetitions plutot que la singularite des oeuvres.
-- `idea_0055` - Le createur veut circuler sans etre dissous.
-- `idea_0056` - La creation contemporaine est distribuee.
-- `idea_0074` - La surabondance peut fermer des possibles en eliminant la diversite.
-- `idea_0075` - L'adjacent statistique n'est pas l'Adjacent Possible.
-- `idea_0076` - La reification efface retrospectivement l'invention du concept.
-- `idea_0077` - La creativite peut venir d'une levee provisoire des filtres.
-- `idea_0080` - La nouveaute generative peut resider dans une relation forme-matiere.
-- `idea_0082` - Creer est peut-etre d'abord imposer une fin au processus.
-- `idea_0087` - La simplicite d'une forme peut cacher une genese improbable.
-- `idea_0089` - La virtuosite absorbe l'imprevu sans perdre la coherence du geste.
-- `idea_0091` - Deformer la langue peut forcer a penser ou seulement a admirer.
-- `idea_0098` - Une solution syntaxiquement legale n'est pas necessairement interessante.
-- `idea_0099` - Une solution simple peut exiger un chemin de creation singulier.
-- `idea_0100` - La difficulte d'une contrainte depend de l'etat conjoint du modele et de la forme.
+- `idea_0044` - Les théories de la créativité sont souvent sans théorèmes.
+- `idea_0046` - Le créateur doit se dédoubler en générateur et juge.
+- `idea_0051` - La contrainte littéraire fait surgir du nouveau sans miracle.
+- `idea_0052` - Céline : créer comme ruse contre la langue.
+- `idea_0054` - L'IA apprend nos répétitions plutôt que la singularité des œuvres.
+- `idea_0055` - Le créateur veut circuler sans être dissous.
+- `idea_0056` - La création contemporaine est distribuée.
+- `idea_0074` - La surabondance peut fermer des possibles en éliminant la diversité des manières de faire.
+- `idea_0075` - L'adjacent statistique prolonge les couloirs existants sans ouvrir l'Adjacent Possible.
+- `idea_0076` - Réifier une idée crée un objet de pensée qui efface rétrospectivement son invention.
+- `idea_0077` - La créativité peut venir d'une levée provisoire des filtres plutôt que d'une capacité ajoutée.
+- `idea_0080` - La nouveauté générative peut résider dans une nouvelle relation entre forme et matière.
+- `idea_0082` - Créer est peut-être d'abord imposer une fin à un processus qui pourrait continuer.
+- `idea_0087` - Une forme intéressante peut paraître simple parce qu'elle a rendu invisibles les contraintes improbables de sa genèse.
+- `idea_0089` - La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste.
+- `idea_0091` - Déformer la langue peut forcer à penser ou seulement forcer à admirer.
+- `idea_0098` - Satisfaire toutes les contraintes syntaxiques ne permet pas de distinguer une bonne solution.
+- `idea_0099` - La meilleure solution peut être simple tout en exigeant un chemin de création singulier.
+- `idea_0100` - La difficulté d'une contrainte dépend de l'état conjoint du modèle et de la forme.
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
-- `idea_0109` - Produire de l'interessant exige souvent d'articuler sampling et resolution de contraintes.
+- `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
 
 ## Interaction et systemes reflexifs
 
-- `idea_0006` - Interaction reflexive.
-- `idea_0007` - Creation comme effet secondaire du miroir.
-- `idea_0011` - Ethologie artificielle.
-- `idea_0031` - Relation musicale ni trop proche ni trop distante.
-- `idea_0039` - L'interessant d'une sequence nait de dimensions qui se contraignent mutuellement.
-- `idea_0068` - Democratic composition : enregistrer tout le processus.
-- `idea_0070` - L'ethologie active provoque des situations.
-- `idea_0088` - Un modele computationnel peut eprouver une hypothese sans epuiser son objet.
-- `idea_0094` - Perception et creation doivent etre etudiees ensemble.
-- `idea_0102` - Un controle significatif preserve des invariants semantiques.
-- `idea_0104` - Une interaction interessante maintient autonomie et ajustement mutuel.
+- `idea_0006` - Le système intéressant agit comme miroir interactif.
+- `idea_0007` - La création comme effet secondaire de l'interaction.
+- `idea_0011` - L'attention observée renseigne mieux sur l'intérêt que la préférence déclarée.
+- `idea_0031` - La relation musicale optimale n'est ni trop proche ni trop lointaine.
+- `idea_0039` - L'intéressant d'une séquence naît de dimensions qui se contraignent mutuellement.
+- `idea_0068` - Democratic composition : enregistrer tout le processus de création.
+- `idea_0070` - L'éthologie active provoque des situations au lieu de seulement observer.
+- `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
+- `idea_0094` - On ne peut comprendre l'intéressant sans étudier ensemble la perception et la création.
+- `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
+- `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
 
 ## Exploration, similarite, parcours
 
-- `idea_0014` - PathBuilder et chemins de similarite.
-- `idea_0015` - Une reponse contextuelle reste ininteressante si elle ignore l'histoire.
-- `idea_0022` - Un objet rate peut transformer le spectateur en diagnosticien.
-- `idea_0024` - Apprendre est interessant parce que l'erreur ne se repete pas.
-- `idea_0035` - Maintenir des croyances dans le sequence mining.
-- `idea_0036` - Actionabilite et unexpectedness.
-- `idea_0067` - Creer est difficile parce que produire et evaluer l'interessant ne coincident pas.
-- `idea_0069` - La popularite musicale exige des traits generes.
-- `idea_0072` - La curiosite aide surtout lorsque la recompense externe est rare.
-- `idea_0086` - La musique est un laboratoire temporel de l'interessant.
-- `idea_0093` - L'exposition passive fabrique des modes d'attention.
-- `idea_0105` - L'abondance transforme la selection d'objets en construction de trajectoires.
-- `idea_0106` - Une similarite culturelle depend du corpus interroge, pas d'une verite terrain unique.
+- `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.
+- `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.
+- `idea_0022` - Un objet raté peut soutenir l'attention en transformant le spectateur en diagnosticien.
+- `idea_0024` - Apprendre est intéressant parce que l'erreur ne se répète pas.
+- `idea_0035` - Les séquences intéressantes mettent à jour un système de croyances.
+- `idea_0036` - Actionabilité et unexpectedness.
+- `idea_0067` - Créer est difficile parce que produire et évaluer l'intéressant ne coïncident pas.
+- `idea_0069` - La popularité musicale exige des traits générés, pas seulement mesurés.
+- `idea_0072` - La curiosité aide surtout lorsque la récompense externe est rare.
+- `idea_0086` - La musique est un laboratoire de l'intéressant parce qu'elle rend l'attente et la mémoire constitutives de la forme.
+- `idea_0093` - L'exposition passive aux médias fabrique des modes d'attention que l'industrie ne devrait pas seule définir.
+- `idea_0105` - L'abondance transforme la sélection d'objets en construction de trajectoires.
+- `idea_0106` - Une similarité culturelle dépend du corpus interrogé, pas d'une vérité terrain unique.
 
 ## Exemples et symptomes
 
-- `idea_0018` - L'IA comme laboratoire philosophique.
-- `idea_0020` - Appropriation par participation ou par confrontation.
-- `idea_0023` - Une relation temporelle peut rendre saillant un contenu sans valeur.
-- `idea_0026` - Homogeneisation culturelle et besoin d'innovation structuree.
-- `idea_0034` - Les hooks harmoniques dans la chanson populaire.
-- `idea_0038` - Attente musicale et degre de realisation.
-- `idea_0040` - Musique liquide et attention rare.
-- `idea_0073` - Appeler une oeuvre contenu la transforme en substance interchangeable.
-- `idea_0048` - La virtuosite seduit par l'apparence d'une liberte sans friction.
-- `idea_0049` - La difficultuosite vit dans une zone de credibilite.
-- `idea_0050` - Le flow est le signal tardif d'une difficulte incorporee.
-- `idea_0053` - Popularite sociale et importance historique ne mesurent pas la meme chose.
-- `idea_0078` - La virtuosite est percue par resonance avec un corps possible.
-- `idea_0057` - Les fantasmagories seduisent par plaisir de la glisse.
-- `idea_0058` - Le vrai virtuose paie la fluidite par une vie de travail.
-- `idea_0059` - La chalepodoxie.
-- `idea_0060` - On desire l'etat du virtuose plus que son objet.
-- `idea_0061` - Le langage est le terrain privilegie des impostures virtuoses.
-- `idea_0062` - Penser, c'est accepter la contrainte du reel.
-- `idea_0063` - La substitution harmonique comme modele de discours pseudo-profond.
-- `idea_0064` - L'encerclement melodique du discours.
-- `idea_0065` - La pedale de distorsion verbale.
-- `idea_0066` - Une democratie tient par resistance a la glisse.
-- `idea_0092` - Les reseaux sociaux enseignent a paraitre maitre en punissant l'hesitation.
-- `idea_0095` - Un modele trop general devient difficile a falsifier et inutile pour produire.
+- `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
+- `idea_0020` - L'appropriation par participation s'oppose à l'appropriation par confrontation.
+- `idea_0023` - Une relation temporelle minimale peut rendre saillant un contenu sans valeur.
+- `idea_0026` - L'homogénéisation culturelle appelle une innovation structurée.
+- `idea_0034` - Les hooks harmoniques comme micro-solutions intéressantes.
+- `idea_0038` - La surprise musicale dépend du degré de réalisation de l'attente.
+- `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
+- `idea_0073` - Appeler une œuvre contenu la transforme en substance interchangeable.
+- `idea_0048` - La virtuosité séduit par l'apparence d'une liberté sans friction.
+- `idea_0049` - La difficultuosité vit dans une zone de crédibilité.
+- `idea_0050` - Le flow est le signal tardif d'une difficulté incorporée, pas un moteur créatif.
+- `idea_0053` - La popularité mesure une dynamique sociale, l'importance une transformation historique.
+- `idea_0078` - La virtuosité est perçue par comparaison avec les capacités corporelles latentes du public.
+- `idea_0057` - Les fantasmagories séduisent par plaisir de la glisse.
+- `idea_0058` - Le vrai virtuose paie la fluidité par une vie de travail.
+- `idea_0059` - La chalepodoxie : réputation sociale de difficulté.
+- `idea_0060` - On désire l'état du virtuose plus que son objet.
+- `idea_0061` - Le langage est le terrain privilégié des impostures virtuoses.
+- `idea_0062` - Penser, c'est accepter la contrainte du réel.
+- `idea_0063` - La substitution harmonique comme modèle de discours pseudo-profond.
+- `idea_0064` - L'encerclement mélodique du discours.
+- `idea_0065` - La pédale de distorsion verbale.
+- `idea_0066` - Une démocratie tient par résistance à la glisse.
+- `idea_0092` - Les réseaux sociaux enseignent à paraître maître en punissant l'hésitation.
+- `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
 
 ## Methode et reflexivite de la these
 
-- `idea_0018` - L'IA peut fonctionner comme laboratoire philosophique de la naissance des idees.
-- `idea_0088` - Un modele computationnel peut eprouver une hypothese sans epuiser son objet.
-- `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses resultats des idees qu'elle rend pensables.
+- `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
+- `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
+- `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.

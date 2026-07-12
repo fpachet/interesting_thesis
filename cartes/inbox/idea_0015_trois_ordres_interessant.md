@@ -1,6 +1,6 @@
 ---
 id: idea_0015
-title: "Une reponse adaptee au contexte peut rester ininteressante si elle ignore l'histoire"
+title: "Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire"
 kind: distinction
 level: conceptual
 status: inbox
@@ -14,19 +14,19 @@ tags:
   - systeme
   - contexte
 ---
+## Idée
 
-## Idee
+Satisfaire exactement une demande est un premier niveau ; adapter la réponse au contexte
+présent en est un second. Mais ces deux niveaux peuvent répéter ce qui a déjà fonctionné
+jusqu'à l'ennui. Une réponse vraiment intéressante doit aussi tenir compte de la
+chronologie des interactions : ce qui a déjà été montré, appris, épuisé ou rendu
+possible. L'historique n'est donc pas un contexte supplémentaire, mais une condition de
+la relance.
 
-Satisfaire exactement une demande est un premier niveau ; adapter la reponse au
-contexte present en est un second. Mais ces deux niveaux peuvent repeter ce qui a
-deja fonctionne jusqu'a l'ennui. Une reponse vraiment interessante doit aussi
-tenir compte de la chronologie des interactions : ce qui a deja ete montre, appris,
-epuise ou rendu possible. L'historique n'est donc pas un contexte supplementaire,
-mais une condition de la relance.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette distinction donne une progression tres utile pour classer les systemes : service, recommandation, experience temporelle.
+Cette distinction donne une progression très utile pour classer les systèmes : service,
+recommandation, expérience temporelle.
 
 ## Liens
 

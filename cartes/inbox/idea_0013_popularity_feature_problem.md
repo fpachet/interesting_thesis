@@ -1,6 +1,6 @@
 ---
 id: idea_0013
-title: "L'influence sociale n'abolit pas les proprietes propres qui orientent la popularite"
+title: "L'influence sociale n'abolit pas les propriétés propres qui orientent la popularité"
 kind: hypothesis
 level: scientific
 status: inbox
@@ -16,18 +16,18 @@ tags:
   - preference
   - attention
 ---
+## Idée
 
-## Idee
+La pression sociale rend la popularité contingente, mais elle ne produit pas une
+distribution uniforme des succès. Certains objets attirent plus souvent certains
+publics, ce qui suggère que des propriétés de l'objet interagissent avec les sujets et
+les contextes. Le `popularity feature problem` consiste à identifier ces propriétés sans
+les confondre avec une essence universelle de la valeur.
 
-La pression sociale rend la popularite contingente, mais elle ne produit pas une
-distribution uniforme des succes. Certains objets attirent plus souvent certains
-publics, ce qui suggere que des proprietes de l'objet interagissent avec les sujets
-et les contextes. Le `popularity feature problem` consiste a identifier ces
-proprietes sans les confondre avec une essence universelle de la valeur.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette question evite deux reductions : tout expliquer par les proprietes internes, ou tout expliquer par le social.
+Cette question évite deux réductions : tout expliquer par les propriétés internes, ou
+tout expliquer par le social.
 
 ## Liens
 

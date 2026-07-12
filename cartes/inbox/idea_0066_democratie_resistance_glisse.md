@@ -1,6 +1,6 @@
 ---
 id: idea_0066
-title: "Une democratie tient par resistance a la glisse"
+title: "Une démocratie tient par résistance à la glisse"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,22 +14,21 @@ tags:
   - resistance
   - politique
 ---
+## Idée
 
-## Idee
+On ne combat pas une fantasmagorie seulement par des faits, car elle procure un plaisir
+de fluidité et de maîtrise. Une réponse exclusivement corrective laisse donc intacte la
+gratification qui porte le discours. Il faut rendre de nouveau désirable une autre
+satisfaction : celle d'une pensée qui accepte la lenteur, la résistance, l'interruption
+et la possibilité d'être corrigée.
 
-On ne combat pas une fantasmagorie seulement par des faits, car elle procure un
-plaisir de fluidite et de maitrise. Une reponse exclusivement corrective laisse
-donc intacte la gratification qui porte le discours. Il faut rendre de nouveau
-desirable une autre satisfaction : celle d'une pensee qui accepte la lenteur, la
-resistance, l'interruption et la possibilite d'etre corrigee.
+La résistance est une condition politique, pas seulement cognitive. Une démocratie
+devient vulnérable lorsque la continuité du débit vaut preuve et que l'hésitation est
+interprétée comme faiblesse.
 
-La resistance est une condition politique, pas seulement cognitive. Une democratie
-devient vulnerable lorsque la continuite du debit vaut preuve et que l'hesitation
-est interpretee comme faiblesse.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne a l'analyse de la virtuosite une portee politique.
+Cette carte donne à l'analyse de la virtuosité une portée politique.
 
 ## Liens
 

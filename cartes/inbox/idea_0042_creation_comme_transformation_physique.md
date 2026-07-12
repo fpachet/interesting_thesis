@@ -1,6 +1,6 @@
 ---
 id: idea_0042
-title: "Creer n'ajoute rien au monde physique"
+title: "Créer n'ajoute rien au monde physique"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,14 +14,16 @@ tags:
   - transformation
   - entropie
 ---
+## Idée
 
-## Idee
+Du point de vue physique, créer ne signifie jamais ajouter de la matière, de l'énergie
+ou une forme durable ex nihilo. Ce que nous appelons création est une transformation
+locale et provisoire dans un monde de conservation et de dissipation.
 
-Du point de vue physique, creer ne signifie jamais ajouter de la matiere, de l'energie ou une forme durable ex nihilo. Ce que nous appelons creation est une transformation locale et provisoire dans un monde de conservation et de dissipation.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne un socle anti-romantique : la creation est une fiction psychologique greffee sur des transformations materielles.
+Cette carte donne un socle anti-romantique : la création est une fiction psychologique
+greffée sur des transformations matérielles.
 
 ## Liens
 

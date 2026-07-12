@@ -1,6 +1,6 @@
 ---
 id: idea_0062
-title: "Penser, c'est accepter la contrainte du reel"
+title: "Penser, c'est accepter la contrainte du réel"
 kind: distinction
 level: conceptual
 status: inbox
@@ -14,14 +14,16 @@ tags:
   - reel
   - fantasmagorie
 ---
+## Idée
 
-## Idee
+La pensée véritable accepte l'épreuve des faits, de la logique, de l'histoire et de la
+forme. La fantasmagorie conserve l'allure de l'improvisation mais se donne ensuite
+l'apparence d'une structure.
 
-La pensee veritable accepte l'epreuve des faits, de la logique, de l'histoire et de la forme. La fantasmagorie conserve l'allure de l'improvisation mais se donne ensuite l'apparence d'une structure.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne un critere pour distinguer fluidite argumentative et travail conceptuel.
+Cette carte donne un critère pour distinguer fluidité argumentative et travail
+conceptuel.
 
 ## Liens
 

@@ -1,6 +1,6 @@
 ---
 id: idea_0063
-title: "La substitution harmonique comme modele de discours pseudo-profond"
+title: "La substitution harmonique comme modèle de discours pseudo-profond"
 kind: example
 level: conceptual
 status: inbox
@@ -14,14 +14,16 @@ tags:
   - substitution
   - politique
 ---
+## Idée
 
-## Idee
+Un discours peut remplacer des formulations simples par des syntagmes plus lourds et
+plus dissonants, sans ajouter d'information. Comme une substitution harmonique, il
+conserve la fonction tout en donnant une impression de richesse.
 
-Un discours peut remplacer des formulations simples par des syntagmes plus lourds et plus dissonants, sans ajouter d'information. Comme une substitution harmonique, il conserve la fonction tout en donnant une impression de richesse.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte donne un outil d'analyse tres concret pour les pseudo-virtuosites discursives.
+Cette carte donne un outil d'analyse très concret pour les pseudo-virtuosités
+discursives.
 
 ## Liens
 

@@ -1,6 +1,6 @@
 ---
 id: idea_0008
-title: "Creer commence par une impossibilite"
+title: "Créer commence par une impossibilité"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,16 +14,18 @@ tags:
   - invention
   - contrainte
 ---
+## Idée
 
-## Idee
+La création ne peut pas être simplement commandée. Dire "crée" expose une contradiction
+: si le geste est programmable, il n'est déjà plus création au sens fort ; s'il est
+vraiment créateur, il excède l'ordre donné.
 
-La creation ne peut pas etre simplement commandee. Dire "cree" expose une contradiction : si le geste est programmable, il n'est deja plus creation au sens fort ; s'il est vraiment createur, il excede l'ordre donne.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte peut devenir un pivot philosophique : l'interessant nait peut-etre dans la zone ou une tache ne peut pas etre executee directement.
+Cette carte peut devenir un pivot philosophique : l'intéressant naît peut-être dans la
+zone ou une tâche ne peut pas être exécutée directement.
 
 ## Liens
 
 - Proche de `idea_0009`.
-- A relier a `idea_0016` sur la generation dirigee.
+- à relier a `idea_0016` sur la génération dirigée.

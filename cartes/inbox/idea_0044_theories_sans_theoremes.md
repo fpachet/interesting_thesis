@@ -1,6 +1,6 @@
 ---
 id: idea_0044
-title: "Les theories de la creativite sont souvent sans theoremes"
+title: "Les théories de la créativité sont souvent sans théorèmes"
 kind: objection
 level: conceptual
 status: inbox
@@ -14,16 +14,18 @@ tags:
   - modele
   - prediction
 ---
+## Idée
 
-## Idee
+Les discours savants sur la créativité abondent, mais ils expliquent souvent après coup
+sans permettre de déduire, prédire ou produire un acte créateur. Ils ressemblent
+davantage à des artefacts explicatifs qu'à des théories fortes.
 
-Les discours savants sur la creativite abondent, mais ils expliquent souvent apres coup sans permettre de deduire, predire ou produire un acte createur. Ils ressemblent davantage a des artefacts explicatifs qu'a des theories fortes.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte permet de critiquer les cadres trop confortables : parler de creativite n'est pas encore la comprendre.
+Cette carte permet de critiquer les cadres trop confortables : parler de créativité
+n'est pas encore la comprendre.
 
 ## Liens
 
 - Proche de `idea_0028`.
-- A relier aux limites des modeles generatifs dans `idea_0016`.
+- à relier aux limites des modèles génératifs dans `idea_0016`.

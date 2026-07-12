@@ -1,6 +1,6 @@
 ---
 id: idea_0091
-title: "Deformer la langue peut forcer a penser ou seulement forcer a admirer"
+title: "Déformer la langue peut forcer à penser ou seulement forcer à admirer"
 kind: distinction
 level: conceptual
 status: inbox
@@ -14,25 +14,24 @@ tags:
   - chalepodoxie
   - pensee
 ---
+## Idée
 
-## Idee
+Le grand styliste rend la langue étrangère à elle-même parce qu'une idée ou une
+expérience résiste aux formes disponibles. La déformation ouvre un passage à la limite
+du dicible et oblige le lecteur à réorganiser sa pensée.
 
-Le grand styliste rend la langue etrangere a elle-meme parce qu'une idee ou une
-experience resiste aux formes disponibles. La deformation ouvre un passage a la
-limite du dicible et oblige le lecteur a reorganiser sa pensee.
+La chalepodoxie peut employer les mêmes signes visibles - jargon, abstraction, syntaxe
+brisée, obscurité - sans rencontrer cette résistance. La complexité ne porte alors
+aucune proposition plus exigeante ; elle sert à produire une réputation de profondeur.
+Dans un cas, la difficulté est le coût d'une idée ; dans l'autre, elle est l'effet
+destiné au public.
 
-La chalepodoxie peut employer les memes signes visibles - jargon, abstraction,
-syntaxe brisee, obscurite - sans rencontrer cette resistance. La complexite ne
-porte alors aucune proposition plus exigeante ; elle sert a produire une
-reputation de profondeur. Dans un cas, la difficulte est le cout d'une idee ; dans
-l'autre, elle est l'effet destine au public.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette distinction evite d'assimiler obscurite et invention, tout en reconnaissant
-qu'une forme veritablement nouvelle peut d'abord etre difficile a comprendre.
+Cette distinction évite d'assimiler obscurité et invention, tout en reconnaissant qu'une
+forme véritablement nouvelle peut d'abord être difficile à comprendre.
 
 ## Liens
 
-- Precise `idea_0052` sur la ruse de Celine contre la langue.
-- Donne un critere a `idea_0061` et `idea_0062`.
+- Précise `idea_0052` sur la ruse de Céline contre la langue.
+- Donne un critère a `idea_0061` et `idea_0062`.

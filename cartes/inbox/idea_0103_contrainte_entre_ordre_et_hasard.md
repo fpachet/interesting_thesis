@@ -14,27 +14,25 @@ tags:
   - hasard
   - coherence
 ---
+## Idée
 
-## Idee
+L'alternative entre une séquence entièrement fixée et une sélection aléatoire est
+fausse. Des contraintes globales peuvent garantir une continuité, une répartition ou une
+forme tout en laissant plusieurs solutions et donc une possibilité réelle d'exploration.
+La variété n'est pas le hasard : elle devient perceptible sur le fond d'une régularité
+qui relie les choix.
 
-L'alternative entre une sequence entierement fixee et une selection aleatoire est
-fausse. Des contraintes globales peuvent garantir une continuite, une repartition
-ou une forme tout en laissant plusieurs solutions et donc une possibilite reelle
-d'exploration. La variete n'est pas le hasard : elle devient perceptible sur le fond
-d'une regularite qui relie les choix.
+La qualité de l'espace dépend du compromis entre deux échecs. Trop de contraintes
+ramènent à un ordre unique; trop peu rendent les variantes arbitraires. Une bonne
+contrainte ne remplace donc pas le choix : elle lui donne une portée en éliminant les
+trajectoires qui détruiraient la cohérence globale.
 
-La qualite de l'espace depend du compromis entre deux echecs. Trop de contraintes
-ramenent a un ordre unique; trop peu rendent les variantes arbitraires. Une bonne
-contrainte ne remplace donc pas le choix : elle lui donne une portee en eliminant
-les trajectoires qui detruiraient la coherence globale.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte relie une these esthetique sur la variete a un principe technique de
-generation et d'interaction.
+Cette carte relie une thèse esthétique sur la variété à un principe technique de
+génération et d'interaction.
 
 ## Liens
 
-- Complete `idea_0096` sur la rarete relative a un probleme.
-- Fournit un cadre general a `idea_0014` et `idea_0102`.
-
+- Complète `idea_0096` sur la rareté relative à un problème.
+- Fournit un cadre général a `idea_0014` et `idea_0102`.

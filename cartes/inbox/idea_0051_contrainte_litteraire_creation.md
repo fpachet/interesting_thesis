@@ -1,6 +1,6 @@
 ---
 id: idea_0051
-title: "La contrainte litteraire fait surgir du nouveau sans miracle"
+title: "La contrainte littéraire fait surgir du nouveau sans miracle"
 kind: example
 level: articulation
 status: inbox
@@ -16,14 +16,14 @@ tags:
   - perec
   - creation
 ---
+## Idée
 
-## Idee
+Chez Perec, écrire consiste à choisir une règle, observer, classer, recombiner. La
+nouveauté surgit de la réorganisation de matériaux connus sous contraintes nouvelles.
 
-Chez Perec, ecrire consiste a choisir une regle, observer, classer, recombiner. La nouveaute surgit de la reorganisation de materiaux connus sous contraintes nouvelles.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette carte fournit un exemple litteraire fort de creation non magique.
+Cette carte fournit un exemple littéraire fort de création non magique.
 
 ## Liens
 

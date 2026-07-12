@@ -1,6 +1,6 @@
 ---
 id: idea_0071
-title: "L'interet est un gain temporaire propre a un observateur"
+title: "L'intérêt est un gain temporaire propre à un observateur"
 kind: hypothesis
 level: articulation
 status: inbox
@@ -14,7 +14,7 @@ references:
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20"
   - "Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3"
-  - "Histoire d'une oreille, fascination, saturation puis usage parcimonieux de la neuveclamine, PDF p. 23-24 ; solutions devenues evidentes apres reecoute, p. 285."
+  - "Histoire d'une oreille, fascination, saturation puis usage parcimonieux de la neuveclamine, PDF p. 23-24 ; solutions devenues évidentes après réécoute, p. 285."
 tags:
   - schmidhuber
   - compression
@@ -22,39 +22,38 @@ tags:
   - temporalite
   - subjectivite
 ---
+## Idée
 
-## Idee
+Si l'intérêt correspond à un progrès de compression, il ne peut pas être une propriété
+stable de l'objet. Il dépend de ce que l'observateur sait déjà, de ce qu'il est capable
+de calculer et du moment de son apprentissage. La régularité qui provoque aujourd'hui un
+gain de compréhension devient demain une connaissance acquise et donc une source
+d'ennui.
 
-Si l'interet correspond a un progres de compression, il ne peut pas etre une
-propriete stable de l'objet. Il depend de ce que l'observateur sait deja, de ce
-qu'il est capable de calculer et du moment de son apprentissage. La regularite qui
-provoque aujourd'hui un gain de comprehension devient demain une connaissance
-acquise et donc une source d'ennui.
+Cette proposition est plus précise que l'affirmation générale selon laquelle les goûts
+sont subjectifs : elle indique quelle transformation interne fait varier l'intérêt.
+Apprendre détruit progressivement la récompense qui a motivé l'apprentissage et force la
+curiosité à changer d'objet.
 
-Cette proposition est plus precise que l'affirmation generale selon laquelle les
-gouts sont subjectifs : elle indique quelle transformation interne fait varier
-l'interet. Apprendre detruit progressivement la recompense qui a motive
-l'apprentissage et force la curiosite a changer d'objet.
+Il n'existe donc pas de proportion universelle entre information attendue et inattendue.
+La frontière entre trivial et aléatoire se déplace avec les savoirs et les capacités de
+calcul de l'observateur.
 
-Il n'existe donc pas de proportion universelle entre information attendue et
-inattendue. La frontiere entre trivial et aleatoire se deplace avec les savoirs et
-les capacites de calcul de l'observateur.
+La neuveclamine en donne une micro-histoire concrète : découverte fascinante,
+reproduction intensive, saturation, puis réapprentissage d'un usage rare et presque
+indétectable. L'effet ne disparaît pas simplement ; sa valeur dépend de la manière dont
+l'attente est de nouveau préparée après son assimilation.
 
-La neuveclamine en donne une micro-histoire concrete : decouverte fascinante,
-reproduction intensive, saturation, puis reapprentissage d'un usage rare et presque
-indetectable. L'effet ne disparait pas simplement ; sa valeur depend de la maniere
-dont l'attente est de nouveau preparee apres son assimilation.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Elle permet de definir l'interessant comme une relation dynamique entre une forme
-et l'etat d'un observateur. Elle predit aussi qu'une oeuvre peut rester interessante
-si elle offre plusieurs regularites decouvrables a des echelles ou des moments
-differents, plutot qu'une seule surprise rapidement epuisee.
+Elle permet de définir l'intéressant comme une relation dynamique entre une forme et
+l'état d'un observateur. Elle prédit aussi qu'une œuvre peut rester intéressante si elle
+offre plusieurs régularités découvrables à des échelles ou des moments différents,
+plutôt qu'une seule surprise rapidement épuisée.
 
 ## Liens
 
-- Consequence temporelle de `idea_0027`.
-- Precise `idea_0001` et `idea_0002` par un mecanisme d'apprentissage.
-- Eclaire `idea_0004` : l'ennui peut etre l'effet normal d'une comprehension reussie.
-- Le cas Jotney montre aussi que certaines formes survivent a l'epuisement de leur premiere surprise.
+- Conséquence temporelle de `idea_0027`.
+- Précise `idea_0001` et `idea_0002` par un mécanisme d'apprentissage.
+- Éclaire `idea_0004` : l'ennui peut être l'effet normal d'une compréhension réussie.
+- Le cas Jotney montre aussi que certaines formes survivent à l'épuisement de leur première surprise.

@@ -15,6 +15,10 @@ resumer une section. Elle doit formuler une affirmation, une hypothese, une
 distinction forte ou une objection que la these pourrait soutenir, discuter ou
 mettre a l'epreuve.
 
+Le français correct appartient à la carte elle-même : titres, rubriques et prose
+doivent être accentués et relus dans `inbox/`. Le générateur du catalogue recopie
+fidèlement ce texte et ne doit jamais réparer l'orthographe au moment du rendu.
+
 ## Trois niveaux de proposition
 
 Les cartes distinguent desormais trois niveaux qui ne doivent pas etre confondus :
@@ -46,6 +50,23 @@ Le document `ORGANISATION.md` presente les pivots, les recouvrements et les
 questions ouvertes. Le registre `relations.tsv` conserve un graphe plus restreint
 de relations fortes et typees (`supports`, `limits`, `operationalizes`, etc.). Il
 complete les liens associatifs inscrits dans chaque carte sans les remplacer.
+
+## Catalogue partageable
+
+`catalogue-idees.tex` rassemble le texte des 112 cartes dans l'ordre de
+`indexes/by_argument.md`, avec leurs statuts, provenances et references. Il est
+regenere depuis les cartes, puis compile en PDF avec :
+
+```bash
+python3 scripts/generate_card_catalog.py
+mkdir -p output/pdf
+latexmk -pdf -interaction=nonstopmode -halt-on-error \
+  -output-directory=output/pdf cartes/catalogue-idees.tex
+```
+
+Le rendu partageable est `output/pdf/catalogue-idees.pdf`. Le generateur refuse
+de produire le document si l'index oublie une carte, contient un doublon ou cite
+un identifiant inconnu.
 
 On ne cree pas une carte pour chaque detail d'un argument. Les mecanismes, exemples,
 resultats experimentaux et limites restent dans la meme carte lorsqu'ils servent une

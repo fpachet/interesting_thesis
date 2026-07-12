@@ -1,6 +1,6 @@
 ---
 id: idea_0093
-title: "L'exposition passive aux medias fabrique des modes d'attention que l'industrie ne devrait pas seule definir"
+title: "L'exposition passive aux médias fabrique des modes d'attention que l'industrie ne devrait pas seule définir"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -16,26 +16,24 @@ tags:
   - passivite
   - industrie
 ---
+## Idée
 
-## Idee
+L'attention n'est pas une capacité fixe que les contenus se disputent. L'exposition
+répétée à des médias et à leurs rythmes entraîne des manières de regarder, de changer de
+cible et d'attendre une stimulation. Les dispositifs industriels ne captent donc pas
+seulement une attention préexistante : ils contribuent a en fabriquer les modes.
 
-L'attention n'est pas une capacite fixe que les contenus se disputent. L'exposition
-repetee a des medias et a leurs rythmes entraine des manieres de regarder, de
-changer de cible et d'attendre une stimulation. Les dispositifs industriels ne
-captent donc pas seulement une attention preexistante : ils contribuent a en
-fabriquer les modes.
+L'enjeu politique et technique est d'éviter que cette évolution soit déterminée
+uniquement par l'optimisation de l'engagement. Des systèmes qui favorisent l'exploration
+et la création active pourraient exercer d'autres formes d'attention que la consommation
+passive de flux.
 
-L'enjeu politique et technique est d'eviter que cette evolution soit determinee
-uniquement par l'optimisation de l'engagement. Des systemes qui favorisent
-l'exploration et la creation active pourraient exercer d'autres formes d'attention
-que la consommation passive de flux.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette hypothese relie l'interessant a la formation historique de l'attention et
-donne une portee normative au design des systemes culturels.
+Cette hypothèse relie l'intéressant à la formation historique de l'attention et donne
+une portée normative au design des systèmes culturels.
 
 ## Liens
 
-- Complete la temporalite de `idea_0001`.
-- S'oppose a la fluidite performative de `idea_0092`.
+- Complète la temporalité de `idea_0001`.
+- S'oppose à la fluidité performative de `idea_0092`.

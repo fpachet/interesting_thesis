@@ -1,6 +1,6 @@
 ---
 id: idea_0092
-title: "Les reseaux sociaux enseignent a paraitre maitre en punissant l'hesitation"
+title: "Les réseaux sociaux enseignent à paraître maître en punissant l'hésitation"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -14,25 +14,24 @@ tags:
   - hesitation
   - politique
 ---
+## Idée
 
-## Idee
+Les formats numériques sélectionnent et mettent en scène des séquences continues,
+rapides et sans accroc. Ils montrent le résultat plutôt que les essais et valorisent la
+réponse immédiate plutôt que l'exposition à la correction. L'utilisateur apprend ainsi
+qu'il faut parler sans hésiter, produire un récit complet et donner un visage de
+maîtrise.
 
-Les formats numeriques selectionnent et mettent en scene des sequences continues,
-rapides et sans accroc. Ils montrent le resultat plutot que les essais et valorisent
-la reponse immediate plutot que l'exposition a la correction. L'utilisateur apprend
-ainsi qu'il faut parler sans hesiter, produire un recit complet et donner un visage
-de maitrise.
+Les réseaux ne créent pas seuls la confusion entre fluidité et vérité, mais ils en font
+une norme pratique répétée quotidiennement. L'hésitation, qui pourrait signaler la
+rencontre d'une difficulté réelle, devient un défaut de performance à supprimer.
 
-Les reseaux ne creent pas seuls la confusion entre fluidite et verite, mais ils en
-font une norme pratique repetee quotidiennement. L'hesitation, qui pourrait signaler
-la rencontre d'une difficulte reelle, devient un defaut de performance a supprimer.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette hypothese decrit un mecanisme institutionnel par lequel une forme expressive
-modifie les criteres publics de credibilite et d'interet.
+Cette hypothèse décrit un mécanisme institutionnel par lequel une forme expressive
+modifie les critères publics de crédibilité et d'intérêt.
 
 ## Liens
 
-- Amplifie le desir mimetique de `idea_0060`.
+- Amplifie le désir mimétique de `idea_0060`.
 - Explique le contexte politique de `idea_0066`.

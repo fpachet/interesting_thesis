@@ -1,6 +1,6 @@
 ---
 id: idea_0082
-title: "Creer est peut-etre d'abord imposer une fin a un processus qui pourrait continuer"
+title: "Créer est peut-être d'abord imposer une fin à un processus qui pourrait continuer"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -11,35 +11,33 @@ sources:
 source_notes:
   - "PDF p. 96-101"
   - "Projet REFLEX, note de travail sur le stopping problem, rendu PDF p. 5"
-  - "Projet SenseOfDirection, critique des sequences sans debut ni fin, rendu PDF p. 1-3"
+  - "Projet SenseOfDirection, critique des séquences sans début ni fin, rendu PDF p. 1-3"
 tags:
   - creation
   - fin
   - ennui
   - structure
 ---
+## Idée
 
-## Idee
+Un processus créatif avance le plus souvent sans connaître sa conclusion. Rien dans ses
+décisions locales n'indique nécessairement quand s'arrêter, alors que la fin retroagit
+sur la signification de tout ce qui précède. Trouver un second thème, développer ou
+varier sont déjà des manières de préparer une clôture.
 
-Un processus creatif avance le plus souvent sans connaitre sa conclusion. Rien
-dans ses decisions locales n'indique necessairement quand s'arreter, alors que la
-fin retroagit sur la signification de tout ce qui precede. Trouver un second theme,
-developper ou varier sont deja des manieres de preparer une cloture.
+L'ennui peut ainsi venir moins de la pauvreté du contenu que de l'absence de perspective
+de fin. Achever une œuvre exige une décision extérieure au processus, un renoncement à
+ce qui pourrait encore advenir. La compétence créative ne serait donc pas seulement de
+produire des possibilités, mais de leur imposer une forme en sachant s'arrêter.
 
-L'ennui peut ainsi venir moins de la pauvrete du contenu que de l'absence de
-perspective de fin. Achever une oeuvre exige une decision exterieure au processus,
-un renoncement a ce qui pourrait encore advenir. La competence creative ne serait
-donc pas seulement de produire des possibilites, mais de leur imposer une forme en
-sachant s'arreter.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette hypothese relie structure, attention et creation. Elle corrige le privilege
-romantique accorde au commencement en faisant de la cloture une operation creative
+Cette hypothèse relie structure, attention et création. Elle corrige le privilège
+romantique accordé au commencement en faisant de la clôture une opération créative
 centrale.
 
 ## Liens
 
-- Precise la temporalite de `idea_0001`.
-- Donne un autre fondement a l'ennui de `idea_0004`.
-- Repond au besoin de direction de `idea_0016`.
+- Précise la temporalité de `idea_0001`.
+- Donne un autre fondement à l'ennui de `idea_0004`.
+- Répond au besoin de direction de `idea_0016`.

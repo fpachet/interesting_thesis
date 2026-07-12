@@ -1,6 +1,6 @@
 ---
 id: idea_0089
-title: "La virtuosite se reconnait a la capacite d'absorber l'imprevu sans perdre la coherence du geste"
+title: "La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste"
 kind: argument
 level: conceptual
 status: inbox
@@ -14,25 +14,24 @@ tags:
   - style
   - maitrise
 ---
+## Idée
 
-## Idee
+Exécuter sans faute une prouesse fixée à l'avance ne suffit pas à définir la virtuosité.
+Le virtuose peut recevoir une contrainte impromptue, rencontrer un obstacle ou choisir
+une autre trajectoire sans que son langage se désagrège. La maîtrise se manifeste par la
+disponibilité de nombreuses options cohérentes, pas seulement par la perfection d'une
+séquence répétée.
 
-Executer sans faute une prouesse fixee a l'avance ne suffit pas a definir la
-virtuosite. Le virtuose peut recevoir une contrainte impromptue, rencontrer un
-obstacle ou choisir une autre trajectoire sans que son langage se desagrege. La
-maitrise se manifeste par la disponibilite de nombreuses options coherentes, pas
-seulement par la perfection d'une sequence repetee.
+Cette capacité vient de contraintes et d'heuristiques incorporées par une longue
+pratique. Elle permet de répondre à l'imprévisible dans le style propre du sujet, au
+lieu d'appliquer consciemment une recette à chaque événement.
 
-Cette capacite vient de contraintes et d'heuristiques incorporees par une longue
-pratique. Elle permet de repondre a l'imprevisible dans le style propre du sujet,
-au lieu d'appliquer consciemment une recette a chaque evenement.
+## Intérêt pour la thèse
 
-## Interet pour la these
-
-Cette proposition rapproche virtuosite et creation : le nouveau peut surgir d'une
-reponse situee lorsque la maitrise rend plusieurs chemins reellement praticables.
+Cette proposition rapproche virtuosité et création : le nouveau peut surgir d'une
+réponse située lorsque la maîtrise rend plusieurs chemins réellement praticables.
 
 ## Liens
 
-- Complete le travail et la singularite de `idea_0058`.
-- Donne une condition pratique a l'exploration de `idea_0009`.
+- Complète le travail et la singularité de `idea_0058`.
+- Donne une condition pratique à l'exploration de `idea_0009`.
