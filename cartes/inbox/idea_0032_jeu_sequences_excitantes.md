@@ -9,11 +9,15 @@ sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html"
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/The Mystery of Jotney Songs -full.pdf"
+  - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
+references:
+  - pachet2018oreille
 source_notes:
   - "Excited Bored, jeu producteur-auditeur et plan du livre, rendu PDF p. 1-4"
   - "ExcitingSequences.html : version courte du meme jeu ; memes actions de l'auditeur et meme objectif de retard maximal de l'abandon, sans regle ni proposition supplementaire."
   - "Synopsis MIT Press, rendu PDF p. 27-30"
   - "Dossier Jotney, methode contrefactuelle du prochain choix, PDF p. 2-4"
+  - "Histoire d'une oreille, ecoute superposee et variation interieure, PDF p. 17-21 ; interdifference par comparaison avec reprises et imitations ratees, p. 133-135 et 259-260."
 tags:
   - sequences
   - ennui
@@ -42,6 +46,13 @@ a chaque bifurcation, ce qu'aurait fait une chanson simplement competente, puis
 mesurer l'ecart entre cette continuation acceptable et celle qui a effectivement
 ete choisie. Cet ecart ne suffit pas a prouver l'interet, mais il localise les
 decisions ou une forme refuse l'automatisme sans tomber dans l'arbitraire.
+
+L'ecoute superposee et l'interdifference donnent deux techniques pour produire ce
+contrefactuel. La premiere transforme mentalement rythme, melodie ou harmonie en
+conservant certains points d'appui ; la seconde soustrait a l'original une reprise
+ou une imitation ratee afin de faire apparaitre la petite difference qui soutient
+sa qualite. Comprendre devient ainsi une activite de reconstruction, pas seulement
+la reception d'un effet.
 
 ## Interet pour la these
 

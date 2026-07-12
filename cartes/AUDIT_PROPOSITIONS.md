@@ -117,8 +117,8 @@ pas lui-meme cette theorie de l'interessant.
 
 ## Niveaux de proposition
 
-Les 108 cartes actives ont ete classees selon leur role argumentatif, independamment
-du genre de leur document source : 67 `conceptual`, 18 `scientific` et 23
+Les 112 cartes actives ont ete classees selon leur role argumentatif, independamment
+du genre de leur document source : 71 `conceptual`, 18 `scientific` et 23
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -171,6 +171,25 @@ les hooks (`idea_0034`), attribution sans demonstration pour Lenat (`idea_0030`)
 temoignages pour l'interface d'ecoute et la distinction oeuvre/processus
 (`idea_0040`, `idea_0068`). La variante HTML n'ajoute rien au jeu sequentiel et le
 dernier DOCX est un conteneur vide verifie.
+
+`input/PACHET_HISTOIRE_OREILLE_BAT.pdf` a ensuite ete lu integralement comme une
+source nouvelle, et non comme un simple repertoire d'exemples musicaux. Quatre
+propositions absentes ont ete creees : les micro-emotions decrivent des
+transformations relationnelles de l'attention (`idea_0112`) ; l'optale eprouve une
+necessite par variation tandis que la pseudoptale la simule par familiarite
+(`idea_0113`) ; une phrase banale peut devenir une fausse evidence ou rester un
+substrat (`idea_0114`) ; l'ecoute surattentive peut fabriquer l'interet qu'elle
+cherche (`idea_0115`). Les termes techniques voisins sont regroupes comme
+exemples dans ces propositions, afin de ne pas atomiser le lexique.
+
+Huit cartes existantes ont ete renforcees. L'ecoute superposee et
+l'interdifference precisent la methode contrefactuelle de `idea_0032`; le noodling
+donne une signature aux attracteurs de `idea_0012`; l'eclat inseparable de sa
+structure nuance les hooks de `idea_0034`; l'escatte et l'escassepte qualifient les
+resolutions de `idea_0038`; la saturation de la neuveclamine concretise la
+temporalite de `idea_0071`; l'histoire irreversible de l'oreille developpe
+`idea_0084`; l'optale operationnalise `idea_0085`; les changements de dimension de
+l'ecoute enrichissent `idea_0097`.
 
 ## Identifiants retires
 

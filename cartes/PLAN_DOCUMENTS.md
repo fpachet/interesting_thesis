@@ -26,6 +26,7 @@ articulations reflexives entre ces deux niveaux.
 | `input/Notes thèse.pdf` | couverture propositionnelle complete | 1 page ; doodling comme sampling peu contraint, trace de la facture, exemple paradigmatique et pistes ZPD/adjacent possible |
 | `input/The Mystery of Jotney Songs.pdf` | couverture propositionnelle complete | 3 pages de contenu et une page blanche ; surprise necessaire, autonomie melodique, mobilite harmonique, contraintes invisibles et ecoute relationnelle |
 | `input/The Mystery of Jotney Songs -full.pdf` | dossier de travail composite, couverture propositionnelle complete | 38 pages ; versions successives, dialogue exploratoire, profil analytique, test contrefactuel et programme empirique Jotney |
+| `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | livre publie, couverture propositionnelle complete | 336 pages ; micro-emotions musicales, ecoute superposee, optale et pseudoptale, formation historique de l'attention, fausses evidences, surattention, rapport entre eclat local et structure globale |
 
 ## Documents anciens dans `input/old_docs/`
 

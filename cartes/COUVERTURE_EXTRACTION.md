@@ -410,9 +410,40 @@ l'objet d'une comparaison differentielle.
 | `mvdig003.htm` | refus harmonique de l'evidence, patience d'ecoute, distinction produit/processus | `idea_0034`, `idea_0040`, `idea_0068` | complet |
 | `interestingness ERC.docx` | aucune proposition : conteneur OOXML vide et page blanche | - | verifie |
 
+## `input/PACHET_HISTOIRE_OREILLE_BAT.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
+
+Les 336 pages ont ete lues integralement. Le texte extrait a ete confronte au
+sommaire et au lexique final ; un echantillon de pages couvrant donnees editoriales,
+concepts, chapitres tardifs et table a ete controle sur le rendu. Les recits
+autobiographiques ont ete conserves comme histoires de formation de l'attention
+lorsqu'ils soutiennent une proposition, sans devenir chacun une carte.
+
+| Pages | Noyaux examines | Cartes | Statut |
+| --- | --- | --- | --- |
+| 9-24 | Projet du livre ; escatte, escassepte, ecoute superposee, optale, pseudoptale, misette et neuveclamine | `idea_0032`, `idea_0038`, `idea_0071`, `idea_0112`, `idea_0113` | traite |
+| 25-66 | Apprentissages passifs, tonalite comme variation interieure, memoire deformante, soulevement relatif, trajectoire de gout, cebimine et retour de l'optale | `idea_0084`, `idea_0085`, `idea_0097`, `idea_0112`, `idea_0113` | traite |
+| 67-121 | Formation instrumentale de l'oreille ; contexte fonctionnel ; stabileme, descente triangulaire et glisseme | `idea_0038`, `idea_0084`, `idea_0112` | traite ; exemples regroupes |
+| 122-157 | Comparaison, reprises ratees, fausse naivete et interdifference | `idea_0032`, `idea_0114` | traite |
+| 158-200 | Elargissement de l'effet local vers la forme, saturation, retroaction et auto-evanescence | `idea_0034`, `idea_0097`, `idea_0115` | traite |
+| 201-223 | Reeducation de l'attention, fausses evidences, matraquage transformatif, substrat necessaire et surattention | `idea_0114`, `idea_0115` | traite |
+| 224-260 | Expertise, rarefaction des attentes, effets contre structure et interdifference par les reprises | `idea_0032`, `idea_0034`, `idea_0038` | traite |
+| 261-280 | Solutions melodico-harmoniques, eclat inseparable de la structure, memoire selective et noodling | `idea_0012`, `idea_0034`, `idea_0085` | traite |
+| 281-310 | Memoire implicite, optale tardive, eclats-pivots, musique individuelle/substantielle, contexte du gout et impossibilite de retrouver l'oreille anterieure | `idea_0084`, `idea_0097`, `idea_0113`, `idea_0115` | traite |
+| 311-336 | Lexique, index des ecoutes, remerciements et table | `idea_0112` | inventorie et controle |
+
+Les quatre cartes nouvelles ne correspondent donc pas a quatre mots choisis dans
+le lexique. Elles regroupent quatre propositions independantes : statut
+relationnel des micro-emotions (`idea_0112`), test contrefactuel de l'optale et
+faux positif de familiarite (`idea_0113`), difference entre fausse evidence et
+substrat (`idea_0114`), puis biais productif de la surattention (`idea_0115`).
+L'ecoute superposee, l'interdifference, le noodling, l'histoire du gout et le
+rapport eclat-structure ont renforce des cartes existantes.
+
 ## Conclusion
 
-La couverture propositionnelle est maintenant etablie pour les 31 rangs de
+La couverture propositionnelle est maintenant etablie pour les 32 rangs de
 `ORDRE_TRAITEMENT_DOCUMENTS.md`. Cela signifie que toutes les sources presentes
 ont ete lues ou comparees dans leur integralite et confrontees aux cartes ; cela
 ne signifie pas que chaque exemple a ete transforme en carte. Les deux fichiers

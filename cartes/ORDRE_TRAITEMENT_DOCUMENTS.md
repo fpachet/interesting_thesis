@@ -60,10 +60,11 @@ jugement absolu sur la valeur intellectuelle des textes.
 | 29 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html` | Variante courte de `Excited Bored.doc`. | Comparaison differentielle complete ; aucune regle ni proposition absente du document long. |
 | 30 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm` | Discussion de fans, utile surtout comme materiau d'exemple. | Couverture complete ; trois temoignages substantiels raccordes a `idea_0034`, `idea_0040` et `idea_0068`, sans nouvelle carte. |
 | 31 | `input/old_docs/interestingness ERC.docx` | Document actuellement vide lors de l'extraction textuelle. | Inspection complete ; XML sans texte, media ni objet incorpore, rendu d'une page blanche. |
+| 32 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | Livre publie directement pertinent pour une theorie de l'attention musicale et une analyse de ce qui rend un titre interessant. | Couverture propositionnelle complete ; 336 pages lues, lexique et exemples regroupes autour de quatre propositions nouvelles et huit cartes existantes. |
 
 ## Materiaux non textuels
 
-Les deux MP3 du dossier `hooks in hits` ne sont pas inclus dans les 31 documents :
+Les deux MP3 du dossier `hooks in hits` ne sont pas inclus dans les 32 documents :
 
 - `Various - Il était une fois - J'ai encore rêvé d'elle.mp3`
 - `Various - Peter Skellern - You're A Lady.mp3`
@@ -114,5 +115,6 @@ de quelques formulations alternatives de ses propositions centrales.
 | 29 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html` | comparaison differentielle complete | 12 juillet 2026 |
 | 30 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm` | couverture propositionnelle complete | 12 juillet 2026 |
 | 31 | `input/old_docs/interestingness ERC.docx` | conteneur vide verifie | 12 juillet 2026 |
+| 32 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
 
 Tous les documents classes dans cette passe ont ete traites.

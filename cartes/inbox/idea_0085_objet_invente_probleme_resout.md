@@ -7,9 +7,13 @@ status: inbox
 sources:
   - "input/projet thèse philo.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
+  - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
+references:
+  - pachet2018oreille
 source_notes:
   - "PDF p. 2"
   - "Jotney, chanson comme probleme melodico-harmonique et preuve de sa solution, PDF p. 1-2"
+  - "Histoire d'une oreille, sentiment d'optale obtenu par variations voisines, PDF p. 17-21 et 64-66 ; solution d'ouverture trouvee apres recherche, p. 282."
 tags:
   - interessant
   - probleme
@@ -27,6 +31,12 @@ avant leur existence.
 Cette `necessite inventee` distingue la singularite interessante de la solution
 simplement correcte. L'objet reconfigure l'espace des problemes : il ne remplit pas
 une place vide, il rend cette place visible en l'occupant.
+
+Le sentiment d'optale fournit une operation perceptive pour cette reconfiguration :
+les alternatives voisines echouent apres que la forme a ete entendue, faisant
+apparaitre simultanement la solution et les contraintes qu'elle satisfait. Cette
+epreuve doit toutefois etre distinguee de la pseudoptale, ou la familiarite seule
+fait passer une trajectoire repetee pour necessaire.
 
 ## Interet pour la these
 

@@ -15,6 +15,7 @@ La sequence de reprise systematique est definie dans
 | `input/Notes thèse.pdf` | couverture_propositionnelle_complete | Page unique relue integralement et controlee sur le rendu le 12 juillet 2026 ; doodling raccorde au sampling peu contraint et a la boucle sampling/contraintes ; question de la trace de la facture rattachee a la genese improbable. L'exemple factoriel, ZPD, Flow Machines et adjacent possible sont seulement des rappels ou pistes non developpees. | `idea_0012`, `idea_0087`, `idea_0109` |
 | `input/The Mystery of Jotney Songs.pdf` | couverture_propositionnelle_complete | 3 pages de contenu relues integralement le 12 juillet 2026, plus une page blanche ; six cartes existantes renforcees et une proposition creee sur l'equilibre entre autonomie melodique et mobilite harmonique ; conjectures geographiques et prosodiques inventoriees comme pistes. | `idea_0019`, `idea_0071`, `idea_0085`, `idea_0087`, `idea_0090`, `idea_0107`, `idea_0111` |
 | `input/The Mystery of Jotney Songs -full.pdf` | couverture_propositionnelle_complete | 38 pages relues integralement et controlees sur le rendu le 12 juillet 2026 ; dossier composite contenant plusieurs versions, un dialogue exploratoire et des notes. Le regime graduel Jotney, le test contrefactuel de la continuation simplement competente et l'interdependance melodie-harmonie ont ete raccordes a quatre cartes ; les listes de traits restent des indices et les hypotheses d'entropie, de prosodie, de geographie et de declin historique un programme empirique. | `idea_0032`, `idea_0039`, `idea_0084`, `idea_0111` |
+| `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | couverture_propositionnelle_complete | 336 pages lues integralement et echantillon de pages controle sur le rendu le 12 juillet 2026 ; les termes du lexique ont ete regroupes en propositions sur les transformations attentionnelles plutot qu'atomises. Quatre cartes creees, huit cartes existantes renforcees, exemples musicaux et objections conserves avec leurs pages. | `idea_0012`, `idea_0032`, `idea_0034`, `idea_0038`, `idea_0071`, `idea_0084`, `idea_0085`, `idea_0097`, `idea_0112` a `idea_0115` |
 | `input/old_docs/Synopsis MIT Press.doc` | couverture_propositionnelle_complete | 43 pages de rendu relues integralement le 12 juillet 2026 ; les chapitres rediges ont ete distingues des listes de pistes et emplacements a completer. | `idea_0001`, `idea_0004` a `idea_0006`, `idea_0012`, `idea_0014`, `idea_0019`, `idea_0032`, `idea_0051`, `idea_0068`, `idea_0096`, `idea_0098`, `idea_0101` a `idea_0105` |
 | `input/old_docs/Interesting Interactions (sent to Luc).doc` | couverture_propositionnelle_complete | 9 pages de rendu relues integralement le 12 juillet 2026 ; prologue et outline reconnus comme doublons du Synopsis, chapitre original raccorde a trois cartes existantes sans nouvelle carte. | `idea_0006`, `idea_0007`, `idea_0104` |
 | `input/old_docs/TBKLullyNOTES.doc` | couverture_propositionnelle_complete | 8 pages de rendu relues integralement le 12 juillet 2026 ; fragments filtres selon leur apport a l'interessant, douze cartes existantes raccordees et une nouvelle proposition sur la dependance de la similarite au corpus. | `idea_0001`, `idea_0002`, `idea_0007`, `idea_0014`, `idea_0015`, `idea_0022` a `idea_0024`, `idea_0046`, `idea_0096`, `idea_0104` a `idea_0106` |
@@ -52,11 +53,11 @@ La sequence de reprise systematique est definie dans
 
 ## Etat apres cette passe
 
-Les 31 rangs de `ORDRE_TRAITEMENT_DOCUMENTS.md` sont termines. Aucun document
+Les 32 rangs de `ORDRE_TRAITEMENT_DOCUMENTS.md` sont termines. Aucun document
 textuel repertorie ne reste en `premiere_passe` ou `a_revoir`. Les deux MP3 ont
 ete verifies comme fichiers distincts et decodables ; une analyse harmonique ne
 serait necessaire que pour tester empiriquement l'hypothese de `idea_0034`.
 
 La prochaine etape n'est donc plus l'ingestion, mais l'organisation argumentative
-des 108 cartes : selection des propositions centrales, regroupement des cartes
+des 112 cartes : selection des propositions centrales, regroupement des cartes
 qui se recouvrent et construction d'un plan de these.

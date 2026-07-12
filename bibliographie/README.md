@@ -39,6 +39,7 @@ que s'ils doivent etre cites dans le manuscrit.
 | `meyer1956emotion` | pas encore dans le corpus | reference fondatrice sur attente, apprentissage et affect musical ; lecture directe a faire |
 | `narmour1990basic` | pas encore dans le corpus | premier volume du modele implication-realisation ; lecture directe a faire |
 | `narmour1992complexity` | pas encore dans le corpus | extension du modele implication-realisation aux structures complexes ; lecture directe a faire |
+| `pachet2018oreille` | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | livre publie ; lecture integrale et extraction propositionnelle effectuees |
 
 Les chemins abreges par `...` dans ce tableau sont seulement destines a la lecture.
 Les champs `file` de `references.bib` contiennent les chemins complets.

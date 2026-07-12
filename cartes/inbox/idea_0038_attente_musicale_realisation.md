@@ -7,15 +7,18 @@ status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf"
+  - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
 references:
   - berger1999expectations
   - gang1999unified
   - meyer1956emotion
   - narmour1990basic
   - narmour1992complexity
+  - pachet2018oreille
 source_notes:
   - "Berger et Gang, manuscrit integral, modele DRE et etudes Haydn, PDF p. 1-34 et figures p. 39-48"
   - "Version condensee neurosymbolique, PDF p. 1-6"
+  - "Histoire d'une oreille, escatte et escassepte comme resolutions distinctes, PDF p. 12-17 ; attentes moins accessibles avec l'expertise, p. 241-242."
 tags:
   - musique
   - attente
@@ -38,6 +41,12 @@ a reinterpreter retrospectivement ce qui la precedait.
 La regularite n'est pas l'ennemie de la surprise mais sa condition locale : pour
 dejouer une attente, le compositeur doit d'abord permettre qu'elle se forme. Il
 doit etre simple avant d'etre complexe et regulier avant d'etre irregulier.
+
+L'escatte et l'escassepte montrent que la resolution elle-meme doit etre qualifiee.
+Une tension peut aboutir a une stabilite qui absorbe retrospectivement le mouvement,
+ou a une nouvelle instabilite qui renvoie l'attention vers l'attente non close.
+L'expertise deplace en outre ces effets : elle rend les surprises plus rares, mais
+peut ouvrir l'ecoute a des structures auparavant inaccessibles.
 
 ## Contexte bibliographique
 

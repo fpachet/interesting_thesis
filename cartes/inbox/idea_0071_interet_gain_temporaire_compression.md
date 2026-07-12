@@ -7,11 +7,14 @@ status: inbox
 sources:
   - "input/old_docs/interestingness.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
+  - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
 references:
   - schmidhuber1997interesting
+  - pachet2018oreille
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20"
   - "Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3"
+  - "Histoire d'une oreille, fascination, saturation puis usage parcimonieux de la neuveclamine, PDF p. 23-24 ; solutions devenues evidentes apres reecoute, p. 285."
 tags:
   - schmidhuber
   - compression
@@ -36,6 +39,11 @@ l'apprentissage et force la curiosite a changer d'objet.
 Il n'existe donc pas de proportion universelle entre information attendue et
 inattendue. La frontiere entre trivial et aleatoire se deplace avec les savoirs et
 les capacites de calcul de l'observateur.
+
+La neuveclamine en donne une micro-histoire concrete : decouverte fascinante,
+reproduction intensive, saturation, puis reapprentissage d'un usage rare et presque
+indetectable. L'effet ne disparait pas simplement ; sa valeur depend de la maniere
+dont l'attente est de nouveau preparee apres son assimilation.
 
 ## Interet pour la these
 

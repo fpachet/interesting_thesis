@@ -11,6 +11,8 @@
 - `idea_0107` - L'interessant se situe a la frontiere mouvante de ce qui est presque apprenable.
 - `idea_0108` - Une forme peut etre belle et neanmoins ennuyeuse parce qu'elle est deja connue.
 - `idea_0111` - Autonomie melodique et mobilite harmonique peuvent se renforcer au lieu de s'opposer.
+- `idea_0112` - Une micro-emotion musicale qualifie une transformation de l'attention, pas un accord isole.
+- `idea_0113` - L'optale eprouve une necessite par variation, la pseudoptale la simule par familiarite.
 - `idea_0028` - Une mesure d'interet peut diriger la decouverte avant de juger sa valeur.
 - `idea_0029` - Un motif n'est interessant que par son effet sur des croyances.
 - `idea_0079` - Un concept hypertrophie peut cacher les mecanismes qu'il pretend expliquer.
@@ -31,6 +33,8 @@
 - `idea_0030` - Une coincidence devient interessante quand ses exemples forment un motif.
 - `idea_0032` - L'interessant comme choix du meilleur prochain evenement.
 - `idea_0037` - Thue-Morse comme non-repetition structuree.
+- `idea_0114` - Une phrase banale peut devenir interessante apres coup ou rester un simple substrat.
+- `idea_0115` - L'ecoute surattentive peut fabriquer l'interet qu'elle pretend decouvrir.
 - `idea_0045` - On ne se chatouille pas soi-meme.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 
