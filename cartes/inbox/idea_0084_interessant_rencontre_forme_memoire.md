@@ -38,6 +38,15 @@ Cette rencontre conjugue trois conditions : une intelligibilité suffisante pour
 rester confuse, une singularité qui résiste au déjà-vu, et une fécondité qui ouvre des
 reprises, variations ou pensées nouvelles.
 
+La relation minimale est un binôme entre une forme et un sujet, mais ce binôme est
+indexé par un horizon collectif et par un moment : `I(F, S | H, t)`. Le milieu social
+n'est pas nécessairement un troisième sommet indépendant, car il façonne déjà les
+attentes du sujet, les catégories disponibles et les formes qui peuvent lui parvenir. Il
+devient un troisième terme explicite lorsqu'on étudie non plus l'expérience d'un sujet,
+mais la circulation, la stabilisation ou la disparition collective d'un intérêt. La
+thèse doit donc distinguer la structure relationnelle minimale de son explication
+sociale complète.
+
 La mémoire pertinente n'est pas seulement le souvenir explicite d'une œuvre. Des écoutes
 passives, des erreurs de disque, des gestes instrumentaux et des contextes oubliés
 préparent des attentes qui se réveillent beaucoup plus tard. L'histoire de l'oreille est
@@ -54,3 +63,4 @@ le subjectivisme qui rendrait toute explication impossible.
 - Généralise `idea_0029` au-delà des systèmes de croyances explicites.
 - Compatible avec le caractère relatif et temporel de `idea_0071`.
 - Le cas Jotney de `idea_0111` en donne une spécification musicale.
+- Le diagnostic de `idea_0116` explique pourquoi cette relation reste difficile à isoler.

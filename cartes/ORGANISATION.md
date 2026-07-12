@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   112 cartes y sont affectées une seule fois à sept familles.
+   114 cartes y sont affectées une seule fois à sept familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 

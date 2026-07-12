@@ -342,6 +342,7 @@ FRENCH_DOCUMENTS = (
     "cartes/indexes/by_theme.md",
     "input/README.md",
     "projet-these/CHANGELOG.md",
+    "projet-these/BUT_DE_LA_THESE.md",
     "projet-these/README.md",
     "prompts/constructeur.md",
     "prompts/critique.md",

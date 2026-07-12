@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 112 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 71 `conceptual`, 18 `scientific` et 23
+Les 114 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 73 `conceptual`, 18 `scientific` et 23
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -199,6 +199,19 @@ résolutions de `idea_0038`; la saturation de la neuveclamine concrétise la
 temporalité de `idea_0071`; l'histoire irréversible de l'oreille développe
 `idea_0084`; l'optale operationnalise `idea_0085`; les changements de dimension de
 l'écoute enrichissent `idea_0097`.
+
+`idea_0116` a ensuite été ajoutée pour formuler une hypothèse apparue lors du cadrage
+du but de la thèse : l'intéressant pourrait occuper un angle mort entre les conditions
+d'admissibilité ou d'intelligibilité d'une forme et les grandes valeurs terminales
+comme le vrai ou le beau. Cette carte élargit `idea_0003` et `idea_0108`, mais conserve
+un statut historiographique à démontrer. Elle ne réduit pas Chomsky à la syntaxe et
+n'attribue pas à Zeki un abandon du concept de beauté.
+
+`idea_0117` a été ajoutée pour distinguer l'explication de l'attention et de
+l'attachement de leur évaluation morale. Les modèles de langage et Tetris y figurent
+comme cas programmatiques, non comme preuves. La carte sépare également l'intérêt,
+l'usage intensif et l'addiction clinique, afin de ne pas transformer une continuité
+possible en identité conceptuelle.
 
 ## Identifiants retires
 

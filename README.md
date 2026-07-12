@@ -39,6 +39,8 @@ des objections ou comparer plusieurs architectures argumentatives.
   immuables ;
 - [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : évolution explicite
   du projet ;
+- [`projet-these/BUT_DE_LA_THESE.md`](projet-these/BUT_DE_LA_THESE.md) : objet,
+  tâches philosophiques et résultat attendu de la thèse ;
 - [`cartes/inbox/`](cartes/inbox/) : propositions extraites du corpus ;
 - [`cartes/ORGANISATION.md`](cartes/ORGANISATION.md) : lignes argumentatives,
   pivots, recouvrements et questions ouvertes ;

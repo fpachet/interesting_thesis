@@ -13,6 +13,7 @@
 - `idea_0111` - Autonomie mélodique et mobilité harmonique peuvent se renforcer au lieu de s'opposer.
 - `idea_0112` - Une micro-émotion musicale qualifie une transformation attentionnelle, pas un objet harmonique.
 - `idea_0113` - L'optale éprouve une nécessité par variation, la pseudoptale la simule par familiarité.
+- `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0028` - Une mesure d'intérêt peut diriger la découverte avant de pouvoir juger sa valeur.
 - `idea_0029` - Un motif fréquent n'est intéressant que par l'effet qu'il produit sur des croyances.
 - `idea_0079` - Un concept hypertrophié peut cacher les mécanismes qu'il prétend expliquer.
@@ -24,6 +25,7 @@
 - `idea_0096` - Un objet peut être intéressant parce qu'il apparaît comme une solution rare d'un problème implicite.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
 - `idea_0101` - Une préférence déclarée peut être une image de soi plutôt qu'une anticipation du plaisir.
+- `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 
 ## Ennui, surprise, rareté
 
@@ -134,3 +136,5 @@
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 - `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.
+- `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
+- `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.

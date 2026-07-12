@@ -262,7 +262,7 @@ def main() -> None:
     ax.text(
         0,
         0.11,
-        "112 idées",
+        f"{len(titles)} idées",
         ha="center",
         va="center",
         fontsize=27,

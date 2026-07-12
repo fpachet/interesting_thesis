@@ -7,6 +7,8 @@ que leurs instantanés historiques.
 
 - `projet-these-fr.tex` : version française courante ;
 - `projet-these-en.tex` : version anglaise courante ;
+- `BUT_DE_LA_THESE.md` : cadrage de l'objet, des tâches philosophiques et du
+  résultat attendu avant la sélection des propositions pivots ;
 - `versions/projet-these-vN-fr.tex` et `versions/projet-these-vN-en.tex` :
   versions stabilisées et immuables ;
 - `CHANGELOG.md` : différences intellectuelles et documentaires entre versions ;

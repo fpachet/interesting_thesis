@@ -5,7 +5,7 @@ par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
 figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
 est un outil de travail réversible, pas encore un plan de thèse.
 
-## 1. Définition et émergence de l'intéressant (12)
+## 1. Définition et émergence de l'intéressant (13)
 
 ### Pivots
 
@@ -27,8 +27,9 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0079` - Un concept hypertrophié peut cacher les mécanismes qu'il prétend expliquer.
 - `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
 - `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
+- `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 
-## 2. Temporalité, attention et apprentissage (22)
+## 2. Temporalité, attention et apprentissage (23)
 
 ### Pivots
 
@@ -60,6 +61,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0093` - L'exposition passive aux médias fabrique des modes d'attention que l'industrie ne devrait pas seule définir.
 - `idea_0101` - Une préférence déclarée peut être une image de soi plutôt qu'une anticipation du plaisir.
 - `idea_0105` - L'abondance transforme la sélection d'objets en construction de trajectoires.
+- `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 
 ## 3. Forme, problème, contrainte et nécessité (29)
 
@@ -193,6 +195,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les sept familles contiennent respectivement 12, 22, 29, 10, 12, 11 et 16
-cartes, soit les 112 cartes actives. Toute modification de cet index doit
+Les sept familles contiennent respectivement 13, 23, 29, 10, 12, 11 et 16
+cartes, soit les 114 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.
