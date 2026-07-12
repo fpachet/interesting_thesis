@@ -1,0 +1,36 @@
+X-UIDL: 'LR!!:IC"!RD2"!Z9a"!
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <pachet@csl.sony.fr>
+Delivered-To: pachet@csl.sony.fr
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.csl.sony.fr (Postfix) with ESMTP id 3BF21FE983
+	for <pachet@csl.sony.fr>; Thu, 30 Sep 2004 19:01:45 +0200 (CEST)
+Received: from smtp.csl.sony.fr ([127.0.0.1])
+	by localhost (mail [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 03769-06 for <pachet@csl.sony.fr>;
+	Thu, 30 Sep 2004 19:01:38 +0200 (CEST)
+Received: from [192.105.194.171] (sony-csl-3.clients.easynet.fr [212.11.40.131])
+	by smtp.csl.sony.fr (Postfix) with ESMTP id 76FBEFE97C
+	for <pachet@csl.sony.fr>; Thu, 30 Sep 2004 19:01:31 +0200 (CEST)
+Message-ID: <415C3C01.6000001@csl.sony.fr>
+Date: Thu, 30 Sep 2004 19:01:53 +0200
+From: Francois Pachet <pachet@csl.sony.fr>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.3) Gecko/20040910
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Francois Pachet <pachet@csl.sony.fr>
+Subject: Lenat and interestingness
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new-20030616-p5 (Debian) at csl.sony.fr
+X-Spam-Status: No, hits=-4.9 tagged_above=-100.0 required=6.3 tests=BAYES_00
+X-Spam-Level: 
+X-UIDL: 'LR!!:IC"!RD2"!Z9a"!
+
+Lenat's concept of interestingness:
+relation avec la théorie de la coincidence: i faut qu'il y ait "de 
+nombreux" exemples...
+http://membres.lycos.fr/jdsetls/html/lenat.html
+
+

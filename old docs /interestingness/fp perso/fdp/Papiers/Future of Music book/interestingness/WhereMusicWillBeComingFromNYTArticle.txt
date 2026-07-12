@@ -1,0 +1,430 @@
+From - Tue Mar 26 10:55:08 2002
+X-UIDL: 162d159df6a9e9e091b6d47cc2fb9351
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <siteadm@ms1.lga2.nytimes.com>
+Received: from sony.sony.fr (sony.sony.fr [193.105.194.2])
+          by csl.sony.fr (8.8.5/jtpdaom-5.2a) with ESMTP id LAA05941
+          for <pachet@csl.sony.fr>; Tue, 26 Mar 2002 11:59:38 +0100 (MET)
+Received: from ms4.lga2.nytimes.com ([64.15.247.171])
+          by sony.sony.fr (8.8.5/jtpdaom-5.2) with ESMTP id LAA29119
+          for <pachet@csl.sony.fr>; Tue, 26 Mar 2002 11:14:19 +0100 (MET)
+Received: from email4.lga2.nytimes.com (email4 [10.0.0.169])
+	by ms4.lga2.nytimes.com (Postfix) with ESMTP id A07B9C3732
+	for <pachet@csl.sony.fr>; Tue, 26 Mar 2002 05:03:54 -0500 (EST)
+Received: by email4.lga2.nytimes.com (Postfix, from userid 202)
+	id E19DF15C28; Tue, 26 Mar 2002 04:14:42 -0800 (PST)
+Sender: articles-email@ms1.lga2.nytimes.com
+Reply-To: pachet@csl.sony.fr
+Errors-To: articles-email@ms1.lga2.nytimes.com
+From: pachet@csl.sony.fr
+To: pachet@csl.sony.fr
+Subject: NYTimes.com Article: Where Music Will Be Coming From 
+Message-Id: <20020326121442.E19DF15C28@email4.lga2.nytimes.com>
+Date: Tue, 26 Mar 2002 04:14:42 -0800 (PST)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=iso-8859-1
+X-UIDL: 162d159df6a9e9e091b6d47cc2fb9351
+Status: U
+
+This article from NYTimes.com 
+has been sent to you by pachet@csl.sony.fr.
+
+
+/-------------------- advertisement -----------------------\
+
+
+Presenting the reloadable Starbucks Card.
+
+The Starbucks Card is reloadable from $5 - $500. Fill it up. Use
+it. Use it. Then, fill it up again.
+https://www.starbucks.com/shop/reload.asp?ci=672
+
+\----------------------------------------------------------/
+
+
+Where Music Will Be Coming From
+
+March 17, 2002 
+
+By KEVIN KELLY
+
+
+ 
+
+Technology is changing music. But then again, it always
+has. The invention of the piano 300 years ago centered
+Western music on the keyboard. Electricity's arrival in the
+late 19th century enabled the duplication of performances
+and, later, the amplification of instruments. With
+digitization, the pace of upheaval has further accelerated.
+Digital file-sharing technologies -- Napster and its
+offspring -- are now undermining the established economics
+of music. And everything we know about digital technologies
+suggests that Napster is only the beginning. 
+
+There is no music made today that has not been shaped by
+the fact of recording and duplication. In fact, the ability
+to copy music has been deeply disruptive ever since the
+invention of the gramophone. When John D. Smoot, an
+engineer for the European company Odeon, carted primitive
+recording equipment to the Indonesian archipelago in 1904
+to record the gamelan orchestras, local musicians were
+perplexed. Why copy a performance? The popular local tunes
+that circulated in their villages had a half-life of a few
+weeks. Why would anyone want to listen to a stale rendition
+of an obsolete piece when it was so easy to get fresh
+music? 
+
+As phonographs spread throughout the world, they had a
+surprising effect: folk tunes, which had always been
+malleable, changing with each performer and in each
+performance, were transformed by the advent of recording
+into fixed songs that could be endlessly and exactly
+repeated. Music became shorter, more melodic and more
+precise. 
+
+Early equipment could make recordings that contained no
+more than four and a half minutes, so musicians truncated
+old works to fit and created new music abbreviated to adapt
+to the phonograph. Because the first sound recordings were
+of unamplified music, recording emphasized the loud sounds
+of singers and de-emphasized quiet instrumentals. The
+musicologist Timothy Day notes that once pianists began
+recording they tried, for the first time, to ''distinguish
+carefully between every quaver and semiquaver -- eighth
+note and sixteenth note -- throughout the piece.''
+Musicians played the way technology listened. When the
+legendary recordist Frederick Gaisberg arrived in Calcutta
+in 1902, only two decades after the phonograph was
+invented, he found that Indian musicians were already
+learning to imitate recorded music and lamented that there
+was ''no traditional music left to record.'' 
+
+As the technologies of reproduction bloomed in the last
+century, consumerism boomed. What consumers consumed --
+whether in the form of a book, a CD or a can of Coke --
+were exact copies. The ability to make copies in
+mind-boggling quantities, ceaselessly and perfectly, was
+the chief ingredient of mass culture. Music rapidly adapted
+to the culture of the copy. Reproductions were made exact,
+while copies were multiplied vigorously. Music lived in its
+constant reproduction. 
+
+The grand upset that music is now experiencing -- the
+transformation that Napster signaled -- is the shift from
+analog copies to digital copies. The industrial age was
+driven by analog copies; analog copies are perfect and
+cheap. The information age is driven by digital copies;
+digital copies are perfect, fluid and free. 
+
+Free is hard to ignore. It propels duplication at a scale
+that would previously have been unbelievable. In only 10
+months, 71million copies of the music-sharing software
+Morpheus were downloaded. Of course, it's not just music
+that is being copied freely. It is text, pictures, movies,
+entire Web sites. In this new online world, anything that
+can be copied will be copied, free. 
+
+But the moment something becomes free and ubiquitous, its
+position in the economic equation is suddenly inverted.
+When nighttime electrical lighting was new, it was the poor
+who burned common candles. When electricity became easily
+accessible and practically free, candles at dinner became a
+sign of luxury. 
+
+In this new supersaturated online universe of infinite free
+digital duplication, the axis of value has flipped. In the
+industrial age, copies often were more valuable than the
+original. (Who wanted the ''original'' prototype
+refrigerator that the one in your kitchen was based on?)
+Most people wanted a perfect working clone. The more common
+the clone, the more desirable, since it would then come
+with a brand name respected by others and a network of
+service and repair outlets. 
+
+But now, in a brave new world of abundant and free copies,
+the order has inverted. Copies are so ubiquitous, so cheap
+(free, in fact) that the only things truly valuable are
+those which cannot be copied. 
+
+What kinds of things can't be copied? Well, for instance:
+trust, immediacy, personalization. There is no way to
+download these qualities from existing copies or to install
+them from a friend's CD. So while you can score a copy free
+of charge, if you want something authenticated, or
+immediately, or personalized, you'll have to pay. 
+
+In the domain of the plentifully free, music will do the
+only thing it can do: charge for things that can't be
+copied easily. A friend of a friend may eventually pass on
+to you the concert recording of a band you like, but if you
+pay, the band itself will e-mail it to you seconds after
+the performance. Sure, you can find a copy of that hit
+dance track, but if you want the mix approved by the
+legendary D.J., then you'll want to pay for it. Anyone can
+grab a free copy of Beethoven's Ninth, but if you want it
+customized for the audio parameters of your room or car,
+you'll pay for it. You may have downloaded that
+Cuban-Chinese rock band from the Morpheus site without
+paying, but the only way to get all that cool
+meta-information about each track, which lets you search
+for chords and lyrics, is to establish a relationship with
+the band by paying. 
+
+The quality least plentiful in a world of rampant free
+copies is attention. Each year more than 30,000 new music
+titles are released (or rereleased) into a very cluttered
+head space of new movies, new TV shows, new books, new
+games, new Web sites. No matter what your musical appetite,
+there are not enough hours in a lifetime to listen to but a
+tiny fraction of the global supply. People will pay simply
+to have someone edit the music and recommend and present
+selected material to them in an easy and fun manner. That
+is why producers, labels and the related ecology of
+reviewers, catalogers and guides will continue to make a
+living: they counter our natural lack of attention for the
+10 million albums we can expect to see in another 50 years.
+In the end, an awful lot of music will be sold in the
+territory of the free because it will be easier to buy
+music you really like than to find it for free. 
+
+
+Free is overrated as a destiny. It is only the second phase
+of the three stages of copydom. The first phase --
+perfection -- is experienced in both analog and digital.
+Perfect duplication made the modern world and modern music.
+
+
+The second stage is freeness. Costless duplication made
+Napster possible and a music revolution thinkable. 
+
+Yet it is in the third level of digital copy-ness that the
+real revolution lies. This third power is liquidity, and it
+will take music beyond Napster. 
+
+Digital copies are not only perfect and free, they are also
+fluid. Once music is digitized it becomes a liquid that can
+be morphed and migrated and flexed and linked. You can
+filter it, bend it, archive it, rearrange it, remix it,
+mess with it. And you can do this to music that you write,
+or music that you listen to, or music that you borrow. 
+
+At first glance it seems audiences were drawn to online
+music because of the power of the free, but in reality the
+rush to online music came from digitized sound's
+ever-expanding power of liquidity. Once music could swirl
+around one's life unencumbered, the millions of people who
+downloaded peer-to-peer file-sharing software suddenly and
+simultaneously imagined a thousand ways to conjure with
+music's liquidity. It wasn't only that it was free; it was
+all the things you could do with it. 
+
+Once music is digitized, new behaviors emerge. With liquid
+music you have the power to reorder the sequence of tunes
+on an album, or among albums. To surgically morph a sound
+until it is suitable for a new use. To precisely extract
+from someone else's music a sample of notes to use oneself.
+To X-ray the guts of music and outline its structure, and
+then alter it. To substitute new lyrics. To rearrange a
+piece so that its parts yield a different voice. To
+re-engineer a piece so that it sounds better on a car
+woofer. To meld and marry music together into hybrid
+breeds. To shorten a piece, or to draw it out so that it
+takes twice as long to play. 
+
+With digitization, music went from being a noun, to a verb,
+once again. 
+
+If this third power of the digital copy were to play out in
+full, the world would be full of people messing around with
+sound and music much as they dabble in taking snapshots and
+shaping Web pages. The typical skepticism toward a scenario
+of ubiquitous creation and recreation of music is that it
+is always easier to read than to write, to listen than to
+play, to see than to make. That is true. Yet 10 years ago,
+anyone claiming that ordinary people would flock to
+expensive computers to take time from watching TV in order
+to create three billion or more Web pages -- well, that
+person would have been laughed out of the room as
+idealistic, utopian. People just aren't that creative or
+willing to take time to create, went the argument. Yet,
+against all odds, three billion Web pages exist. The growth
+of the Web is probably the largest creative spell that
+civilization has witnessed. Music could experience a
+similarly exuberant, irrational flowering of the amateur
+spirit. 
+
+Part of the reason people have been inspired to create
+text, graphics and action in the digital realm has been the
+arrival of new tools. Fans of music are already shuffling
+playlists, remixing tracks, sampling sounds, laying music
+with automatic drums and other instruments. They are
+already making music in the way that a camera makes an
+image -- by starting with what is there and adding a unique
+view to it. Just as the introduction of the Brownie camera
+changed photography from an expert's art to a ubiquitous
+public expression, with the right tools in hand it is not a
+very long hop from now to a time when everyone makes music
+in a small, amateur way. 
+
+Much of the friction about Napster is cast as a question
+about the future of music. But no matter what happens, the
+world of the future will have lots of music, listened to by
+lots of people. The question is not about the future of
+music but about the future of musicians. The role of the
+professional musician is in flux. But again, it has always
+been so. 
+
+The rules for making a living making music have been remade
+over and over, from the first drumbeat. Until the 20th
+century, musicians in Western societies were generally held
+in contempt, their status approximating that of a vagabond.
+Even the most successful musicians were mistrusted. 
+
+Recording technology redeemed the professional musician.
+The machinery of recording and duplication steadily
+elevated the role of musicians during this century until
+many of them now have reached celebrity status and riches.
+This was a status only a handful of musicians could have
+dreamed of a few hundred years ago. Mozart never had it so
+good. 
+
+The arrival of perfect, free and liquid copies of music
+means that new economic models of making music will be
+forced upon musicians. Will the model of the future be to
+give away copies in order to sell out a performance? Or to
+rapidly issue new work from the studio faster than it can
+spread online? Or to release music in such wonderful
+packaging that it is cheaper to buy it than to copy it? The
+probable answer: all of the above and more. 
+
+If there is any lesson that should be taken from the online
+world, it is that options multiply. I am willing to bet
+that within the next 10 years a young band will come along
+that will be primarily and generously supported by a
+commercial sponsor. The band will write and play whatever
+music it feels like, but it will grant first option to the
+sponsor to use the sponsor's materials in commercials. The
+sponsor gets cool, hip music, and the band gets its stuff
+heard by millions, and anything the company doesn't use is
+the company's to pass out, free of charge. 
+
+Creating music is hard work. Creating music that is widely
+appreciated and constantly in demand is harder still. It
+may seem ludicrous to suggest to a working musician that in
+this new online world, music is becoming a commodity that
+is traded, cocreated and coproduced by a networked
+audience. How can an unskilled population create something
+that will be appreciated by many? 
+
+The partial answer is that most of us won't. It will still
+be a rare person who can write and play music that everyone
+swoons over. Those hit musicians will have their own
+economics. But most music, like most photography, needn't
+appeal to everyone. Most photographs taken in the world are
+taken by amateurs, and the images are of interest only to
+themselves or their families. Music does not have to be
+widely popular to be desired. 
+
+The future of music is unknown. But whatever it is, it will
+be swayed, as usual, by technology. Carver Mead, a
+computer-chip pioneer, advises us to ''listen to the
+technology'' to see where it is headed. If we listen to the
+technology of music, we might hear these possibilities: 
+
+• Songs are cheap; what's expensive are the indexable,
+searchable, official lyrics. 
+
+• On auction sites, music lovers buy and sell active
+playlists, which arrange hundreds of songs in creative
+sequences. The lists are templates that reorder songs on
+your own disc. 
+
+• You subscribe to a private record label whose agents
+troll the bars, filtering out the garbage, and send you the
+best underground music based on your own preferences. 
+
+• The most popular band in the world produces only very
+good ''jingles,'' just as some of the best directors today
+produce only very good commercials. 
+
+• The catalog of all musical titles makes more money than
+any of the record companies. 
+
+• A generator box breeds background music tailored to your
+personal tastes; the music is supplied by third-party
+companies that buy the original songs from the artists. 
+
+• Because you like to remix dance tunes, you buy the
+versions of songs that are remix-ready in all 24 tracks. 
+
+• You'll pay your favorite band to stream you its concert
+as it is playing it, even though you could wait and copy it
+at no cost later. 
+
+• The varieties of musical styles explode. They increase
+faster than we can name them, so a musical Dewey Decimal
+System is applied to each work to aid in categorizing it. 
+
+• For a small fee, the producers of your favorite musician
+will tweak her performance to exquisitely match the
+acoustics of your living room. 
+
+• So many amateur remixed versions of a hit tune are
+circulating on the Net that it's worth $5 to you to buy an
+authenticated official version. 
+
+• For bands that tour, giving away their music becomes a
+form of cheap advertising. The more free copies that are
+passed around, the more tickets they sell. 
+
+• Musicians with the highest status are those who have a
+24-hour Net channel devoted to streaming only their music. 
+
+• Royalty-free stock music (like stock photography),
+available for any use, takes off with the invention of a
+great music search engine, which makes it possible to find
+music ''similar to this music'' in mood, tempo and sound. 
+
+• The best-selling item for most musicians is the ''whole
+package deal,'' which contains video clips, liner notes,
+segregated musical tracks, reviews, ads and artwork -- all
+stored on a well-designed artifact in limited editions. 
+
+• Despite the fact that with some effort you can freely
+download the song you think you want in a format you think
+will work for your system, most people choose to go to a
+reliable retailer online and use the retailer's wonderful
+search tools and expert testimonials to purchase what they
+want because it is simply easier and a better experience
+all around. 
+
+In the end, the future of music is simple: more choices. As
+the possibilities of music expand, so do our own. 
+
+
+
+Kevin Kelly is the author, most recently, of ''New Rules
+for the New Economy: 10 Radical Strategies for a Connected
+World.''
+
+http://www.nytimes.com/2002/03/17/magazine/17ONLINE.html?ex=1018144882&ei=1&en=a8840ade524c89b1
+
+
+
+HOW TO ADVERTISE
+---------------------------------
+For information on advertising in e-mail newsletters 
+or other creative advertising opportunities with The 
+New York Times on the Web, please contact
+onlinesales@nytimes.com or visit our online media 
+kit at http://www.nytimes.com/adinfo
+
+For general information about NYTimes.com, write to 
+help@nytimes.com.  
+
+Copyright 2002 The New York Times Company
+
+
