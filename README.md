@@ -1,31 +1,112 @@
-# interesting-thesis
+# L'emergence de l'interessant
 
-Pipeline Python pour ingerer un corpus personnel et produire un debat philosophique multi-agents autour d'une these configurable.
+Ce depot est l'atelier documentaire et conceptuel d'un projet de these en
+philosophie consacre a **l'emergence de l'interessant** : naissance des idees,
+comprehension et singularite des formes.
 
-Sujet par defaut :
-`L'objet interessant comme solution relativement rare d'un probleme d'echantillonnage sous contrainte.`
+La question directrice est : **sous quelles conditions quelque chose apparait-il
+a un sujet comme interessant ?** Le projet cherche a comprendre ensemble des
+phenomenes habituellement separes : le surgissement d'une idee, l'impression de
+comprendre, l'attention soutenue par une oeuvre et la necessite retrospective de
+certaines formes.
 
-## Ce que fait le pipeline
+Le point de depart est une pratique de recherche en intelligence artificielle,
+notamment en generation musicale et textuelle. L'objectif n'est toutefois pas de
+transformer automatiquement ces travaux en theorie philosophique. Il faut
+distinguer les constructions et resultats scientifiques, les propositions
+conceptuelles, puis argumenter explicitement les passages entre les deux.
 
-Le pipeline :
+## Travail actuel
 
-- lit les fichiers `.md`, `.txt`, `.pdf` et `.docx` dans `input/`
-- produit un digest du corpus
-- lance un debat en plusieurs manches entre des roles configurables
-- conserve une memoire structuree par run dans `memory/runs/`
-- ecrit chaque execution dans un dossier immuable `output/runs/<run_id>/`
-- peut reprendre ou forker un run depuis un checkpoint
-- peut aussi maintenir, par defaut, des fichiers miroir dans `output/` pour compatibilite
+Le travail se concentre maintenant sur quatre activites :
 
-Les trois roles par defaut sont :
+1. constituer un corpus fiable de sources actuelles et d'archives ;
+2. distiller ces documents en propositions substantielles et sourcees ;
+3. organiser progressivement ces propositions en familles et en arguments ;
+4. maintenir un projet de these vivant, versionne et compilable.
 
-- `Constructeur`
-- `Critique`
-- `Synthetiseur`
+Le projet anterieur d'orchestration de dialogues entre roles philosophiques reste
+disponible comme outil experimental. Il n'est plus le centre du depot et pourra
+etre reactive plus tard pour mettre a l'epreuve une question delimitee, formuler
+des objections ou comparer plusieurs architectures argumentatives.
 
-L'orchestrateur reste generique : on peut ajouter plus tard un role supplementaire, par exemple `musicologue`, via `config/default_roles.json` et un prompt dans `prompts/`, a condition de conserver un role final de type `synthesizer`.
+## Points d'entree
 
-## Installation
+- [`projet-these/projet-these.tex`](projet-these/projet-these.tex) : version
+  courante et editable du projet de these ;
+- [`projet-these/versions/`](projet-these/versions/) : instantanes historiques
+  immuables ;
+- [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : evolution explicite
+  du projet ;
+- [`cartes/inbox/`](cartes/inbox/) : propositions extraites du corpus ;
+- [`cartes/indexes/by_theme.md`](cartes/indexes/by_theme.md) : regroupement
+  thematique provisoire ;
+- [`cartes/indexes/by_level.md`](cartes/indexes/by_level.md) : distinction entre
+  propositions conceptuelles, scientifiques et articulations ;
+- [`cartes/REGISTRE_TRAITEMENT.md`](cartes/REGISTRE_TRAITEMENT.md) : etat de
+  lecture de chaque source ;
+- [`cartes/COUVERTURE_EXTRACTION.md`](cartes/COUVERTURE_EXTRACTION.md) : controle
+  detaille de la couverture propositionnelle ;
+- [`bibliographie/references.bib`](bibliographie/references.bib) : bibliographie
+  canonique ;
+- [`input/`](input/) : corpus documentaire, avec les archives dans
+  `input/old_docs/`.
+
+## Principe des cartes
+
+Une carte n'est ni un theme general ni le resume d'un document. Elle formule une
+affirmation, une hypothese, une distinction, une objection ou une methode que la
+these pourrait soutenir, discuter ou mettre a l'epreuve.
+
+Avant de creer une carte, une source nouvelle est confrontee aux propositions
+existantes. Une carte n'est ajoutee que si l'idee peut etre contestee ou mobilisee
+independamment ; les exemples, mecanismes et limites qui servent une meme
+proposition restent regroupes. Chaque provenance connue est indiquee avec son
+chemin local et, lorsque c'est possible, ses pages et sa cle bibliographique.
+
+Le format et le cycle de travail sont documentes dans
+[`cartes/README.md`](cartes/README.md).
+
+## Projet de these versionne
+
+Le PDF initial [`input/projet thèse philo.pdf`](input/projet%20thèse%20philo.pdf)
+constitue la version 1 du projet. Sa transcription LaTeX est conservee dans
+`projet-these/versions/projet-these-v1.tex`. La version de travail se trouve dans
+`projet-these/projet-these.tex`.
+
+Lorsqu'une nouvelle etape intellectuelle est stabilisee :
+
+1. mettre a jour le fichier courant ;
+2. compiler et relire son rendu ;
+3. decrire les changements dans `projet-these/CHANGELOG.md` ;
+4. copier l'etat valide dans `projet-these/versions/projet-these-vN.tex`.
+
+Le dossier contient les commandes exactes de compilation et les regles de
+versionnement.
+
+## Structure
+
+```text
+bibliographie/       references et regles bibliographiques
+cartes/              propositions, index et suivi de couverture
+input/               sources actuelles et archives
+projet-these/        projet courant, versions et journal des changements
+interesting_thesis/  moteur Python d'ingestion et de dialogue
+config/              configurations de l'orchestrateur
+prompts/             roles et prompts de dialogue
+output/              anciens runs et sorties generees
+memory/              etat des runs
+tests/               controles du moteur et des metadonnees
+```
+
+## Orchestrateur experimental
+
+Le pipeline Python peut encore ingerer un corpus, produire un digest et organiser
+un dialogue en plusieurs manches entre des roles configurables. Les runs sont
+conserves dans `output/runs/<run_id>/` et leur memoire dans
+`memory/runs/<run_id>.json`.
+
+Installation :
 
 ```bash
 python3 -m venv .venv
@@ -33,178 +114,28 @@ source .venv/bin/activate
 pip install -e .
 ```
 
-Pour un vrai run avec l'API OpenAI :
-
-```bash
-export OPENAI_API_KEY="sk-..."
-```
-
-Ou bien creer un fichier `.env` a la racine du projet :
-
-```bash
-OPENAI_API_KEY="sk-..."
-```
-
-Le fichier `.env` est charge automatiquement au demarrage et n'est pas versionne.
-
-## Utilisation
-
-Lancer le pipeline avec les valeurs par defaut :
-
-```bash
-python -m interesting_thesis
-```
-
-Mode hors-ligne pour verifier le pipeline sans appel API :
+Verification locale sans appel reseau :
 
 ```bash
 python -m interesting_thesis --dry-run
 ```
 
-Exemple plus explicite :
+Lancement explicite d'un dialogue :
 
 ```bash
 python -m interesting_thesis \
-  --theme "L'objet interessant comme solution relativement rare d'un probleme d'echantillonnage sous contrainte." \
+  --theme "Question philosophique delimitee" \
   --rounds 4 \
   --output-length long \
-  --model gpt-5.4-mini \
-  --run-id q00_baseline
+  --run-id question_01
 ```
 
-Reprendre un run existant depuis son dernier checkpoint :
+Les fonctions de reprise et de fork restent disponibles avec `--resume-run`,
+`--fork-run`, `--from-checkpoint` et `--user-note`. Leur architecture et leurs
+extensions possibles sont decrites dans
+[`docs/v2_orchestration.md`](docs/v2_orchestration.md).
 
-```bash
-python -m interesting_thesis --resume-run q00_baseline
-```
-
-Forker un run depuis un checkpoint precis :
-
-```bash
-python -m interesting_thesis \
-  --fork-run q00_baseline \
-  --from-checkpoint round_02 \
-  --run-id q00_baseline_variant \
-  --user-note "Insister davantage sur les exemples musicaux."
-```
-
-## Options principales
-
-- `--theme` : theme exact du debat
-- `--rounds` : nombre de manches
-- `--output-length` : `short`, `medium`, `long`
-- `--model` : modele OpenAI utilise
-- `--roles-file` : fichier JSON de roles
-- `--prompts-dir` : dossier des prompts externes
-- `--input-dir` : dossier d'entree
-- `--output-dir` : dossier de sortie
-- `--memory-file` : fichier de memoire JSON
-- `--run-id` : identifiant stable du run a creer
-- `--resume-run` : reprendre un run existant depuis son dernier checkpoint
-- `--fork-run` : creer un nouveau run depuis un checkpoint d'un run existant
-- `--from-checkpoint` : checkpoint source pour un fork, par exemple `digest` ou `round_02`
-- `--user-note` : note utilisateur injectee dans les etapes suivantes
-- `--no-latest-mirror` : ne pas recopier les sorties du run dans les fichiers legacy de `output/`
-- `--max-chunk-chars` : taille approximative maximale des fragments de corpus
-- `--max-output-tokens` : plafond de tokens generes par appel
-- `--reasoning-effort` : effort de raisonnement optionnel pour les modeles compatibles
-- `--dry-run` : mode local sans reseau pour valider la chaine
-
-## Structure du projet
-
-```text
-interesting_thesis/
-  __init__.py
-  __main__.py
-  cli.py
-  config.py
-  debate.py
-  digest.py
-  errors.py
-  ingestion.py
-  llm.py
-  memory.py
-  models.py
-  pipeline.py
-  prompts.py
-  schemas.py
-  text_utils.py
-config/
-  default_roles.json
-  research_program.example.json
-  workflows/
-    philosophical_question.example.json
-prompts/
-  critique.md
-  constructeur.md
-  digest.md
-  final_synthesis.md
-  synthetiseur.md
-bibliographie/
-  README.md
-  references.bib
-input/
-output/
-  runs/
-memory/
-  runs/
-```
-
-## Fichiers generes
-
-Un run ecrit typiquement :
-
-- `output/runs/<run_id>/config_snapshot.json`
-- `output/runs/<run_id>/corpus_digest.md`
-- `output/runs/<run_id>/round_01.md`, `round_02.md`, etc.
-- `output/runs/<run_id>/final_synthesis.md`
-- `output/runs/<run_id>/thesis_paragraphs.md`
-- `output/runs/<run_id>/checkpoints/digest.json`
-- `output/runs/<run_id>/checkpoints/round_01.json`, `round_02.json`, etc.
-- `output/runs/<run_id>/checkpoints/final.json`
-- `memory/runs/<run_id>.json`
-
-Par defaut, le dernier run est aussi recopie dans les fichiers historiques :
-
-- `output/corpus_digest.md`
-- `output/round_01.md`, `output/round_02.md`, etc.
-- `output/final_synthesis.md`
-- `output/thesis_paragraphs.md`
-- `memory/state.json`
-
-Utiliser `--no-latest-mirror` pour desactiver cette recopie.
-
-## Reprise et fork
-
-Chaque checkpoint est une image JSON complete de l'etat du run.
-
-- `--resume-run <run_id>` charge le checkpoint le plus recent du run et ne recalcule que les etapes restantes.
-- `--fork-run <run_id> --from-checkpoint <checkpoint>` cree un nouveau run a partir d'un etat anterieur, sans modifier le run parent.
-- `--user-note` permet d'ajouter une contrainte ou une orientation qui sera conservee dans la memoire du run.
-
-## Format des roles
-
-Le fichier `config/default_roles.json` contient une liste ordonnee de roles.
-Chaque role declare :
-
-- `key` : identifiant stable
-- `name` : nom affiche dans les sorties
-- `kind` : `builder`, `critic`, `analyst` ou `synthesizer`
-- `prompt_file` : prompt a charger depuis `prompts/`
-
-Le dernier role doit etre de type `synthesizer`.
-
-## Notes d'architecture
-
-- Python 3.11+
-- code type et modulaire
-- prompts externes dans `prompts/`
-- dependencies limitees au SDK OpenAI officiel et aux lecteurs PDF/DOCX
-- imports OpenAI paresseux pour ne pas casser `--help` ni le `--dry-run`
-
-## Developpement rapide
-
-Verifier le pipeline sans reseau :
+## Verification
 
 ```bash
 python -m unittest discover -s tests
