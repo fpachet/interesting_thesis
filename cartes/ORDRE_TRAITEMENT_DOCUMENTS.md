@@ -33,33 +33,33 @@ jugement absolu sur la valeur intellectuelle des textes.
 | 12 | `input/The Mystery of Jotney Songs.pdf` et `input/The Mystery of Jotney Songs -full.pdf` | Developpent une hypothese musicale originale sur la surprise necessaire et la complexite invisible ; la version longue conserve les etapes exploratoires et le programme empirique. | Couverture propositionnelle complete ; essai court de 4 pages et dossier composite de 38 pages verifies. |
 | 13 | `input/Notes thèse.pdf` | Notes courtes mais proches de la pensee actuelle de la these. | Couverture propositionnelle complete ; page unique verifiee et raccordee a trois cartes existantes. |
 | 14 | `input/old_docs/ERCGrantPachetInterestingness (1).docx` | Variante supposee du grant canonique. | Comparaison differentielle complete : meme contenu que le PDF du rang 4 ; copie Word supprimee comme doublon. |
-| 15 | `input/old_docs/interestingness-ijhcs.pdf` | Colton, Bundy et Walsh donnent une conception pragmatique de l'interet comme guide de recherche mathematique. | Extraire les propositions sur recherche, evaluation precoce et pluralite des criteres. |
-| 16 | `input/old_docs/kdd95.pdf` | Source majeure pour l'interet relatif aux croyances, l'inattendu et l'actionabilite. | Distinguer mesures objectives, subjectives et effet de revision des croyances. |
-| 17 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Excited Bored.doc` | Formalise l'interessant comme jeu sequentiel entre producteur et auditeur. | Extraire les hypotheses du modele et ses consequences, sans atomiser ses regles. |
-| 18 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc` | Proposition nette sur la distance optimale entre familiarite, confiance et nouveaute. | Verifier si une seule carte suffit ou si le document defend plusieurs propositions autonomes. |
+| 15 | `input/old_docs/interestingness-ijhcs.pdf` | Colton, Bundy et Walsh donnent une conception pragmatique de l'interet comme guide de recherche mathematique. | Couverture propositionnelle complete ; 25 pages verifiees et raccordees a `idea_0028`. |
+| 16 | `input/old_docs/kdd95.pdf` | Source majeure pour l'interet relatif aux croyances, l'inattendu et l'actionabilite. | Couverture propositionnelle complete ; 7 pages verifiees et raccordees a `idea_0029` et `idea_0036`. |
+| 17 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Excited Bored.doc` | Formalise l'interessant comme jeu sequentiel entre producteur et auditeur. | Couverture propositionnelle complete ; quatre pages de rendu verifiees. |
+| 18 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc` | Proposition nette sur la distance optimale entre familiarite, confiance et nouveaute. | Couverture propositionnelle complete ; page unique verifiee et `idea_0031` precisee. |
 
 ## Priorite C - Articles specialises et preuves de concept
 
 | Rang | Document | Apport attendu | Travail attendu |
 | ---: | --- | --- | --- |
-| 19 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf` | Sequence mining, croyances et post-traitement des motifs. | Identifier les propositions non redondantes avec `kdd95.pdf`. |
-| 20 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf` | Unexpectedness et actionabilite dans la decouverte de connaissances. | Comparaison differentielle avec les rangs 16 et 19. |
-| 21 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf` | Modele temporel des attentes et de leur realisation en musique. | Extraire les affirmations sur force, precision et resolution de l'attente. |
-| 22 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf` | Representation neuro-symbolique des connaissances musicales. | Isoler les propositions encore pertinentes pour la these. |
-| 23 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf` | Articulation entre attentes musicales et architecture hybride. | Comparer avec les rangs 21 et 22 pour eviter les doublons conceptuels. |
-| 24 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf` | Negociation entre representations ou agents musicaux. | Chercher une proposition distincte plutot qu'une simple variante technique. |
-| 25 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/hooks in hits/Hooks in hits.doc` | Cas musical concret des hooks harmoniques et de la surprise locale. | Relier les exemples a une proposition generale clairement formulee. |
-| 26 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf` | Thue-Morse comme construction structuree evitant certaines repetitions. | Determiner si l'exemple soutient une proposition utile au-dela de l'illustration. |
-| 27 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/WhereMusicWillBeComingFromNYTArticle.txt` | Deplacement de la valeur musicale vers attention, contexte et personnalisation. | Conserver seulement les propositions qui servent directement la these. |
+| 19 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf` | Sequence mining, croyances et post-traitement des motifs. | Couverture propositionnelle complete ; sept pages verifiees et `idea_0035` precisee. |
+| 20 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf` | Unexpectedness et actionabilite dans la decouverte de connaissances. | Couverture propositionnelle complete ; treize pages comparees a KDD95. |
+| 21 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf` | Modele temporel des attentes et de leur realisation en musique. | Couverture propositionnelle complete ; manuscrit et figures verifies. |
+| 22 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf` | Representation neuro-symbolique des connaissances musicales. | Couverture propositionnelle complete ; version courte comparee a NetNeg. |
+| 23 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf` | Articulation entre attentes musicales et architecture hybride. | Couverture propositionnelle complete ; version courte comparee au rang 21. |
+| 24 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf` | Negociation entre representations ou agents musicaux. | Couverture propositionnelle complete ; 22 pages verifiees et articulation avec `idea_0109`. |
+| 25 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/hooks in hits/Hooks in hits.doc` | Cas musical concret des hooks harmoniques et de la surprise locale. | Couverture complete ; exemples conserves comme hypothese exploratoire, sans surinterpreter leur valeur probante. |
+| 26 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf` | Thue-Morse comme construction structuree evitant certaines repetitions. | Couverture complete ; 16 pages verifiees, proprietes formelles distinguees de leur transfert vers l'interessant. |
+| 27 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/WhereMusicWillBeComingFromNYTArticle.txt` | Deplacement de la valeur musicale vers attention, contexte et personnalisation. | Couverture complete ; article integral raccorde a `idea_0040`, sans nouvelle carte. |
 
 ## Priorite D - Complements, variantes et verification
 
 | Rang | Document | Statut probable | Travail attendu |
 | ---: | --- | --- | --- |
-| 28 | `input/old_docs/Lenat and interestingness.eml` | Note tres courte et attribution fragmentaire. | Conserver comme piste sourcee, en signalant que la demonstration manque. |
-| 29 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html` | Variante courte de `Excited Bored.doc`. | Verifier uniquement les differences de formulation ou de regles. |
-| 30 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm` | Discussion de fans, utile surtout comme materiau d'exemple. | Ne creer une carte que si une proposition distincte et defendable emerge. |
-| 31 | `input/old_docs/interestingness ERC.docx` | Document actuellement vide lors de l'extraction textuelle. | Inspecter sa structure et ses objets incorpores ; classer ensuite comme source recuperable ou conteneur vide. |
+| 28 | `input/old_docs/Lenat and interestingness.eml` | Note tres courte et attribution fragmentaire. | Couverture complete ; piste conservee dans `idea_0030` avec avertissement explicite sur l'absence de demonstration. |
+| 29 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html` | Variante courte de `Excited Bored.doc`. | Comparaison differentielle complete ; aucune regle ni proposition absente du document long. |
+| 30 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm` | Discussion de fans, utile surtout comme materiau d'exemple. | Couverture complete ; trois temoignages substantiels raccordes a `idea_0034`, `idea_0040` et `idea_0068`, sans nouvelle carte. |
+| 31 | `input/old_docs/interestingness ERC.docx` | Document actuellement vide lors de l'extraction textuelle. | Inspection complete ; XML sans texte, media ni objet incorpore, rendu d'une page blanche. |
 
 ## Materiaux non textuels
 
@@ -97,5 +97,22 @@ de quelques formulations alternatives de ses propositions centrales.
 | 12 | `input/The Mystery of Jotney Songs.pdf` et `input/The Mystery of Jotney Songs -full.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
 | 13 | `input/Notes thèse.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
 | 14 | `input/old_docs/ERCGrantPachetInterestingness (1).docx` | doublon verifie et supprime | 12 juillet 2026 |
+| 15 | `input/old_docs/interestingness-ijhcs.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 16 | `input/old_docs/kdd95.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 17 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Excited Bored.doc` | couverture propositionnelle complete | 12 juillet 2026 |
+| 18 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc` | couverture propositionnelle complete | 12 juillet 2026 |
+| 19 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 20 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 21 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 22 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 23 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 24 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 25 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/hooks in hits/Hooks in hits.doc` | couverture propositionnelle complete | 12 juillet 2026 |
+| 26 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 27 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/WhereMusicWillBeComingFromNYTArticle.txt` | couverture propositionnelle complete | 12 juillet 2026 |
+| 28 | `input/old_docs/Lenat and interestingness.eml` | couverture propositionnelle complete dans les limites de la note | 12 juillet 2026 |
+| 29 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ExcitingSequences.html` | comparaison differentielle complete | 12 juillet 2026 |
+| 30 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm` | couverture propositionnelle complete | 12 juillet 2026 |
+| 31 | `input/old_docs/interestingness ERC.docx` | conteneur vide verifie | 12 juillet 2026 |
 
-Prochain document : rang 15, `input/old_docs/interestingness-ijhcs.pdf`.
+Tous les documents classes dans cette passe ont ete traites.

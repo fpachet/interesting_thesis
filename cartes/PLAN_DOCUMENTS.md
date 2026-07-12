@@ -41,30 +41,30 @@ une seule racine documentaire.
 | `input/old_docs/ERCGrantPachetInterestingness (1).docx` | supprime comme doublon | source Word du PDF canonique, sans proposition ni passage distinct apres comparaison integrale |
 | `input/old_docs/Paper citations_updated.docx` | couverture propositionnelle complete | sens de la direction, correlations longues, innovation externe et multidimensionnalite de l'interessant |
 | `input/old_docs/interestingness.pdf` | couverture propositionnelle complete | 23 pages relues ; regularites apprenables, progres de compression, frontiere dynamique, curiosite conditionnelle, beaute et limites du modele |
-| `input/old_docs/interestingness-ijhcs.pdf` | lu en premiere passe | Colton/Bundy/Walsh, interestingness en decouverte mathematique |
-| `input/old_docs/kdd95.pdf` | lu en premiere passe | mesures subjectives d'interet en knowledge discovery, croyances, surprise, actionabilite |
-| `input/old_docs/Lenat and interestingness.eml` | lu en premiere passe | Lenat, coincidence, nombreux exemples |
-| `input/old_docs/interestingness ERC.docx` | lisible mais vide a l'extraction | probablement conteneur docx sans texte principal exploitable |
-| `input/old_docs/interestingness.zip` | dezippe puis supprime | archive de references anciennes ; les fichiers texte uniques ont ete distilles, les `.ps` doublonnant des PDF et les doublons exacts ont ete supprimes, les MP3 restent non transcrits |
+| `input/old_docs/interestingness-ijhcs.pdf` | couverture propositionnelle complete | Colton/Bundy/Walsh, interestingness comme filtrage, direction et definition de la recherche mathematique |
+| `input/old_docs/kdd95.pdf` | couverture propositionnelle complete | mesures subjectives, croyances dures/souples, unexpectedness, actionabilite et revision |
+| `input/old_docs/Lenat and interestingness.eml` | couverture propositionnelle complete dans les limites de la note | intuition Lenat : une coincidence devient heuristique par accumulation d'exemples ; attribution fragmentaire sans demonstration |
+| `input/old_docs/interestingness ERC.docx` | conteneur vide verifie | XML sans texte, image ni objet incorpore ; rendu d'une page blanche |
+| `input/old_docs/interestingness.zip` | dezippe puis supprime | archive de references anciennes ; fichiers texte distilles, doublons supprimes et integrite des deux MP3 verifiee |
 
 ## Fichiers extraits de `interestingness.zip`
 
 | Fichier extrait | Statut | Idees dominantes |
 | --- | --- | --- |
-| `An interesting musical relationship.doc` | premiere_passe | relation musicale optimale, distance de gout, nouveaute versus confiance |
-| `Excited Bored.doc` | premiere_passe | jeu producteur/auditeur, sequences excitantes, meilleur prochain item, compromis repetition/variation |
-| `ExcitingSequences.html` | premiere_passe | version courte du jeu des sequences excitantes |
-| `hooks in hits/Hooks in hits.doc` | premiere_passe | hooks harmoniques, progressions populaires, surprise locale |
-| `C_PKDD99.pdf` | premiere_passe | sequence mining, croyances, regles inattendues, post-mining |
-| `tkde.pdf` | premiere_passe | mesures subjectives, unexpectedness, actionability, belief systems |
-| `ubiq.pdf` | premiere_passe | suite de Prouhet-Thue-Morse, non-repetition, ubiquite combinatoire |
-| `Dan Gang/Expectationfinal-paper.pdf` | premiere_passe | attentes musicales, realisation, surprise, ecoute en temps reel |
-| `Dan Gang/aaai99A.pdf`, `aaai99B.pdf`, `netneg.pdf` | premiere_passe | systemes hybrides neuro-symboliques, connaissance musicale, regles/fuzzy/apprentissage |
-| `WhereMusicWillBeComingFromNYTArticle.txt` | premiere_passe | copies parfaites/gratuites/liquides, attention comme rarete, musique comme verbe |
-| `mvdig003.htm` | premiere_passe_legere | discussion fan autour de paroles/musique, interpretation, hooks, collaboration |
+| `An interesting musical relationship.doc` | couverture propositionnelle complete | relation musicale optimale, convergence des profils, nouveaute versus confiance |
+| `Excited Bored.doc` | couverture propositionnelle complete | jeu producteur/auditeur, sequences excitantes, meilleur prochain item, duree d'attention |
+| `ExcitingSequences.html` | comparaison differentielle complete | version courte du jeu des sequences excitantes, sans proposition distincte |
+| `hooks in hits/Hooks in hits.doc` | couverture propositionnelle complete | trois progressions comme hypothese de surprise locale reutilisable ; exemples non probants seuls |
+| `C_PKDD99.pdf` | couverture propositionnelle complete | sequence mining, croyances emergentes, categories de regles inattendues, post-mining |
+| `tkde.pdf` | couverture propositionnelle complete | mesures subjectives, unexpectedness, actionability et comparaison des formalismes de croyance |
+| `ubiq.pdf` | couverture propositionnelle complete | suite morphique, sans chevauchement et non ultimement periodique ; contre-exemple formel, non preuve esthetique |
+| `Dan Gang/Expectationfinal-paper.pdf` | couverture propositionnelle complete | attentes fortes/specifiques, ambiguite, realisation, surprise et ecoute en temps reel |
+| `Dan Gang/aaai99A.pdf`, `aaai99B.pdf`, `netneg.pdf` | couverture propositionnelle complete | systemes hybrides, predictions neuronales, negociation de contraintes et modeles d'attente |
+| `WhereMusicWillBeComingFromNYTArticle.txt` | couverture propositionnelle complete | copies parfaites/gratuites/liquides, attention comme rarete, musique comme pratique de selection et recombinaison |
+| `mvdig003.htm` | couverture propositionnelle complete | harmonies derivees de la melodie et refus de l'evidence ; effet possible du saut immediat sur l'attachement tardif |
 | `interestingness-ijhcs.pdf`, `kdd95.pdf` | supprimes_doublons | memes documents que ceux deja presents directement dans `input/old_docs/` |
 | fichiers `.ps` | supprimes_doublons | doublons PostScript des PDF disponibles |
-| fichiers `.mp3` | non_transcrits | exemples sonores non analyses dans cette passe |
+| fichiers `.mp3` | integrite audio verifiee | deux exemples distincts, decodes integralement ; materiau illustratif non analyse harmoniquement et non probant seul |
 
 ## Artefacts du pipeline
 

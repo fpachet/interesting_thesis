@@ -6,6 +6,8 @@ level: scientific
 status: inbox
 sources:
   - "input/old_docs/interestingness-ijhcs.pdf"
+source_notes:
+  - "Colton, Bundy et Walsh, usages et classification des mesures, PDF p. 15-22"
 tags:
   - mathematiques
   - decouverte
@@ -27,6 +29,14 @@ nouveaute, surprise, applicabilite, comprehensibilite et pertinence pour une tac
 plutot que chercher une mesure unique de valeur. La selection heuristique participe
 ainsi au processus de decouverte qu'elle pretend evaluer.
 
+Une meme mesure peut intervenir a trois niveaux croissants. Elle peut filtrer les
+resultats apres leur production, ordonner la recherche heuristique pour choisir
+les pistes a prolonger, ou definir l'espace de recherche de sorte que certaines
+formes seulement puissent etre engendrees. Ce passage de la justification a la
+decouverte transforme un critere d'evaluation en principe generatif. Les mesures
+doivent aussi pouvoir evoluer : la nouveaute ou l'applicabilite d'un concept change
+quand de nouveaux exemples, concepts ou conjectures entrent dans la theorie.
+
 ## Interet pour la these
 
 Cette carte rejoint le prologue sur les mathematiques : ce qui compte dans la recherche n'est pas seulement le resultat prouve, mais la selection des pistes fertiles.
@@ -35,3 +45,4 @@ Cette carte rejoint le prologue sur les mathematiques : ce qui compte dans la re
 
 - Proche de `idea_0003`.
 - Proche de `idea_0030`.
+- Le passage du filtrage a la definition de l'espace rejoint `idea_0103`.

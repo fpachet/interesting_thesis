@@ -22,37 +22,41 @@ La sequence de reprise systematique est definie dans
 | `input/old_docs/ERCGrantPachetInterestingness (1).docx` | supprime_doublon | Huit pages rendues, relues et comparees integralement au PDF canonique le 12 juillet 2026 ; meme texte et meme structure, differences limitees aux retours de ligne, espaces typographiques et puces. Le DOCX a ete supprime, `input/ERCGrantPachetInterestingness.pdf` conserve. | cartes du PDF canonique |
 | `input/old_docs/Paper citations_updated.docx` | couverture_propositionnelle_complete | 15 pages de rendu relues integralement le 12 juillet 2026 ; trois idees du core stream raccordees a neuf cartes existantes, sans nouvelle carte ; references, CV, financements et track record inventories seulement. | `idea_0011`, `idea_0016`, `idea_0026`, `idea_0039`, `idea_0054`, `idea_0075`, `idea_0080`, `idea_0082`, `idea_0100` |
 | `input/old_docs/interestingness.pdf` | couverture_propositionnelle_complete | 23 pages relues integralement le 12 juillet 2026 ; six cartes existantes renforcees et sourcees, deux propositions creees sur le presque-apprenable et la distinction beaute/interet ; implementation et bibliographie conservees comme arguments. | `idea_0005`, `idea_0027`, `idea_0071`, `idea_0072`, `idea_0088`, `idea_0095`, `idea_0107`, `idea_0108` |
-| `input/old_docs/interestingness-ijhcs.pdf` | premiere_passe | Colton/Bundy/Walsh. | `idea_0028` |
-| `input/old_docs/kdd95.pdf` | premiere_passe | Silberschatz/Tuzhilin ; extraction PDF bruitee mais exploitable. | `idea_0029` |
-| `input/old_docs/Lenat and interestingness.eml` | premiere_passe | Note courte. | `idea_0030` |
-| `input/old_docs/interestingness ERC.docx` | a_revoir | Extraction texte vide. Verifier si le document contient seulement styles ou objets non textuels. | - |
-| `input/old_docs/interestingness.zip` | dezippe_puis_supprime | Archive dezippee dans `input/old_docs/interestingness/`, puis zip supprime comme doublon. Fichiers texte uniques lus ; `.ps` et doublons exacts supprimes ; MP3 non transcrits. | `idea_0031`, `idea_0032`, `idea_0034`, `idea_0035`, `idea_0036`, `idea_0037`, `idea_0038`, `idea_0039`, `idea_0040` |
+| `input/old_docs/interestingness-ijhcs.pdf` | couverture_propositionnelle_complete | 25 pages relues integralement et controlees sur le rendu ; roles de filtrage, direction et definition de l'espace de recherche, mesures immediates/evolutives et criteres propres aux concepts/conjectures raccordes a la carte existante. | `idea_0028` |
+| `input/old_docs/kdd95.pdf` | couverture_propositionnelle_complete | 7 pages relues integralement et controlees sur le rendu ; mesures objectives/subjectives, independance unexpectedness/actionabilite, croyances dures/souples et revision des donnees ou croyances raccordees aux cartes existantes. | `idea_0029`, `idea_0036` |
+| `input/old_docs/Lenat and interestingness.eml` | couverture_propositionnelle_complete | Courriel integral relu ; deux lignes substantielles, attribution et absence de demonstration explicitees dans la carte. | `idea_0030` |
+| `input/old_docs/interestingness ERC.docx` | conteneur_vide_verifie | Structure OOXML inspectee : paragraphe vide, aucun media ni objet incorpore ; rendu controle, une page blanche. | - |
+| `input/old_docs/interestingness.zip` | dezippe_puis_supprime | Archive dezippee dans `input/old_docs/interestingness/`, puis zip supprime comme doublon. Fichiers texte uniques lus, `.ps` et doublons exacts supprimes, integrite des deux MP3 verifiee. | `idea_0031`, `idea_0032`, `idea_0034`, `idea_0035`, `idea_0036`, `idea_0037`, `idea_0038`, `idea_0039`, `idea_0040` |
 
 ## Detail du zip dezippe
 
 | Fichier extrait | Statut | Cartes creees |
 | --- | --- | --- |
-| `input/old_docs/interestingness/.../An interesting musical relationship.doc` | premiere_passe | `idea_0031` |
-| `input/old_docs/interestingness/.../Excited Bored.doc` | premiere_passe | `idea_0032` |
-| `input/old_docs/interestingness/.../ExcitingSequences.html` | premiere_passe | `idea_0032` |
-| `input/old_docs/interestingness/.../hooks in hits/Hooks in hits.doc` | premiere_passe | `idea_0034` |
-| `input/old_docs/interestingness/.../C_PKDD99.pdf` | premiere_passe | `idea_0035` |
-| `input/old_docs/interestingness/.../tkde.pdf` | premiere_passe | `idea_0036` |
-| `input/old_docs/interestingness/.../ubiq.pdf` | premiere_passe | `idea_0037` |
-| `input/old_docs/interestingness/.../Dan Gang/Expectationfinal-paper.pdf` | premiere_passe | `idea_0038` |
-| `input/old_docs/interestingness/.../Dan Gang/aaai99A.pdf` | premiere_passe | `idea_0039` |
-| `input/old_docs/interestingness/.../Dan Gang/aaai99B.pdf` | premiere_passe | `idea_0038`, `idea_0039` |
-| `input/old_docs/interestingness/.../Dan Gang/netneg.pdf` | premiere_passe | `idea_0039` |
-| `input/old_docs/interestingness/.../WhereMusicWillBeComingFromNYTArticle.txt` | premiere_passe | `idea_0040` |
-| `input/old_docs/interestingness/.../mvdig003.htm` | premiere_passe_legere | `idea_0034` |
+| `input/old_docs/interestingness/.../An interesting musical relationship.doc` | couverture_propositionnelle_complete | Page unique du rendu relue integralement ; distance optimale et paradoxe de convergence confiance/nouveaute raccordes a la carte existante. | `idea_0031` |
+| `input/old_docs/interestingness/.../Excited Bored.doc` | couverture_propositionnelle_complete | 4 pages du rendu relues integralement ; jeu producteur-auditeur traite, listes de chapitres et exemples inventories sans atomisation. | `idea_0001`, `idea_0032`, `idea_0096` |
+| `input/old_docs/interestingness/.../ExcitingSequences.html` | comparaison_differentielle_complete | Version courte integralement comparee a `Excited Bored.doc` ; meme jeu et meme objectif, sans proposition distincte. | `idea_0032` |
+| `input/old_docs/interestingness/.../hooks in hits/Hooks in hits.doc` | couverture_propositionnelle_complete | Page unique relue sur rendu ; trois progressions inventoriees comme materiau d'hypothese, sans inference causale. | `idea_0034` |
+| `input/old_docs/interestingness/.../C_PKDD99.pdf` | couverture_propositionnelle_complete | 7 pages relues integralement et controlees sur le rendu ; post-mining, quatre formes d'unexpectedness et construction iterative des croyances raccordes a `idea_0035`. | `idea_0035` |
+| `input/old_docs/interestingness/.../tkde.pdf` | couverture_propositionnelle_complete | 13 pages relues integralement et controlees sur le rendu ; version etendue du cadre KDD95, formalismes compares et declenchement de fouille par variation des croyances raccordes aux cartes existantes. | `idea_0029`, `idea_0036` |
+| `input/old_docs/interestingness/.../ubiq.pdf` | couverture_propositionnelle_complete | 16 pages relues integralement et controlees sur le rendu ; proprietes formelles et limites esthetiques explicitees. | `idea_0037` |
+| `input/old_docs/interestingness/.../Dan Gang/Expectationfinal-paper.pdf` | couverture_propositionnelle_complete | 49 pages relues ; 34 pages de manuscrit, references puis figures controlees sur le rendu. Force/specificite de l'attente, ambiguite, DRE et regularite comme condition de surprise raccordees a `idea_0038`. | `idea_0038` |
+| `input/old_docs/interestingness/.../Dan Gang/aaai99A.pdf` | couverture_propositionnelle_complete | 6 pages relues integralement et controlees sur le rendu ; version condensee de NetNeg, raccordee aux propositions sur representations mutuellement contraignantes et sampling/contraintes. | `idea_0039`, `idea_0109` |
+| `input/old_docs/interestingness/.../Dan Gang/aaai99B.pdf` | couverture_propositionnelle_complete | 6 pages relues integralement et controlees sur le rendu ; version condensee du modele attente-contexte-metre, sans proposition distincte du manuscrit long. | `idea_0038`, `idea_0039` |
+| `input/old_docs/interestingness/.../Dan Gang/netneg.pdf` | couverture_propositionnelle_complete | 22 pages relues integralement et controlees sur le rendu ; architecture, experiences et limites comparees aux versions courtes ; construction scientifique raccordee a l'articulation sampling/contraintes. | `idea_0039`, `idea_0109` |
+| `input/old_docs/interestingness/.../WhereMusicWillBeComingFromNYTArticle.txt` | couverture_propositionnelle_complete | Article integral relu ; fluidite numerique, recombinaison et valeur de la selection raccordees a la carte existante. | `idea_0040` |
+| `input/old_docs/interestingness/.../mvdig003.htm` | couverture_propositionnelle_complete | Digest integral filtre pour le theme ; analyses et temoignages pertinents raccordes aux hooks, a l'effet de l'interface d'ecoute et a la distinction oeuvre/processus. | `idea_0034`, `idea_0040`, `idea_0068` |
 | `input/old_docs/interestingness/.../interestingness-ijhcs.pdf` | supprime_doublon | deja couvert par `idea_0028` |
 | `input/old_docs/interestingness/.../kdd95.pdf` | supprime_doublon | deja couvert par `idea_0029` |
 | fichiers `.ps` | supprime_doublon | PDF equivalent privilegie |
-| fichiers `.mp3` | non_transcrit | a analyser seulement si on veut documenter les hooks audio |
+| fichiers `.mp3` | integrite_audio_verifiee | Deux fichiers distincts, 220 s et 278 s, 128 kb/s, decodes sans erreur ; exemples illustratifs non analyses harmoniquement. | `idea_0034` |
 
-## Prochaine passe recommandee
+## Etat apres cette passe
 
-1. Relire `De l'impossibilité de créer.pdf` par chapitres pour produire des cartes plus fines.
-2. Transcrire ou analyser les deux MP3 de hooks si l'argument musical devient central.
-3. Decider si les cartes doivent rester numerotees globalement ou recevoir un prefixe par source.
-4. Transformer les cartes les plus fortes en familles : `definitions`, `arguments`, `exemples`, `objections`, `technique`.
+Les 31 rangs de `ORDRE_TRAITEMENT_DOCUMENTS.md` sont termines. Aucun document
+textuel repertorie ne reste en `premiere_passe` ou `a_revoir`. Les deux MP3 ont
+ete verifies comme fichiers distincts et decodables ; une analyse harmonique ne
+serait necessaire que pour tester empiriquement l'hypothese de `idea_0034`.
+
+La prochaine etape n'est donc plus l'ingestion, mais l'organisation argumentative
+des 108 cartes : selection des propositions centrales, regroupement des cartes
+qui se recouvrent et construction d'un plan de these.

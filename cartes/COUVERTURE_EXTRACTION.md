@@ -346,6 +346,39 @@ du presque-apprenable et `idea_0108` sur la difference entre beaute simple et
 interet inattendu. L'architecture a deux cerveaux, les recompenses a somme nulle et
 les simulations demeurent des justifications, non des idees autonomes.
 
+### `input/old_docs/interestingness-ijhcs.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
+
+Les 25 pages ont ete relues integralement et controlees sur le rendu. Les cinq
+programmes historiques servent de comparaison pour degager des propositions
+methodologiques communes, non de cinq sources de cartes independantes.
+
+| Pages | Noyaux examines | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1-5 | Probleme, portee et vocabulaire mathematique | `idea_0028` | traite |
+| 5-14 | AM, GT, Graffiti, Bagai et HR ; role de l'utilisateur | `idea_0028`, `idea_0030` | traite ; details de programmes inventories |
+| 15-18 | Plausibilite, nouveaute, surprise, applicabilite et comprehensibilite | `idea_0028` | traite |
+| 19-20 | Utilite ; filtrer, diriger ou definir la recherche ; mesures evolutives | `idea_0028` | traite |
+| 20-23 | Conclusions et criteres pour concepts et conjectures | `idea_0028` | traite |
+| 23-25 | References | - | inventorie |
+
+### `input/old_docs/kdd95.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
+
+Les sept pages ont ete relues integralement et controlees sur le rendu.
+
+| Pages | Noyaux examines | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1-2 | Mesures objectives et subjectives ; filtre externe ou moteur interne | `idea_0029`, `idea_0036` | traite |
+| 3-4 | Actionabilite, unexpectedness et independance | `idea_0036` | traite |
+| 4-6 | Croyances dures/souples et mesure de revision | `idea_0029` | traite |
+| 6-7 | Effets sur les donnees et croyances ; limites | `idea_0029`, `idea_0036` | traite |
+
+Le formalisme bayesien est conserve comme mecanisme d'operationnalisation. Il ne
+devient pas une carte mathematique autonome.
+
 ### Projets ERC sur interestingness
 
 Statut actuel : `couverture_propositionnelle_complete` pour les quatre documents
@@ -358,9 +391,31 @@ examines ; la copie Word redondante a ete supprimee.
 | `input/old_docs/ERCInteractiveReflexions2.docx` | couverture propositionnelle complete ; onze cartes existantes raccordees | aucun manque propositionnel identifie |
 | `input/old_docs/Paper citations_updated.docx` | couverture propositionnelle complete ; neuf cartes existantes raccordees | aucun manque propositionnel identifie |
 
-## Conclusion provisoire
+## Sources specialisees et complements (rangs 17-31)
 
-La couverture est maintenant etablie document par document et plage par plage
-pour les sources marquees `couverture_propositionnelle_complete`. Cette garantie
-reste locale : les documents encore en `premiere_passe` doivent suivre le meme
-protocole avant que l'ensemble du corpus puisse etre declare complet.
+La derniere serie a ete confrontee integralement aux cartes existantes. Les
+documents longs ont ete controles page par page ; les variantes courtes ont fait
+l'objet d'une comparaison differentielle.
+
+| Sources | Propositions retenues | Cartes | Statut |
+| --- | --- | --- | --- |
+| `Excited Bored.doc`, `ExcitingSequences.html` | jeu sequentiel, attente et retard de l'abandon ; aucune difference substantielle dans la version HTML | `idea_0032` | complet |
+| `An interesting musical relationship.doc` | distance optimale et convergence progressive des profils | `idea_0031` | complet |
+| `C_PKDD99.pdf`, `tkde.pdf` | croyances emergentes, formes d'inattendu, actionabilite et revision | `idea_0029`, `idea_0035`, `idea_0036` | complet |
+| bloc Dan Gang | force et ambiguite des attentes ; cooperation entre predictions et contraintes | `idea_0038`, `idea_0039`, `idea_0109` | complet |
+| `Hooks in hits.doc`, deux MP3 | progressions comme hypothese de micro-solution ; audio verifie mais non probant seul | `idea_0034` | complet dans les limites du materiau |
+| `ubiq.pdf` | non-repetition structuree ; aucune conclusion esthetique dans le papier | `idea_0037` | complet |
+| article de Kevin Kelly | abondance des copies, recombinaison et rarete de l'attention | `idea_0040` | complet |
+| note Lenat | multiplicite des exemples comme indice de coincidence interessante ; demonstration absente | `idea_0030` | complet dans les limites de la note |
+| `mvdig003.htm` | refus harmonique de l'evidence, patience d'ecoute, distinction produit/processus | `idea_0034`, `idea_0040`, `idea_0068` | complet |
+| `interestingness ERC.docx` | aucune proposition : conteneur OOXML vide et page blanche | - | verifie |
+
+## Conclusion
+
+La couverture propositionnelle est maintenant etablie pour les 31 rangs de
+`ORDRE_TRAITEMENT_DOCUMENTS.md`. Cela signifie que toutes les sources presentes
+ont ete lues ou comparees dans leur integralite et confrontees aux cartes ; cela
+ne signifie pas que chaque exemple a ete transforme en carte. Les deux fichiers
+audio ont ete verifies comme exemples distincts et lisibles, mais une validation
+musicologique de l'hypothese sur les hooks demanderait encore une analyse
+harmonique et un protocole comparatif propres.

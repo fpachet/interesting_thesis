@@ -6,6 +6,8 @@ level: articulation
 status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf"
+source_notes:
+  - "Allouche et Shallit, The ubiquitous Prouhet-Thue-Morse sequence, pp. 1-4 et 12-13 : definition morphique, absence de chevauchements, regularite non ultimement periodique et equivalence de nombreuses caracterisations."
 tags:
   - thue_morse
   - sequence
@@ -15,7 +17,9 @@ tags:
 
 ## Idee
 
-La suite de Prouhet-Thue-Morse est un exemple canonique de sequence hautement structuree qui evite certaines repetitions. Elle montre qu'on peut produire du non-repetitif sans tomber dans le hasard.
+La suite de Prouhet-Thue-Morse est engendree par une regle morphique tres simple, tout en etant sans chevauchement et non ultimement periodique. Elle constitue donc un contre-exemple formel a l'assimilation du non-repetitif au hasard : une sequence peut etre facile a produire, fortement structuree et pourtant eviter des repetitions triviales.
+
+Son ubiquite dans plusieurs domaines tient notamment a l'equivalence de nombreuses definitions qui font apparaitre la meme structure sous des problemes differents. L'article etablit ces proprietes mathematiques, mais aucun effet esthetique ou attentionnel ; son usage pour penser l'interessant est un transfert theorique de la these, pas un resultat du papier.
 
 ## Interet pour la these
 

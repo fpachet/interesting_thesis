@@ -153,6 +153,25 @@ compare integralement a `input/ERCGrantPachetInterestingness.pdf`. Il s'agit de 
 meme version textuelle du grant, sans formulation ni hypothese distincte. La copie
 Word a ete supprimee et aucune carte n'a ete modifiee pour cette source redondante.
 
+`input/old_docs/interestingness-ijhcs.pdf` et `input/old_docs/kdd95.pdf` ont ete
+relus integralement. Le premier renforce `idea_0028` en distinguant filtrage,
+direction et definition de l'espace de recherche, ainsi que mesures immediates et
+evolutives. Le second renforce `idea_0029` et `idea_0036` : surprise et
+actionabilite sont independantes, et une contradiction conduit soit a verifier
+les donnees, soit a reviser une croyance souple. Aucune nouvelle carte n'etait
+necessaire.
+
+Les rangs 17 a 31 ont ensuite ete audites sans creer de proposition artificielle.
+Les travaux sur les attentes et NetNeg renforcent `idea_0038`, `idea_0039` et
+`idea_0109`, en maintenant la distinction entre resultats de systemes et theorie
+de l'interessant. Thue-Morse renforce `idea_0037` comme contre-exemple formel au
+choix repetition/hasard, mais non comme preuve esthetique. Les sources plus
+fragmentaires ont ete conservees avec leur force probante reelle : hypothese pour
+les hooks (`idea_0034`), attribution sans demonstration pour Lenat (`idea_0030`),
+temoignages pour l'interface d'ecoute et la distinction oeuvre/processus
+(`idea_0040`, `idea_0068`). La variante HTML n'ajoute rien au jeu sequentiel et le
+dernier DOCX est un conteneur vide verifie.
+
 ## Identifiants retires
 
 | Identifiant | Motif | Destination |

@@ -11,6 +11,9 @@ sources:
   - "input/old_docs/Paper citations_updated.docx"
   - "input/The Mystery of Jotney Songs -full.pdf"
 source_notes:
+  - "NetNeg condense, apprentissage neuronal et negociation de contraintes, PDF p. 1-6"
+  - "Modele unifie attente/contexte/metre, PDF p. 1-6"
+  - "NetNeg developpe, architecture, experiences et limites, PDF p. 1-18"
   - "Projet SenseOfDirection, idee 3 sur la multidimensionnalite, rendu PDF p. 6"
   - "Dossier Jotney, profil analytique et equilibre melodie-harmonie, PDF p. 19-23 et 29-36"
 tags:
@@ -34,6 +37,12 @@ entierement deductibles de regles, ni reductibles a des frequences apprises. Un
 modele peut faire negocier regles symboliques, concepts graduels, signal audio et
 apprentissage statistique; l'echec d'une representation devient alors une
 information exploitable par les autres plutot qu'une erreur terminale.
+
+Dans NetNeg, cette cooperation est operationnelle : le reseau propose des notes
+selon les regularites apprises, puis des agents negocient entre ces preferences et
+les regles du contrepoint. Les essais separes echouent de facons complementaires :
+le reseau produit des continuations plausibles mais illegales, les regles seules
+des solutions legales mais pauvres. La qualite vient de leur compromis repete.
 
 Le cas Jotney rend cette contrainte mutuelle particulierement nette : la mobilite
 harmonique n'est interessante que si la melodie conserve sa coherence, tandis que

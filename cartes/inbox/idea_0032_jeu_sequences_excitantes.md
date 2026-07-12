@@ -10,6 +10,8 @@ sources:
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/The Mystery of Jotney Songs -full.pdf"
 source_notes:
+  - "Excited Bored, jeu producteur-auditeur et plan du livre, rendu PDF p. 1-4"
+  - "ExcitingSequences.html : version courte du meme jeu ; memes actions de l'auditeur et meme objectif de retard maximal de l'abandon, sans regle ni proposition supplementaire."
   - "Synopsis MIT Press, rendu PDF p. 27-30"
   - "Dossier Jotney, methode contrefactuelle du prochain choix, PDF p. 2-4"
 tags:
@@ -28,6 +30,12 @@ producteur choisit successivement des elements et l'auditeur peut attendre,
 s'exciter, s'ennuyer ou quitter. L'interet devient ainsi une politique de relance
 evaluee par la trajectoire de l'auditeur, non une propriete attribuee apres coup a
 la sequence complete.
+
+Le signal le plus simple n'est pas l'excitation declaree a chaque instant, mais la
+duree pendant laquelle l'auditeur accepte de rester dans le jeu. Attendre peut
+faire partie de l'experience interessante si une resolution reste possible. Le
+probleme experimental devient alors : quelle politique de prochains evenements
+retarde l'abandon sans exploiter une repetition compulsive ?
 
 Le dossier Jotney propose une variante analytique de cette operation : demander,
 a chaque bifurcation, ce qu'aurait fait une chanson simplement competente, puis

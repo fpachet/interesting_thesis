@@ -6,6 +6,8 @@ level: conceptual
 status: inbox
 sources:
   - "input/old_docs/Lenat and interestingness.eml"
+source_notes:
+  - "Courriel du 30 septembre 2004 : rapprochement en deux lignes entre le concept d'interessant de Lenat et une theorie de la coincidence exigeant de nombreux exemples ; lien externe ancien, sans developpement conserve."
 tags:
   - lenat
   - coincidence
