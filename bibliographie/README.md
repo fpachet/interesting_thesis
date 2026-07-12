@@ -21,6 +21,19 @@ Les documents personnels, grants, notes, courriels et archives restent inventori
 dans `cartes/REGISTRE_TRAITEMENT.md`. Ils ne deviennent des entrees bibliographiques
 que s'ils doivent etre cites dans le manuscrit.
 
+## Projet de thèse V2
+
+La réécriture bilingue du projet de thèse utilise directement ce fichier avec
+BibLaTeX. Les références philosophiques seulement esquissées dans la V1 ont été
+complétées à partir de la bibliographie détaillée du PDF anglais. Les entrées de
+Petitot, Berlyne, Schmidhuber, Abdallah et Plumbley ont été contrôlées sur les
+pages d'éditeur, dépôts institutionnels ou notices primaires disponibles.
+
+Les deux fichiers `projet-these/projet-these-fr.tex` et
+`projet-these/projet-these-en.tex` doivent employer les mêmes clés. Chaque version
+stabilisée archive une copie de ce fichier dans `projet-these/versions/` afin que
+son rendu bibliographique reste reproductible.
+
 ## Correspondance initiale
 
 | Cle | Source locale principale | Statut |

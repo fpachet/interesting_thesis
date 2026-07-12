@@ -50,12 +50,16 @@ substantielles, non une carte par exemple ou detail bibliographique.
 | 93-96 | Conclusion | cartes precedentes synthetisees | traite ; aucune carte de resume ajoutee |
 | 96-101 | Sa majeste / le probleme de la fin | `idea_0082` | traite |
 
-### `input/projet thèse philo.pdf`
+### `input/projet thèse philo.pdf` et `input/Project philosophy thesis.pdf`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
-Les quatre pages ont ete relues integralement. La bibliographie est conservee comme
-programme de lecture ; elle n'a pas ete transformee en cartes d'auteurs.
+Les quatre pages françaises et les cinq pages anglaises ont été relues
+intégralement. La version anglaise est la contrepartie de la V1, mais elle ajoute
+un paragraphe sur l'articulation entre philosophie kantienne du sujet,
+naturalisation du transcendantal chez Petitot, systèmes dynamiques et propriétés
+émergentes. Sa bibliographie détaillée a servi à compléter la bibliographie
+canonique et la V2 bilingue ; elle n'a pas été transformée en cartes d'auteurs.
 
 | Pages | Fonction | Cartes | Statut |
 | --- | --- | --- | --- |
@@ -66,6 +70,8 @@ programme de lecture ; elle n'a pas ete transformee en cartes d'auteurs.
 | 3 | Rarete, autostabilite et difficultuosite | `idea_0087` | traite |
 | 3 | Methode philosophique et modeles computationnels | `idea_0018`, `idea_0088`, `idea_0110` | traite |
 | 3-4 | Plan, bibliographie et travaux personnels | aucune carte autonome | inventorie |
+| EN 1 | Cadre Kant-Petitot, naturalisation, systemes dynamiques et contexte culturel | `idea_0088` | traite ; precision de cadre, non nouvelle theorie autonome |
+| EN 3-5 | References completes et travail personnel supplementaire | projet de these V2, bibliographie | inventorie et integre |
 
 ### `input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf`
 

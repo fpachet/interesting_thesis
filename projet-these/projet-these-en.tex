@@ -1,0 +1,305 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[a4paper,margin=2.4cm]{geometry}
+\usepackage{enumitem}
+\usepackage[autostyle]{csquotes}
+\usepackage[hidelinks]{hyperref}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=12]{biblatex}
+\addbibresource{../bibliographie/references.bib}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.65em}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.35em,topsep=0.35em}
+\setlist[enumerate]{leftmargin=1.8em,itemsep=0.5em,topsep=0.4em}
+
+\newcommand{\projectversion}{2}
+\newcommand{\projectdate}{12 July 2026}
+
+\title{The Emergence of the Interesting\\
+\large Birth of Ideas, Understanding, and Singularity of Forms}
+\author{François Pachet}
+\date{Thesis project -- version \projectversion\\\small \projectdate}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This project aims to establish the interesting as a philosophical object. It
+starts from an ordinary yet elusive experience: an idea emerges, a form becomes
+intelligible, a passage holds our attention and calls for repetition. Its central
+claim is that these events are neither isolated properties of objects nor merely
+private preferences. They arise from a temporal relation between an organised
+form and a subject with a perceptual history. Music is the main laboratory of
+this inquiry; forty years spent building artificial-intelligence systems provide
+a second, both experimental and reflexive, field. The aim is to articulate
+phenomenology, philosophy of form, aesthetics, cognitive science, and
+computational modelling without reducing the experience of the interesting to
+any one of these registers.
+\end{abstract}
+
+\section{Origin and Aim of the Project}
+
+This work emerges from a constructivist and empirical practice of artificial
+intelligence research. I have spent forty years building systems that generate,
+transform, or accompany music and text. The doctoral project is not intended to
+summarise this work or retrospectively impose an artificial philosophical unity
+on it. It starts from a more demanding question: \emph{what am I doing} when I
+build a system, recognise a solution, reject an output that is correct but
+uninteresting, or stop before a form that seems to impose itself?
+
+This inquiry intersects problems that philosophy has treated under different
+names: access to the intelligible in Plato and Aristotle
+\parencite{platon2016republique,platon1995theetete,aristote1991metaphysique,aristote2005seconds};
+intuition and evidence in Descartes and Spinoza
+\parencite{descartes2002regles,descartes1992meditations,spinoza1966ethique};
+judgement in Kant \parencite{kant2001raison,kant1993juger}; invention and the
+reconfiguration of problems in Peirce, Poincaré, Hadamard, Bachelard, and Valéry
+\parencite{peirce1955writings,poincare1908science,hadamard1959invention,bachelard1999formation,valery1973cahiers};
+memory, duration, and the temporal constitution of meaning in Bergson, Husserl,
+and Merleau-Ponty
+\parencite{bergson2013evolution,bergson2013pensee,husserl1970experience,husserl1957logique,merleau1945phenomenologie};
+aspect change in Wittgenstein \parencite{wittgenstein2004recherches}; and
+symbolisation, difference, and repetition in Goodman and Deleuze
+\parencite{goodman1976languages,deleuze1968difference}.
+
+The unifying hypothesis is that the birth of an idea, the experience of
+understanding, and fascination with a form are three moments of the same
+phenomenon: the emergence of something that stands out for a subject as an
+organisation that is both intelligible and singular.
+
+\section{Guiding Question and Central Claim}
+
+The guiding question is: \emph{under what conditions does something appear
+interesting to a subject?} A song, a proof, a sentence, or an idea may hold our
+attention disproportionately, provoke repetitions and variations, then lose or
+transform its power. This effect cannot be reduced to raw novelty, because noise
+surprises without necessarily being interesting; nor to beauty, because a
+familiar form may remain beautiful while becoming predictable; nor to
+popularity; nor to subjective preference understood as a datum without a
+history.
+
+The central claim is:
+
+\begin{quote}
+The interesting is a relational and temporal property. It emerges when an
+organised form transforms the state of attention, memory, or understanding of a
+historically, affectively, bodily, and culturally constituted subject.
+\end{quote}
+
+Relativity to a subject does not entail that all judgements are equivalent. A
+relation can be described: we can identify the expectations made possible by an
+object, the competencies required to experience them, the transformations that
+renew attention, and the variants that would destroy the effect. The structure
+of the object and the history of the subject are therefore two irreducible
+conditions of the same encounter.
+
+\section{Working Hypotheses}
+
+\begin{enumerate}
+  \item \textbf{The interesting is a process, not a label.} For a temporal
+  object, the relevant unit is a trajectory made of preparation, expectation,
+  deviation, resolution, reinterpretation, and sometimes boredom. The same
+  event changes value according to its position and to what later events make of
+  it.
+
+  \item \textbf{An interesting form may invent the problem it solves.} Some
+  solutions appear necessary after they emerge even though they could not have
+  been deduced beforehand. They reveal their own constraints and create an
+  impression of surface simplicity that conceals an improbable genesis. The
+  relevant rarity then lies less in raw statistical frequency than in the small
+  class of solutions to an implicit problem.
+
+  \item \textbf{Interest moves with learning.} A pattern that is initially
+  opaque may become accessible, produce a gain in understanding, and then lose
+  its force once it has been acquired. Compression-progress theory formalises
+  one version of this dynamic
+  \parencite{schmidhuber1997interesting,schmidhuber2009compression}. It must,
+  however, be understood relative to an observer's computational capacities,
+  memory, and culture, rather than as a universal measure of an object.
+
+  \item \textbf{The interesting often lies on a moving frontier of the almost
+  learnable.} What has already been learned is trivial; noise remains
+  incompressible; a structure too remote from the subject's capacities remains
+  opaque. A form is interesting when it promises an accessible transformation
+  at the cost of non-zero effort. This claim extends, while complicating, the
+  inverted-U curve of experimental aesthetics
+  \parencite{berlyne1974studies,abdallah2009information}.
+
+  \item \textbf{Attention is active and fallible.} Listeners internally vary,
+  reconstruct, and compare what they hear. This activity may disclose a genuine
+  organisation, but it may also manufacture the interest it claims to discover.
+  Familiarity, the prestige of an author, and the desire to solve an enigma are
+  possible sources of false positives. A theory of the interesting must
+  therefore contain its own critique.
+\end{enumerate}
+
+\section{Theoretical Framework: Subject, Form, and Emergence}
+
+The theoretical framework will articulate three requirements. The first comes
+from philosophy of the subject: the experience of the interesting depends on
+conditions of reception and judgement without being reducible to an objective
+feature. The second comes from a phenomenology of temporality: retention,
+protention, bodily memory, and aspect change describe how a form is constituted
+through time. The third comes from morphodynamic theories and complex systems:
+a global organisation has properties that cannot be read from its isolated
+elements.
+
+This framework takes up the attempt to naturalise certain transcendental
+problems without eliminating their phenomenal dimension
+\parencite{petitot1993phenomenologie,petitot2002naturaliser}. It does not assume
+that scientific modelling will exhaust the interesting. It seeks a controlled
+relation between first-person descriptions, formal analyses, and testable
+mechanisms. The inquiry will distinguish possible invariants of attention from
+habits limited to a context, notably those of Western tonal music.
+
+\section{Music as a Philosophical Laboratory}
+
+Music makes the relations between memory, expectation, surprise, and resolution
+especially visible. Meyer and later Narmour showed that musical affect and
+meaning depend on learned expectations that are fulfilled, delayed, or thwarted
+\parencite{meyer1956emotion,narmour1990basic,narmour1992complexity}.
+Information-dynamic and neuro-symbolic models offer ways of specifying these
+processes \parencite{abdallah2009information,berger1999expectations,gang1999unified}.
+
+Yet explaining why a track is interesting cannot amount to locating an average
+quantity of surprise. The inquiry will address trajectories of attention at
+several scales: local micro-emotions, relations between melody and harmony,
+global form, listening history, and the listener's own activity. The Jotney
+regime provides an initial case: melodic autonomy and harmonic mobility create a
+narrow band in which surprise becomes retrospectively necessary.
+
+\emph{Histoire d'une oreille} provides a phenomenological vocabulary and a
+method \parencite{pachet2018oreille}. The \emph{escatte}, \emph{escassepte},
+\emph{misette}, \emph{neuvéclamine}, \emph{cébimine}, and \emph{stabilème} are
+not new names for chords; they describe attentional transformations produced by
+temporal relations. \emph{Superimposed listening} submits music to internal
+variations. An \emph{optale} is the feeling that a form is a local optimum
+because nearby variants fail; a \emph{pseudoptale} warns that familiarity may
+simulate this necessity. \emph{False evidence} distinguishes a banal phrase
+that is retrospectively requalified from a merely \emph{necessary substrate}.
+Finally, \emph{overattentive listening} names the risk that listeners themselves
+produce the resolution they attribute to the work.
+
+These concepts make it possible to move from ``I like this track'' to comparable
+claims: what transformation occurs, at what moment, through what preparation,
+for which ear, and what would become of it under a controlled variation? They are
+not intended to form a definitive dictionary. They are instruments for
+describing and testing a theory of musical attention.
+
+\section{Scientific Practice and Philosophical Inquiry}
+
+AI systems constitute a second laboratory. Work on Flow Machines, reflexive
+interactions, Markov generation under constraints, and computational
+interestingness has produced objects, protocols, successes, and failures
+\parencite{pachet2006clefs,pachet2008machines,pachet2012virtuosity,pachet2021assisted,pachet2026markov}.
+It shows, in particular, that local forward generation does not always suffice
+to satisfy a global organisation: producing an interesting form often requires
+sampling to be articulated with constraint solving.
+
+Three levels must remain distinct:
+
+\begin{itemize}
+  \item scientific results and effective properties of systems;
+  \item philosophical claims about invention, attention, or value;
+  \item argued articulations explaining what the construction of a system makes
+        thinkable without claiming that the system proves it.
+\end{itemize}
+
+This articulation is itself an expected contribution of the thesis. A
+computational model may make a hypothesis explicit, produce a counterexample, or
+reveal that a notion is too general. It does not suffice to naturalise the
+experience it schematises.
+
+\section{Method and Corpus}
+
+The research will combine:
+
+\begin{itemize}
+  \item a conceptual analysis of the interesting and its neighbours: the new,
+        the surprising, the beautiful, the relevant, the difficult, the rare,
+        and the understandable;
+  \item a study of philosophical traditions concerned with form, judgement,
+        temporality, invention, and emergence;
+  \item a situated phenomenology of musical, literary, mathematical, and
+        scientific cases, including the history of the formation of an ear;
+  \item counterfactual comparisons: internal variations, merely competent
+        continuations, failed covers, or failed imitations;
+  \item a reflexive analysis of constructed systems and, where relevant, new
+        experiments on attention, repetition, abandonment, and the evolution of
+        judgements;
+  \item a confrontation with contemporary models of expectation, compression,
+        curiosity, and constrained generation.
+\end{itemize}
+
+The main corpus comprises the two essays on the impossibility of creation and on
+virtuosity \parencite{pachet2026impossibilite,pachet2026virtuosite},
+\emph{Histoire d'une oreille}, the work on Jotney songs, scientific projects on
+interestingness and generative systems, and the philosophical and scientific
+sources listed in the bibliography. Older cases will be retained only when they
+directly illuminate the question of the interesting.
+
+\section{Expected Contributions}
+
+The thesis aims at five contributions:
+
+\begin{enumerate}
+  \item a relational and temporal definition of the interesting, distinct from
+        novelty, beauty, and preference;
+  \item a theory of invented necessity linking form, implicit problem, rarity of
+        solutions, and improbable genesis;
+  \item a theory of musical attention articulating micro-emotions,
+        expectations, global form, learning, and listener activity;
+  \item a method for moving between scientific construction and philosophical
+        claims, with explicit criteria of scope and limitation;
+  \item a set of falsifiable, or at least comparable, hypotheses concerning
+        trajectories of interest, their transformations, and their false
+        positives.
+\end{enumerate}
+
+\section{Provisional Outline}
+
+\begin{enumerate}
+  \item \textbf{Distinguishing the interesting}: concept, neighbouring notions,
+        history of the problem, and objections.
+  \item \textbf{Emergence and understanding}: appearance of a form, aspect
+        change, and birth of problems.
+  \item \textbf{Form, memory, and attention}: temporality, learning, the almost
+        learnable, and exhaustion of an effect.
+  \item \textbf{Invented necessity}: constraints, rarity, self-stability,
+        difficulty of production, and surface simplicity.
+  \item \textbf{Why is this track interesting?}: musical expectations,
+        micro-emotions, optales, global form, and overattention.
+  \item \textbf{Building in order to understand}: AI systems, experiments,
+        philosophical scope, and limits of naturalisation.
+\end{enumerate}
+
+\section{Directly Related Personal Work}
+
+\begin{itemize}
+  \item \textcite{pachet2026virtuosite} analyses forms of virtuosity and their
+        intended effects on listeners.
+  \item \textcite{pachet2026impossibilite} examines scientific and conceptual
+        obstacles to the idea of creating something new.
+  \item \textcite{pachet2026markov} synthesises work on Markov modelling and
+        constraint-controlled generation.
+  \item \textcite{pachet2021assisted} derives new categories of the new from the
+        Flow Machines projects.
+  \item \textcite{pachet2018oreille} describes the ontogenesis of a musical ear
+        and provides the attentional concepts used here.
+  \item \textcite{pachet2012virtuosity} connects virtuosity, creativity, and the
+        construction of the Virtuoso system.
+  \item \textcite{pachet2008machines} presents reflexive systems as machines for
+        stepping outside oneself.
+  \item \textcite{pachet2006clefs} offers an initial model of interesting
+        melodies.
+\end{itemize}
+
+\printbibliography[title={References}]
+
+\end{document}

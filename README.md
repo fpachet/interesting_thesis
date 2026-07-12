@@ -32,8 +32,9 @@ des objections ou comparer plusieurs architectures argumentatives.
 
 ## Points d'entree
 
-- [`projet-these/projet-these.tex`](projet-these/projet-these.tex) : version
-  courante et editable du projet de these ;
+- [`projet-these/projet-these-fr.tex`](projet-these/projet-these-fr.tex) et
+  [`projet-these/projet-these-en.tex`](projet-these/projet-these-en.tex) :
+  versions courantes française et anglaise du projet de thèse ;
 - [`projet-these/versions/`](projet-these/versions/) : instantanes historiques
   immuables ;
 - [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : evolution explicite
@@ -69,15 +70,18 @@ Le format et le cycle de travail sont documentes dans
 
 ## Projet de these versionne
 
-Le PDF initial [`input/projet thèse philo.pdf`](input/projet%20thèse%20philo.pdf)
-constitue la version 1 du projet. Sa transcription LaTeX est conservee dans
-`projet-these/versions/projet-these-v1.tex`. La version de travail se trouve dans
-`projet-these/projet-these.tex`.
+Les PDF initiaux français et anglais, respectivement
+[`input/projet thèse philo.pdf`](input/projet%20thèse%20philo.pdf) et
+[`input/Project philosophy thesis.pdf`](input/Project%20philosophy%20thesis.pdf),
+constituent la version 1 du projet. Ils sont conservés dans
+`projet-these/versions/`. Les deux fichiers de travail bilingues portent
+actuellement la version 2 et partagent la bibliographie canonique.
 
 Lorsqu'une nouvelle etape intellectuelle est stabilisee :
 
-1. mettre a jour le fichier courant ;
-2. compiler et relire son rendu ;
+1. mettre a jour les deux fichiers courants en maintenant leurs sections
+   synchronisées ;
+2. compiler et relire les deux rendus ;
 3. decrire les changements dans `projet-these/CHANGELOG.md` ;
 4. copier l'etat valide dans `projet-these/versions/projet-these-vN.tex`.
 

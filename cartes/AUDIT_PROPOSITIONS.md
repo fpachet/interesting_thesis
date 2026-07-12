@@ -128,6 +128,15 @@ les resultats scientifiques constituent un premier niveau ; les propositions sur
 l'interessant un second ; les passages argumentes entre les deux forment le niveau
 `articulation` et peuvent constituer une contribution propre de la these.
 
+La version anglaise `input/Project philosophy thesis.pdf` a ensuite ete comparee
+integralement au PDF francais du projet. Elle confirme les memes propositions et
+ajoute un cadre explicite reliant philosophie kantienne du sujet, naturalisation
+du transcendantal chez Petitot et emergence dans les systemes dynamiques. Ce cadre
+renforce `idea_0088` mais ne devient pas une carte autonome : sa valeur tient
+precisement au compromis methodologique qu'il propose et dont la these devra
+tester la portee. Sa bibliographie detaillee a ete integree a la bibliographie
+canonique et aux versions bilingues du projet de these.
+
 `idea_0111` a ete creee lors de la lecture complete de
 `input/The Mystery of Jotney Songs.pdf`, puis precisee par le dossier composite
 `input/The Mystery of Jotney Songs -full.pdf`. Elle isole la proposition structurale

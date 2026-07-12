@@ -1,33 +1,46 @@
-# Projet de these versionne
+# Projet de thèse bilingue et versionné
 
-Ce dossier contient le texte vivant du projet de these et ses instantanes
-historiques.
+Ce dossier contient les versions française et anglaise du projet de thèse, ainsi
+que leurs instantanés historiques.
 
-## Fichiers
+## Fichiers courants
 
-- `projet-these.tex` : version courante, seule version a modifier pendant le
-  travail ordinaire ;
-- `versions/projet-these-vN.tex` : versions stabilisees et immuables ;
-- `CHANGELOG.md` : differences intellectuelles et documentaires entre versions ;
-- `Makefile` : compilation et nettoyage du rendu courant.
+- `projet-these-fr.tex` : version française courante ;
+- `projet-these-en.tex` : version anglaise courante ;
+- `versions/projet-these-vN-fr.tex` et `versions/projet-these-vN-en.tex` :
+  versions stabilisées et immuables ;
+- `CHANGELOG.md` : différences intellectuelles et documentaires entre versions ;
+- `Makefile` : compilation et nettoyage des deux rendus.
 
-Le PDF source `input/projet thèse philo.pdf` est la reference documentaire de la
-V1. `versions/projet-these-v1.tex` en est la transcription LaTeX. Le fichier
-courant est initialise avec ce meme contenu : aucune idee posterieure n'a ete
-retroactivement attribuee a la V1.
+Les deux fichiers courants doivent rester homologues : mêmes sections, mêmes
+hypothèses, mêmes citations et même numéro de version. Une modification de fond
+n'est terminée que lorsque sa traduction a été relue.
+
+## Versions historiques
+
+La V1 française est une transcription LaTeX de
+`input/projet thèse philo.pdf`. La V1 anglaise a été fournie sous forme de PDF ;
+son wrapper LaTeX inclut exactement `input/Project philosophy thesis.pdf` afin de
+préserver ce document sans correction silencieuse.
+
+La V2 est la première version réécrite à partir du corpus et des cartes. Ses deux
+sources LaTeX sont entièrement éditables et sa bibliographie complète provient de
+`bibliographie/references.bib`.
 
 ## Cycle d'une nouvelle version
 
-1. Modifier `projet-these.tex` et incrementer `\projectversion`.
-2. Compiler avec `make` et relire `build/projet-these.pdf`.
-3. Decrire dans `CHANGELOG.md` les changements de question, d'hypotheses, de
-   methode, de corpus et de structure.
-4. Lorsque l'etat est valide, le copier vers
-   `versions/projet-these-vN.tex` et ne plus modifier cet instantane.
-5. Committer ensemble le fichier courant, l'instantane et le changelog.
+1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
+2. Incrémenter `\projectversion` dans les deux fichiers.
+3. Compiler avec `make` et relire les deux PDF.
+4. Décrire dans `CHANGELOG.md` les changements de question, d'hypothèses, de
+   méthode, de corpus et de structure.
+5. Copier l'état validé vers les deux fichiers `versions/projet-these-vN-*.tex`.
+6. Archiver avec eux une copie `versions/references-vN.bib` de la bibliographie
+   utilisée.
+7. Committer ensemble les deux langues, les instantanés et le changelog.
 
-Une version est un etat intellectuel identifiable, pas chaque correction
-typographique. Git conserve deja l'historique fin entre deux versions nommees.
+Une version est un état intellectuel identifiable, pas chaque correction
+typographique. Git conserve l'historique fin entre deux versions nommées.
 
 ## Compilation
 
@@ -36,11 +49,13 @@ cd projet-these
 make
 ```
 
-Le rendu est ecrit dans `projet-these/build/`, qui n'est pas versionne.
+Les rendus sont écrits dans `projet-these/build/` :
+
+- `projet-these-fr.pdf` ;
+- `projet-these-en.pdf`.
 
 Pour nettoyer les artefacts :
 
 ```bash
 make clean
 ```
-

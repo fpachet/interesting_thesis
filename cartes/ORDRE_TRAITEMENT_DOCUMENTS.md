@@ -15,7 +15,7 @@ jugement absolu sur la valeur intellectuelle des textes.
 | Rang | Document | Pourquoi il est prioritaire | Travail attendu |
 | ---: | --- | --- | --- |
 | 1 | `input/De l'impossibilité de créer.pdf` | Essai central, 101 pages, articulation la plus riche entre creation, impossible, virtuosite et IA. | Relecture propositionnelle chapitre par chapitre. |
-| 2 | `input/projet thèse philo.pdf` | Definit explicitement l'objet doctoral et doit servir de critere pour juger la pertinence des autres propositions. | Extraire les theses, questions et engagements philosophiques precis. |
+| 2 | `input/projet thèse philo.pdf` et sa version anglaise `input/Project philosophy thesis.pdf` | Definissent explicitement l'objet doctoral et doivent servir de critere pour juger la pertinence des autres propositions. | Couverture bilingue complete ; differences de cadre et de bibliographie comparees et reprises dans la V2. |
 | 3 | `input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf` | Second essai substantiel ; developpe la difficulte, la seduction, le langage et la politique. | Relecture section par section et consolidation des analogies fortes. |
 | 4 | `input/ERCGrantPachetInterestingness.pdf` | Programme scientifique canonique sur le computational interestingness ; nombreuses hypotheses et methodes testables. | Extraire hypotheses, protocoles, resultats negatifs et liens perception/action. |
 | 5 | `input/old_docs/Synopsis MIT Press.doc` | Manuscrit ancien directement consacre au temporal interestingness et a l'ennui ; probablement encore sous-exploite. | Relecture complete par sections, avec attention aux propositions abandonnees depuis. |
@@ -85,7 +85,7 @@ de quelques formulations alternatives de ses propositions centrales.
 | Rang | Document | Statut | Date |
 | ---: | --- | --- | --- |
 | 1 | `input/De l'impossibilité de créer.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
-| 2 | `input/projet thèse philo.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
+| 2 | `input/projet thèse philo.pdf` et `input/Project philosophy thesis.pdf` | couverture propositionnelle bilingue complete | 12 juillet 2026 |
 | 3 | `input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
 | 4 | `input/ERCGrantPachetInterestingness.pdf` | couverture propositionnelle complete | 12 juillet 2026 |
 | 5 | `input/old_docs/Synopsis MIT Press.doc` | couverture propositionnelle complete | 12 juillet 2026 |

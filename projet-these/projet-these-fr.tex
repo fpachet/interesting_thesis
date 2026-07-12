@@ -1,0 +1,313 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[a4paper,margin=2.4cm]{geometry}
+\usepackage{enumitem}
+\usepackage[autostyle]{csquotes}
+\usepackage[hidelinks]{hyperref}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=12]{biblatex}
+\addbibresource{../bibliographie/references.bib}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.65em}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.35em,topsep=0.35em}
+\setlist[enumerate]{leftmargin=1.8em,itemsep=0.5em,topsep=0.4em}
+
+\newcommand{\projectversion}{2}
+\newcommand{\projectdate}{12 juillet 2026}
+
+\title{L'émergence de l'intéressant\\
+\large Naissance des idées, compréhension et singularité des formes}
+\author{François Pachet}
+\date{Projet de thèse -- version \projectversion\\\small \projectdate}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Ce projet vise à constituer l'intéressant comme objet philosophique. Il part
+d'une expérience ordinaire mais difficile à stabiliser : une idée surgit, une
+forme devient intelligible, un passage retient l'attention et appelle la reprise.
+La thèse centrale est que ces événements ne relèvent ni d'une propriété isolée
+de l'objet, ni d'une préférence privée, mais d'une relation temporelle entre une
+forme organisée et un sujet doté d'une histoire perceptive. La musique fournit
+le laboratoire principal de cette enquête ; quarante années de construction de
+systèmes d'intelligence artificielle en constituent un second terrain, à la fois
+expérimental et réflexif. L'enjeu est d'articuler phénoménologie, philosophie des
+formes, esthétique, sciences cognitives et modélisation computationnelle sans
+réduire l'expérience de l'intéressant à l'un de ces registres.
+\end{abstract}
+
+\section{Origine et objectif du projet}
+
+Ce travail est issu d'une pratique constructiviste et empirique de la recherche
+en intelligence artificielle. J'ai passé quarante ans à construire des systèmes
+pour générer, transformer ou accompagner des musiques et des textes. Le projet
+doctoral ne consiste pas à résumer ces travaux ni à leur donner après coup une
+unité philosophique artificielle. Il part d'une question plus exigeante :
+\emph{comprendre ce que je fais} lorsque je construis un système, reconnais une
+solution, élimine une production correcte mais sans intérêt, ou m'arrête devant
+une forme qui semble s'imposer.
+
+Cette enquête rencontre des problèmes que la philosophie a traités sous des noms
+différents : accès à l'intelligible chez Platon et Aristote
+\parencite{platon2016republique,platon1995theetete,aristote1991metaphysique,aristote2005seconds};
+intuition et évidence chez Descartes et Spinoza
+\parencite{descartes2002regles,descartes1992meditations,spinoza1966ethique};
+jugement chez Kant \parencite{kant2001raison,kant1993juger}; invention et
+reconfiguration des problèmes chez Peirce, Poincaré, Hadamard, Bachelard et
+Valéry \parencite{peirce1955writings,poincare1908science,hadamard1959invention,bachelard1999formation,valery1973cahiers};
+mémoire, durée et constitution temporelle du sens chez Bergson, Husserl et
+Merleau-Ponty
+\parencite{bergson2013evolution,bergson2013pensee,husserl1970experience,husserl1957logique,merleau1945phenomenologie};
+changement d'aspect chez Wittgenstein \parencite{wittgenstein2004recherches};
+enfin symbolisation, différence et répétition chez Goodman et Deleuze
+\parencite{goodman1976languages,deleuze1968difference}.
+
+L'hypothèse d'unification est que la naissance d'une idée, l'expérience de la
+compréhension et la fascination pour une forme sont trois moments d'un même
+phénomène : l'émergence de quelque chose qui se détache pour un sujet comme une
+organisation à la fois intelligible et singulière.
+
+\section{Question directrice et thèse centrale}
+
+La question directrice est : \emph{sous quelles conditions quelque chose
+apparaît-il à un sujet comme intéressant ?} Une chanson, une démonstration, une
+phrase ou une idée peut retenir l'attention de manière disproportionnée, provoquer
+des reprises et des variations, puis perdre ou transformer son pouvoir. Cet effet
+ne se réduit ni à la nouveauté brute, car l'aléatoire surprend sans nécessairement
+intéresser, ni à la beauté, car une forme familière peut demeurer belle tout en
+étant devenue prévisible, ni à la popularité, ni à une préférence subjective
+entendue comme donnée sans histoire.
+
+La thèse centrale est la suivante :
+
+\begin{quote}
+L'intéressant est une propriété relationnelle et temporelle. Il émerge lorsqu'une
+forme organisée transforme l'état d'attention, de mémoire ou de compréhension
+d'un sujet historiquement, affectivement, corporellement et culturellement
+constitué.
+\end{quote}
+
+La relativité au sujet n'implique pas que tous les jugements se valent. Une
+relation peut être décrite : on peut identifier les attentes rendues possibles
+par l'objet, les compétences nécessaires pour les éprouver, les transformations
+qui relancent l'attention, ainsi que les variantes qui détruiraient l'effet. La
+structure de l'objet et l'histoire du sujet sont donc deux conditions
+irréductibles de la même rencontre.
+
+\section{Hypothèses de travail}
+
+\begin{enumerate}
+  \item \textbf{L'intéressant est un processus, non une étiquette.} Pour un objet
+  temporel, l'unité pertinente est une trajectoire faite de préparation,
+  d'attente, d'écart, de résolution, de réinterprétation et parfois d'ennui. Un
+  même événement change de valeur selon sa place et selon ce que la suite fait de
+  lui.
+
+  \item \textbf{Une forme intéressante peut inventer le problème qu'elle
+  résout.} Certaines solutions paraissent nécessaires après leur apparition,
+  alors qu'elles n'étaient pas déductibles auparavant. Elles rendent visibles
+  leurs propres contraintes et donnent l'impression d'une simplicité de surface
+  qui dissimule une genèse improbable. L'intérêt pertinent tient alors moins à
+  une rareté statistique brute qu'à la petitesse d'une classe de solutions dans
+  un problème implicite.
+
+  \item \textbf{L'intérêt se déplace avec l'apprentissage.} Une régularité
+  d'abord opaque peut devenir accessible, produire un gain de compréhension,
+  puis s'épuiser lorsqu'elle est acquise. La théorie du progrès de compression
+  formalise une version de cette dynamique
+  \parencite{schmidhuber1997interesting,schmidhuber2009compression}. Elle doit
+  toutefois être comprise relativement aux capacités de calcul, à la mémoire et
+  à la culture d'un observateur, et non comme une mesure universelle de l'objet.
+
+  \item \textbf{L'intéressant se situe souvent à une frontière mouvante du
+  presque-apprenable.} Le déjà connu est trivial ; le bruit demeure
+  incompressible ; une structure trop éloignée des capacités du sujet reste
+  opaque. Une forme intéresse lorsqu'elle promet une transformation accessible
+  au prix d'un effort non nul. Cette proposition prolonge, tout en la compliquant,
+  la courbe en U inversé de l'esthétique expérimentale
+  \parencite{berlyne1974studies,abdallah2009information}.
+
+  \item \textbf{L'attention est active et faillible.} L'auditeur varie,
+  reconstruit et compare intérieurement ce qu'il entend. Cette activité peut
+  révéler une organisation réelle, mais aussi fabriquer l'intérêt qu'elle croit
+  découvrir. Familiarité, prestige de l'auteur et désir de résoudre une énigme
+  sont des sources possibles de faux positifs. Une théorie de l'intéressant doit
+  donc contenir sa propre critique.
+\end{enumerate}
+
+\section{Cadre théorique : sujet, forme et émergence}
+
+Le cadre théorique cherchera à articuler trois exigences. La première vient de la
+philosophie du sujet : l'expérience de l'intéressant dépend de conditions de
+réception et de jugement, sans être réductible à un trait objectif. La deuxième
+vient d'une phénoménologie de la temporalité : rétention, protention, mémoire
+corporelle et changement d'aspect décrivent comment une forme se constitue dans
+le temps. La troisième vient des théories morphodynamiques et des systèmes
+complexes : une organisation globale possède des propriétés qui ne se lisent pas
+dans ses éléments isolés.
+
+Ce cadre reprend la tentative de naturaliser certains problèmes
+transcendantaux sans éliminer leur dimension phénoménale
+\parencite{petitot1993phenomenologie,petitot2002naturaliser}. Il ne postule pas
+que la modélisation scientifique épuisera l'intéressant. Il cherche plutôt un
+rapport contrôlé entre descriptions à la première personne, analyses formelles
+et mécanismes testables. Il faudra distinguer les invariants possibles de
+l'attention et les habitudes propres à un contexte, notamment celles de la
+musique tonale occidentale.
+
+\section{La musique comme laboratoire philosophique}
+
+La musique rend particulièrement visibles les rapports entre mémoire, attente,
+surprise et résolution. Meyer puis Narmour ont montré que l'affect et la
+signification musicale dépendent d'attentes apprises, réalisées, retardées ou
+déjouées \parencite{meyer1956emotion,narmour1990basic,narmour1992complexity}.
+Les modèles informationnels et neuro-symboliques donnent des moyens de préciser
+ces dynamiques
+\parencite{abdallah2009information,berger1999expectations,gang1999unified}.
+
+Mais expliquer pourquoi un titre est intéressant ne consiste pas à repérer une
+quantité moyenne de surprise. L'enquête portera sur la trajectoire d'attention à
+plusieurs échelles : micro-émotions locales, relations entre mélodie et harmonie,
+forme globale, histoire des écoutes et activité de l'auditeur. Le régime Jotney
+constitue un premier cas : autonomie mélodique et mobilité harmonique y créent
+une bande étroite dans laquelle la surprise devient rétrospectivement nécessaire.
+
+\emph{Histoire d'une oreille} fournit un vocabulaire phénoménologique et une
+méthode \parencite{pachet2018oreille}. L'\emph{escatte}, l'\emph{escassepte}, la
+\emph{misette}, la \emph{neuvéclamine}, la \emph{cébimine} ou le
+\emph{stabilème} ne sont pas de nouveaux noms pour des accords ; ils décrivent
+des transformations attentionnelles produites par des relations temporelles.
+L'\emph{écoute superposée} soumet la musique à des variations intérieures.
+L'\emph{optale} désigne le sentiment qu'une forme est un optimum local parce que
+ses variantes proches échouent ; la \emph{pseudoptale} avertit que la familiarité
+peut simuler cette nécessité. Les \emph{fausses évidences} distinguent une
+banalité requalifiée après coup d'un simple \emph{substrat nécessaire}. Enfin,
+l'\emph{écoute surattentive} nomme le risque que l'auditeur produise lui-même la
+résolution qu'il attribue à l'œuvre.
+
+Ces concepts permettent de passer de « ce titre me plaît » à des propositions
+comparables : quelle transformation se produit, à quel moment, grâce à quelle
+préparation, pour quelle oreille, et que deviendrait-elle sous une variation
+contrôlée ? Ils n'ont pas vocation à former un dictionnaire définitif. Ils sont
+des instruments pour décrire et mettre à l'épreuve une théorie de l'attention
+musicale.
+
+\section{Pratique scientifique et enquête philosophique}
+
+Les systèmes d'IA constituent un second laboratoire. Les travaux sur Flow
+Machines, les interactions réflexives, la génération markovienne sous contraintes
+et l'\emph{interestingness} computationnelle ont produit des objets, des
+protocoles, des réussites et des échecs
+\parencite{pachet2006clefs,pachet2008machines,pachet2012virtuosity,pachet2021assisted,pachet2026markov}.
+Ils montrent notamment qu'une génération locale en marche avant ne suffit pas
+toujours à satisfaire une organisation globale : produire une forme intéressante
+exige souvent d'articuler échantillonnage et résolution de contraintes.
+
+Trois niveaux devront rester distincts :
+
+\begin{itemize}
+  \item les résultats scientifiques et les propriétés effectives des systèmes ;
+  \item les propositions philosophiques sur l'invention, l'attention ou la
+        valeur ;
+  \item les articulations argumentées qui expliquent ce que la construction d'un
+        système rend pensable sans prétendre qu'elle le démontre.
+\end{itemize}
+
+Cette articulation est elle-même une contribution attendue de la thèse. Un
+modèle computationnel peut rendre une hypothèse explicite, produire un
+contre-exemple ou révéler qu'une notion est trop générale. Il ne suffit pas à
+naturaliser l'expérience qu'il schématise.
+
+\section{Méthode et corpus}
+
+La recherche combinera :
+
+\begin{itemize}
+  \item une analyse conceptuelle de l'intéressant et de ses voisins : nouveau,
+        surprenant, beau, pertinent, difficile, rare et compréhensible ;
+  \item une lecture des traditions philosophiques de la forme, du jugement, de
+        la temporalité, de l'invention et de l'émergence ;
+  \item une phénoménologie située de cas musicaux, littéraires, mathématiques et
+        scientifiques, incluant l'histoire de la formation d'une oreille ;
+  \item des comparaisons contrefactuelles : variations intérieures,
+        continuations simplement compétentes, reprises ou imitations ratées ;
+  \item l'analyse réflexive de systèmes construits et, lorsque c'est pertinent,
+        de nouvelles expériences sur l'attention, la reprise, l'abandon et
+        l'évolution des jugements ;
+  \item une confrontation avec les modèles contemporains de l'attente, de la
+        compression, de la curiosité et de la génération contrainte.
+\end{itemize}
+
+Le corpus principal réunit les deux essais sur l'impossibilité de créer et la
+virtuosité \parencite{pachet2026impossibilite,pachet2026virtuosite},
+\emph{Histoire d'une oreille}, les travaux sur les chansons Jotney, les projets
+scientifiques sur l'\emph{interestingness} et les systèmes génératifs, ainsi que
+les sources philosophiques et scientifiques citées dans la bibliographie. Les
+cas anciens ne seront retenus que lorsqu'ils éclairent directement la question
+de l'intéressant.
+
+\section{Contributions attendues}
+
+La thèse vise cinq contributions :
+
+\begin{enumerate}
+  \item une définition relationnelle et temporelle de l'intéressant, distincte
+        de la nouveauté, de la beauté et de la préférence ;
+  \item une théorie de la nécessité inventée, reliant forme, problème implicite,
+        rareté des solutions et genèse improbable ;
+  \item une théorie de l'attention musicale capable d'articuler micro-émotions,
+        attentes, forme globale, apprentissage et activité de l'auditeur ;
+  \item une méthode de passage entre construction scientifique et proposition
+        philosophique, avec des critères explicites de portée et de limite ;
+  \item un ensemble d'hypothèses falsifiables ou au moins comparables sur les
+        trajectoires d'intérêt, leurs transformations et leurs faux positifs.
+\end{enumerate}
+
+\section{Plan provisoire}
+
+\begin{enumerate}
+  \item \textbf{Distinguer l'intéressant} : concept, voisins, histoire du
+        problème et objections.
+  \item \textbf{Émergence et compréhension} : apparition d'une forme,
+        changement d'aspect et naissance des problèmes.
+  \item \textbf{Forme, mémoire et attention} : temporalité, apprentissage,
+        presque-apprenable et épuisement de l'effet.
+  \item \textbf{Nécessité inventée} : contraintes, rareté, autostabilité,
+        difficulté de production et simplicité de surface.
+  \item \textbf{Pourquoi ce titre est-il intéressant ?} : attentes musicales,
+        micro-émotions, optales, forme globale et surattention.
+  \item \textbf{Construire pour comprendre} : systèmes d'IA, expériences,
+        portée philosophique et limites de la naturalisation.
+\end{enumerate}
+
+\section{Travaux personnels directement liés}
+
+\begin{itemize}
+  \item \textcite{pachet2026virtuosite} analyse les formes de virtuosité et leurs
+        effets recherchés sur les auditeurs.
+  \item \textcite{pachet2026impossibilite} examine les obstacles scientifiques
+        et conceptuels à l'idée de créer du nouveau.
+  \item \textcite{pachet2026markov} synthétise les travaux sur la modélisation
+        markovienne et la génération contrôlée par contraintes.
+  \item \textcite{pachet2021assisted} tire des projets Flow Machines de nouvelles
+        catégories du nouveau.
+  \item \textcite{pachet2018oreille} décrit l'ontogenèse d'une oreille musicale
+        et fournit les concepts attentionnels mobilisés ici.
+  \item \textcite{pachet2012virtuosity} relie virtuosité, créativité et
+        construction du système Virtuoso.
+  \item \textcite{pachet2008machines} présente les systèmes réflexifs comme des
+        machines favorisant la sortie de soi.
+  \item \textcite{pachet2006clefs} propose une première modélisation des mélodies
+        intéressantes.
+\end{itemize}
+
+\printbibliography[title={Références}]
+
+\end{document}

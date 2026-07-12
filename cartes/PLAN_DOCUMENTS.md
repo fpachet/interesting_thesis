@@ -18,7 +18,7 @@ articulations reflexives entre ces deux niveaux.
 
 | Document | Role probable | Idees dominantes |
 | --- | --- | --- |
-| `input/projet thèse philo.pdf` | cadrage doctoral | emergence de l'interessant, singularite des formes, naissance des idees, articulation IA/philosophie |
+| `input/projet thèse philo.pdf` et `input/Project philosophy thesis.pdf` | cadrage doctoral bilingue | emergence de l'interessant, singularite des formes, naissance des idees, articulation IA/philosophie ; la version anglaise explicite le cadre Kant-Petitot, les systemes dynamiques et les references completes |
 | `input/De l'impossibilité de créer.pdf` | grand essai central | impossibilite de creer, adjacent possible, inhibition, invention impensable, virtuosite, difficulte, IA |
 | `input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf` | essai adjacent | virtuosite spectaculaire, fantasmagories politiques, pensee deviante, exposition reseaux |
 | `input/ERCGrantPachetInterestingness.pdf` | programme scientifique | computational interestingness, gout non statique, popularite, difficultuosite, doodling, ethologie artificielle |

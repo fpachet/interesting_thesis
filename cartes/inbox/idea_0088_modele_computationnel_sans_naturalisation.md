@@ -6,11 +6,15 @@ level: articulation
 status: inbox
 sources:
   - "input/projet thèse philo.pdf"
+  - "input/Project philosophy thesis.pdf"
   - "input/old_docs/interestingness.pdf"
 references:
   - schmidhuber1997interesting
+  - petitot1993phenomenologie
+  - petitot2002naturaliser
 source_notes:
   - "PDF p. 3"
+  - "Version anglaise du projet, PDF p. 1 : articulation proposee entre philosophie kantienne du sujet, naturalisation du transcendantal chez Petitot et proprietes emergentes des systemes dynamiques."
   - "Schmidhuber, What's Interesting?, limites d'interpretation du systeme, PDF p. 12 et 21"
 tags:
   - philosophie
@@ -30,6 +34,13 @@ l'interessant se reduise au mecanisme implemente.
 Les anciens projets computationnels doivent donc servir d'arriere-plan experimental
 et de reserve d'hypotheses, puis etre reformules dans un cadre philosophique qui
 interroge leurs presupposes au lieu de les prendre pour une theorie complete.
+
+Le cadre peut chercher un compromis entre conditions subjectives du jugement,
+naturalisation de certaines structures transcendantales et emergence de proprietes
+globales dans des systemes dynamiques. Ce compromis est un programme a argumenter,
+non une reduction deja acquise : il doit encore distinguer ce qui pourrait etre
+universel de ce qui depend d'un contexte perceptif comme la musique tonale
+occidentale.
 
 Schmidhuber reconnait lui-meme que les millions de surprises et de modifications
 internes de son agent sont difficiles a interpreter, et que les capacites de cet
