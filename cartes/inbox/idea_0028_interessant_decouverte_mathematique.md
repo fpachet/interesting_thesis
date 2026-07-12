@@ -6,6 +6,8 @@ level: scientific
 status: inbox
 sources:
   - "input/old_docs/interestingness-ijhcs.pdf"
+references:
+  - colton2000interestingness
 source_notes:
   - "Colton, Bundy et Walsh, usages et classification des mesures, PDF p. 15-22"
 tags:

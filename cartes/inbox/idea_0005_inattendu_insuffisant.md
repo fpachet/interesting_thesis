@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/old_docs/interestingness.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 4 et 28"
   - "Schmidhuber, What's Interesting?, PDF p. 2 et 4"

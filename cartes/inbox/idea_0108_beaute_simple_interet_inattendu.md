@@ -6,6 +6,8 @@ level: conceptual
 status: inbox
 sources:
   - "input/old_docs/interestingness.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "Schmidhuber, What's Interesting?, distinction entre beauty et interestingness, PDF p. 20-21"
 tags:

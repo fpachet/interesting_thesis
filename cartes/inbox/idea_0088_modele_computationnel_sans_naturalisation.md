@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/projet thèse philo.pdf"
   - "input/old_docs/interestingness.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "PDF p. 3"
   - "Schmidhuber, What's Interesting?, limites d'interpretation du systeme, PDF p. 12 et 21"

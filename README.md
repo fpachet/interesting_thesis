@@ -140,6 +140,9 @@ prompts/
   digest.md
   final_synthesis.md
   synthetiseur.md
+bibliographie/
+  README.md
+  references.bib
 input/
 output/
   runs/

@@ -6,6 +6,8 @@ level: scientific
 status: inbox
 sources:
   - "input/old_docs/interestingness.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 3 et 13-17 ; limites p. 20-21"
 tags:

@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/WhereMusicWillBeComingFromNYTArticle.txt"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm"
+references:
+  - kelly2002music
 source_notes:
   - "Kevin Kelly, Where Music Will Be Coming From, New York Times Magazine, 2002 : article integral ; copie numerique, musique manipulable et deplacement de la valeur vers les qualites non copiables."
   - "mvdig003.htm, message sur l'ecoute CD/cassette : temoignage selon lequel la possibilite de sauter immediatement un morceau peut empecher l'attachement tardif ; indice anecdotique d'un effet de l'interface sur l'attention."

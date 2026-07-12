@@ -10,6 +10,9 @@ sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf"
   - "input/old_docs/Paper citations_updated.docx"
   - "input/The Mystery of Jotney Songs -full.pdf"
+references:
+  - gang1999unified
+  - goldman1999netneg
 source_notes:
   - "NetNeg condense, apprentissage neuronal et negociation de contraintes, PDF p. 1-6"
   - "Modele unifie attente/contexte/metre, PDF p. 1-6"

@@ -44,8 +44,10 @@ etre contestees, utilisees ou reliees independamment.
 3. Regrouper dans chaque carte les raisons, mecanismes et exemples qui soutiennent
    une meme proposition.
 4. Noter dans `REGISTRE_TRAITEMENT.md` le niveau de traitement du document.
-5. Ajouter les cartes aux index thematiques si un regroupement devient evident.
-6. Ne pas forcer trop tot un plan lineaire : laisser les familles emerger.
+5. Ajouter ou verifier la reference dans `bibliographie/references.bib` lorsqu'il
+   s'agit d'une publication citable, puis relier sa cle a la carte.
+6. Ajouter les cartes aux index thematiques si un regroupement devient evident.
+7. Ne pas forcer trop tot un plan lineaire : laisser les familles emerger.
 
 ## Format d'une carte
 
@@ -60,6 +62,8 @@ level: conceptual
 status: inbox
 sources:
   - "chemin/document.pdf"
+references:
+  - auteur2026mot
 tags:
   - interessant
 ---
@@ -77,6 +81,11 @@ Il contient le chemin exact du ou des documents qui soutiennent la proposition.
 Le champ optionnel `source_notes` precise les pages ou sections lorsqu'elles sont
 disponibles et fiables. Une carte issue d'une note fragmentaire doit le signaler
 explicitement au lieu de presenter l'attribution comme etablie.
+
+Le champ optionnel `references` contient les cles de
+`bibliographie/references.bib` correspondant aux publications citees. Il ne
+remplace pas `sources` : une cle bibliographique identifie une publication, tandis
+que le chemin local indique exactement quelle version a ete lue.
 
 Les identifiants ne sont jamais reutilises. Lorsqu'une carte trop faible est
 fusionnee ou supprimee, son identifiant et sa destination sont conserves dans

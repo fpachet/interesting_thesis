@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/old_docs/interestingness.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-3 et 20"
   - "Jotney, bande etroite entre mobilite, densite, monotonie et surprise, PDF p. 3"

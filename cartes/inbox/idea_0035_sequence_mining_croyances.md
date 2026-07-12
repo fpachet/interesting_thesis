@@ -6,6 +6,8 @@ level: scientific
 status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf"
+references:
+  - spiliopoulou1999rules
 source_notes:
   - "Spiliopoulou, PostMine et categories d'unexpectedness, PDF p. 3-7"
 tags:

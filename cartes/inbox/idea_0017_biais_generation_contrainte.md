@@ -6,6 +6,8 @@ level: scientific
 status: inbox
 sources:
   - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
+references:
+  - pachet2026biases
 source_notes:
   - "Hidden Biases, distinction entre generation pratique et conditionnement exact, PDF p. 1-3"
   - "Hidden Biases, durete du conditionnement et de l'approximation, PDF p. 4-9"

@@ -7,6 +7,9 @@ status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99B.pdf"
+references:
+  - berger1999expectations
+  - gang1999unified
 source_notes:
   - "Berger et Gang, manuscrit integral, modele DRE et etudes Haydn, PDF p. 1-34 et figures p. 39-48"
   - "Version condensee neurosymbolique, PDF p. 1-6"

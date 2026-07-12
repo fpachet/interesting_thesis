@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/old_docs/Paper citations_updated.docx"
   - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
+references:
+  - pachet2026biases
 source_notes:
   - "Projet SenseOfDirection, resume et challenge, rendu PDF p. 1-3"
   - "Projet SenseOfDirection, correlations longues et synthese, rendu PDF p. 5-6"

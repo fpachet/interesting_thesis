@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/old_docs/interestingness.pdf"
   - "input/ERCGrantPachetInterestingness.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-4 et 18-21"
   - "ERCGrantPachetInterestingness, beaute compressible et interet comme derivee, PDF p. 2"

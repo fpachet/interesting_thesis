@@ -7,6 +7,9 @@ status: inbox
 sources:
   - "input/old_docs/kdd95.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf"
+references:
+  - silberschatz1995subjective
+  - silberschatz1996patterns
 source_notes:
   - "Silberschatz et Tuzhilin, classification et independance des deux mesures, PDF p. 2-4 et 7"
   - "Version etendue, actionabilite comme notion centrale mais difficile a formaliser, PDF p. 3-5 et 12"

@@ -6,6 +6,8 @@ level: articulation
 status: inbox
 sources:
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf"
+references:
+  - allouche1999thueMorse
 source_notes:
   - "Allouche et Shallit, The ubiquitous Prouhet-Thue-Morse sequence, pp. 1-4 et 12-13 : definition morphique, absence de chevauchements, regularite non ultimement periodique et equivalence de nombreuses caracterisations."
 tags:

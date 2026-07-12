@@ -10,6 +10,9 @@ sources:
   - "input/ERCGrantPachetInterestingness.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf"
+references:
+  - pachet2026biases
+  - goldman1999netneg
 source_notes:
   - "Hidden Biases, insuffisance du sampling local pour les proprietes globales, PDF p. 1-3 et 10-14"
   - "Notes these, doodling comme echantillonnage peu contraint, PDF p. 1"

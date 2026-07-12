@@ -7,6 +7,8 @@ status: inbox
 sources:
   - "input/old_docs/interestingness.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
+references:
+  - schmidhuber1997interesting
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20"
   - "Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3"

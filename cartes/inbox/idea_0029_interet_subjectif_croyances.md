@@ -7,6 +7,9 @@ status: inbox
 sources:
   - "input/old_docs/kdd95.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf"
+references:
+  - silberschatz1995subjective
+  - silberschatz1996patterns
 source_notes:
   - "Silberschatz et Tuzhilin, croyances dures et souples, revision et mesure bayesienne, PDF p. 3-7"
   - "Version etendue, formalismes de degres de croyance et processus de decouverte, PDF p. 5-12"
