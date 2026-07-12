@@ -1,9 +1,9 @@
 # Index par famille argumentative
 
-Cet index affecte chaque carte a une famille principale. Il complete les index
-par theme et par niveau : une carte peut avoir plusieurs themes, mais elle ne
-figure ici qu'une fois afin que la couverture reste verifiable. Cette affectation
-est un outil de travail reversible, pas encore un plan de these.
+Cet index affecte chaque carte à une famille principale. Il complète les index
+par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
+figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
+est un outil de travail réversible, pas encore un plan de thèse.
 
 ## 1. Définition et émergence de l'intéressant (12)
 
@@ -12,7 +12,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0083` - Naissance d'une idée, compréhension et fascination sont trois faces de l'émergence d'une forme.
 - `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
 
-### Mecanismes et precisions
+### Mécanismes et précisions
 
 - `idea_0001` - Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé.
 - `idea_0002` - Le goût n'est pas un dictionnaire statique.
@@ -36,7 +36,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
 
-### Methodes et ancrages scientifiques
+### Méthodes et ancrages scientifiques
 
 - `idea_0011` - L'attention observée renseigne mieux sur l'intérêt que la préférence déclarée.
 - `idea_0028` - Une mesure d'intérêt peut diriger la découverte avant de pouvoir juger sa valeur.
@@ -69,7 +69,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0096` - Un objet peut être intéressant parce qu'il apparaît comme une solution rare d'un problème implicite.
 - `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
 
-### Creation et apparition du possible
+### Création et apparition du possible
 
 - `idea_0008` - Créer commence par une impossibilité.
 - `idea_0009` - Le nouveau devient accessible localement sans avoir été concevable à l'avance.
@@ -88,7 +88,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0081` - Fougue, foucade et fulgurance distinguent potentiel, rupture et nouveauté accomplie.
 - `idea_0082` - Créer est peut-être d'abord imposer une fin à un processus qui pourrait continuer.
 
-### Modeles, generation et evaluation
+### Modèles, génération et évaluation
 
 - `idea_0016` - La génération a besoin d'un sens de la direction.
 - `idea_0017` - Une génération contrainte peut être validée tout en biaisant la distribution cible.
@@ -98,7 +98,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0100` - La difficulté d'une contrainte dépend de l'état conjoint du modèle et de la forme.
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
 
-### Rarete, genese et objection
+### Rareté, genèse et objection
 
 - `idea_0019` - Une surprise musicale forte devient rétrospectivement nécessaire.
 - `idea_0087` - Une forme intéressante peut paraître simple parce qu'elle a rendu invisibles les contraintes improbables de sa genèse.
@@ -111,7 +111,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0086` - La musique est un laboratoire de l'intéressant parce qu'elle rend l'attente et la mémoire constitutives de la forme.
 - `idea_0112` - Une micro-émotion musicale qualifie une transformation attentionnelle, pas un objet harmonique.
 
-### Mecanismes
+### Mécanismes
 
 - `idea_0038` - La surprise musicale dépend du degré de réalisation de l'attente.
 - `idea_0039` - L'intéressant d'une séquence naît de dimensions qui se contraignent mutuellement.
@@ -132,7 +132,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.
 
-### Systemes et methodes
+### Systèmes et méthodes
 
 - `idea_0006` - Le système intéressant agit comme miroir interactif.
 - `idea_0007` - La création comme effet secondaire de l'interaction.
@@ -144,7 +144,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
 
-### Limite epistemologique
+### Limite épistémologique
 
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 
@@ -154,7 +154,7 @@ est un outil de travail reversible, pas encore un plan de these.
 
 - `idea_0010` - Virtuosité et difficultuosité.
 
-### Mecanismes, distinctions et trajectoires
+### Mécanismes, distinctions et trajectoires
 
 - `idea_0020` - L'appropriation par participation s'oppose à l'appropriation par confrontation.
 - `idea_0048` - La virtuosité séduit par l'apparence d'une liberté sans friction.
@@ -178,7 +178,7 @@ est un outil de travail reversible, pas encore un plan de these.
 - `idea_0056` - La création contemporaine est distribuée.
 - `idea_0073` - Appeler une œuvre contenu la transforme en substance interchangeable.
 
-### Langage, seduction et resistance
+### Langage, séduction et résistance
 
 - `idea_0052` - Céline : créer comme ruse contre la langue.
 - `idea_0057` - Les fantasmagories séduisent par plaisir de la glisse.

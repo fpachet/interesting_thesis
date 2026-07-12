@@ -1,6 +1,6 @@
-# Index thematique provisoire
+# Index thématique provisoire
 
-## Definition de l'interessant
+## Définition de l'intéressant
 
 - `idea_0001` - Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé.
 - `idea_0002` - Le goût n'est pas un dictionnaire statique.
@@ -25,7 +25,7 @@
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
 - `idea_0101` - Une préférence déclarée peut être une image de soi plutôt qu'une anticipation du plaisir.
 
-## Ennui, surprise, rarete
+## Ennui, surprise, rareté
 
 - `idea_0004` - L'ennui est le prix de l'excitation parce que le plaisir vient d'une variation.
 - `idea_0005` - L'inattendu ne suffit pas.
@@ -38,7 +38,7 @@
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 
-## Creation, contrainte, impossibilite
+## Création, contrainte, impossibilité
 
 - `idea_0008` - Créer commence par une impossibilité.
 - `idea_0009` - Le nouveau devient accessible localement sans avoir été concevable à l'avance.
@@ -71,7 +71,7 @@
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
 - `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
 
-## Interaction et systemes reflexifs
+## Interaction et systèmes réflexifs
 
 - `idea_0006` - Le système intéressant agit comme miroir interactif.
 - `idea_0007` - La création comme effet secondaire de l'interaction.
@@ -85,7 +85,7 @@
 - `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
 
-## Exploration, similarite, parcours
+## Exploration, similarité, parcours
 
 - `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.
 - `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.
@@ -101,7 +101,7 @@
 - `idea_0105` - L'abondance transforme la sélection d'objets en construction de trajectoires.
 - `idea_0106` - Une similarité culturelle dépend du corpus interrogé, pas d'une vérité terrain unique.
 
-## Exemples et symptomes
+## Exemples et symptômes
 
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0020` - L'appropriation par participation s'oppose à l'appropriation par confrontation.
@@ -129,7 +129,7 @@
 - `idea_0092` - Les réseaux sociaux enseignent à paraître maître en punissant l'hésitation.
 - `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
 
-## Methode et reflexivite de la these
+## Méthode et réflexivité de la thèse
 
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
