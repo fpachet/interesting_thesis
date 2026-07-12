@@ -1,10 +1,13 @@
 ---
 id: idea_0023
-title: "Le spam comme micro-machine temporelle"
-kind: example
+title: "Une relation temporelle minimale peut rendre saillant un contenu sans valeur"
+kind: hypothesis
+level: conceptual
 status: inbox
 sources:
   - "old docs /TBKLullyNOTES.doc"
+source_notes:
+  - "TBKLullyNOTES, titres, fausse date et relance, rendu PDF p. 1 et 3-5"
 tags:
   - spam
   - attention
@@ -14,7 +17,12 @@ tags:
 
 ## Idee
 
-Certains spams deviennent interessants par leur titre, leur faux contexte, leur date future, ou la creation d'une relation temporelle entre un premier message et une relance.
+Un message sans valeur propre peut devenir momentanement saillant s'il installe une
+attente : objet enigmatique, faux contexte, date future, puis relance qui semble
+repondre au premier envoi. Le spam montre a echelle minimale que l'interet peut
+etre produit par une relation entre occurrences plutot que par la qualite de leur
+contenu. La seconde apparition transforme retrospectivement la premiere en debut
+d'une sequence.
 
 ## Interet pour la these
 
@@ -24,4 +32,3 @@ Le spam est un laboratoire minuscule de capture attentionnelle : il montre comme
 
 - Proche de `idea_0015`.
 - A relier aux mecanismes de suspense et de page-turner.
-

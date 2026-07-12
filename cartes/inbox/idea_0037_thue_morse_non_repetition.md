@@ -1,7 +1,8 @@
 ---
 id: idea_0037
 title: "Thue-Morse : non-repetition structuree"
-kind: bibliographic_note
+kind: example
+level: articulation
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/ubiq.pdf"
@@ -24,4 +25,3 @@ Cette carte donne un modele formel du compromis entre repetition et variation, u
 
 - Proche de `idea_0032`.
 - Proche de `idea_0027`.
-

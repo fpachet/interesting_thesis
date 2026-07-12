@@ -2,6 +2,7 @@
 id: idea_0034
 title: "Les hooks harmoniques comme micro-solutions interessantes"
 kind: example
+level: articulation
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/hooks in hits/Hooks in hits.doc"
@@ -25,4 +26,3 @@ Cette carte donne un niveau d'analyse plus fin que la chanson entiere : l'intere
 
 - Proche de `idea_0019`.
 - Proche de `idea_0038`.
-

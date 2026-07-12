@@ -2,6 +2,7 @@
 id: idea_0040
 title: "Quand la musique devient liquide, l'attention devient rare"
 kind: argument
+level: conceptual
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/WhereMusicWillBeComingFromNYTArticle.txt"

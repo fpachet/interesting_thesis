@@ -2,6 +2,7 @@
 id: idea_0031
 title: "La relation musicale optimale n'est ni trop proche ni trop lointaine"
 kind: hypothesis
+level: conceptual
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/An interesting musical relationship.doc"

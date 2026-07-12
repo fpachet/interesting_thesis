@@ -2,6 +2,15 @@
 
 Ce plan sert de carte du territoire avant classement des idees. Il distingue les documents de these actuels, les anciens documents ajoutes dans `old docs `, et les artefacts deja produits par le pipeline.
 
+L'ordre de lecture et d'extraction propositionnelle est maintenu dans
+`ORDRE_TRAITEMENT_DOCUMENTS.md`. Ce fichier-ci reste l'inventaire descriptif du
+corpus.
+
+Les cartes extraites sont classees par theme dans `indexes/by_theme.md` et par
+niveau argumentatif dans `indexes/by_level.md`. Ce second index distingue les
+propositions conceptuelles, les resultats ou constructions scientifiques et les
+articulations reflexives entre ces deux niveaux.
+
 ## Corpus actuel dans `input/`
 
 | Document | Role probable | Idees dominantes |
@@ -10,8 +19,8 @@ Ce plan sert de carte du territoire avant classement des idees. Il distingue les
 | `input/De l'impossibilité de créer.pdf` | grand essai central | impossibilite de creer, adjacent possible, inhibition, invention impensable, virtuosite, difficulte, IA |
 | `input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf` | essai adjacent | virtuosite spectaculaire, fantasmagories politiques, pensee deviante, exposition reseaux |
 | `input/ERCGrantPachetInterestingness.pdf` | programme scientifique | computational interestingness, gout non statique, popularite, difficultuosite, doodling, ethologie artificielle |
-| `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | ancrage technique IA | generation contrainte, biais inferentiels, echantillonnage, contraintes globales |
-| `input/Notes thèse.pdf` | notes courtes | doodling comme echantillonnage pur, Flow Machines, adjacent possible |
+| `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | couverture propositionnelle complete | biais inferentiels et etat borne ; ancrage technique de l'articulation sampling/resolution, non theorie directe de l'interessant |
+| `input/Notes thèse.pdf` | notes courtes | doodling comme echantillonnage pur, pole sampling de l'articulation avec les contraintes |
 | `input/The Mystery of Jotney Songs.pdf` | exemple musical | rare equilibre melodie/harmonie, naturel apparent, chanson autonome, contraintes invisibles |
 
 ## Documents anciens dans `old docs `
@@ -20,13 +29,13 @@ Le dossier existe bien sous le nom exact `old docs `, avec un espace final.
 
 | Document | Statut de lecture | Idees dominantes |
 | --- | --- | --- |
-| `old docs /Synopsis MIT Press.doc` | lu en premiere passe | temporal interestingness, ennui, active listening, exploration musicale, structure d'un livre |
-| `old docs /Interesting Interactions (sent to Luc).doc` | lu en premiere passe | interaction reflexive, Continuator, Flow machines, creation comme effet secondaire |
-| `old docs /TBKLullyNOTES.doc` | lu en premiere passe | PathBuilder, spam interessant, ordres d'interessant, mauvais objets addictifs, apprentissage |
-| `old docs /ERCInteractiveReflexions2.docx` | lu en premiere passe | reflexive interactive systems, creation individuelle, miroir, etudes musique/ecriture/dessin |
+| `old docs /Synopsis MIT Press.doc` | couverture propositionnelle complete | temporal interestingness, ennui, active listening, exploration contrainte, effet de aha, interaction autonome |
+| `old docs /Interesting Interactions (sent to Luc).doc` | couverture propositionnelle complete | interaction reflexive, apprentissage progressif, attention soutenue et parametre d'attachement |
+| `old docs /TBKLullyNOTES.doc` | couverture propositionnelle complete | parcours, gout comme activite, ordres d'interessant, apprentissage, similarite culturelle et abondance |
+| `old docs /ERCInteractiveReflexions2.docx` | couverture propositionnelle complete | reflexive interactive systems, ecart production/evaluation, miroir, protocole de creation et reception |
 | `old docs /ERCGrantPachetInterestingness (1).docx` | lu en premiere passe | version docx du programme Computational Interestingness |
-| `old docs /Paper citations_updated.docx` | lu en premiere passe | Creative AI with a Sense of Direction, generation structuree, innovation, long-range correlations |
-| `old docs /interestingness.pdf` | lu en premiere passe | Schmidhuber, regularites inattendues, progres de compression, curiosite artificielle |
+| `old docs /Paper citations_updated.docx` | couverture propositionnelle complete | sens de la direction, correlations longues, innovation externe et multidimensionnalite de l'interessant |
+| `old docs /interestingness.pdf` | couverture propositionnelle complete | 23 pages relues ; regularites apprenables, progres de compression, frontiere dynamique, curiosite conditionnelle, beaute et limites du modele |
 | `old docs /interestingness-ijhcs.pdf` | lu en premiere passe | Colton/Bundy/Walsh, interestingness en decouverte mathematique |
 | `old docs /kdd95.pdf` | lu en premiere passe | mesures subjectives d'interet en knowledge discovery, croyances, surprise, actionabilite |
 | `old docs /Lenat and interestingness.eml` | lu en premiere passe | Lenat, coincidence, nombreux exemples |

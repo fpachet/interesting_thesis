@@ -2,9 +2,12 @@
 id: idea_0008
 title: "Creer commence par une impossibilite"
 kind: argument
+level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
+source_notes:
+  - "PDF p. 3, 9, 19-20 et 94-96"
 tags:
   - creation
   - impossibilite
@@ -24,4 +27,3 @@ Cette carte peut devenir un pivot philosophique : l'interessant nait peut-etre d
 
 - Proche de `idea_0009`.
 - A relier a `idea_0016` sur la generation dirigee.
-

@@ -1,7 +1,8 @@
 ---
 id: idea_0035
 title: "Les sequences interessantes mettent a jour un systeme de croyances"
-kind: bibliographic_note
+kind: argument
+level: scientific
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/C_PKDD99.pdf"
@@ -24,4 +25,3 @@ Cette carte renforce l'idee que l'interessant n'est pas seulement une propriete 
 
 - Proche de `idea_0029`.
 - Proche de `idea_0036`.
-

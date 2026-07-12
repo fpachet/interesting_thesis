@@ -2,10 +2,17 @@
 id: idea_0002
 title: "Le gout n'est pas un dictionnaire statique"
 kind: argument
+level: conceptual
 status: inbox
 sources:
   - "input/ERCGrantPachetInterestingness.pdf"
   - "old docs /ERCGrantPachetInterestingness (1).docx"
+  - "old docs /ERCInteractiveReflexions2.docx"
+  - "old docs /TBKLullyNOTES.doc"
+source_notes:
+  - "Grant ERC PDF p. 1"
+  - "Projet REFLEX, rendu PDF p. 2-4"
+  - "TBKLullyNOTES, paradoxe aimer/aimer faire, rendu PDF p. 2"
 tags:
   - gout
   - interaction
@@ -15,7 +22,11 @@ tags:
 
 ## Idee
 
-Le modele courant du gout comme liste de preferences ou de traits a faire correspondre avec des contenus est trop pauvre. Le gout est plutot le resultat d'une interaction dynamique entre sujet, objets, contexte, histoire et temporalite.
+Un dictionnaire de preferences suppose que le sujet possede deja des jugements
+stables qu'il suffirait d'appliquer aux objets. Or l'interaction avec les objets
+modifie ce que le sujet sait reconnaitre, attendre et desirer. Une technologie de
+creation ou de recommandation ne doit donc pas seulement retrouver un gout
+preexistant : elle participe a sa formation.
 
 ## Interet pour la these
 
@@ -25,4 +36,3 @@ Cette idee attaque directement les systemes de recommandation et les theories pl
 
 - Proche de `idea_0014` sur les chemins de similarite.
 - Proche de `idea_0029` sur les croyances dans les mesures d'interet.
-

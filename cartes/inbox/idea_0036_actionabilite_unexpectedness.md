@@ -2,6 +2,7 @@
 id: idea_0036
 title: "Actionabilite et unexpectedness"
 kind: distinction
+level: scientific
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/tkde.pdf"
@@ -25,4 +26,3 @@ Cette distinction evite de reduire l'interessant a une surprise contemplative : 
 
 - Proche de `idea_0029`.
 - A mettre en tension avec `idea_0005`.
-

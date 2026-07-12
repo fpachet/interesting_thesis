@@ -1,7 +1,8 @@
 ---
 id: idea_0030
-title: "Lenat : coincidence et nombreux exemples"
-kind: bibliographic_note
+title: "Une coincidence devient interessante quand ses exemples forment eux-memes un motif"
+kind: hypothesis
+level: conceptual
 status: inbox
 sources:
   - "old docs /Lenat and interestingness.eml"
@@ -14,7 +15,15 @@ tags:
 
 ## Idee
 
-La note associe Lenat a une theorie de la coincidence : pour qu'un phenomene devienne interessant, il ne suffit pas d'un cas isole, il faut une multiplicite d'exemples qui rend la coincidence saillante.
+Une ressemblance isolee peut etre accidentelle et ne rien autoriser. Lorsque des
+exemples independants s'accumulent, leur multiplicite devient elle-meme une
+regularite a expliquer : la coincidence change de statut et acquiert un pouvoir
+heuristique. Le seuil pertinent n'est donc pas seulement statistique ; il depend
+du moment ou la serie d'exemples suggere un mecanisme ou une classe encore absente.
+
+La source conservee est une note tres courte attribuant cette intuition a Lenat ;
+elle etablit la provenance de la proposition mais n'en fournit pas la
+demonstration complete.
 
 ## Interet pour la these
 
@@ -24,4 +33,3 @@ Cette carte donne une petite hypothese heuristique : l'interessant apparait quan
 
 - Proche de `idea_0028`.
 - Proche de `idea_0013`.
-

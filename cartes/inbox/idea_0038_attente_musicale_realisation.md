@@ -2,6 +2,7 @@
 id: idea_0038
 title: "La surprise musicale depend du degre de realisation de l'attente"
 kind: argument
+level: scientific
 status: inbox
 sources:
   - "old docs /interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/Expectationfinal-paper.pdf"
@@ -23,6 +24,5 @@ Cette carte donne un modele precis de l'interessant temporel : pas seulement sur
 
 ## Liens
 
-- Proche de `idea_0033`.
+- Proche de `idea_0032`, qui formule le choix du meilleur prochain evenement.
 - Proche de `idea_0034`.
-

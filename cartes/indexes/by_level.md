@@ -1,0 +1,50 @@
+# Index par niveau
+
+Cet index distingue ce que les sources et les cartes mettent encore trop facilement
+sur un meme plan. Le champ YAML `level` de chaque carte constitue la classification
+canonique ; les listes ci-dessous servent de vue de travail.
+
+## Conceptual (66)
+
+Propositions sur l'interessant, la creation, la comprehension, la virtuosite, la
+valeur ou l'attention. Elles peuvent etre inspirees par des sciences, mais leur
+portee ne se reduit pas a un resultat scientifique.
+
+`idea_0001`, `idea_0002`, `idea_0003`, `idea_0004`, `idea_0005`, `idea_0008`,
+`idea_0009`, `idea_0010`, `idea_0012`, `idea_0015`, `idea_0019`, `idea_0020`,
+`idea_0022`, `idea_0023`, `idea_0026`, `idea_0030`, `idea_0031`, `idea_0040`,
+`idea_0041`, `idea_0042`, `idea_0043`, `idea_0044`, `idea_0045`, `idea_0046`,
+`idea_0047`, `idea_0048`, `idea_0049`, `idea_0050`, `idea_0052`, `idea_0053`,
+`idea_0054`, `idea_0055`, `idea_0056`, `idea_0057`, `idea_0058`, `idea_0059`,
+`idea_0060`, `idea_0061`, `idea_0062`, `idea_0063`, `idea_0064`, `idea_0065`,
+`idea_0066`, `idea_0073`, `idea_0074`, `idea_0076`, `idea_0077`, `idea_0078`,
+`idea_0079`, `idea_0080`, `idea_0081`, `idea_0082`, `idea_0083`, `idea_0084`,
+`idea_0085`, `idea_0087`, `idea_0089`, `idea_0090`, `idea_0091`, `idea_0092`,
+`idea_0093`, `idea_0101`, `idea_0103`, `idea_0105`, `idea_0107`, `idea_0108`.
+
+## Scientific (18)
+
+Resultats formels ou empiriques, methodes, protocoles, mesures, algorithmes et
+proprietes de systemes. Leur validite se juge d'abord dans le cadre scientifique
+qui definit leurs donnees, hypotheses et limites.
+
+`idea_0011`, `idea_0013`, `idea_0014`, `idea_0017`, `idea_0028`, `idea_0029`,
+`idea_0032`, `idea_0035`, `idea_0036`, `idea_0038`, `idea_0039`, `idea_0068`,
+`idea_0069`, `idea_0070`, `idea_0072`, `idea_0097`, `idea_0100`, `idea_0106`.
+
+## Articulation (23)
+
+Propositions de second niveau reliant la pratique scientifique a l'enquete
+philosophique. Elles explicitent une consequence, une limite, un presuppose ou une
+question rendue visible par la construction des systemes et les resultats, sans
+faire de ceux-ci une preuve directe d'une ontologie de l'interessant.
+
+`idea_0006`, `idea_0007`, `idea_0016`, `idea_0018`, `idea_0024`, `idea_0027`,
+`idea_0034`, `idea_0037`, `idea_0051`, `idea_0067`, `idea_0071`, `idea_0075`,
+`idea_0086`, `idea_0088`, `idea_0094`, `idea_0095`, `idea_0096`, `idea_0098`,
+`idea_0099`, `idea_0102`, `idea_0104`, `idea_0109`, `idea_0110`.
+
+Les cartes pivots de ce niveau sont `idea_0018`, `idea_0088`, `idea_0109` et
+`idea_0110`. La classification reste revisable : une carte doit changer de niveau
+si son argument principal change, pas simplement parce qu'une nouvelle source est
+ajoutee.
