@@ -71,3 +71,41 @@ idea_0117	specifies	idea_0022	Generalise la dissociation entre valeur de l'objet
 idea_0023	illustrates	idea_0117	Le spam montre une capture attentionnelle sans valeur positive de l'objet.
 idea_0011	operationalizes	idea_0117	Les reprises, durees et abandons permettent d'observer l'attachement sans l'approuver.
 idea_0093	limits	idea_0117	La neutralite descriptive doit etre suivie d'une critique des dispositifs qui fabriquent l'attention.
+idea_0118	specifies	idea_0002	Distingue le gout evolutif de la dynamique propre de l'interet.
+idea_0101	specifies	idea_0118	La preference identitaire illustre une divergence entre declaration et attention.
+idea_0022	illustrates	idea_0118	Un objet desapprouve peut etre interessant par l'activite diagnostique qu'il provoque.
+idea_0011	operationalizes	idea_0118	Separe les mesures de preference des trajectoires comportementales d'attention.
+idea_0118	supports	idea_0117	La dissociation entre aimer et trouver interessant fonde la neutralite axiologique.
+idea_0119	operationalizes	idea_0001	Exprime formellement que l'interet appartient a l'agencement plutot qu'aux items isoles.
+idea_0039	illustrates	idea_0119	Les dimensions d'une sequence produisent leur effet par contrainte mutuelle.
+idea_0084	supports	idea_0119	La relation forme-sujet interdit de sommer des valeurs propres aux seules parties.
+idea_0119	bridges	idea_0118	La meme signature permet de distinguer evaluation d'interet et preference.
+idea_0095	limits	idea_0119	Le contexte ne doit pas devenir un parametre libre qui rendrait l'axiomatique irrefutable.
+idea_0120	bridges	idea_0085	Interprete la necessite inventee comme reconfiguration dynamique de l'espace modal.
+idea_0009	illustrates	idea_0120	Le possible devient accessible sans avoir ete concevable dans l'etat anterieur.
+idea_0120	supports	idea_0119	Ajoute au programme formel des proprietes de modalite non normale et de mise a jour.
+idea_0004	specifies	idea_0120	L'ennui n'est pas le dual logique de l'interet mais une trajectoire temporelle distincte.
+idea_0095	limits	idea_0120	La flexibilite du contexte modal ne doit pas rendre toute transformation explicable apres coup.
+idea_0050	specifies	idea_0004	A competences fixes, le flow ordonne les zones ennui, interessant puis anxiete selon la difficulte.
+idea_0107	specifies	idea_0050	Le presque-apprenable place l'interet sur la frontiere mobile de la zone de flow.
+idea_0121	specifies	idea_0084	Definit la relation sujet-forme comme ajustement entre competences et difficulte.
+idea_0050	supports	idea_0121	Fournit le modele de flow dont la zone intermediaire est identifiee a l'interessant.
+idea_0107	specifies	idea_0121	Situe le presque-apprenable vers la frontiere haute de la zone interessante.
+idea_0122	specifies	idea_0121	Transforme la zone de flow en equilibre metastable entre ennui et anxiete.
+idea_0071	supports	idea_0122	L'apprentissage des regularites explique la derive progressive vers l'ennui.
+idea_0107	specifies	idea_0122	Le presque-apprenable situe une frontiere superieure avant l'opacite et l'anxiete.
+idea_0004	supports	idea_0122	La variation et la relance compensent l'epuisement attentionnel produit par la repetition.
+idea_0123	specifies	idea_0121	Le maintien dans la zone de flow exige une transformation cognitive du sujet.
+idea_0123	supports	idea_0122	La construction de modeles explique a la fois le maintien de l'interet et sa derive vers l'ennui.
+idea_0035	illustrates	idea_0123	La mise a jour d'un systeme de croyances est un cas explicite de travail constructif.
+idea_0094	supports	idea_0123	La boucle perception-creation interdit de reduire l'interet a une reception statique.
+idea_0085	specifies	idea_0123	Reconstruire depuis l'objet le probleme qu'il resout est une forme du travail constructif du sujet.
+idea_0085	specifies	idea_0121	La zone de flow devient l'espace ou la reconstruction du probleme reste possible et non triviale.
+idea_0124	limits	idea_0123	La promesse de construction peut soutenir la fascination sans produire de transformation verifiable.
+idea_0124	specifies	idea_0057	La revelation differee explique comment la glisse evite provisoirement l'ennui.
+idea_0061	supports	idea_0124	La fluidite verbale permet de simuler une maitrise cognitive difficile a verifier.
+idea_0022	specifies	idea_0124	Le diagnostic du faux positif peut devenir l'activite reellement interessante.
+idea_0123	specifies	idea_0084	La relation sujet-forme devient construction d'une prise perceptive, explicative ou operatoire.
+idea_0018	illustrates	idea_0123	Construire un systeme materialise une interpretation et rend ses limites observables.
+idea_0088	limits	idea_0123	Une construction testable n'epuise pas necessairement l'objet philosophique qu'elle modele.
+idea_0110	bridges	idea_0123	Relie la construction cognitive du sujet a la reconstruction philosophique d'une pratique scientifique.

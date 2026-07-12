@@ -26,6 +26,12 @@
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
 - `idea_0101` - Une préférence déclarée peut être une image de soi plutôt qu'une anticipation du plaisir.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
+- `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
+- `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
+- `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
+- `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
+- `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
+- `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
 
 ## Ennui, surprise, rareté
 
@@ -37,6 +43,8 @@
 - `idea_0037` - Thue-Morse : non-répétition structurée.
 - `idea_0114` - Une phrase banale peut devenir intéressante après coup ou rester un simple substrat.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
+- `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
+- `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 
@@ -89,6 +97,7 @@
 
 ## Exploration, similarité, parcours
 
+- `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
 - `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.
 - `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.
 - `idea_0022` - Un objet raté peut soutenir l'attention en transformant le spectateur en diagnosticien.
@@ -105,6 +114,7 @@
 
 ## Exemples et symptômes
 
+- `idea_0124` - La promesse de compréhension peut fasciner sans produire de compréhension.
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0020` - L'appropriation par participation s'oppose à l'appropriation par confrontation.
 - `idea_0023` - Une relation temporelle minimale peut rendre saillant un contenu sans valeur.
@@ -138,3 +148,7 @@
 - `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
+- `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
+- `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
+- `idea_0124` - La promesse de compréhension peut fasciner sans produire de compréhension.
+- `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.

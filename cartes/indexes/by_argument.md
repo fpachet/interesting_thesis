@@ -5,12 +5,13 @@ par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
 figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
 est un outil de travail réversible, pas encore un plan de thèse.
 
-## 1. Définition et émergence de l'intéressant (13)
+## 1. Définition et émergence de l'intéressant (17)
 
 ### Pivots
 
 - `idea_0083` - Naissance d'une idée, compréhension et fascination sont trois faces de l'émergence d'une forme.
 - `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
+- `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
 
 ### Mécanismes et précisions
 
@@ -28,14 +29,18 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
 - `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
+- `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
+- `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
+- `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 
-## 2. Temporalité, attention et apprentissage (23)
+## 2. Temporalité, attention et apprentissage (25)
 
 ### Pivots
 
 - `idea_0004` - L'ennui est le prix de l'excitation parce que le plaisir vient d'une variation.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
+- `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
 
 ### Méthodes et ancrages scientifiques
 
@@ -62,6 +67,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0101` - Une préférence déclarée peut être une image de soi plutôt qu'une anticipation du plaisir.
 - `idea_0105` - L'abondance transforme la sélection d'objets en construction de trajectoires.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
+- `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 
 ## 3. Forme, problème, contrainte et nécessité (29)
 
@@ -169,7 +175,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0089` - La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste.
 - `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
 
-## 7. Culture, langage et politique de l'attention (16)
+## 7. Culture, langage et politique de l'attention (17)
 
 ### Culture, abondance et circulation
 
@@ -192,9 +198,10 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0066` - Une démocratie tient par résistance à la glisse.
 - `idea_0091` - Déformer la langue peut forcer à penser ou seulement forcer à admirer.
 - `idea_0092` - Les réseaux sociaux enseignent à paraître maître en punissant l'hésitation.
+- `idea_0124` - La promesse de compréhension peut fasciner sans produire de compréhension.
 
 ## Couverture
 
-Les sept familles contiennent respectivement 13, 23, 29, 10, 12, 11 et 16
-cartes, soit les 114 cartes actives. Toute modification de cet index doit
+Les sept familles contiennent respectivement 17, 25, 29, 10, 12, 11 et 17
+cartes, soit les 121 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

@@ -22,7 +22,7 @@ l'attention. Leur efficacité peut tenir au plaisir qu'elles procurent : une coh
 rapide, un sentiment de surplomb et la possibilité d'enchaîner des causes sans
 rencontrer de résistance.
 
-L'hypothèse est donc aussi esthétique et hédoniste. Le locuteur et son public ne ne sont
+L'hypothèse est donc aussi esthétique et hédoniste. Le locuteur et son public ne sont
 pas seulement trompés par un contenu ; ils recherchent une expérience de glisse qui
 ressemble, à faible coût, à l'état du virtuose.
 
@@ -35,3 +35,4 @@ faut comprendre le plaisir formel du discours.
 
 - Proche de `idea_0061`, sur la confusion entre fluidité verbale et pensée.
 - Proche de `idea_0066`.
+- La promesse de compréhension de `idea_0124` décrit un mécanisme particulier de cette glisse.

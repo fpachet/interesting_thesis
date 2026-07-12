@@ -45,6 +45,6 @@ cette activité.
 
 ## Liens
 
-- Généralise `idea_0018`, ou la construction d'IA fonctionne comme laboratoire philosophique.
-- Donne son cadre réflexif a `idea_0088`, qui refuse de confondre modèle et naturalisation.
+- Généralise `idea_0018`, où la construction d'IA fonctionne comme laboratoire philosophique.
+- Donne son cadre réflexif à `idea_0088`, qui refuse de confondre modèle et naturalisation.
 - Situe `idea_0109` comme articulation construite, non comme résultat de `Hidden Biases`.

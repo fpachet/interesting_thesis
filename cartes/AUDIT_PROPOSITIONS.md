@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 114 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 73 `conceptual`, 18 `scientific` et 23
+Les 121 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 80 `conceptual`, 18 `scientific` et 23
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -212,6 +212,54 @@ l'attachement de leur évaluation morale. Les modèles de langage et Tetris y fi
 comme cas programmatiques, non comme preuves. La carte sépare également l'intérêt,
 l'usage intensif et l'addiction clinique, afin de ne pas transformer une continuité
 possible en identité conceptuelle.
+
+`idea_0118` a été ajoutée pour formuler la distinction générale entre préférence et
+intérêt. Les cartes sur le goût dynamique, les préférences identitaires et les mauvais
+objets en fournissaient déjà des cas, mais aucune n'explicitait les quatre combinaisons
+possibles ni les influences causales réciproques entre aimer et trouver intéressant.
+
+`idea_0119` a été ajoutée comme première carte du programme d'axiomatisation. Elle
+formule la non-compositionnalité de l'intérêt du tout à partir de ses parties et garde
+la non-commutativité, la non-idempotence, la non-monotonie et la dépendance historique
+comme propriétés candidates à tester avant toute décomposition en cartes autonomes.
+
+`idea_0120` a été ajoutée pour explorer l'intéressant comme modalité non normale et
+dynamique. Elle relie la reconfiguration du possible à la nécessité inventée et précise,
+avec `idea_0004`, que l'ennui n'est pas la négation logique de l'intérêt mais une
+trajectoire temporelle susceptible de lui succéder ou d'en préparer la relance.
+
+`idea_0121` formule comme hypothèse pivot l'identification de l'intéressant à la zone
+de flow entre ennui et anxiété. Elle distingue la structure relationnelle de cette zone
+de l'état subjectif d'absorption, afin de conserver les hésitations et les ruptures qui
+sollicitent les compétences sans produire une fluidité continue.
+
+`idea_0122` transforme cette zone en équilibre métastable. Elle distingue une dérive
+vers l'ennui, produite par la répétition et l'acquisition de compétences, et une dérive
+vers l'anxiété, produite par l'accumulation d'incompréhensions et de frustrations. Elle
+fait de la régulation de ces deux forces une condition du maintien de l'intérêt.
+
+`idea_0123` affirme que cette régulation exige un travail constructif du sujet, même
+lorsqu'il demeure extérieurement immobile. Elle relie le flow à la formation de modèles,
+aux catégories perceptives et aux *language games*, tout en distinguant cet argument de
+l'exemple conjectural du bébé observant longuement une forme colorée.
+
+`idea_0085` a ensuite été renforcée sans créer de carte redondante : reconstruire le
+problème implicite depuis l'objet rencontré devient une forme privilégiée du travail de
+`idea_0123` et une définition candidate de l'intéressant. Le cas Jotney précise le
+problème musical, tandis que `idea_0096` conserve son rôle d'opérationnalisation
+combinatoire et de garde-fou contre les problèmes fabriqués sur mesure.
+
+`idea_0124` a été ajoutée comme cas limite : une rhétorique peut entretenir la promesse
+d'une compréhension sans produire les transformations attendues d'un travail
+constructif. Tony Robbins et la controverse Bogdanov sont enregistrés comme cas à
+documenter, avec des références explicites et sans convertir leur interprétation en
+verdict préalable.
+
+`idea_0123` a finalement été élevée au rang de définition centrale provisoire. La
+construction y est désormais déployée sur trois niveaux : catégorisation perceptive,
+modélisation explicative et construction opératoire d'un artefact ou d'un agencement.
+Cette reformulation relie le phénomène de l'intéressant à la pratique scientifique de
+la thèse tout en exigeant que chaque construction produise une prise contrôlable.
 
 ## Identifiants retires
 

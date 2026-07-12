@@ -19,7 +19,7 @@ tags:
 Construire un système d'IA oblige à rendre explicites des opérations que le discours
 philosophique peut laisser indéterminées : comment produire une variante, la
 sélectionner, reconnaître une forme ou constater un échec. La construction ne démontre
-pas a elle seule une théorie de l'esprit, mais elle transforme une notion en dispositif
+pas à elle seule une théorie de l'esprit, mais elle transforme une notion en dispositif
 dont les présupposés et les limites deviennent observables.
 
 L'IA est donc ici moins un objet auquel appliquer la philosophie qu'une pratique

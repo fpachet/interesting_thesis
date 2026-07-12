@@ -43,6 +43,6 @@ l'autostabilité des formes.
 
 ## Liens
 
-- Operationnalise `idea_0085` et `idea_0087`.
-- Doit être distingue de la simple popularité de `idea_0053`.
+- Opérationnalise `idea_0085` et `idea_0087`.
+- Doit être distinguée de la simple popularité de `idea_0053`.
 - Fournit le pôle résolution de problèmes de `idea_0109`.

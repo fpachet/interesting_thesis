@@ -16,10 +16,10 @@ tags:
 ---
 ## Idée
 
-Le langage permet très tôt a chacun de produire des séquences fluides. Pour simuler la
+Le langage permet très tôt à chacun de produire des séquences fluides. Pour simuler la
 virtuosité, il suffit alors de relâcher des contraintes dont la violation est moins
 immédiatement sanctionnée que dans le sport ou la musique : vérité, cohérence à long
-terme, refutabilite, précision et responsabilité.
+terme, réfutabilité, précision et responsabilité.
 
 La parole conserve l'allure d'une performance tout en supprimant la possibilité de la
 fausse note. C'est pourquoi le langage devient un terrain privilégié pour confondre
@@ -34,3 +34,4 @@ résistance.
 
 - Proche de `idea_0059`.
 - Proche de `idea_0062`.
+- Les cas proposés dans `idea_0124` permettent de tester la différence entre profondeur promise et compréhension produite.

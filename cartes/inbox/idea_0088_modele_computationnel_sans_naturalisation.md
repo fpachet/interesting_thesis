@@ -40,7 +40,7 @@ globales dans des systèmes dynamiques. Ce compromis est un programme à argumen
 une réduction déjà acquise : il doit encore distinguer ce qui pourrait être universel de
 ce qui dépend d'un contexte perceptif comme la musique tonale occidentale.
 
-Schmidhuber reconnait lui-même que les millions de surprises et de modifications
+Schmidhuber reconnaît lui-même que les millions de surprises et de modifications
 internes de son agent sont difficiles à interpréter, et que les capacités de cet agent
 différent fortement de celles d'un observateur humain. Une simulation qui produit la
 dynamique attendue ne suffit donc pas à identifier ce qu'un humain trouvera intéressant.

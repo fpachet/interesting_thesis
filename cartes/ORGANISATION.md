@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   114 cartes y sont affectées une seule fois à sept familles.
+   121 cartes y sont affectées une seule fois à sept familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -27,9 +27,10 @@ La première lecture du graphe fait apparaître quatre chaînes principales :
 ```text
 émergence d'une forme (0083)
   -> relation forme-mémoire (0084)
-  -> temporalité de l'agencement (0001)
-  -> gain propre à un observateur (0071)
-  -> frontière du presque-apprenable (0107)
+  -> zone de flow entre ennui et anxiété (0121)
+  -> construction d'une prise sur l'objet (0123)
+  -> reconstruction du problème depuis sa solution (0085)
+  -> dérives et épuisement de la relation (0122)
 
 nécessité inventée (0085)
   -> solution rare d'un problème implicite (0096)
@@ -70,8 +71,8 @@ combinatoire d'une intuition philosophique plus large.
 
 Les cartes les plus structurantes à ce stade sont :
 
-- `idea_0083` et `idea_0084` pour l'objet philosophique central ;
-- `idea_0001`, `idea_0071` et `idea_0107` pour sa dynamique temporelle ;
+- `idea_0083`, `idea_0084`, `idea_0121` et surtout `idea_0123` pour l'objet philosophique central ;
+- `idea_0001`, `idea_0071`, `idea_0107` et `idea_0122` pour sa dynamique temporelle ;
 - `idea_0085`, `idea_0096` et `idea_0109` pour problème, rareté et contraintes ;
 - `idea_0086`, `idea_0112` et `idea_0113` pour la théorie de l'attention musicale ;
 - `idea_0018`, `idea_0088` et `idea_0110` pour la contribution réflexive de la thèse.

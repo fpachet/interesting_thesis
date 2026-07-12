@@ -39,10 +39,14 @@ calcul est trop coûteux.
 La proposition transforme la vague idée d'un juste milieu en hypothèse testable :
 l'intérêt devrait culminer pour les formes qui provoquent un gain atteignable au prix
 d'un effort non nul. Elle rapproche l'intéressant de la zone de difficulté crédible de
-la virtuosité sans les confondre.
+la virtuosité sans les confondre. Elle précise aussi le modèle du flow : dans la
+succession **ennui → intéressant/flow → anxiété**, le presque-apprenable situe une part
+de l'intérêt vers la frontière supérieure de la zone intermédiaire, au moment où une
+difficulté devient accessible et promet un gain de compétence ou de compréhension.
 
 ## Liens
 
 - Précise `idea_0027` en caractérisant les régularités susceptibles de produire un progrès.
-- Donne un mécanisme dynamique a `idea_0049` sur la zone de crédibilité.
+- Donne un mécanisme dynamique à `idea_0049` sur la zone de crédibilité.
 - Complète `idea_0071`, qui explique pourquoi cette frontière se déplace.
+- Déplace la zone d'engagement de `idea_0050` vers une trajectoire d'apprentissage.
