@@ -20,6 +20,74 @@ scientifique peut appartenir à la famille de l'attention ; une proposition
 musicale peut jouer le rôle d'objection ; une carte conceptuelle peut servir de
 pont avec un système.
 
+## Thèse centrale actuelle
+
+L'organisation du corpus est guidée par une thèse centrale, mais ne doit pas la
+présenter comme un résultat déjà acquis. Sa formulation reste un candidat à défendre,
+préciser et éventuellement réfuter au cours du travail :
+
+> **L'intéressant est ce qui déclenche et soutient une construction par laquelle un
+> sujet acquiert une prise nouvelle sur un objet.**
+
+Cette proposition ne définit pas l'intéressant comme une propriété intrinsèque de
+l'objet ni comme une préférence privée. Elle décrit une relation dynamique entre une
+forme et un sujet doté d'une mémoire, d'attentes et de capacités acquises, relation
+elle-même située dans un horizon collectif et à un moment donné. Son modèle minimal est
+`I(F, S | H, t)`, où `F` désigne la forme, `S` le sujet, `H` l'horizon collectif et `t`
+le moment de la rencontre.
+
+La **construction** nomme l'activité propre de cette relation : discriminer, comparer,
+anticiper, former une catégorie, réviser un modèle, reconstruire un problème ou
+fabriquer un dispositif. La **prise nouvelle** nomme son critère : la construction doit
+laisser une distinction, une prédiction, une possibilité de transfert ou d'intervention,
+ou un artefact dont les réussites et les échecs peuvent être examinés. Cette exigence
+empêche de confondre construction et simple impression de profondeur.
+
+La formulation développée et son statut dans le projet se trouvent dans
+[`BUT_DE_LA_THESE.md`](../projet-these/BUT_DE_LA_THESE.md#hypothèse-centrale--lintéressant-comme-déclencheur-de-construction).
+La carte [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) en est
+la proposition canonique dans le corpus manipulable. Les deux documents ont des rôles
+différents : le premier expose l'objet, les tâches et le résultat attendu de la thèse ;
+la seconde permet de relier l'hypothèse centrale aux autres propositions du graphe.
+
+### Architecture de l'hypothèse
+
+| Fonction | Proposition principale | Rôle dans la thèse centrale |
+| --- | --- | --- |
+| Cadre relationnel | [`idea_0084`](inbox/idea_0084_interessant_rencontre_forme_memoire.md) | L'intéressant naît de la rencontre entre une forme et une mémoire, indexée par un horizon et un moment. |
+| Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
+| Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
+| Mesure temporelle candidate | [`idea_0071`](inbox/idea_0071_interet_gain_temporaire_compression.md) | Le gradient de progrès opérationnalise une dimension du travail constructif en cours. |
+| Dynamique et épuisement | [`idea_0122`](inbox/idea_0122_interessant_equilibre_metastable.md) | Toute relation intéressante peut dériver vers l'ennui par maîtrise ou vers l'anxiété par perte de prise. |
+| Forme privilégiée | [`idea_0085`](inbox/idea_0085_objet_invente_probleme_resout.md) | Reconstruire depuis l'objet le problème qu'il résout est un cas fort de construction explicative. |
+| Cas limite | [`idea_0124`](inbox/idea_0124_promesse_comprehension_fascination.md) | Une promesse de compréhension peut soutenir la fascination sans produire de prise vérifiable. |
+
+### Terrains de mise à l'épreuve
+
+La musique, les pratiques de création et les systèmes d'intelligence artificielle ne
+démontrent pas directement cette thèse. Ils fournissent des terrains où ses distinctions
+peuvent être rendues observables, construites et contestées :
+
+- [`idea_0086`](inbox/idea_0086_musique_laboratoire_temporel_interessant.md) fait de la
+  musique un laboratoire de l'attente, de la mémoire et des transformations de
+  l'attention ;
+- [`idea_0018`](inbox/idea_0018_ia_laboratoire_philosophique.md) traite la construction
+  de systèmes comme un laboratoire philosophique de la naissance des idées ;
+- [`idea_0088`](inbox/idea_0088_modele_computationnel_sans_naturalisation.md) rappelle
+  qu'un modèle testable ne suffit pas à épuiser l'objet philosophique ;
+- [`idea_0110`](inbox/idea_0110_comprendre_pratique_scientifique_articulation.md)
+  distingue les résultats scientifiques, les idées qu'une pratique rend pensables et
+  leur articulation philosophique.
+
+Le registre [`relations.tsv`](relations.tsv) conserve les dépendances directionnelles
+entre ces propositions. L'index
+[`by_argument.md`](indexes/by_argument.md#1-définition-et-émergence-de-lintéressant-17)
+situe leur fonction dans l'enquête, tandis que
+[`by_level.md`](indexes/by_level.md) distingue le statut épistémique de chacune. La
+thèse centrale ne remplace donc ni les familles ni les niveaux : elle fournit le centre
+provisoire autour duquel soutiens, précisions, opérationnalisations, objections et cas
+limites peuvent être parcourus.
+
 ## Colonne vertébrale actuelle
 
 La première lecture du graphe fait apparaître quatre chaînes principales :
