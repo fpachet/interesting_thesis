@@ -67,6 +67,52 @@
     filter();
   }
 
+  const bibliographyForm = document.querySelector('[data-bibliography-form]');
+  if (bibliographyForm) {
+    const references = [...document.querySelectorAll('[data-reference]')];
+    const count = document.querySelector('[data-reference-count]');
+    const empty = document.querySelector('[data-bibliography-empty]');
+    const reset = document.querySelector('[data-reset-bibliography]');
+    const search = bibliographyForm.elements.recherche;
+    const type = bibliographyForm.elements.type;
+    const normalize = (value) => value
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .trim();
+
+    const filter = () => {
+      const query = normalize(search.value);
+      let visible = 0;
+      references.forEach((reference) => {
+        const matches = (!query || normalize(reference.dataset.search).includes(query))
+          && (!type.value || reference.dataset.type === type.value);
+        reference.hidden = !matches;
+        if (matches) visible += 1;
+      });
+      count.textContent = String(visible);
+      empty.hidden = visible !== 0;
+      const params = new URLSearchParams();
+      if (search.value) params.set('q', search.value);
+      if (type.value) params.set('type', type.value);
+      const url = `${window.location.pathname}${params.size ? `?${params}` : ''}`;
+      window.history.replaceState(null, '', url);
+    };
+
+    const params = new URLSearchParams(window.location.search);
+    search.value = params.get('q') || '';
+    type.value = params.get('type') || '';
+    bibliographyForm.addEventListener('input', filter);
+    bibliographyForm.addEventListener('change', filter);
+    bibliographyForm.addEventListener('submit', (event) => event.preventDefault());
+    reset.addEventListener('click', () => {
+      bibliographyForm.reset();
+      filter();
+      search.focus();
+    });
+    filter();
+  }
+
   const graph = document.querySelector('[data-idea-graph]');
   const graphDataElement = document.querySelector('#graph-data');
   if (graph && graphDataElement) {

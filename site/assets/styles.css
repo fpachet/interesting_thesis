@@ -1880,6 +1880,416 @@ svg {
   gap: 20px;
 }
 
+.source-list li {
+  margin-bottom: 14px;
+}
+
+.source-link,
+.card-reference-link {
+  display: block;
+  text-decoration: none;
+}
+
+.source-link strong,
+.source-link small,
+.source-link span,
+.card-reference-link span,
+.card-reference-link strong {
+  display: block;
+}
+
+.source-link strong {
+  color: var(--ink);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.source-link small {
+  margin-top: 3px;
+  color: var(--ink-pale);
+  font-size: 9px;
+  line-height: 1.35;
+}
+
+.source-link span {
+  margin-top: 6px;
+  color: var(--coral-dark);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.card-reference-link span {
+  color: var(--coral-dark);
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 9px;
+}
+
+.card-reference-link strong {
+  margin-top: 4px;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+.page-hero--bibliography {
+  background:
+    linear-gradient(90deg, transparent 0 62%, rgba(184, 137, 46, 0.08) 62% 100%),
+    var(--paper);
+}
+
+.bibliography-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.bibliography-metrics > div {
+  padding: 28px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.bibliography-metrics strong,
+.bibliography-metrics span {
+  display: block;
+}
+
+.bibliography-metrics strong {
+  font-family: var(--display);
+  font-size: 38px;
+  font-weight: 400;
+}
+
+.bibliography-metrics span {
+  color: var(--ink-soft);
+  font-size: 11px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.bibliography-section {
+  padding-top: 18px;
+}
+
+.bibliography-controls {
+  display: grid;
+  grid-template-columns: minmax(280px, 1fr) minmax(190px, 0.28fr);
+  gap: 12px;
+  padding: 18px;
+  background: var(--paper-light);
+}
+
+.bibliography-controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  color: var(--ink-pale);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.bibliography-controls input,
+.bibliography-controls select {
+  width: 100%;
+  min-height: 47px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  outline: none;
+  background: white;
+  font-size: 14px;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.bibliography-controls input:focus,
+.bibliography-controls select:focus {
+  border-color: var(--coral);
+  box-shadow: 0 0 0 2px rgba(210, 101, 69, 0.12);
+}
+
+.bibliography-list {
+  border-top: 1px solid var(--line);
+}
+
+.bibliography-item {
+  border-bottom: 1px solid var(--line);
+}
+
+.bibliography-item[hidden] {
+  display: none;
+}
+
+.bibliography-item > a {
+  display: grid;
+  grid-template-columns: 160px minmax(0, 1fr) 180px;
+  gap: 28px;
+  align-items: start;
+  padding: 26px 18px;
+  text-decoration: none;
+  transition: background 150ms ease;
+}
+
+.bibliography-item > a:hover {
+  background: var(--paper-light);
+}
+
+.bibliography-item__meta span,
+.bibliography-item__meta code {
+  display: block;
+}
+
+.bibliography-item__meta span {
+  margin-bottom: 7px;
+  color: var(--gold);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.bibliography-item__meta code {
+  color: var(--ink-pale);
+  font-size: 10px;
+  overflow-wrap: anywhere;
+}
+
+.formatted-reference {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.reference-authors {
+  font-weight: 600;
+}
+
+.reference-year {
+  white-space: nowrap;
+}
+
+.bibliography-item__footer {
+  color: var(--ink-pale);
+  font-size: 10px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.bibliography-item__footer > span {
+  display: block;
+}
+
+.bibliography-access {
+  margin-top: 8px;
+}
+
+.bibliography-access span {
+  display: inline-block;
+  margin: 3px 0 0 4px;
+  padding: 2px 6px;
+  color: var(--ink-soft);
+  background: var(--paper-deep);
+  font-size: 8px;
+  letter-spacing: 0.05em;
+}
+
+.reference-hero {
+  padding-block: 58px 70px;
+  border-bottom: 1px solid var(--line);
+  background: var(--paper-light);
+}
+
+.reference-hero .breadcrumbs {
+  margin-bottom: 60px;
+}
+
+.reference-hero h1 {
+  max-width: 950px;
+  margin: 14px 0 20px;
+  font-family: var(--display);
+  font-size: clamp(42px, 6vw, 76px);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+  line-height: 1.04;
+}
+
+.reference-hero__contributors {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 17px;
+}
+
+.reference-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
+  gap: 80px;
+  align-items: start;
+}
+
+.formatted-reference--large {
+  max-width: 780px;
+  margin: 18px 0 34px;
+  font-size: 27px;
+  line-height: 1.55;
+}
+
+.reference-metadata {
+  padding: 28px;
+  border-top: 3px solid var(--gold);
+  background: var(--paper-deep);
+}
+
+.reference-metadata h2 {
+  margin: 0 0 18px;
+  font-size: 11px;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.reference-metadata dl {
+  margin: 0;
+}
+
+.reference-metadata dt {
+  margin-top: 13px;
+  color: var(--ink-pale);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.reference-metadata dd {
+  margin: 2px 0 0;
+  color: var(--ink-soft);
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+
+.reference-card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.reference-card-link {
+  min-height: 210px;
+  padding: 25px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.reference-card-link > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  color: var(--ink-pale);
+  font-size: 9px;
+  text-transform: uppercase;
+}
+
+.reference-card-link h2 {
+  margin: 22px 0;
+  font-family: var(--display);
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.reference-card-link h2 a {
+  text-decoration: none;
+}
+
+.reference-card-link details {
+  color: var(--ink-soft);
+  font-size: 11px;
+}
+
+.reference-card-link summary,
+.bibtex-block summary {
+  cursor: pointer;
+}
+
+.reference-card-link ul {
+  padding-left: 18px;
+}
+
+.empty-reference-links {
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 38px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  color: var(--ink-soft);
+}
+
+.bibtex-block pre {
+  overflow-x: auto;
+  padding: 24px;
+  background: var(--ink);
+  color: var(--paper-light);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.button--light {
+  border-color: rgba(255, 255, 255, 0.35);
+  color: var(--paper-light);
+}
+
+.bibliography-follow .section-intro {
+  color: #b5bdc8;
+}
+
+.coverage-list {
+  align-self: center;
+}
+
+.coverage-row {
+  padding: 13px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.coverage-row > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 8px;
+}
+
+.coverage-row strong {
+  color: var(--paper-light);
+  font-family: var(--display);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.coverage-row span {
+  color: #9da8b5;
+  font-size: 9px;
+}
+
+.coverage-row__bar {
+  display: block;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.11);
+}
+
+.coverage-row__bar i {
+  display: block;
+  height: 100%;
+  background: var(--family-color);
+}
+
 @media (max-width: 980px) {
   :root {
     --shell: min(100% - 36px, 900px);
@@ -2190,6 +2600,48 @@ svg {
   .site-footer__inner {
     flex-direction: column;
     align-items: start;
+  }
+}
+
+@media (max-width: 980px) {
+  .bibliography-item > a {
+    grid-template-columns: 135px minmax(0, 1fr);
+  }
+
+  .bibliography-item__footer {
+    grid-column: 2;
+    text-align: left;
+  }
+
+  .reference-layout {
+    grid-template-columns: 1fr;
+    gap: 45px;
+  }
+}
+
+@media (max-width: 760px) {
+  .bibliography-metrics,
+  .bibliography-controls,
+  .reference-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bibliography-item > a {
+    grid-template-columns: 1fr;
+    gap: 13px;
+    padding-inline: 4px;
+  }
+
+  .bibliography-item__footer {
+    grid-column: auto;
+  }
+
+  .reference-hero .breadcrumbs {
+    margin-bottom: 38px;
+  }
+
+  .formatted-reference--large {
+    font-size: 22px;
   }
 }
 

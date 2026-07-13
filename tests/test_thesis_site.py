@@ -43,7 +43,11 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert manifest["cards"] == 121
     assert manifest["families"] == 7
     assert manifest["relations"] == 112
+    assert manifest["references"] == 62
+    assert manifest["referenced_cards"] == 33
+    assert manifest["public_documents"] > 0
     assert len(list((output / "cartes").glob("idea_*/index.html"))) == 121
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 62
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
     assert "Thèse centrale actuelle" in homepage
@@ -51,6 +55,22 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "these" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
     assert (output / "suivi" / "index.html").is_file()
+    assert (output / "bibliographie" / "index.html").is_file()
+
+
+def test_bibliography_links_cards_references_and_documents(tmp_path: Path) -> None:
+    output = generate_site(tmp_path)
+
+    card = (output / "cartes" / "idea_0084" / "index.html").read_text(encoding="utf-8")
+    reference = (
+        output / "bibliographie" / "pachet2018oreille" / "index.html"
+    ).read_text(encoding="utf-8")
+
+    assert "../../bibliographie/pachet2018oreille/index.html" in card
+    assert "../../documents/input/PACHET_HISTOIRE_OREILLE_BAT.pdf" in card
+    assert "../../cartes/idea_0084/index.html" in reference
+    assert "Histoire d&#x27;une oreille" in reference
+    assert (output / "documents" / "input" / "PACHET_HISTOIRE_OREILLE_BAT.pdf").is_file()
 
 
 def test_generated_internal_links_resolve(tmp_path: Path) -> None:
