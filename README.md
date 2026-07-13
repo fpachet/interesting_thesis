@@ -32,6 +32,8 @@ des objections ou comparer plusieurs architectures argumentatives.
 
 ## Points d'entrée
 
+- [`site/`](site/) : site statique de présentation et de suivi, généré dynamiquement
+  depuis les cartes et les documents d'organisation ;
 - [`projet-these/projet-these-fr.tex`](projet-these/projet-these-fr.tex) et
   [`projet-these/projet-these-en.tex`](projet-these/projet-these-en.tex) :
   versions courantes française et anglaise du projet de thèse ;

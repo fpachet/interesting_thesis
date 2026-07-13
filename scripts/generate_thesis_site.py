@@ -1,0 +1,979 @@
+from __future__ import annotations
+
+import argparse
+import html
+import json
+import math
+import re
+import shutil
+import subprocess
+from collections import Counter, defaultdict
+from dataclasses import dataclass, field
+from datetime import datetime
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+CARDS_DIR = ROOT / "cartes" / "inbox"
+SITE_SOURCE = ROOT / "site"
+DEFAULT_OUTPUT = SITE_SOURCE / "dist"
+
+RELATION_LABELS = {
+    "supports": "soutient",
+    "motivates": "motive",
+    "specifies": "précise",
+    "bridges": "relie",
+    "operationalizes": "opérationnalise",
+    "illustrates": "illustre",
+    "limits": "limite",
+    "objects_to": "objecte à",
+    "contrasts_with": "contraste avec",
+}
+
+LEVEL_LABELS = {
+    "conceptual": "Conceptuelle",
+    "scientific": "Scientifique",
+    "articulation": "Articulation",
+}
+
+KIND_LABELS = {
+    "definition": "Définition",
+    "argument": "Argument",
+    "objection": "Objection",
+    "example": "Exemple",
+    "distinction": "Distinction",
+    "method": "Méthode",
+    "question": "Question",
+    "hypothesis": "Hypothèse",
+    "bibliographic_note": "Note bibliographique",
+}
+
+
+@dataclass
+class Card:
+    id: str
+    title: str
+    kind: str
+    level: str
+    status: str
+    sources: list[str]
+    references: list[str]
+    source_notes: list[str]
+    tags: list[str]
+    body: str
+    path: Path
+    family: str = "Sans famille"
+    family_index: int = -1
+    argument_role: str = ""
+    themes: list[str] = field(default_factory=list)
+
+
+@dataclass
+class Relation:
+    source: str
+    kind: str
+    target: str
+    explanation: str
+
+
+def parse_scalar(value: str) -> str:
+    value = value.strip()
+    if len(value) >= 2 and value[0] == value[-1] == '"':
+        try:
+            return json.loads(value)
+        except json.JSONDecodeError:
+            return value[1:-1]
+    if len(value) >= 2 and value[0] == value[-1] == "'":
+        return value[1:-1]
+    return value
+
+
+def parse_frontmatter(text: str, path: Path) -> tuple[dict[str, object], str]:
+    if not text.startswith("---\n"):
+        raise ValueError(f"En-tête YAML absent : {path}")
+    try:
+        _, raw, body = text.split("---", 2)
+    except ValueError as exc:
+        raise ValueError(f"En-tête YAML incomplet : {path}") from exc
+
+    metadata: dict[str, object] = {}
+    active_list: str | None = None
+    for line in raw.strip().splitlines():
+        item = re.match(r"^\s+-\s+(.*)$", line)
+        if item and active_list:
+            values = metadata.setdefault(active_list, [])
+            assert isinstance(values, list)
+            values.append(parse_scalar(item.group(1)))
+            continue
+        key_value = re.match(r"^([a-z_]+):(?:\s+(.*))?$", line)
+        if not key_value:
+            continue
+        key, value = key_value.groups()
+        if value is None or not value.strip():
+            metadata[key] = []
+            active_list = key
+        else:
+            metadata[key] = parse_scalar(value)
+            active_list = None
+    return metadata, body.strip()
+
+
+def load_cards() -> dict[str, Card]:
+    cards: dict[str, Card] = {}
+    for path in sorted(CARDS_DIR.glob("idea_*.md")):
+        metadata, body = parse_frontmatter(path.read_text(encoding="utf-8"), path)
+        card = Card(
+            id=str(metadata["id"]),
+            title=str(metadata["title"]),
+            kind=str(metadata["kind"]),
+            level=str(metadata["level"]),
+            status=str(metadata["status"]),
+            sources=list(metadata.get("sources", [])),
+            references=list(metadata.get("references", [])),
+            source_notes=list(metadata.get("source_notes", [])),
+            tags=list(metadata.get("tags", [])),
+            body=body,
+            path=path,
+        )
+        if card.id in cards:
+            raise ValueError(f"Identifiant dupliqué : {card.id}")
+        cards[card.id] = card
+    return cards
+
+
+def load_families(cards: dict[str, Card]) -> list[tuple[str, list[str]]]:
+    path = ROOT / "cartes" / "indexes" / "by_argument.md"
+    families: list[tuple[str, list[str]]] = []
+    current_name = ""
+    current_ids: list[str] | None = None
+    current_role = ""
+    for line in path.read_text(encoding="utf-8").splitlines():
+        family = re.match(r"^## \d+\. (.+?) \(\d+\)$", line)
+        if family:
+            current_name = family.group(1)
+            current_ids = []
+            families.append((current_name, current_ids))
+            current_role = ""
+            continue
+        role = re.match(r"^### (.+)$", line)
+        if role and current_ids is not None:
+            current_role = role.group(1)
+            continue
+        entry = re.match(r"^- `(idea_\d{4})` - ", line)
+        if entry and current_ids is not None:
+            card_id = entry.group(1)
+            if card_id not in cards:
+                raise ValueError(f"Carte inconnue dans l'index argumentatif : {card_id}")
+            current_ids.append(card_id)
+            cards[card_id].family = current_name
+            cards[card_id].family_index = len(families) - 1
+            cards[card_id].argument_role = current_role
+    indexed = [card_id for _, ids in families for card_id in ids]
+    if len(indexed) != len(cards) or set(indexed) != set(cards):
+        raise ValueError("L'index argumentatif doit contenir chaque carte exactement une fois")
+    return families
+
+
+def load_themes(cards: dict[str, Card]) -> list[str]:
+    path = ROOT / "cartes" / "indexes" / "by_theme.md"
+    current = ""
+    themes: list[str] = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        heading = re.match(r"^## (.+)$", line)
+        if heading:
+            current = heading.group(1)
+            themes.append(current)
+            continue
+        entry = re.match(r"^- `(idea_\d{4})` - ", line)
+        if entry and current and entry.group(1) in cards:
+            cards[entry.group(1)].themes.append(current)
+    return themes
+
+
+def load_relations(cards: dict[str, Card]) -> list[Relation]:
+    path = ROOT / "cartes" / "relations.tsv"
+    relations: list[Relation] = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line or line.startswith("#"):
+            continue
+        source, kind, target, explanation = line.split("\t", 3)
+        if source not in cards or target not in cards:
+            raise ValueError(f"Relation vers une carte inconnue : {line}")
+        relations.append(Relation(source, kind, target, explanation))
+    return relations
+
+
+def section(text: str, heading: str) -> str:
+    pattern = rf"^## {re.escape(heading)}\s*$\n(?P<body>.*?)(?=^## |\Z)"
+    match = re.search(pattern, text, re.MULTILINE | re.DOTALL)
+    return match.group("body").strip() if match else ""
+
+
+def first_paragraph(text: str) -> str:
+    return re.split(r"\n\s*\n", text.strip(), maxsplit=1)[0].replace("\n", " ")
+
+
+def extract_bullets(text: str) -> list[str]:
+    items: list[str] = []
+    current = ""
+    for line in text.splitlines():
+        if line.startswith("- "):
+            if current:
+                items.append(current.strip())
+            current = line[2:].strip()
+        elif current and line.startswith("  "):
+            current += " " + line.strip()
+        elif current:
+            items.append(current.strip())
+            current = ""
+    if current:
+        items.append(current.strip())
+    return items
+
+
+def inline_markdown(value: str) -> str:
+    escaped = html.escape(value, quote=False)
+    code_values: list[str] = []
+
+    def save_code(match: re.Match[str]) -> str:
+        code_values.append(f"<code>{match.group(1)}</code>")
+        return f"\x00CODE{len(code_values) - 1}\x00"
+
+    escaped = re.sub(r"`([^`]+)`", save_code, escaped)
+    escaped = re.sub(
+        r"\[([^\]]+)\]\(([^)]+)\)",
+        lambda match: f'<a href="{html.escape(match.group(2), quote=True)}">{match.group(1)}</a>',
+        escaped,
+    )
+    escaped = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", escaped)
+    escaped = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<em>\1</em>", escaped)
+    for index, code in enumerate(code_values):
+        escaped = escaped.replace(f"\x00CODE{index}\x00", code)
+    return escaped
+
+
+def markdown_to_html(markdown: str) -> str:
+    lines = markdown.splitlines()
+    output: list[str] = []
+    paragraph: list[str] = []
+    index = 0
+
+    def flush_paragraph() -> None:
+        if paragraph:
+            output.append(f"<p>{inline_markdown(' '.join(part.strip() for part in paragraph))}</p>")
+            paragraph.clear()
+
+    while index < len(lines):
+        line = lines[index]
+        stripped = line.strip()
+        if not stripped:
+            flush_paragraph()
+            index += 1
+            continue
+        if stripped.startswith("```"):
+            flush_paragraph()
+            language = stripped[3:].strip()
+            code_lines: list[str] = []
+            index += 1
+            while index < len(lines) and not lines[index].strip().startswith("```"):
+                code_lines.append(lines[index])
+                index += 1
+            output.append(
+                f'<pre data-language="{html.escape(language)}"><code>{html.escape(chr(10).join(code_lines))}</code></pre>'
+            )
+            index += 1
+            continue
+        heading = re.match(r"^(#{2,4})\s+(.+)$", stripped)
+        if heading:
+            flush_paragraph()
+            level = len(heading.group(1))
+            output.append(f"<h{level}>{inline_markdown(heading.group(2))}</h{level}>")
+            index += 1
+            continue
+        if stripped.startswith("> "):
+            flush_paragraph()
+            quote_lines: list[str] = []
+            while index < len(lines) and lines[index].strip().startswith(">"):
+                quote_lines.append(lines[index].strip().lstrip("> "))
+                index += 1
+            output.append(f"<blockquote>{inline_markdown(' '.join(quote_lines))}</blockquote>")
+            continue
+        if re.match(r"^- ", stripped):
+            flush_paragraph()
+            items: list[str] = []
+            while index < len(lines) and re.match(r"^\s*- ", lines[index]):
+                item = re.sub(r"^\s*- ", "", lines[index]).strip()
+                index += 1
+                while index < len(lines) and lines[index].startswith("  ") and lines[index].strip():
+                    item += " " + lines[index].strip()
+                    index += 1
+                items.append(item)
+            output.append("<ul>" + "".join(f"<li>{inline_markdown(item)}</li>" for item in items) + "</ul>")
+            continue
+        if re.match(r"^\d+\. ", stripped):
+            flush_paragraph()
+            items = []
+            while index < len(lines) and re.match(r"^\s*\d+\. ", lines[index]):
+                item = re.sub(r"^\s*\d+\. ", "", lines[index]).strip()
+                index += 1
+                while index < len(lines) and lines[index].startswith("  ") and lines[index].strip():
+                    item += " " + lines[index].strip()
+                    index += 1
+                items.append(item)
+            output.append("<ol>" + "".join(f"<li>{inline_markdown(item)}</li>" for item in items) + "</ol>")
+            continue
+        paragraph.append(line)
+        index += 1
+    flush_paragraph()
+    return "\n".join(output)
+
+
+def card_href(card_id: str, prefix: str) -> str:
+    return f"{prefix}cartes/{card_id}/index.html"
+
+
+def badge(value: str, variant: str = "") -> str:
+    class_name = "badge" + (f" badge--{variant}" if variant else "")
+    return f'<span class="{class_name}">{html.escape(value)}</span>'
+
+
+def base_page(
+    *,
+    title: str,
+    description: str,
+    content: str,
+    prefix: str,
+    active: str,
+    extra_script: str = "",
+) -> str:
+    nav_items = [
+        ("accueil", "Vue d'ensemble", "index.html"),
+        ("these", "La thèse", "these/index.html"),
+        ("cartes", "Les cartes", "cartes/index.html"),
+        ("graphe", "Le graphe", "graphe/index.html"),
+        ("suivi", "Suivi", "suivi/index.html"),
+    ]
+    nav = "".join(
+        f'<a class="site-nav__link{" is-active" if key == active else ""}" href="{prefix}{href}">{label}</a>'
+        for key, label, href in nav_items
+    )
+    return f"""<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{html.escape(description, quote=True)}">
+  <title>{html.escape(title)} · L'émergence de l'intéressant</title>
+  <link rel="stylesheet" href="{prefix}assets/styles.css">
+  <script defer src="{prefix}assets/app.js"></script>
+  {extra_script}
+</head>
+<body>
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
+  <header class="site-header">
+    <div class="shell site-header__inner">
+      <a class="brand" href="{prefix}index.html" aria-label="Accueil">
+        <span class="brand__mark" aria-hidden="true">I</span>
+        <span><strong>L'émergence</strong><small>de l'intéressant</small></span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav class="site-nav" id="site-nav" aria-label="Navigation principale">{nav}</nav>
+    </div>
+  </header>
+  <main id="contenu">{content}</main>
+  <footer class="site-footer">
+    <div class="shell site-footer__inner">
+      <p><strong>L'émergence de l'intéressant</strong><br>Atelier documentaire d'un projet de thèse en philosophie.</p>
+      <p class="site-footer__links"><a href="{prefix}suivi/index.html">État du projet</a><a href="{prefix}cartes/index.html">121 propositions</a></p>
+    </div>
+  </footer>
+</body>
+</html>
+"""
+
+
+def thesis_statement() -> str:
+    text = (ROOT / "projet-these" / "BUT_DE_LA_THESE.md").read_text(encoding="utf-8")
+    central = section(text, "Hypothèse centrale : l'intéressant comme déclencheur de construction")
+    match = re.search(r"\*\*([^*]+)\*\*", central, re.DOTALL)
+    if not match:
+        raise ValueError("Impossible d'extraire la thèse centrale")
+    statement = re.sub(r"\s+", " ", match.group(1)).strip()
+    return statement[:1].upper() + statement[1:]
+
+
+def direct_question() -> str:
+    text = (ROOT / "README.md").read_text(encoding="utf-8")
+    match = re.search(r"La question directrice est : \*\*(.+?)\*\*", text, re.DOTALL)
+    if not match:
+        raise ValueError("Impossible d'extraire la question directrice")
+    return re.sub(r"\s+", " ", match.group(1))
+
+
+def open_questions() -> list[str]:
+    text = (ROOT / "cartes" / "ORGANISATION.md").read_text(encoding="utf-8")
+    return extract_bullets(section(text, "Questions ouvertes"))
+
+
+def git_metadata() -> tuple[str, list[tuple[str, str, str]]]:
+    try:
+        last_date = subprocess.check_output(
+            ["git", "log", "-1", "--format=%cs"], cwd=ROOT, text=True
+        ).strip()
+        raw = subprocess.check_output(
+            ["git", "log", "-6", "--format=%h%x09%cs%x09%s"], cwd=ROOT, text=True
+        )
+        changes = [tuple(line.split("\t", 2)) for line in raw.splitlines()]
+        return last_date, changes
+    except (OSError, subprocess.CalledProcessError):
+        return "", []
+
+
+def registry_stats() -> tuple[int, Counter[str]]:
+    path = ROOT / "cartes" / "REGISTRE_TRAITEMENT.md"
+    statuses: Counter[str] = Counter()
+    total = 0
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.startswith("| `input/"):
+            continue
+        columns = [column.strip().strip("`") for column in line.strip("|").split("|")]
+        if len(columns) < 2:
+            continue
+        total += 1
+        statuses[columns[1]] += 1
+    return total, statuses
+
+
+def home_page(
+    cards: dict[str, Card],
+    families: list[tuple[str, list[str]]],
+    relations: list[Relation],
+    statement: str,
+    question: str,
+    questions: list[str],
+    last_date: str,
+) -> str:
+    central_steps = [
+        ("01", "La rencontre", "Une forme rencontre un sujet façonné par sa mémoire et son histoire.", "idea_0084"),
+        ("02", "La zone féconde", "La difficulté reste assez accessible pour permettre une construction.", "idea_0121"),
+        ("03", "Le travail", "Le sujet compare, anticipe, catégorise ou reconstruit un problème.", "idea_0123"),
+        ("04", "La prise nouvelle", "Une distinction, un modèle ou une capacité nouvelle devient contrôlable.", "idea_0071"),
+    ]
+    steps_html = "".join(
+        f"""<a class="thesis-step" href="{card_href(card_id, '')}">
+          <span class="thesis-step__number">{number}</span>
+          <strong>{title}</strong><span>{description}</span>
+        </a>"""
+        for number, title, description, card_id in central_steps
+    )
+    family_html = "".join(
+        f"""<a class="family-row family-{index}" href="cartes/index.html?famille={html.escape(name, quote=True)}">
+          <span class="family-row__mark" aria-hidden="true"></span>
+          <span class="family-row__body"><strong>{html.escape(name)}</strong><small>{len(ids)} propositions</small></span>
+          <span class="family-row__arrow" aria-hidden="true">↗</span>
+        </a>"""
+        for index, (name, ids) in enumerate(families)
+    )
+    questions_html = "".join(
+        f'<li><span>{index:02d}</span><p>{inline_markdown(item)}</p></li>'
+        for index, item in enumerate(questions[:4], 1)
+    )
+    level_counts = Counter(card.level for card in cards.values())
+    formatted_date = ""
+    if last_date:
+        formatted_date = datetime.strptime(last_date, "%Y-%m-%d").strftime("%d.%m.%Y")
+
+    content = f"""
+<section class="hero hero--home">
+  <div class="shell hero__grid">
+    <div class="hero__copy">
+      <p class="eyebrow">Projet de thèse en philosophie · version 2</p>
+      <h1>L'émergence<br><em>de l'intéressant</em></h1>
+      <p class="hero__lead">Naissance des idées, compréhension et singularité des formes.</p>
+      <p class="hero__question"><span>Question directrice</span>{html.escape(question)}</p>
+      <div class="button-row"><a class="button button--primary" href="these/index.html">Comprendre la thèse</a><a class="button" href="suivi/index.html">Voir son avancement</a></div>
+    </div>
+    <aside class="hero__aside" aria-label="État du corpus">
+      <p class="hero__aside-label">Atelier vivant</p>
+      <div class="hero__metrics">
+        <div><strong>{len(cards)}</strong><span>propositions</span></div>
+        <div><strong>{len(relations)}</strong><span>relations fortes</span></div>
+        <div><strong>{len(families)}</strong><span>familles</span></div>
+      </div>
+      <div class="level-bar" aria-label="Répartition par niveau">
+        <span class="level-bar__conceptual" style="--size:{level_counts['conceptual']}"></span>
+        <span class="level-bar__scientific" style="--size:{level_counts['scientific']}"></span>
+        <span class="level-bar__articulation" style="--size:{level_counts['articulation']}"></span>
+      </div>
+      <p class="hero__updated">Dernière évolution du dépôt · {formatted_date or 'date indisponible'}</p>
+    </aside>
+  </div>
+</section>
+
+<section class="section thesis-feature">
+  <div class="shell">
+    <div class="section-heading section-heading--split">
+      <div><p class="eyebrow">Thèse centrale actuelle</p><h2>Une proposition à défendre,<br>pas un résultat déjà acquis.</h2></div>
+      <p>Le site organise les arguments autour de cette formulation tout en gardant visibles ses limites, objections et transformations possibles.</p>
+    </div>
+    <blockquote class="central-statement">{html.escape(statement)}</blockquote>
+    <div class="thesis-steps">{steps_html}</div>
+    <div class="thesis-limits"><span>Deux issues à surveiller</span><a href="{card_href('idea_0122', '')}">L'épuisement vers l'ennui ou l'anxiété</a><a href="{card_href('idea_0124', '')}">La fascination sans compréhension vérifiable</a></div>
+  </div>
+</section>
+
+<section class="section section--ink">
+  <div class="shell two-column">
+    <div>
+      <p class="eyebrow eyebrow--light">Architecture argumentative</p>
+      <h2>Sept familles, aucune boîte définitive.</h2>
+      <p class="section-intro">Les familles donnent une orientation au lecteur. Elles restent réversibles et ne constituent pas encore le plan de la thèse.</p>
+      <a class="text-link text-link--light" href="graphe/index.html">Explorer les relations entre les cartes <span>→</span></a>
+    </div>
+    <div class="family-list">{family_html}</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="shell two-column two-column--questions">
+    <div>
+      <p class="eyebrow">Travail en cours</p>
+      <h2>Les questions restent visibles.</h2>
+      <p class="section-intro">Un suivi de thèse utile ne montre pas seulement ce qui est écrit. Il rend également lisibles les tensions qui orientent la prochaine étape.</p>
+      <a class="button" href="suivi/index.html">Consulter le tableau de suivi</a>
+    </div>
+    <ol class="open-questions">{questions_html}</ol>
+  </div>
+</section>
+
+<section class="section section--compact">
+  <div class="shell invitation">
+    <div><p class="eyebrow">Entrer dans l'atelier</p><h2>Une carte = une proposition contestable.</h2></div>
+    <p>Rechercher un concept, suivre une relation ou parcourir une famille argumentative.</p>
+    <a class="button button--primary" href="cartes/index.html">Parcourir les {len(cards)} cartes</a>
+  </div>
+</section>
+"""
+    return base_page(
+        title="Vue d'ensemble",
+        description="Suivre l'avancement et l'architecture argumentative d'une thèse sur l'émergence de l'intéressant.",
+        content=content,
+        prefix="",
+        active="accueil",
+    )
+
+
+def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
+    roles = [
+        ("Cadre relationnel", "idea_0084", "Une forme, un sujet, une mémoire et un horizon historique."),
+        ("Condition", "idea_0121", "Une zone de difficulté où une construction demeure possible."),
+        ("Mécanisme", "idea_0123", "Un travail perceptif, explicatif ou opératoire qui donne prise."),
+        ("Dynamique", "idea_0122", "Une relation métastable qui dérive vers l'ennui ou l'anxiété."),
+        ("Mesure candidate", "idea_0071", "Le progrès local plutôt que la surprise ou l'erreur brute."),
+        ("Cas limite", "idea_0124", "Une promesse de compréhension sans transformation vérifiable."),
+    ]
+    roles_html = "".join(
+        f"""<a class="argument-card" href="{card_href(card_id, '../')}">
+          <span>{label}</span><h3>{html.escape(cards[card_id].title)}</h3><p>{description}</p><small>Lire {card_id} →</small>
+        </a>"""
+        for label, card_id, description in roles
+    )
+    content = f"""
+<section class="page-hero">
+  <div class="shell page-hero__inner">
+    <div><p class="eyebrow">La thèse</p><h1>Ce que le projet<br>cherche à établir.</h1></div>
+    <p class="page-hero__lead">L'intéressant comme relation dynamique entre une forme et un sujet, capable de transformer ce que celui-ci perçoit, comprend ou peut faire.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="shell thesis-page-grid">
+    <aside class="thesis-index"><p>Sur cette page</p><a href="#objet">Objet</a><a href="#hypothese">Hypothèse centrale</a><a href="#architecture">Architecture</a><a href="#methode">Mise à l'épreuve</a></aside>
+    <article class="prose prose--large">
+      <section id="objet"><p class="eyebrow">Objet</p><h2>Constituer l'intéressant comme objet philosophique.</h2><p>Le projet ne traite pas l'intéressant comme un synonyme vague de préférence, de nouveauté ou de beauté. Il cherche à décrire un type de relation entre une forme et un sujet doté d'une mémoire, d'attentes et de capacités acquises.</p><div class="question-callout"><span>Question directrice</span><strong>{html.escape(question)}</strong></div></section>
+      <section id="hypothese"><p class="eyebrow">Hypothèse centrale actuelle</p><blockquote>{html.escape(statement)}</blockquote><p>Le terme décisif est <em>construction</em>. L'objet intéressant ne se contente pas de capter l'attention : il engage un travail qui modifie les distinctions, les anticipations ou les capacités du sujet.</p><p>Cette hypothèse reste un candidat. Sa force dépendra de sa capacité à distinguer une construction réelle d'une simple impression de profondeur et à résister aux cas limites.</p></section>
+      <section id="architecture"><p class="eyebrow">Architecture</p><h2>Le dossier argumentatif.</h2><div class="argument-grid">{roles_html}</div></section>
+      <section id="methode"><p class="eyebrow">Mise à l'épreuve</p><h2>Construire sans naturaliser.</h2><p>La musique, les pratiques de création et les systèmes d'intelligence artificielle servent de terrains de variation. Ils rendent certaines hypothèses observables ou manipulables, sans transformer automatiquement un résultat scientifique en preuve ontologique.</p><div class="method-list"><div><strong>Musique</strong><span>Attente, mémoire et micro-transformations de l'attention.</span></div><div><strong>Intelligence artificielle</strong><span>Systèmes construits comme instruments philosophiques réflexifs.</span></div><div><strong>Création</strong><span>Contraintes, problèmes implicites et nécessité rétrospective.</span></div></div></section>
+    </article>
+  </div>
+</section>
+"""
+    return base_page(
+        title="La thèse",
+        description="Objet, hypothèse centrale et méthode du projet de thèse.",
+        content=content,
+        prefix="../",
+        active="these",
+    )
+
+
+def cards_page(cards: dict[str, Card], families: list[tuple[str, list[str]]]) -> str:
+    family_options = "".join(
+        f'<option value="{html.escape(name, quote=True)}">{html.escape(name)}</option>' for name, _ in families
+    )
+    kind_values = sorted({card.kind for card in cards.values()})
+    kind_options = "".join(
+        f'<option value="{kind}">{html.escape(KIND_LABELS.get(kind, kind))}</option>' for kind in kind_values
+    )
+    cards_html = "".join(
+        f"""<article class="catalog-card family-{card.family_index}" data-card data-title="{html.escape(card.title.lower(), quote=True)}" data-text="{html.escape((card.body + ' ' + ' '.join(card.tags)).lower(), quote=True)}" data-family="{html.escape(card.family, quote=True)}" data-level="{card.level}" data-kind="{card.kind}">
+          <a href="{card.id}/index.html" aria-label="Lire {html.escape(card.title, quote=True)}"></a>
+          <div class="catalog-card__top"><span class="catalog-card__id">{card.id.replace('idea_', '')}</span><span class="catalog-card__family">{html.escape(card.family)}</span></div>
+          <h2>{html.escape(card.title)}</h2>
+          <div class="catalog-card__meta">{badge(LEVEL_LABELS.get(card.level, card.level), card.level)}{badge(KIND_LABELS.get(card.kind, card.kind))}</div>
+        </article>"""
+        for card in cards.values()
+    )
+    content = f"""
+<section class="page-hero page-hero--catalog">
+  <div class="shell page-hero__inner">
+    <div><p class="eyebrow">Corpus argumentatif</p><h1>Les cartes<br>d'idées.</h1></div>
+    <p class="page-hero__lead">Chaque carte formule une proposition indépendante, sourcée et susceptible d'être soutenue, précisée, contestée ou mise à l'épreuve.</p>
+  </div>
+</section>
+<section class="catalog-section">
+  <div class="shell">
+    <form class="catalog-controls" data-catalog-form>
+      <label class="search-field"><span class="sr-only">Rechercher</span><svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.4-4.4m2.4-5.1a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg><input type="search" name="recherche" placeholder="Rechercher une idée, un auteur, un concept…" autocomplete="off"></label>
+      <label><span>Famille</span><select name="famille"><option value="">Toutes</option>{family_options}</select></label>
+      <label><span>Niveau</span><select name="niveau"><option value="">Tous</option><option value="conceptual">Conceptuel</option><option value="scientific">Scientifique</option><option value="articulation">Articulation</option></select></label>
+      <label><span>Forme</span><select name="forme"><option value="">Toutes</option>{kind_options}</select></label>
+    </form>
+    <div class="catalog-status"><p><strong data-result-count>{len(cards)}</strong> propositions affichées</p><button type="button" class="text-button" data-reset-filters>Effacer les filtres</button></div>
+    <div class="catalog-grid" data-catalog-grid>{cards_html}</div>
+    <p class="empty-state" data-empty-state hidden>Aucune carte ne correspond à cette recherche.</p>
+  </div>
+</section>
+"""
+    return base_page(
+        title="Les cartes",
+        description="Rechercher et parcourir les propositions du projet de thèse.",
+        content=content,
+        prefix="../",
+        active="cartes",
+    )
+
+
+def card_page(
+    card: Card,
+    cards: dict[str, Card],
+    relations: list[Relation],
+    family_ids: list[str],
+) -> str:
+    outgoing = [relation for relation in relations if relation.source == card.id]
+    incoming = [relation for relation in relations if relation.target == card.id]
+
+    def relation_item(relation: Relation, direction: str) -> str:
+        other_id = relation.target if direction == "out" else relation.source
+        other = cards[other_id]
+        if direction == "out":
+            label = RELATION_LABELS.get(relation.kind, relation.kind)
+        else:
+            label = f"est {RELATION_LABELS.get(relation.kind, relation.kind)} par"
+        return f"""<li><span class="relation-kind relation-kind--{relation.kind}">{html.escape(label)}</span><a href="../{other_id}/index.html"><strong>{html.escape(other.title)}</strong><small>{html.escape(relation.explanation)}</small></a></li>"""
+
+    relation_html = ""
+    if outgoing or incoming:
+        outgoing_html = "".join(relation_item(relation, "out") for relation in outgoing)
+        incoming_html = "".join(relation_item(relation, "in") for relation in incoming)
+        relation_html = f"""<section class="card-relations"><div class="section-heading"><p class="eyebrow">Graphe argumentatif</p><h2>Relations fortes</h2></div><div class="relation-columns">{f'<div><h3>Cette carte…</h3><ul>{outgoing_html}</ul></div>' if outgoing else ''}{f'<div><h3>D’autres cartes…</h3><ul>{incoming_html}</ul></div>' if incoming else ''}</div></section>"""
+
+    sources_html = "".join(f"<li><code>{html.escape(source)}</code></li>" for source in card.sources)
+    refs_html = "".join(f"<li>{html.escape(reference)}</li>" for reference in card.references)
+    notes_html = "".join(f"<li>{html.escape(note)}</li>" for note in card.source_notes)
+    tags_html = "".join(badge(tag) for tag in card.tags)
+    current_index = family_ids.index(card.id)
+    previous_id = family_ids[current_index - 1] if current_index else family_ids[-1]
+    next_id = family_ids[(current_index + 1) % len(family_ids)]
+    content = f"""
+<section class="card-hero family-{card.family_index}">
+  <div class="shell">
+    <nav class="breadcrumbs" aria-label="Fil d'Ariane"><a href="../../cartes/index.html">Cartes</a><span>→</span><a href="../../cartes/index.html?famille={html.escape(card.family, quote=True)}">{html.escape(card.family)}</a></nav>
+    <div class="card-hero__grid">
+      <div><p class="card-id">{card.id}</p><h1>{html.escape(card.title)}</h1></div>
+      <aside><span>Rôle actuel</span><strong>{html.escape(card.argument_role or KIND_LABELS.get(card.kind, card.kind))}</strong><small>Organisation réversible</small></aside>
+    </div>
+    <div class="card-hero__meta">{badge(LEVEL_LABELS.get(card.level, card.level), card.level)}{badge(KIND_LABELS.get(card.kind, card.kind))}</div>
+  </div>
+</section>
+<section class="section card-body-section">
+  <div class="shell card-layout">
+    <article class="prose card-prose">{markdown_to_html(card.body)}</article>
+    <aside class="card-sidebar">
+      <div><h2>Provenance</h2><ul class="source-list">{sources_html or '<li>Non renseignée</li>'}</ul></div>
+      {f'<div><h2>Références</h2><ul>{refs_html}</ul></div>' if refs_html else ''}
+      {f'<div><h2>Notes de source</h2><ul>{notes_html}</ul></div>' if notes_html else ''}
+      <div><h2>Thèmes</h2><div class="tag-list">{tags_html}</div></div>
+    </aside>
+  </div>
+</section>
+<div class="shell">{relation_html}</div>
+<nav class="card-pagination shell" aria-label="Cartes de la même famille"><a href="../{previous_id}/index.html"><span>← Carte précédente</span><strong>{html.escape(cards[previous_id].title)}</strong></a><a href="../{next_id}/index.html"><span>Carte suivante →</span><strong>{html.escape(cards[next_id].title)}</strong></a></nav>
+"""
+    return base_page(
+        title=card.title,
+        description=first_paragraph(section(card.body, "Idée"))[:155],
+        content=content,
+        prefix="../../",
+        active="cartes",
+    )
+
+
+def graph_svg(cards: dict[str, Card], families: list[tuple[str, list[str]]], relations: list[Relation]) -> str:
+    center = 500
+    radius = 355
+    gap = math.radians(3)
+    usable = math.tau - len(families) * gap
+    angles: dict[str, float] = {}
+    ranges: list[tuple[float, float, int]] = []
+    cursor = math.radians(-88)
+    for family_index, (_, ids) in enumerate(families):
+        span = usable * len(ids) / len(cards)
+        start = cursor
+        step = span / len(ids)
+        for offset, card_id in enumerate(ids):
+            angles[card_id] = cursor + step * (offset + 0.5)
+        cursor += span
+        ranges.append((start, cursor, family_index))
+        cursor += gap
+    positions = {
+        card_id: (center + radius * math.cos(angle), center + radius * math.sin(angle))
+        for card_id, angle in angles.items()
+    }
+
+    arcs: list[str] = []
+    for start, end, family_index in ranges:
+        r = radius + 30
+        x1, y1 = center + r * math.cos(start), center + r * math.sin(start)
+        x2, y2 = center + r * math.cos(end), center + r * math.sin(end)
+        large = 1 if end - start > math.pi else 0
+        arcs.append(
+            f'<path class="graph-family-arc family-{family_index}" d="M {x1:.2f} {y1:.2f} A {r} {r} 0 {large} 1 {x2:.2f} {y2:.2f}"/>'
+        )
+
+    edges = []
+    for index, relation in enumerate(relations):
+        sx, sy = positions[relation.source]
+        tx, ty = positions[relation.target]
+        pull = 0.56 if cards[relation.source].family == cards[relation.target].family else 0.32
+        c1x = center + (sx - center) * pull
+        c1y = center + (sy - center) * pull
+        c2x = center + (tx - center) * pull
+        c2y = center + (ty - center) * pull
+        edges.append(
+            f'<path class="graph-edge relation-{relation.kind}" data-source="{relation.source}" data-target="{relation.target}" data-relation="{relation.kind}" d="M {sx:.2f} {sy:.2f} C {c1x:.2f} {c1y:.2f}, {c2x:.2f} {c2y:.2f}, {tx:.2f} {ty:.2f}" marker-end="url(#arrow-{relation.kind})"/>'
+        )
+
+    nodes = []
+    for card in cards.values():
+        x, y = positions[card.id]
+        radius_value = 9 if card.id == "idea_0123" else 5.5
+        nodes.append(
+            f'<g class="graph-node family-{card.family_index}" data-id="{card.id}" data-family="{html.escape(card.family, quote=True)}" data-level="{card.level}" data-title="{html.escape(card.title, quote=True)}" transform="translate({x:.2f} {y:.2f})" role="button" tabindex="0" aria-label="{html.escape(card.title, quote=True)}"><circle r="{radius_value}"/><title>{html.escape(card.id + " — " + card.title)}</title></g>'
+        )
+
+    marker_defs = "".join(
+        f'<marker id="arrow-{kind}" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="5" markerHeight="5" orient="auto"><path d="M 0 0 L 8 4 L 0 8 z"/></marker>'
+        for kind in RELATION_LABELS
+    )
+    return f"""<svg class="idea-graph" data-idea-graph viewBox="0 0 1000 1000" role="img" aria-label="Graphe interactif des propositions">
+      <defs>{marker_defs}</defs>
+      <g class="graph-arcs">{''.join(arcs)}</g>
+      <g class="graph-edges">{''.join(edges)}</g>
+      <g class="graph-center"><circle cx="500" cy="500" r="92"/><text x="500" y="484">{len(cards)} idées</text><text x="500" y="514">{len(relations)} relations fortes</text></g>
+      <g class="graph-nodes">{''.join(nodes)}</g>
+    </svg>"""
+
+
+def graph_page(cards: dict[str, Card], families: list[tuple[str, list[str]]], relations: list[Relation]) -> str:
+    family_options = "".join(
+        f'<option value="{html.escape(name, quote=True)}">{html.escape(name)}</option>' for name, _ in families
+    )
+    relation_options = "".join(
+        f'<option value="{kind}">{html.escape(label.capitalize())}</option>' for kind, label in RELATION_LABELS.items()
+    )
+    family_legend = "".join(
+        f'<li class="family-{index}"><span></span>{html.escape(name)} <small>{len(ids)}</small></li>'
+        for index, (name, ids) in enumerate(families)
+    )
+    graph_data = {
+        "cards": {
+            card.id: {
+                "title": card.title,
+                "family": card.family,
+                "level": LEVEL_LABELS.get(card.level, card.level),
+                "href": f"../cartes/{card.id}/index.html",
+            }
+            for card in cards.values()
+        },
+        "relations": [relation.__dict__ for relation in relations],
+        "labels": RELATION_LABELS,
+    }
+    graph_json = json.dumps(graph_data, ensure_ascii=False).replace("</", "<\\/")
+    content = f"""
+<section class="page-hero page-hero--graph">
+  <div class="shell page-hero__inner">
+    <div><p class="eyebrow">Carte argumentative</p><h1>Voir les<br>relations.</h1></div>
+    <p class="page-hero__lead">Sélectionnez une proposition pour isoler ce qui la soutient, la précise, l'opérationnalise ou en limite la portée.</p>
+  </div>
+</section>
+<section class="graph-section">
+  <div class="shell">
+    <div class="graph-toolbar">
+      <label><span>Aller à une carte</span><input type="search" list="graph-cards" placeholder="Titre ou identifiant" data-graph-search><datalist id="graph-cards">{''.join(f'<option value="{card.id}">{html.escape(card.title)}</option>' for card in cards.values())}</datalist></label>
+      <label><span>Famille</span><select data-graph-family><option value="">Toutes</option>{family_options}</select></label>
+      <label><span>Relation</span><select data-graph-relation><option value="">Toutes</option>{relation_options}</select></label>
+      <button type="button" class="button button--small" data-graph-reset>Vue générale</button>
+    </div>
+    <div class="graph-layout">
+      <div class="graph-canvas">{graph_svg(cards, families, relations)}</div>
+      <aside class="graph-detail" data-graph-detail>
+        <p class="eyebrow">Mode d'emploi</p><h2>Choisissez une proposition.</h2><p>Le graphe affichera son voisinage argumentatif immédiat. Les flèches indiquent le sens des relations fortes.</p>
+        <div class="graph-detail__legend"><h3>Familles</h3><ul>{family_legend}</ul></div>
+      </aside>
+    </div>
+    <div class="relation-legend">{''.join(f'<span class="relation-{kind}"><i></i>{html.escape(label)}</span>' for kind, label in RELATION_LABELS.items())}</div>
+  </div>
+</section>
+<script id="graph-data" type="application/json">{graph_json}</script>
+"""
+    return base_page(
+        title="Le graphe",
+        description="Explorer les relations fortes entre les propositions du projet de thèse.",
+        content=content,
+        prefix="../",
+        active="graphe",
+    )
+
+
+def suivi_page(
+    cards: dict[str, Card],
+    families: list[tuple[str, list[str]]],
+    relations: list[Relation],
+    questions: list[str],
+    last_date: str,
+    git_changes: list[tuple[str, str, str]],
+) -> str:
+    levels = Counter(card.level for card in cards.values())
+    source_total, source_statuses = registry_stats()
+    covered = sum(
+        count for status, count in source_statuses.items() if "complete" in status or "intégr" in status
+    )
+    questions_html = "".join(f"<li>{inline_markdown(item)}</li>" for item in questions)
+    changes_html = "".join(
+        f'<li><time datetime="{date}">{datetime.strptime(date, "%Y-%m-%d").strftime("%d.%m.%Y")}</time><span>{html.escape(message)}</span><code>{commit}</code></li>'
+        for commit, date, message in git_changes
+    )
+    family_progress = "".join(
+        f"""<div class="progress-row family-{index}"><div><strong>{html.escape(name)}</strong><span>{len(ids)} cartes</span></div><span class="progress-row__line"><i style="width:{len(ids) / max(len(group) for _, group in families) * 100:.1f}%"></i></span></div>"""
+        for index, (name, ids) in enumerate(families)
+    )
+    content = f"""
+<section class="page-hero page-hero--suivi">
+  <div class="shell page-hero__inner">
+    <div><p class="eyebrow">Tableau de suivi</p><h1>Un projet<br>en mouvement.</h1></div>
+    <p class="page-hero__lead">Cette page distingue ce qui est structuré, ce qui reste provisoire et les questions qui orientent le prochain travail.</p>
+  </div>
+</section>
+<section class="section section--compact">
+  <div class="shell status-strip">
+    <div><span>Version du projet</span><strong>Version 2</strong><small>Texte français et anglais synchronisé</small></div>
+    <div><span>Dernière évolution</span><strong>{datetime.strptime(last_date, '%Y-%m-%d').strftime('%d.%m.%Y') if last_date else '—'}</strong><small>D'après l'historique Git</small></div>
+    <div><span>Corpus traité</span><strong>{covered}/{source_total}</strong><small>Documents à couverture complète ou intégrée</small></div>
+    <div><span>Statut général</span><strong>Structuration</strong><small>Avant stabilisation du plan</small></div>
+  </div>
+</section>
+<section class="section">
+  <div class="shell follow-grid">
+    <article>
+      <p class="eyebrow">Ce qui est en place</p><h2>Une architecture vérifiable.</h2>
+      <ul class="check-list"><li><strong>{len(cards)} propositions</strong><span>Chaque carte possède un niveau, une famille principale et une provenance lorsque celle-ci est connue.</span></li><li><strong>{len(relations)} relations fortes</strong><span>Neuf types directionnels distinguent soutien, précision, objection, limite et opérationnalisation.</span></li><li><strong>Une thèse centrale explicite</strong><span><code>idea_0123</code> sert de proposition canonique et relie le cadre relationnel aux terrains scientifiques.</span></li><li><strong>Trois niveaux épistémiques</strong><span>{levels['conceptual']} cartes conceptuelles, {levels['scientific']} scientifiques et {levels['articulation']} articulations.</span></li></ul>
+    </article>
+    <article>
+      <p class="eyebrow">Répartition actuelle</p><h2>Sept familles de travail.</h2><div class="progress-list">{family_progress}</div><p class="caption">La longueur indique le nombre de propositions, pas leur importance ni leur degré d'achèvement.</p>
+    </article>
+  </div>
+</section>
+<section class="section section--warm">
+  <div class="shell follow-grid follow-grid--questions">
+    <div><p class="eyebrow">À discuter</p><h2>Questions ouvertes.</h2><p>Ces questions ne sont pas des défauts masqués : elles indiquent les points où une objection, une source ou une reformulation peut changer l'architecture.</p></div>
+    <ol class="question-list">{questions_html}</ol>
+  </div>
+</section>
+<section class="section">
+  <div class="shell follow-grid">
+    <div><p class="eyebrow">Journal de recherche</p><h2>Dernières transformations.</h2><p class="section-intro">L'historique Git rend visibles les changements intellectuels et documentaires, au-delà des seules versions stabilisées.</p></div>
+    <ol class="change-list">{changes_html}</ol>
+  </div>
+</section>
+"""
+    return base_page(
+        title="Suivi",
+        description="État du corpus, questions ouvertes et dernières évolutions du projet de thèse.",
+        content=content,
+        prefix="../",
+        active="suivi",
+    )
+
+
+def write_page(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+
+
+def build(output: Path) -> None:
+    cards = load_cards()
+    families = load_families(cards)
+    load_themes(cards)
+    relations = load_relations(cards)
+    statement = thesis_statement()
+    question = direct_question()
+    questions = open_questions()
+    last_date, git_changes = git_metadata()
+
+    if output.exists():
+        shutil.rmtree(output)
+    output.mkdir(parents=True)
+    shutil.copytree(SITE_SOURCE / "assets", output / "assets")
+    write_page(
+        output / "index.html",
+        home_page(cards, families, relations, statement, question, questions, last_date),
+    )
+    write_page(output / "these" / "index.html", thesis_page(cards, statement, question))
+    write_page(output / "cartes" / "index.html", cards_page(cards, families))
+    write_page(output / "graphe" / "index.html", graph_page(cards, families, relations))
+    write_page(
+        output / "suivi" / "index.html",
+        suivi_page(cards, families, relations, questions, last_date, git_changes),
+    )
+    family_ids = {name: ids for name, ids in families}
+    for card in cards.values():
+        write_page(
+            output / "cartes" / card.id / "index.html",
+            card_page(card, cards, relations, family_ids[card.family]),
+        )
+
+    manifest = {
+        "generated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+        "cards": len(cards),
+        "families": len(families),
+        "relations": len(relations),
+    }
+    (output / "manifest.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(
+        f"Site généré dans {output} : {len(cards)} cartes, "
+        f"{len(families)} familles, {len(relations)} relations."
+    )
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Génère le site statique de suivi de la thèse.")
+    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    args = parser.parse_args()
+    output = args.output if args.output.is_absolute() else ROOT / args.output
+    build(output)
+
+
+if __name__ == "__main__":
+    main()
