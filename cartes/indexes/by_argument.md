@@ -18,7 +18,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0001` - Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé.
 - `idea_0002` - Le goût n'est pas un dictionnaire statique.
 - `idea_0027` - L'intéressant mesure un progrès de compression, pas une surprise.
-- `idea_0071` - L'intérêt est un gain temporaire propre à un observateur.
+- `idea_0071` - L'intérêt suit le gradient de progrès d'un observateur, non son erreur actuelle.
 - `idea_0107` - L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable.
 
 ### Distinctions et objections

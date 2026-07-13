@@ -94,6 +94,8 @@ Cette définition est relationnelle. Une même tâche peut être ennuyeuse pour 
 
 Il faut distinguer la *\emph{zone de flow}\emph{, qui fournit cette structure, de l'}\emph{état de flow}*, expérience d'absorption intense décrite par Csíkszentmihályi. L'hypothèse identifie l'intéressant à la première ; elle ne suppose pas que tout objet intéressant produit continuellement le second. Surprise, hésitation et rupture peuvent appartenir à la zone intéressante précisément parce que le sujet conserve une prise sur une difficulté qui le sollicite.
 
+La zone n'est cependant pas homogène. Les travaux sur la curiosité artificielle suggèrent que l'attention se porte plus précisément vers les situations où le progrès d'apprentissage estimé est maximal. L'ajustement compétences-difficulté donne la géographie générale ; le gradient de progrès de \texttt{idea\_0071} indique où, dans cette zone, une construction est effectivement en train d'aboutir.
+
 \begin{quote}
 \textbf{Intérêt pour la thèse.} Cette hypothèse donne à l'intéressant une définition positive, relationnelle et opérationnalisable. Elle unifie ennui, apprentissage, difficulté et attention dans un même espace de variation, tout en fournissant des conditions d'échec observables.
 \end{quote}
@@ -144,7 +146,7 @@ Le mécanisme de confiance est essentiel. Une erreur de prédiction ne suffit pa
 {\footnotesize\color{metadata}\textbf{Références :} \parencite{schmidhuber1997interesting}\par}
 
 \Needspace{8\baselineskip}
-\subsection{L'intérêt est un gain temporaire propre à un observateur}
+\subsection{L'intérêt suit le gradient de progrès d'un observateur, non son erreur actuelle}
 {\small\color{metadata} \texttt{idea\_0071}\quad\textbullet\quad hypothèse\quad\textbullet\quad articulation\par}
 
 Si l'intérêt correspond à un progrès de compression, il ne peut pas être une propriété stable de l'objet. Il dépend de ce que l'observateur sait déjà, de ce qu'il est capable de calculer et du moment de son apprentissage. La régularité qui provoque aujourd'hui un gain de compréhension devient demain une connaissance acquise et donc une source d'ennui.
@@ -153,13 +155,19 @@ Cette proposition est plus précise que l'affirmation générale selon laquelle 
 
 Il n'existe donc pas de proportion universelle entre information attendue et inattendue. La frontière entre trivial et aléatoire se déplace avec les savoirs et les capacités de calcul de l'observateur.
 
+Les travaux de Kaplan, Oudeyer et Hafner permettent de préciser cette transformation comme un gradient. Si \texttt{E\_t(o, S)} désigne l'erreur de prédiction du sujet \texttt{S} confronté à l'objet ou à la situation \texttt{o}, un signal simple de progrès est \texttt{P\_t(o, S) = E\_\{t-Δ\}(o, S) - E\_t(o, S)}. L'intérêt ne suit donc pas le niveau actuel de l'erreur, mais sa diminution. Une situation maîtrisée produit peu d'erreur mais aucun progrès ; une situation aléatoire ou trop difficile produit beaucoup d'erreur mais aucun progrès ; une situation intéressante est celle où la compétence est en train d'augmenter.
+
+Cette mesure définit des *\emph{niches de progrès}*, locales et temporaires dans l'espace des situations accessibles. Un agent curieux choisit les régions où son modèle s'améliore le plus vite, puis les quitte lorsque le progrès s'aplatit. Il construit ainsi sans curriculum prédéfini une trajectoire allant vers des activités de difficulté croissante. Le gradient n'est pas une propriété de l'objet seul : il naît de la rencontre entre ce que l'objet permet de percevoir ou d'essayer et les compétences, biais, moyens d'action et expériences déjà acquis par le sujet.
+
+Schmidhuber formule un principe voisin en termes de progrès de compression : la récompense de curiosité vient de l'amélioration du compresseur ou du prédicteur, non de la surprise brute. Les deux familles de travaux convergent donc sur une dérivée temporelle de l'apprentissage, même si leurs architectures et leurs mesures ne sont pas identiques.
+
 La neuveclamine en donne une micro-histoire concrète : découverte fascinante, reproduction intensive, saturation, puis réapprentissage d'un usage rare et presque indétectable. L'effet ne disparaît pas simplement ; sa valeur dépend de la manière dont l'attente est de nouveau préparée après son assimilation.
 
 \begin{quote}
-\textbf{Intérêt pour la thèse.} Elle permet de définir l'intéressant comme une relation dynamique entre une forme et l'état d'un observateur. Elle prédit aussi qu'une œuvre peut rester intéressante si elle offre plusieurs régularités découvrables à des échelles ou des moments différents, plutôt qu'une seule surprise rapidement épuisée.
+\textbf{Intérêt pour la thèse.} Elle permet de définir l'intéressant comme une relation dynamique entre une forme et l'état d'un observateur. Elle donne aussi une mesure candidate du travail constructif : une construction est en cours lorsque les erreurs diminuent ou que les prises s'améliorent. Elle prédit enfin qu'une œuvre peut rester intéressante si elle offre plusieurs régularités découvrables à des échelles ou des moments différents, plutôt qu'une seule surprise rapidement épuisée.
 \end{quote}
-{\footnotesize\color{metadata}\textbf{Provenance :} interestingness.pdf; The Mystery of Jotney Songs.pdf; PACHET HISTOIRE OREILLE BAT.pdf. Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20 Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3 Histoire d'une oreille, fascination, saturation puis usage parcimonieux de la neuveclamine, PDF p. 23-24 ; solutions devenues évidentes après réécoute, p. 285.\par}
-{\footnotesize\color{metadata}\textbf{Références :} \parencite{schmidhuber1997interesting,pachet2018oreille}\par}
+{\footnotesize\color{metadata}\textbf{Provenance :} interestingness.pdf; The Mystery of Jotney Songs.pdf; PACHET HISTOIRE OREILLE BAT.pdf. Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20 Kaplan, Oudeyer et Hafner, progrès d'apprentissage, niches de progrès et développement autonome, IEEE 2007, p. 265-286 Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3 Histoire d'une oreille, fascination, saturation puis usage parcimonieux de la neuveclamine, PDF p. 23-24 ; solutions devenues évidentes après réécoute, p. 285.\par}
+{\footnotesize\color{metadata}\textbf{Références :} \parencite{schmidhuber1997interesting,schmidhuber2009compression,oudeyer2007intrinsic,oudeyer2007typology,pachet2018oreille}\par}
 
 \Needspace{8\baselineskip}
 \subsection{L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable}
@@ -674,6 +682,8 @@ La neutralité n'est que méthodologique. Expliquer un mécanisme de capture ne 
 Un objet intéressant à l'instant \texttt{t} n'occupe pas durablement une position fixe dans la zone de flow. Il est soumis à deux dérives opposées. La première conduit vers l'ennui : la répétition, la familiarisation et l'acquisition de compétences réduisent la difficulté effective jusqu'à ce que l'objet ne sollicite plus assez le sujet. La seconde conduit vers l'anxiété : l'accumulation d'incompréhensions, d'échecs ou de frustrations réduit la prise du sujet jusqu'à faire apparaître un mur de difficulté.
 
 On peut noter \texttt{D\_t} la difficulté effective de la tâche et \texttt{C\_t} les compétences disponibles du sujet. L'intéressant correspondrait à un intervalle de l'écart \texttt{D\_t - C\_t}, plutôt qu'à une égalité exacte. L'apprentissage tend à diminuer cet écart ; la complexification de la tâche, la fatigue ou la perte de repères tendent à l'augmenter. L'intérêt est donc un équilibre métastable entre deux sorties toujours possibles de la zone de flow.
+
+Ce déplacement peut être suivi par le gradient de progrès plutôt que par le seul écart \texttt{D\_t - C\_t}. Tant que l'erreur diminue ou que les prises s'améliorent, la construction reste intéressante. Lorsque le gradient tend vers zéro parce que tout est maîtrisé, la relation dérive vers l'ennui ; lorsqu'il tend vers zéro malgré une erreur élevée, elle dérive vers l'anxiété. Le même gradient nul possède donc deux interprétations opposées selon le niveau de difficulté résiduelle.
 
 L'écoute musicale rend ces deux forces particulièrement visibles. Une chanson peut devenir ennuyeuse lorsque l'auditeur en a épuisé les ressorts, par exemple après avoir appris l'algèbre de ses cadences. Inversement, une écoute imposée dont les régularités restent inaccessibles, comme peut l'être une musique dodécaphonique pour un auditeur sans prises adéquates, peut accumuler incompréhension et frustration jusqu'au rejet. Ces exemples ne qualifient pas les œuvres en elles-mêmes : ils décrivent leur relation temporelle à un auditeur donné.
 
@@ -1785,7 +1795,7 @@ Dans la géométrie du flow, cette rhétorique maintient artificiellement le suj
 {\footnotesize\color{metadata}\textbf{Provenance :} ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf. La Virtuosité à la portée des caniches, plaisir de la glisse, langage et pseudo-profondeur, PDF p. 5-9 et 20-25 Tony Robbins et les frères Bogdanov sont ajoutés comme cas à documenter ; leur interprétation proposée ici reste une hypothèse de la thèse\par}
 {\footnotesize\color{metadata}\textbf{Références :} \parencite{robbinsPersonalPower,baez2004bogdanoff,bogdanoff2002etat}\par}
 \clearpage
-\nocite{allouche1999thueMorse,baez2004bogdanoff,berger1999expectations,bogdanoff2002etat,chomsky1957syntactic,colton2000interestingness,gang1999unified,goldman1999netneg,ishizu2011brainbeauty,kelly2002music,meyer1956emotion,narmour1990basic,narmour1992complexity,pachet2018oreille,pachet2026biases,petitot1993phenomenologie,petitot2002naturaliser,robbinsPersonalPower,schmidhuber1997interesting,silberschatz1995subjective,silberschatz1996patterns,spiliopoulou1999rules,steels2005coordinating,steels2015talkingheads,zeki2018mathematicalbeauty}
+\nocite{allouche1999thueMorse,baez2004bogdanoff,berger1999expectations,bogdanoff2002etat,chomsky1957syntactic,colton2000interestingness,gang1999unified,goldman1999netneg,ishizu2011brainbeauty,kelly2002music,meyer1956emotion,narmour1990basic,narmour1992complexity,oudeyer2007intrinsic,oudeyer2007typology,pachet2018oreille,pachet2026biases,petitot1993phenomenologie,petitot2002naturaliser,robbinsPersonalPower,schmidhuber1997interesting,schmidhuber2009compression,silberschatz1995subjective,silberschatz1996patterns,spiliopoulou1999rules,steels2005coordinating,steels2015talkingheads,zeki2018mathematicalbeauty}
 \printbibliography[title={Bibliographie des cartes}]
 
 \end{document}

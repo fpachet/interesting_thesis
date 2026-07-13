@@ -60,6 +60,23 @@ prédiction, transfert, intervention ou artefact dont les réussites et les éch
 pratique scientifique sans confondre un système construit avec une ontologie complète de
 l'intéressant.
 
+Les travaux de Kaplan, Oudeyer et Schmidhuber sur la curiosité artificielle fournissent
+une première mesure temporelle de cette construction. Si `E_t(o, S)` désigne l'erreur du
+modèle du sujet `S` face à l'objet ou à la situation `o`, le progrès local peut être noté
+`P_t(o, S) = E_{t-Δ}(o, S) - E_t(o, S)`. L'intérêt ne suivrait ni la facilité ni l'erreur
+maximale, mais la pente selon laquelle cette erreur diminue. Les situations déjà
+maîtrisées et les situations inapprenables ont toutes deux un progrès proche de zéro ;
+les **niches de progrès** sont celles où la perception de l'objet et les compétences du
+sujet permettent une amélioration rapide.
+
+Cette hypothèse dynamise le flow. L'ajustement entre difficulté et compétences définit
+une zone générale ; le gradient de progrès indique où une construction est effectivement
+en cours et explique le déplacement de l'attention vers des tâches de difficulté
+croissante. Chez Schmidhuber, le progrès de compression joue un rôle voisin : la
+curiosité récompense l'amélioration du modèle, et non la surprise brute. Ces modèles
+computationnels constituent des opérationalisations partielles à confronter à
+l'expérience humaine, non une réduction acquise de l'intéressant.
+
 ## Neutralité axiologique provisoire
 
 L'intéressant n'est pas un label d'approbation. La thèse doit pouvoir étudier avec les

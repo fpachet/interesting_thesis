@@ -26,7 +26,7 @@ que s'ils doivent être cités dans le manuscrit.
 La réécriture bilingue du projet de thèse utilise directement ce fichier avec
 BibLaTeX. Les références philosophiques seulement esquissées dans la V1 ont été
 complétées à partir de la bibliographie détaillée du PDF anglais. Les entrées de
-Petitot, Berlyne, Schmidhuber, Abdallah et Plumbley ont été contrôlées sur les
+Petitot, Berlyne, Schmidhuber, Kaplan, Oudeyer, Abdallah et Plumbley ont été contrôlées sur les
 pages d'éditeur, dépôts institutionnels ou notices primaires disponibles.
 
 Les deux fichiers `projet-these/projet-these-fr.tex` et
@@ -39,6 +39,9 @@ son rendu bibliographique reste reproductible.
 | Clé | Source locale principale | Statut |
 | --- | --- | --- |
 | `schmidhuber1997interesting` | `input/old_docs/interestingness.pdf` | rapport technique publié |
+| `schmidhuber2009compression` | pas encore dans le corpus | chapitre de synthèse sur le progrès de compression |
+| `oudeyer2007intrinsic` | pas encore dans le corpus | article IEEE sur la curiosité adaptative et les niches de progrès |
+| `oudeyer2007typology` | pas encore dans le corpus | typologie computationnelle des motivations intrinsèques |
 | `colton2000interestingness` | `input/old_docs/interestingness-ijhcs.pdf` | article de revue |
 | `silberschatz1995subjective` | `input/old_docs/kdd95.pdf` | article de conférence |
 | `silberschatz1996patterns` | `input/old_docs/interestingness/.../tkde.pdf` | article de revue |

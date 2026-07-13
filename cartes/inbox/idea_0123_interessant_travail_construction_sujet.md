@@ -66,15 +66,17 @@ compréhension.
 
 ## Trois niveaux de construction
 
-1. **Construction perceptive et conceptuelle.** Le sujet extrait des invariants,
+**Construction perceptive et conceptuelle.** Le sujet extrait des invariants,
 discrimine, catégorise et stabilise des concepts. Le triangle jaune peut devenir une
-occasion de construire les catégories de couleur, de contour ou de forme. 2.
+occasion de construire les catégories de couleur, de contour ou de forme.
+
 **Construction explicative.** Le sujet agence des relations en modèle, formule une
 hypothèse ou reconstruit le problème dont l'objet paraît être une solution. La prise
-permet alors de prédire, comparer et transférer ce qui a été compris. 3. **Construction
-opératoire.** À la manière d'un ingénieur, le sujet fabrique un    artefact, un
-dispositif, un algorithme ou un nouvel agencement qui matérialise son    interprétation.
-Construire ne prouve pas que le modèle épuise l'objet, mais révèle ce    que le sujet a
+permet alors de prédire, comparer et transférer ce qui a été compris.
+
+**Construction opératoire.** À la manière d'un ingénieur, le sujet fabrique un artefact,
+un dispositif, un algorithme ou un nouvel agencement qui matérialise son interprétation.
+Construire ne prouve pas que le modèle épuise l'objet, mais révèle ce que le sujet a
 réellement rendu explicite et ce qui lui résiste encore.
 
 Ces niveaux ne forment pas nécessairement une succession rigide. Une manipulation peut
@@ -115,3 +117,4 @@ au cours de la relation.
 - Trouve dans `idea_0085` une construction particulière : reconstruire le problème depuis sa solution.
 - Donne à la construction de systèmes de `idea_0018`, `idea_0088` et `idea_0110` une place dans la définition centrale.
 - Est limitée par `idea_0124`, où la promesse de comprendre ne produit aucune prise vérifiable.
+- Le gradient de progrès de `idea_0071` mesure une dimension de la construction en cours.

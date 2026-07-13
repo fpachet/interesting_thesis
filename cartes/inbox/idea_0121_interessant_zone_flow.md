@@ -38,6 +38,12 @@ produit continuellement le second. Surprise, hésitation et rupture peuvent appa
 la zone intéressante précisément parce que le sujet conserve une prise sur une
 difficulté qui le sollicite.
 
+La zone n'est cependant pas homogène. Les travaux sur la curiosité artificielle
+suggèrent que l'attention se porte plus précisément vers les situations où le progrès
+d'apprentissage estimé est maximal. L'ajustement compétences-difficulté donne la
+géographie générale ; le gradient de progrès de `idea_0071` indique où, dans cette zone,
+une construction est effectivement en train d'aboutir.
+
 ## Conséquences testables
 
 - À compétences comparables, l'intérêt devrait diminuer lorsque la tâche devient trop prévisible ou trop opaque.

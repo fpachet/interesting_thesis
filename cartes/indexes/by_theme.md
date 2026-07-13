@@ -7,7 +7,7 @@
 - `idea_0003` - Syntaxe et sens ne suffisent pas à expliquer ce qui retient l'attention.
 - `idea_0013` - L'influence sociale n'abolit pas les propriétés propres qui orientent la popularité.
 - `idea_0027` - L'intéressant mesure un progrès de compression, pas une surprise.
-- `idea_0071` - L'intérêt est un gain temporaire propre à un observateur.
+- `idea_0071` - L'intérêt suit le gradient de progrès d'un observateur, non son erreur actuelle.
 - `idea_0107` - L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable.
 - `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
 - `idea_0111` - Autonomie mélodique et mobilité harmonique peuvent se renforcer au lieu de s'opposer.

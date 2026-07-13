@@ -261,6 +261,12 @@ modélisation explicative et construction opératoire d'un artefact ou d'un agen
 Cette reformulation relie le phénomène de l'intéressant à la pratique scientifique de
 la thèse tout en exigeant que chaque construction produise une prise contrôlable.
 
+`idea_0071` a été reformulée à partir des travaux de Kaplan, Oudeyer et Schmidhuber. Le
+niveau d'erreur y est distingué de son gradient temporel : l'intérêt correspond au
+progrès d'apprentissage ou de compression, tandis que le maîtrisé et l'inapprenable ont
+tous deux un gradient proche de zéro. Cette mesure relie les niches de progrès au flow,
+aux dérives de `idea_0122` et au travail constructif de `idea_0123`.
+
 ## Identifiants retires
 
 | Identifiant | Motif | Destination |

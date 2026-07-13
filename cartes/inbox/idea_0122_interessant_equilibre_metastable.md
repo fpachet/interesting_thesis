@@ -33,6 +33,13 @@ complexification de la tâche, la fatigue ou la perte de repères tendent à l'a
 L'intérêt est donc un équilibre métastable entre deux sorties toujours possibles de la
 zone de flow.
 
+Ce déplacement peut être suivi par le gradient de progrès plutôt que par le seul écart
+`D_t - C_t`. Tant que l'erreur diminue ou que les prises s'améliorent, la construction
+reste intéressante. Lorsque le gradient tend vers zéro parce que tout est maîtrisé, la
+relation dérive vers l'ennui ; lorsqu'il tend vers zéro malgré une erreur élevée, elle
+dérive vers l'anxiété. Le même gradient nul possède donc deux interprétations opposées
+selon le niveau de difficulté résiduelle.
+
 L'écoute musicale rend ces deux forces particulièrement visibles. Une chanson peut
 devenir ennuyeuse lorsque l'auditeur en a épuisé les ressorts, par exemple après avoir
 appris l'algèbre de ses cadences. Inversement, une écoute imposée dont les régularités
