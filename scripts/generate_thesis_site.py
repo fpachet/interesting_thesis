@@ -7,6 +7,7 @@ import math
 import re
 import shutil
 import subprocess
+import unicodedata
 from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -518,8 +519,31 @@ def bibliography_href(reference_key: str, prefix: str) -> str:
     return f"{prefix}bibliographie/{quote(reference_key)}/index.html"
 
 
+def normalized_source_path(source: str) -> str:
+    return unicodedata.normalize("NFC", source)
+
+
 def document_href(source: str, prefix: str) -> str:
-    return f"{prefix}documents/{quote(source, safe='/')}"
+    return f"{prefix}documents/{quote(normalized_source_path(source), safe='/')}"
+
+
+def resolve_repository_path(source: str) -> Path:
+    current = ROOT
+    for part in Path(source).parts:
+        exact = current / part
+        if exact.exists():
+            current = exact
+            continue
+        normalized_part = unicodedata.normalize("NFC", part)
+        matches = [
+            child
+            for child in current.iterdir()
+            if unicodedata.normalize("NFC", child.name) == normalized_part
+        ]
+        if len(matches) != 1:
+            raise ValueError(f"Document public introuvable : {source}")
+        current = matches[0]
+    return current
 
 
 def format_people(value: str, *, shortened: bool = False) -> str:
@@ -1375,7 +1399,13 @@ def build(output: Path) -> None:
         shutil.rmtree(output)
     output.mkdir(parents=True)
     shutil.copytree(SITE_SOURCE / "assets", output / "assets")
-    shutil.copytree(ROOT / "input", output / "documents" / "input")
+    for origin in (ROOT / "input").rglob("*"):
+        if not origin.is_file():
+            continue
+        relative = normalized_source_path(origin.relative_to(ROOT).as_posix())
+        destination = output / "documents" / relative
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(origin, destination)
     source_paths = {source for card in cards.values() for source in card.sources}
     source_paths.update(
         entry.fields["file"]
@@ -1383,10 +1413,10 @@ def build(output: Path) -> None:
         if entry.fields.get("file")
     )
     for source in source_paths:
-        origin = ROOT / source
+        origin = resolve_repository_path(source)
         if not origin.is_file():
             raise ValueError(f"Document public introuvable : {source}")
-        destination = output / "documents" / source
+        destination = output / "documents" / normalized_source_path(source)
         destination.parent.mkdir(parents=True, exist_ok=True)
         if not destination.exists():
             shutil.copy2(origin, destination)

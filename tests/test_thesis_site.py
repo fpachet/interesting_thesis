@@ -3,9 +3,10 @@ from __future__ import annotations
 import json
 import subprocess
 import sys
+import unicodedata
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import unquote, urlsplit
+from urllib.parse import quote, unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -68,9 +69,12 @@ def test_bibliography_links_cards_references_and_documents(tmp_path: Path) -> No
 
     assert "../../bibliographie/pachet2018oreille/index.html" in card
     assert "../../documents/input/PACHET_HISTOIRE_OREILLE_BAT.pdf" in card
+    accented_source = unicodedata.normalize("NFC", "input/projet thèse philo.pdf")
+    assert f"../../documents/{quote(accented_source, safe='/')}" in card
     assert "../../cartes/idea_0084/index.html" in reference
     assert "Histoire d&#x27;une oreille" in reference
     assert (output / "documents" / "input" / "PACHET_HISTOIRE_OREILLE_BAT.pdf").is_file()
+    assert (output / "documents" / accented_source).is_file()
 
 
 def test_generated_internal_links_resolve(tmp_path: Path) -> None:
