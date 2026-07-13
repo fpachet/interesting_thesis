@@ -4,6 +4,8 @@ Ce dépôt est l'atelier documentaire et conceptuel d'un projet de thèse en
 philosophie consacré à **l'émergence de l'intéressant** : naissance des idées,
 compréhension et singularité des formes.
 
+**[Consulter le site public de suivi de la thèse](https://fpachet.github.io/interesting_thesis/)**
+
 La question directrice est : **sous quelles conditions quelque chose apparaît-il
 à un sujet comme intéressant ?** Le projet cherche à comprendre ensemble des
 phénomènes habituellement séparés : le surgissement d'une idée, l'impression de
