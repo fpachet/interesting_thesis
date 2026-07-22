@@ -33,7 +33,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 
-## 2. Temporalité, attention et apprentissage (25)
+## 2. Temporalité, attention et apprentissage (26)
 
 ### Pivots
 
@@ -41,6 +41,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 
 ### Méthodes et ancrages scientifiques
 
@@ -133,7 +134,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 
-## 5. IA, interaction et méthode réflexive (12)
+## 5. IA, interaction et méthode réflexive (13)
 
 ### Pivots
 
@@ -152,8 +153,9 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
 
-### Limite épistémologique
+### Cadre philosophique et limite épistémologique
 
+- `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 
 ## 6. Virtuosité, difficulté et incorporation (11)
@@ -202,6 +204,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les sept familles contiennent respectivement 17, 25, 29, 10, 12, 11 et 17
-cartes, soit les 121 cartes actives. Toute modification de cet index doit
+Les sept familles contiennent respectivement 17, 26, 29, 10, 13, 11 et 17
+cartes, soit les 123 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

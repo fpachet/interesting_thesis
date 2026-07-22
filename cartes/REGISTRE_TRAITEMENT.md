@@ -60,5 +60,5 @@ textuel répertorie ne reste en `premiere_passe` ou `a_revoir`. Les deux MP3 ont
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
 La prochaine étape n'est donc plus l'ingestion, mais l'organisation argumentative
-des 121 cartes : sélection des propositions centrales, regroupement des cartes
+des 123 cartes : sélection des propositions centrales, regroupement des cartes
 qui se recouvrent et construction d'un plan de thèse.

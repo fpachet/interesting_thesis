@@ -408,6 +408,7 @@ def latex_escape(text: str) -> str:
         "}": r"\}",
         "~": r"\textasciitilde{}",
         "^": r"\textasciicircum{}",
+        "Δ": r"\ensuremath{\Delta}",
     }
     return "".join(replacements.get(character, character) for character in text)
 
@@ -421,6 +422,7 @@ def latex_inline(text: str) -> str:
         return marker
 
     text = re.sub(r"`([^`]+)`", lambda match: token("texttt", match.group(1)), text)
+    text = re.sub(r"\*\*(.+?)\*\*", lambda match: token("textbf", match.group(1)), text)
     text = re.sub(r"\*([^*\n]+)\*", lambda match: token("emph", match.group(1)), text)
     escaped = latex_escape(text)
     for marker, replacement in tokens.items():
@@ -671,7 +673,15 @@ def render_card(card: Card) -> str:
         latex_paragraphs(card.sections["Idée"]),
     ]
 
-    for heading in ("Exemple", "Exemples", "Statut de la source", "Contexte bibliographique"):
+    for heading in (
+        "Exemple",
+        "Exemples",
+        "Distinction",
+        "Critère",
+        "Conséquence méthodologique",
+        "Statut de la source",
+        "Contexte bibliographique",
+    ):
         if heading in card.sections:
             parts.extend(
                 [
@@ -756,11 +766,10 @@ def render_document(
 \setcounter{{tocdepth}}{{1}}
 \setlist[itemize]{{leftmargin=1.5em,itemsep=0.25em}}
 \renewcommand{{\familydefault}}{{\sfdefault}}
-\renewcommand{{\sectionmark}}[1]{{\markright{{#1}}}}
 \pagestyle{{fancy}}
 \fancyhf{{}}
-\fancyhead[L]{{\small Catalogue provisoire des idées}}
-\fancyhead[R]{{\small\color{{metadata}}\rightmark}}
+\fancyhead[L]{{\footnotesize Catalogue des idées}}
+\fancyhead[R]{{\footnotesize\color{{metadata}} État de travail}}
 \fancyfoot[C]{{\thepage}}
 \renewcommand{{\headrulewidth}}{{0.3pt}}
 \renewcommand{{\headrule}}{{\hbox to\headwidth{{\color{{rulecolor}}\leaders\hrule height \headrulewidth\hfill}}}}

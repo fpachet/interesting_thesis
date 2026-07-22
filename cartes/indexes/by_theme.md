@@ -32,6 +32,7 @@
 - `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 
 ## Ennui, surprise, rareté
 
@@ -85,6 +86,7 @@
 
 - `idea_0006` - Le système intéressant agit comme miroir interactif.
 - `idea_0007` - La création comme effet secondaire de l'interaction.
+- `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 - `idea_0011` - L'attention observée renseigne mieux sur l'intérêt que la préférence déclarée.
 - `idea_0031` - La relation musicale optimale n'est ni trop proche ni trop lointaine.
 - `idea_0039` - L'intéressant d'une séquence naît de dimensions qui se contraignent mutuellement.
@@ -143,6 +145,7 @@
 
 ## Méthode et réflexivité de la thèse
 
+- `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 - `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.

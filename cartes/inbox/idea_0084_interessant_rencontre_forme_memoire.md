@@ -10,10 +10,12 @@ sources:
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
 references:
   - pachet2018oreille
+  - spinoza1861oeuvres
 source_notes:
   - "PDF p. 1-2"
   - "Dossier Jotney, propriété relationnelle robuste et effet de l'analyse, PDF p. 3-4"
   - "Histoire d'une oreille, apprentissages passifs qui préparent des effets futurs, PDF p. 27-34 ; changement de goût et dépendance au contexte, p. 281-295 ; impossibilité de retrouver l'oreille antérieure, p. 306-310."
+  - "Spinoza, Éthique, partie III, proposition XXVII, démonstration : les idées des affections enveloppent la nature de notre corps et celle du corps extérieur."
 tags:
   - interessant
   - memoire
@@ -33,6 +35,14 @@ relationnelle peut être robuste lorsqu'on peut décrire le problème que la for
 les attentes qu'elle déjoue et les compétences nécessaires pour entendre cette
 résolution. Une analyse réussie explicite alors la relation au lieu de remplacer
 l'expérience par une liste de traits.
+
+Cette distribution des causes entre objet et sujet possède un précédent spinoziste. Dans
+la démonstration de la proposition XXVII de la partie III de l'*Éthique*, les idées des
+affections enveloppent à la fois la nature du corps propre et celle du corps extérieur.
+Sans assimiler l'intéressant à une passion spinoziste déterminée, ce schème interdit
+d'en chercher la cause complète dans un seul terme : la forme contribue par son
+organisation et ses prises ; le sujet par sa constitution, son histoire et ses
+capacités.
 
 Cette rencontre conjugue trois conditions : une intelligibilité suffisante pour ne pas
 rester confuse, une singularité qui résiste au déjà-vu, et une fécondité qui ouvre des

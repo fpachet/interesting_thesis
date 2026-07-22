@@ -59,3 +59,4 @@ dispositif, quelles conduites il favorise et quelles possibilités il ferme.
 - Mobilise les observations comportementales proposées dans `idea_0011`.
 - Maintient la critique politique de `idea_0093` comme second moment de l'enquête.
 - Distingue l'intérêt produit par l'attention de la surattention de `idea_0115`.
+- La naturalisation relationnelle de `idea_0125` explique pourquoi suspendre provisoirement le jugement moral rend possible une enquête causale.

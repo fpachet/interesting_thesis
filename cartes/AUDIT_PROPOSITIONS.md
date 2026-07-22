@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 121 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 80 `conceptual`, 18 `scientific` et 23
+Les 123 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 82 `conceptual`, 18 `scientific` et 23
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -266,6 +266,27 @@ niveau d'erreur y est distingué de son gradient temporel : l'intérêt correspo
 progrès d'apprentissage ou de compression, tandis que le maîtrisé et l'inapprenable ont
 tous deux un gradient proche de zéro. Cette mesure relie les niches de progrès au flow,
 aux dérives de `idea_0122` et au travail constructif de `idea_0123`.
+
+`idea_0125` explicite le programme de naturalisation suggéré par la préface de la partie
+III de l'*Éthique*. Elle distingue l'objectivation légitime du phénomène psychique de
+l'objectivisme qui ferait de l'intérêt une propriété intrinsèque de la forme. Le
+rapprochement avec l'affect spinoziste reste méthodologique : l'intéressant est proposé
+comme régime affectivo-cognitif modifiant une puissance de percevoir, comprendre ou
+agir, non comme émotion élémentaire déjà identifiée. La carte s'appuie désormais sur la
+thèse précise selon laquelle les affects ont des causes déterminées et sur la proposition
+XXVII, où l'affection enveloppe à la fois la nature du corps propre et celle du corps
+extérieur. Ce second passage renforce aussi `idea_0084` : les raisons de l'intérêt sont
+distribuées entre l'organisation de l'objet, la constitution du sujet et les conditions
+de leur rencontre.
+
+`idea_0126` distingue la joie de comprendre du processus qui rend la compréhension de
+soi intéressante. À partir des propositions III-IV et XV de la partie V de l'*Éthique*,
+elle traite l'explication des affects comme une construction réflexive : le sujet
+recompose le système de causes dont son émotion est un effet et acquiert ainsi une prise
+nouvelle sur lui-même. Le plaisir peut accompagner cette prise, mais ne constitue ni sa
+définition ni une preuve suffisante de sa justesse. Feynman et Florman donnent désormais
+deux appuis distincts à cette articulation : le plaisir épistémique de découvrir et le
+plaisir existentiel de construire.
 
 ## Identifiants retires
 

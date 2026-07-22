@@ -77,6 +77,63 @@ curiosité récompense l'amélioration du modèle, et non la surprise brute. Ces
 computationnels constituent des opérationalisations partielles à confronter à
 l'expérience humaine, non une réduction acquise de l'intéressant.
 
+## Programme de naturalisation : un geste spinoziste
+
+L'étude de l'intéressant peut être comprise comme l'objectivation d'un phénomène central
+de la vie psychique : quelque chose nous arrête, mobilise notre attention, nous fait
+revenir, construire et parfois nous attache. La préface de la partie III de l'*Éthique*
+offre ici un précédent méthodologique. Spinoza refuse de traiter les affects humains
+comme un « empire dans un empire » soustrait aux lois communes de la nature ; il propose
+d'en rechercher les causes avec la même exigence que pour les autres phénomènes.
+
+La préface précise, à propos notamment de la haine, de la colère et de l'envie, qu'« elles
+ont des causes déterminées qui servent à les expliquer ». Le parallèle avec l'intérêt
+porte d'abord sur ce principe de causalité : un objet ne devient pas intéressant sans
+raisons, même lorsque le sujet ne sait pas encore les formuler. Ces raisons ne sont pas
+pour autant contenues dans l'objet seul. Lorsque Spinoza écrit que les idées des
+affections enveloppent à la fois « la nature de notre corps et la nature présente du
+corps extérieur » (partie III, proposition XXVII, démonstration), il fournit un schème
+pour penser la causalité de la rencontre. La structure de la forme, l'histoire et l'état
+du sujet, ainsi que les circonstances de leur rencontre, concourent à produire l'intérêt.
+
+La thèse reprend ce geste sans confondre deux opérations. **Objectiver le phénomène**,
+c'est rendre comparables ses conditions, ses trajectoires et ses effets. **Objectiver
+l'intéressant dans l'objet**, ce serait en faire à tort une propriété intrinsèque de la
+forme. Le programme consiste donc à naturaliser la relation `I(F, S | H, t)` : expliquer
+comment la structure de la forme, les compétences et l'histoire du sujet, l'horizon
+social et le moment de la rencontre produisent ensemble une transformation de
+l'attention.
+
+Cette filiation ne suppose pas que l'intéressant soit une émotion élémentaire. Il peut
+être décrit plus prudemment comme un **régime affectivo-cognitif de transition** qui
+modifie la puissance du sujet à percevoir, comprendre, anticiper ou agir. L'ennui,
+l'anxiété, le plaisir, la frustration et l'attachement sont alors des devenirs possibles
+de la relation. Naturaliser ce régime exige de coordonner descriptions à la première
+personne, comportements, apprentissages, structures formelles et modèles
+computationnels, sans postuler qu'un seul de ces niveaux épuisera les autres.
+
+Ce programme possède un cas réflexif particulièrement important. Dans les propositions
+III et IV de la partie V de l'*Éthique*, la connaissance plus adéquate d'un affect en
+diminue la passivité ; dans la proposition XV, comprendre clairement ses passions et
+soi-même fait ressentir de la joie. Sous l'angle de la thèse, **se comprendre peut être
+intéressant parce que cette compréhension est une construction** : le sujet reconstruit
+les causes, les conditions et les enchaînements dont son émotion est un effet, comme un
+ingénieur construit un agencement intelligible pour acquérir une prise sur un système.
+
+Deux formulations donnent un vocabulaire à cette articulation. *The Pleasure of Finding
+Things Out* de Richard Feynman nomme le plaisir épistémique de découvrir comment les
+choses fonctionnent ; *The Existential Pleasures of Engineering* de Samuel Florman
+décrit le plaisir de concevoir, d'agencer et de faire tenir une construction. Comprendre
+ses propres affects peut conjuguer ces deux dimensions : découvrir un système de causes
+et construire un modèle qui rende une intervention possible.
+
+Cette analogie porte sur l'activité d'enquête, non sur une réduction mécaniste de la
+personne. Elle permet surtout de distinguer deux moments. L'intéressant désigne le
+processus qui déclenche et soutient la construction d'un modèle de soi ; le plaisir ou la
+joie peut en être un effet, sans constituer sa définition. Une compréhension pénible peut
+rester intéressante, tandis qu'une explication plaisante mais sans pouvoir de distinction,
+de prédiction ou d'intervention peut n'être qu'une impression de clarté.
+
 ## Neutralité axiologique provisoire
 
 L'intéressant n'est pas un label d'approbation. La thèse doit pouvoir étudier avec les
@@ -107,7 +164,8 @@ de variation permettant :
 - de distinguer l'intéressant de la préférence sans supposer qu'ils sont indépendants ;
 - d'analyser la naissance et l'épuisement de l'intérêt dans le temps ;
 - de comparer création, compréhension et réception sans les confondre ;
-- de formuler des hypothèses empiriques ou computationnelles sans naturaliser l'objet.
+- de formuler des hypothèses empiriques ou computationnelles qui naturalisent la
+  relation sans réifier l'intéressant dans l'objet.
 
 Un prolongement formel examinera si ces propriétés peuvent être exprimées comme une
 axiomatique minimale. Le premier candidat est la non-compositionnalité : l'intérêt d'un

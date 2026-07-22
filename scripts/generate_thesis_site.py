@@ -853,6 +853,7 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ("Cadre relationnel", "idea_0084", "Une forme, un sujet, une mémoire et un horizon historique."),
         ("Condition", "idea_0121", "Une zone de difficulté où une construction demeure possible."),
         ("Mécanisme", "idea_0123", "Un travail perceptif, explicatif ou opératoire qui donne prise."),
+        ("Réflexivité", "idea_0126", "Comprendre ses affects en reconstruisant le système de leurs causes."),
         ("Dynamique", "idea_0122", "Une relation métastable qui dérive vers l'ennui ou l'anxiété."),
         ("Mesure candidate", "idea_0071", "Le progrès local plutôt que la surprise ou l'erreur brute."),
         ("Cas limite", "idea_0124", "Une promesse de compréhension sans transformation vérifiable."),

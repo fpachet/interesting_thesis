@@ -41,14 +41,14 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 121
+    assert manifest["cards"] == 123
     assert manifest["families"] == 7
-    assert manifest["relations"] == 112
-    assert manifest["references"] == 62
-    assert manifest["referenced_cards"] == 33
+    assert manifest["relations"] == 119
+    assert manifest["references"] == 66
+    assert manifest["referenced_cards"] == 35
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 121
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 62
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 123
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 66
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
     assert "Thèse centrale actuelle" in homepage

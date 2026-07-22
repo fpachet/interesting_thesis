@@ -55,3 +55,4 @@ preuve de concept, modèle cognitif et ontologie de l'intéressant.
 - Donne sa limite épistémologique à la méthode de `idea_0018`.
 - Répond à la critique des théories sans théorèmes de `idea_0044`.
 - Avec `idea_0110`, distingue résultat scientifique et reprise philosophique.
+- Est complétée par `idea_0125` : ne pas réduire l'expérience à un modèle n'interdit pas de naturaliser la relation d'intérêt.

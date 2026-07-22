@@ -7,7 +7,7 @@ le champ YAML optionnel `references` relie une proposition aux clés BibTeX.
 ## Règles de maintenance
 
 1. Ajouter une entrée BibTeX lorsqu'une source devient effectivement utile à une
-   carte ou au manuscrit, pas pour chaque titre mentionne dans une bibliographie.
+   carte ou au manuscrit, pas pour chaque titre mentionné dans une bibliographie.
 2. Utiliser une clé stable de la forme `auteurAnneeMot`, sans la renommer ensuite.
 3. Vérifier le titre, les auteurs, l'année et le support sur la source primaire ou
    la page de l'éditeur.
@@ -56,6 +56,11 @@ son rendu bibliographique reste reproductible.
 | `narmour1990basic` | pas encore dans le corpus | premier volume du modèle implication-réalisation ; lecture directe à faire |
 | `narmour1992complexity` | pas encore dans le corpus | extension du modèle implication-réalisation aux structures complexes ; lecture directe à faire |
 | `pachet2018oreille` | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | livre publié ; lecture intégrale et extraction propositionnelle effectuées |
+| `spinoza1966ethique` | pas encore dans le corpus | traduction Pautrat, Seuil, 1988 ; clé historique conservée pour stabilité ; préface et définition III de la partie III mobilisées |
+| `spinoza1861oeuvres` | édition numérique consultée sur Wikisource ; notice BnF liée dans la bibliographie | traduction Saisset, Charpentier, 1861, tome III ; citations vérifiables de la préface et de la proposition XXVII de la partie III |
+| `macherey1995vieaffective` | pas encore dans le corpus | étude secondaire de référence sur la partie III et la causalité de la vie affective ; lecture directe à faire |
+| `feynman1999pleasure` | pas encore dans le corpus | recueil édité par Jeffrey Robbins ; le titre formule le plaisir épistémique de découvrir et comprendre |
+| `florman1996existential` | pas encore dans le corpus | deuxième édition ; philosophie vécue du plaisir de construire propre à l'ingénierie |
 
-Les chemins abrégés par `...` dans ce tableau sont seulement destines à la lecture.
+Les chemins abrégés par `...` dans ce tableau sont seulement destinés à la lecture.
 Les champs `file` de `references.bib` contiennent les chemins complets.
