@@ -1,4 +1,50 @@
 (() => {
+  const normalizeSearch = (value) => value
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .trim();
+
+  const hasAtMostOneEdit = (left, right) => {
+    if (Math.abs(left.length - right.length) > 1) return false;
+    if (left.length === right.length) {
+      let differences = 0;
+      for (let index = 0; index < left.length; index += 1) {
+        if (left[index] !== right[index]) differences += 1;
+        if (differences > 1) return false;
+      }
+      return true;
+    }
+
+    const [shorter, longer] = left.length < right.length ? [left, right] : [right, left];
+    let shortIndex = 0;
+    let longIndex = 0;
+    let differences = 0;
+    while (shortIndex < shorter.length && longIndex < longer.length) {
+      if (shorter[shortIndex] === longer[longIndex]) {
+        shortIndex += 1;
+      } else {
+        differences += 1;
+        if (differences > 1) return false;
+      }
+      longIndex += 1;
+    }
+    return true;
+  };
+
+  const matchesSearch = (value, rawQuery) => {
+    const haystack = normalizeSearch(value);
+    const query = normalizeSearch(rawQuery);
+    if (!query || haystack.includes(query)) return true;
+
+    const haystackWords = haystack.split(/[^a-z0-9]+/).filter(Boolean);
+    const queryWords = query.split(/[^a-z0-9]+/).filter(Boolean);
+    return queryWords.every((queryWord) => haystackWords.some(
+      (word) => word.includes(queryWord)
+        || (queryWord.length >= 5 && hasAtMostOneEdit(queryWord, word)),
+    ));
+  };
+
   const navToggle = document.querySelector('.nav-toggle');
   const siteNav = document.querySelector('.site-nav');
   if (navToggle && siteNav) {
@@ -22,18 +68,13 @@
       kind: catalogForm.elements.forme,
     };
 
-    const normalize = (value) => value
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .toLowerCase()
-      .trim();
-
     const filter = () => {
-      const query = normalize(fields.search.value);
       let visible = 0;
       cards.forEach((card) => {
-        const haystack = normalize(`${card.dataset.title} ${card.dataset.text}`);
-        const matches = (!query || haystack.includes(query))
+        const matches = matchesSearch(
+          `${card.dataset.title} ${card.dataset.text}`,
+          fields.search.value,
+        )
           && (!fields.family.value || card.dataset.family === fields.family.value)
           && (!fields.level.value || card.dataset.level === fields.level.value)
           && (!fields.kind.value || card.dataset.kind === fields.kind.value);
@@ -75,17 +116,10 @@
     const reset = document.querySelector('[data-reset-bibliography]');
     const search = bibliographyForm.elements.recherche;
     const type = bibliographyForm.elements.type;
-    const normalize = (value) => value
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .toLowerCase()
-      .trim();
-
     const filter = () => {
-      const query = normalize(search.value);
       let visible = 0;
       references.forEach((reference) => {
-        const matches = (!query || normalize(reference.dataset.search).includes(query))
+        const matches = matchesSearch(reference.dataset.search, search.value)
           && (!type.value || reference.dataset.type === type.value);
         reference.hidden = !matches;
         if (matches) visible += 1;

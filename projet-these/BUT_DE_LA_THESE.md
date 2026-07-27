@@ -123,9 +123,13 @@ résidus au lieu de les déclarer extérieurs au problème.
 
 L'intéressant paraît souvent se situer à la frange de ce qui est déjà compris. La zone
 proximale de Vygotski décrit les transitions rendues accessibles par la médiation ; Lenat
-formule que l'apprentissage étend, combine ou raffine quelques éléments déjà connus ;
-Lenat et Feigenbaum soulignent plus généralement que la quantité et la largeur du savoir
-préalable conditionnent ce qu'un système peut apprendre.
+formule que l'apprentissage étend, combine ou raffine quelques éléments déjà connus. Il
+attribue explicitement cette observation à « Arthur Koestler et beaucoup d'autres ».
+Cette filiation rapproche la frange de la bisociation koestlérienne, où une création
+articule des matrices auparavant séparées. La formule exacte reste cependant attestée
+chez Lenat et non localisée telle quelle dans `The Act of Creation`. Lenat et Feigenbaum
+soulignent plus généralement que la quantité et la largeur du savoir préalable
+conditionnent ce qu'un système peut apprendre.
 
 La thèse examinera une hypothèse supplémentaire : le langage déplace cette frange en
 stabilisant les constructions acquises. Un mot, un concept ou une notation compacte des

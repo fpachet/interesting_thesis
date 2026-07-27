@@ -62,6 +62,11 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "cartes" / "idea_0128" / "index.html").is_file()
     assert (output / "bibliographie" / "russell1995awardlecture" / "index.html").is_file()
 
+    card_catalog = (output / "cartes" / "index.html").read_text(encoding="utf-8")
+    assert "koestler, arthur (1989). the act of creation" in card_catalog
+    search_script = (output / "assets" / "app.js").read_text(encoding="utf-8")
+    assert "hasAtMostOneEdit" in search_script
+
 
 def test_bibliography_links_cards_references_and_documents(tmp_path: Path) -> None:
     output = generate_site(tmp_path)

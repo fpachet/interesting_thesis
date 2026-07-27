@@ -12,16 +12,19 @@ references:
   - vygotsky1978mind
   - lenat2008turtle
   - lenat1991thresholds
+  - koestler1989act
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-3 et 20"
   - "Jotney, bande étroite entre mobilité, densité, monotonie et surprise, PDF p. 3"
   - "Vygotski, Mind in Society, p. 86-90 : la zone proximale sépare ce qui est déjà maîtrisé de ce qui devient accessible avec une aide."
-  - "Lenat, The Voice of the Turtle, p. 17-18 : l'apprentissage se produit à la frange de ce que le sujet sait déjà."
+  - "Lenat, The Voice of the Turtle, p. 17-18 : l'apprentissage se produit à la frange de ce que le sujet sait déjà ; Lenat attribue explicitement cette observation à Arthur Koestler et à beaucoup d'autres."
+  - "Koestler, The Act of Creation : la bisociation décrit la mise en relation de matrices auparavant séparées. La formule exacte sur l'apprentissage à la frange n'a pas été localisée dans le livre et reste citée comme une attribution de Lenat."
   - "Lenat et Feigenbaum, On the Thresholds of Knowledge, p. 185-250 : principe de connaissance et hypothèse de largeur ; la formule de la frange n'est pas attribuée ici à cet article."
 tags:
   - schmidhuber
   - vygotski
   - lenat
+  - koestler
   - apprentissage
   - difficulte
   - subjectivite
@@ -52,6 +55,14 @@ nouveauté apprenable étend, combine ou raffine quelques éléments acquis. Le 
 connaissance et l'hypothèse de largeur défendus avec Feigenbaum en 1991 renforcent cette
 idée générale : l'étendue du savoir préalable conditionne les situations nouvelles
 qu'un système peut comprendre par rapprochement ou analogie.
+
+Lenat ne présente pas cette observation comme étant de lui seul : il l'attribue
+explicitement à **Arthur Koestler et à beaucoup d'autres**. Ce rattachement est
+conceptuellement pertinent, car la bisociation de Koestler décrit une création produite
+par la rencontre de matrices de pensée jusque-là séparées. Il faut toutefois distinguer
+la filiation de la citation : la formule exacte sur l'apprentissage à la frange est
+attestée chez Lenat ; elle n'a pas encore été localisée telle quelle dans *The Act of
+Creation*.
 
 Ces convergences ne démontrent pas que toute zone proximale est intéressante. Elles
 fournissent une condition plus faible : pour déclencher une construction, le nouveau

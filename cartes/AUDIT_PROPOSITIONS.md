@@ -291,8 +291,10 @@ plaisir existentiel de construire.
 `idea_0127` articule désormais la frontière du presque-apprenable et la fonction
 constructive du langage. `idea_0107` a été consolidée avec trois filiations distinctes :
 la zone proximale de Vygotski, la formule de Lenat sur l'apprentissage à la frange du
-savoir existant et le principe de connaissance défendu avec Feigenbaum. La nouvelle
-carte réserve à la thèse l'hypothèse supplémentaire : un concept ou une notation
+savoir existant et le principe de connaissance défendu avec Feigenbaum. L'attribution
+explicite de cette observation par Lenat à Arthur Koestler et à beaucoup d'autres est
+désormais conservée, tout en la distinguant d'une citation directe de Koestler. La
+nouvelle carte réserve à la thèse l'hypothèse supplémentaire : un concept ou une notation
 stabilise une construction acquise en unité compacte, utilisable pour explorer une
 nouvelle frange. Sa limite est explicite : un mot qui ne peut être déplié en
 distinctions, prédictions ou opérations produit une illusion de maîtrise plutôt qu'une

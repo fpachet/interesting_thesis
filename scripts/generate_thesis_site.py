@@ -901,7 +901,11 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
     )
 
 
-def cards_page(cards: dict[str, Card], families: list[tuple[str, list[str]]]) -> str:
+def cards_page(
+    cards: dict[str, Card],
+    families: list[tuple[str, list[str]]],
+    bibliography: dict[str, BibliographyEntry],
+) -> str:
     family_options = "".join(
         f'<option value="{html.escape(name, quote=True)}">{html.escape(name)}</option>' for name, _ in families
     )
@@ -910,7 +914,12 @@ def cards_page(cards: dict[str, Card], families: list[tuple[str, list[str]]]) ->
         f'<option value="{kind}">{html.escape(KIND_LABELS.get(kind, kind))}</option>' for kind in kind_values
     )
     cards_html = "".join(
-        f"""<article class="catalog-card family-{card.family_index}" data-card data-title="{html.escape(card.title.lower(), quote=True)}" data-text="{html.escape((card.body + ' ' + ' '.join(card.tags)).lower(), quote=True)}" data-family="{html.escape(card.family, quote=True)}" data-level="{card.level}" data-kind="{card.kind}">
+        f"""<article class="catalog-card family-{card.family_index}" data-card data-title="{html.escape(card.title.lower(), quote=True)}" data-text="{html.escape(' '.join((
+            card.body,
+            ' '.join(card.tags),
+            ' '.join(card.references),
+            ' '.join(short_reference(bibliography[reference]) for reference in card.references),
+        )).lower(), quote=True)}" data-family="{html.escape(card.family, quote=True)}" data-level="{card.level}" data-kind="{card.kind}">
           <a href="{card.id}/index.html" aria-label="Lire {html.escape(card.title, quote=True)}"></a>
           <div class="catalog-card__top"><span class="catalog-card__id">{card.id.replace('idea_', '')}</span><span class="catalog-card__family">{html.escape(card.family)}</span></div>
           <h2>{html.escape(card.title)}</h2>
@@ -1435,7 +1444,10 @@ def build(output: Path) -> None:
         home_page(cards, families, relations, statement, question, questions, last_date),
     )
     write_page(output / "these" / "index.html", thesis_page(cards, statement, question))
-    write_page(output / "cartes" / "index.html", cards_page(cards, families))
+    write_page(
+        output / "cartes" / "index.html",
+        cards_page(cards, families, bibliography),
+    )
     write_page(
         output / "bibliographie" / "index.html",
         bibliography_page(bibliography, cards_by_reference, len(cards)),

@@ -10,11 +10,13 @@ references:
   - vygotsky1978mind
   - lenat2008turtle
   - lenat1991thresholds
+  - koestler1989act
   - schmidhuber2009compression
 source_notes:
   - "Proposition formulée par François Pachet : l'intéressant se situe dans une couche de frange au-dessus de l'existant ; le langage compacte l'acquis afin de rendre les nouveautés exprimables."
   - "Vygotski, Mind in Society, p. 86-90 : zone de développement proximal et passage de l'activité assistée à l'activité autonome."
-  - "Lenat, The Voice of the Turtle, p. 17-18 : apprentissage à la frange du savoir existant par extension, combinaison ou raffinement."
+  - "Lenat, The Voice of the Turtle, p. 17-18 : apprentissage à la frange du savoir existant par extension, combinaison ou raffinement ; Lenat attribue l'observation à Arthur Koestler et à beaucoup d'autres."
+  - "Koestler, The Act of Creation : la bisociation éclaire le rôle créatif de la combinaison de matrices ; la formule exacte de la frange reste une attribution rapportée par Lenat."
   - "Lenat et Feigenbaum, On the Thresholds of Knowledge, p. 185-250 : principe de connaissance et rôle de la largeur du savoir préalable."
   - "Le rapprochement entre langage, compression et déplacement de la frange est une hypothèse propre à la thèse, non une proposition attribuée telle quelle à ces auteurs."
 tags:
@@ -58,6 +60,12 @@ plus généralement le rôle de la quantité et de la largeur des connaissances
 disponibles. Schmidhuber décrit un progrès de compression. La thèse ajoute ici une
 médiation : **la compression peut devenir linguistique et conceptuelle**, en transformant
 une construction acquise en primitive pour la suivante.
+
+La mention de Koestler par Lenat ajoute une filiation créative à cette articulation. La
+frange n'est pas seulement le voisinage d'un stock de connaissances : elle est aussi le
+lieu où des matrices déjà disponibles peuvent être combinées ou déplacées. Cette
+lecture rapproche le presque-apprenable de la bisociation, sans attribuer à Koestler la
+théorie linguistique de la compression proposée ici.
 
 ## Limite
 

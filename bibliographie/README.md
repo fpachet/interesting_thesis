@@ -43,6 +43,7 @@ son rendu bibliographique reste reproductible.
 | `vygotsky1978mind` | pas encore dans le corpus | recueil édité ; définition de la zone de développement proximal, p. 86-90 |
 | `lenat2008turtle` | pas encore dans le corpus | article d'AI Magazine ; formule de l'apprentissage à la frange du savoir, p. 17-18 |
 | `lenat1991thresholds` | pas encore dans le corpus | article de Lenat et Feigenbaum sur le principe de connaissance et l'hypothèse de largeur |
+| `koestler1989act` | pas encore dans le corpus | réédition de `The Act of Creation` (1964) ; bisociation et filiation explicitement invoquée par Lenat pour l'apprentissage à la frange |
 | `russell1995rationality` | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | article associé au Computers and Thought Award ; avertissement contre la mathématisation prématurée, p. 950 |
 | `russell1995awardlecture` | transcription dans `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | allocution pour le Computers and Thought Award à IJCAI-95 ; source intellectuelle de la formulation orale sur les parties intéressantes définies hors du problème |
 | `pachet1997representation` | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | mémoire d'HDR ; conserve la formulation orale longue de Russell sur les parties intéressantes définies hors du problème, PDF p. 10 |
