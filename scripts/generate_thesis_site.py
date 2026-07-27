@@ -29,7 +29,7 @@ BIBLIOGRAPHY_TYPE_LABELS = {
     "misc": "Ressource en ligne",
     "phdthesis": "Thèse",
     "techreport": "Rapport",
-    "unpublished": "Manuscrit",
+    "unpublished": "Document non publié",
 }
 
 BIBLIOGRAPHY_FIELD_LABELS = {
@@ -557,7 +557,12 @@ def format_people(value: str, *, shortened: bool = False) -> str:
 
 def short_reference(entry: BibliographyEntry) -> str:
     people = format_people(entry.contributors, shortened=True)
-    return f"{people} ({entry.year}). {entry.title}"
+    entry_kind = (
+        f" [{entry.fields['type']}]"
+        if entry.entry_type == "unpublished" and entry.fields.get("type")
+        else ""
+    )
+    return f"{people} ({entry.year}). {entry.title}{entry_kind}"
 
 
 def format_reference(entry: BibliographyEntry) -> str:
@@ -572,6 +577,8 @@ def format_reference(entry: BibliographyEntry) -> str:
         parts.append(f"<em>{html.escape(entry.title)}</em>")
     else:
         parts.append(f"« {html.escape(entry.title)} »")
+    if entry.entry_type == "unpublished" and fields.get("type"):
+        parts.append(html.escape(fields["type"]))
 
     container = fields.get("journal") or fields.get("booktitle")
     if container:
@@ -854,6 +861,7 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ("Condition", "idea_0121", "Une zone de difficulté où une construction demeure possible."),
         ("Mécanisme", "idea_0123", "Un travail perceptif, explicatif ou opératoire qui donne prise."),
         ("Médiation symbolique", "idea_0127", "Le langage compacte l'acquis et déplace la frange du presque-apprenable."),
+        ("Garde-fou méthodologique", "idea_0128", "La panoplie scientifique peut éliminer la dimension qu'elle cherche à expliquer."),
         ("Réflexivité", "idea_0126", "Comprendre ses affects en reconstruisant le système de leurs causes."),
         ("Dynamique", "idea_0122", "Une relation métastable qui dérive vers l'ennui ou l'anxiété."),
         ("Mesure candidate", "idea_0071", "Le progrès local plutôt que la surprise ou l'erreur brute."),

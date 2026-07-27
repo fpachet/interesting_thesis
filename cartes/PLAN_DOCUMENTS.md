@@ -27,6 +27,8 @@ articulations réflexives entre ces deux niveaux.
 | `input/The Mystery of Jotney Songs.pdf` | couverture propositionnelle complète | 3 pages de contenu et une page blanche ; surprise nécessaire, autonomie mélodique, mobilité harmonique, contraintes invisibles et écoute relationnelle |
 | `input/The Mystery of Jotney Songs -full.pdf` | dossier de travail composite, couverture propositionnelle complète | 38 pages ; versions successives, dialogue exploratoire, profil analytique, test contrefactuel et programme empirique Jotney |
 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | livre publié, couverture propositionnelle complète | 336 pages ; micro-émotions musicales, écoute superposée, optale et pseudoptale, formation historique de l'attention, fausses évidences, surattention, rapport entre éclat local et structure globale |
+| `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | source théorique, lecture ciblée complète | avertissement contre la mathématisation prématurée et le remplacement du problème de l'intelligence par un substitut formel |
+| `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | archive scientifique personnelle, lecture ciblée | critique de la formalisation a priori et transcription de l'allocution de Russell ; les autres sections du mémoire restent à distiller |
 
 ## Documents anciens dans `input/old_docs/`
 

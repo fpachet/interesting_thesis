@@ -62,6 +62,13 @@ jugement absolu sur la valeur intellectuelle des textes.
 | 31 | `input/old_docs/interestingness ERC.docx` | Document actuellement vide lors de l'extraction textuelle. | Inspection complète ; XML sans texte, media ni objet incorpore, rendu d'une page blanche. |
 | 32 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | Livre publié directement pertinent pour une théorie de l'attention musicale et une analyse de ce qui rend un titre intéressant. | Couverture propositionnelle complète ; 336 pages lues, lexique et exemples regroupés autour de quatre propositions nouvelles et huit cartes existantes. |
 
+## Sources ajoutées après la passe initiale
+
+| Rang | Document | Statut probable | Travail attendu |
+| ---: | --- | --- | --- |
+| 33 | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | Source primaire ciblée sur les limites de la formalisation. | Lecture ciblée complète ; passage sur la mathématisation prématurée intégré à `idea_0128`. |
+| 34 | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | Mémoire d'HDR de 65 pages potentiellement riche en articulations IA/philosophie. | Passage p. 9-10 traité pour `idea_0128` ; passe propositionnelle intégrale à planifier. |
+
 ## Matériaux non textuels
 
 Les deux MP3 du dossier `hooks in hits` ne sont pas inclus dans les 32 documents :
@@ -116,5 +123,8 @@ de quelques formulations alternatives de ses propositions centrales.
 | 30 | `input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/mvdig003.htm` | couverture propositionnelle complète | 12 juillet 2026 |
 | 31 | `input/old_docs/interestingness ERC.docx` | conteneur vide vérifie | 12 juillet 2026 |
 | 32 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | couverture propositionnelle complète | 12 juillet 2026 |
+| 33 | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | lecture ciblée complète | 27 juillet 2026 |
+| 34 | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | lecture ciblée ; passe intégrale à faire | 27 juillet 2026 |
 
-Tous les documents classes dans cette passe ont été traités.
+Les 32 documents de la passe initiale ont été traités. Parmi les deux sources ajoutées
+le 27 juillet 2026, le mémoire d'HDR du rang 34 reste à traiter intégralement.

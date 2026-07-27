@@ -29,6 +29,7 @@
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
+- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
 - `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.

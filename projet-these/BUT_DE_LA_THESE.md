@@ -77,6 +77,48 @@ curiosité récompense l'amélioration du modèle, et non la surprise brute. Ces
 computationnels constituent des opérationalisations partielles à confronter à
 l'expérience humaine, non une réduction acquise de l'intéressant.
 
+## L'hostilité de la formalisation à l'égard de l'intéressant
+
+La science dispose d'une panoplie redoutable pour lutter contre l'objectif même de cette
+thèse. Définition opératoire, décomposition, contrôle des variables, répétabilité,
+normalisation, moyennes, benchmarks et optimisation permettent de produire des
+hypothèses testables et cumulatives. Mais ces instruments tendent aussi à remplacer
+silencieusement le problème initial par un substitut plus stable et plus commode.
+
+Il existe en ce sens une **hostilité structurelle de la formalisation à l'égard de
+l'intéressant**. Ce n'est pas une intention hostile des chercheurs ni un argument
+antiscientifique. C'est une difficulté propre à un phénomène relationnel, historique et
+transformateur : le rendre mesurable peut neutraliser la relation, l'histoire et la
+transformation qui le constituent.
+
+Russell avertit contre une « mathématisation prématurée » où des résultats de plus en
+plus techniques s'éloignent du problème de l'intelligence. Dans son allocution pour le
+Computers and Thought Award à IJCAI-95, conservée dans un mémoire antérieur, il décrit le
+risque qu'un problème formel remplace le problème informel et que ses « parties
+intéressantes » soient définies hors du champ.
+
+L'écart entre les deux versions fournit lui-même un exemple réflexif. La transcription
+orale nomme directement les parties intéressantes éliminées et les solutions devenues
+inintéressantes. L'article publié conserve l'avertissement, mais le reformule dans le
+vocabulaire plus abstrait de la mathématisation prématurée. Le passage de la parole au
+texte scientifique semble donc atténuer précisément la dimension que l'allocution
+cherchait à sauver. Cette lecture ne prouve rien sur les intentions de Russell ou sur
+l'histoire éditoriale du texte ; elle transforme néanmoins la différence entre les deux
+états en objet d'analyse pour la thèse.
+
+Cette alerte concerne directement les systèmes génératifs. « Produire quelque chose
+d'intéressant » tend à devenir : produire quelque chose de syntaxiquement correct,
+sémantiquement cohérent, probable dans un corpus ou conforme à des contraintes. Ces
+substituts sont utiles mais ne conservent pas nécessairement la relation dynamique par
+laquelle une forme transforme l'attention ou les capacités d'un sujet.
+
+La thèse devra donc traiter chaque mesure comme une hypothèse locale, conserver la
+distinction entre cible et indicateur, et étudier systématiquement leurs divergences.
+Une formalisation réussie ne doit pas seulement rendre le problème soluble ; elle doit
+montrer ce qu'elle a préservé de la question qui motivait sa construction. Une part du
+programme consiste ainsi à concevoir une formalisation réflexive qui conserve ses
+résidus au lieu de les déclarer extérieurs au problème.
+
 ## Médiation symbolique : le langage déplace la frange du nouveau
 
 L'intéressant paraît souvent se situer à la frange de ce qui est déjà compris. La zone

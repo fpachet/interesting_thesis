@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 124 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 82 `conceptual`, 18 `scientific` et 24
+Les 125 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 82 `conceptual`, 18 `scientific` et 25
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -297,6 +297,23 @@ stabilise une construction acquise en unité compacte, utilisable pour explorer 
 nouvelle frange. Sa limite est explicite : un mot qui ne peut être déplié en
 distinctions, prédictions ou opérations produit une illusion de maîtrise plutôt qu'une
 compression cognitive.
+
+Une objection méthodologique distincte est désormais portée par `idea_0128`. Elle ne se
+réduit ni à la limite épistémologique de `idea_0088`, ni au cas syntaxique de
+`idea_0098`. Russell avertit
+dans l'article associé à son Computers and Thought Award contre la mathématisation
+prématurée, qui éloigne les résultats techniques du problème initial. Le mémoire d'HDR
+de Pachet conserve une formulation plus radicale de l'allocution : le problème formel
+peut remplacer le problème informel et définir ses parties intéressantes hors du champ.
+La carte transpose cette alerte aux systèmes génératifs, où correction, cohérence,
+probabilité et satisfaction de contraintes deviennent facilement des substituts de
+l'intéressant. Elle formule désormais l'hypothèse plus forte d'une hostilité structurelle
+de la formalisation : la panoplie scientifique de l'opérationnalisation, du contrôle, de
+la répétabilité, de la normalisation et de l'optimisation tend à éliminer les dimensions
+relationnelles et historiques du phénomène. L'écart entre l'allocution orale de Russell
+et l'article publié devient un exemple réflexif : la mise en garde subsiste dans l'écrit,
+mais les termes « intéressant » et « inintéressant » qui en faisaient la force
+disparaissent.
 
 ## Identifiants retires
 

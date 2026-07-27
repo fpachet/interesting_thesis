@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   124 cartes y sont affectées une seule fois à sept familles.
+   125 cartes y sont affectées une seule fois à sept familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -59,6 +59,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
 | Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
 | Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
+| Garde-fou méthodologique | [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md) | La panoplie scientifique exerce une hostilité structurelle lorsqu'elle remplace la cible par un substitut stable qui élimine sa dimension intéressante. |
 | Cas réflexif | [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md) | Comprendre les causes de ses affects construit une prise sur soi et transforme la manière dont le sujet en pâtit. |
 | Mesure temporelle candidate | [`idea_0071`](inbox/idea_0071_interet_gain_temporaire_compression.md) | Le gradient de progrès opérationnalise une dimension du travail constructif en cours. |
 | Dynamique et épuisement | [`idea_0122`](inbox/idea_0122_interessant_equilibre_metastable.md) | Toute relation intéressante peut dériver vers l'ennui par maîtrise ou vers l'anxiété par perte de prise. |
@@ -78,6 +79,9 @@ peuvent être rendues observables, construites et contestées :
   de systèmes comme un laboratoire philosophique de la naissance des idées ;
 - [`idea_0088`](inbox/idea_0088_modele_computationnel_sans_naturalisation.md) rappelle
   qu'un modèle testable ne suffit pas à épuiser l'objet philosophique ;
+- [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md)
+  décrit l'hostilité structurelle par laquelle les instruments de formalisation peuvent
+  remplacer l'objet par un problème plus commode ;
 - [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md)
   distingue cette non-réduction d'un refus de toute explication causale ;
 - [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md)
@@ -122,6 +126,7 @@ musique comme laboratoire (0086)
 IA comme laboratoire philosophique (0018)
   -> naturalisation relationnelle du phénomène psychique (0125)
   -> limite de la réduction computationnelle (0088)
+  -> risque de définir la partie intéressante hors du problème (0128)
   -> distinction résultats / idées / articulations (0110)
 ```
 
@@ -154,7 +159,7 @@ Les cartes les plus structurantes à ce stade sont :
 - `idea_0001`, `idea_0071`, `idea_0107`, `idea_0122` et `idea_0127` pour sa dynamique temporelle et son déplacement symbolique ;
 - `idea_0085`, `idea_0096` et `idea_0109` pour problème, rareté et contraintes ;
 - `idea_0086`, `idea_0112` et `idea_0113` pour la théorie de l'attention musicale ;
-- `idea_0018`, `idea_0125`, `idea_0088` et `idea_0110` pour la contribution réflexive de la thèse.
+- `idea_0018`, `idea_0125`, `idea_0088`, `idea_0128` et `idea_0110` pour la contribution réflexive de la thèse.
 
 Une carte pivot n'est pas nécessairement vraie, finale ou supérieure aux autres.
 C'est une proposition dont plusieurs arguments dépendent et qu'il faudra donc

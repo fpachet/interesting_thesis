@@ -134,7 +134,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 
-## 5. IA, interaction et méthode réflexive (13)
+## 5. IA, interaction et méthode réflexive (14)
 
 ### Pivots
 
@@ -157,6 +157,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 - `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
+- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
 
 ## 6. Virtuosité, difficulté et incorporation (11)
 
@@ -205,6 +206,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les sept familles contiennent respectivement 17, 26, 29, 10, 13, 11 et 18
-cartes, soit les 124 cartes actives. Toute modification de cet index doit
+Les sept familles contiennent respectivement 17, 26, 29, 10, 14, 11 et 18
+cartes, soit les 125 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

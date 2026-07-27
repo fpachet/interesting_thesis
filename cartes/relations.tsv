@@ -123,3 +123,7 @@ idea_0127	specifies	idea_0107	Le langage stabilise les constructions acquises et
 idea_0127	supports	idea_0123	Une construction conceptuelle devient une prise reutilisable pour les constructions suivantes.
 idea_0127	bridges	idea_0027	Relie le progres de compression a la stabilisation linguistique et conceptuelle de l'acquis.
 idea_0079	limits	idea_0127	Un mot peut simuler une compression sans conserver de distinctions ou d'operations deployables.
+idea_0128	specifies	idea_0088	Un modele peut non seulement ne pas epuiser son objet mais le remplacer par un substitut formel plus commode.
+idea_0128	supports	idea_0098	La correction syntaxique illustre un objectif formel qui conserve l'admissibilite sans conserver l'interet.
+idea_0128	supports	idea_0003	La formalisation de la syntaxe et du sens peut laisser hors champ la puissance attentionnelle d'une forme.
+idea_0128	contrasts_with	idea_0095	Un modele de l'interessant peut echouer par reduction prematuree de sa cible ou par generalite infalsifiable.

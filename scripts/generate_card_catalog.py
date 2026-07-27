@@ -673,23 +673,16 @@ def render_card(card: Card) -> str:
         latex_paragraphs(card.sections["Idée"]),
     ]
 
-    for heading in (
-        "Exemple",
-        "Exemples",
-        "Distinction",
-        "Critère",
-        "Conséquence méthodologique",
-        "Statut de la source",
-        "Contexte bibliographique",
-    ):
-        if heading in card.sections:
-            parts.extend(
-                [
-                    "",
-                    rf"\paragraph{{{latex_escape(heading)}}}",
-                    latex_paragraphs(card.sections[heading]),
-                ]
-            )
+    for heading, content in card.sections.items():
+        if heading in {"Idée", "Intérêt pour la thèse", "Liens"}:
+            continue
+        parts.extend(
+            [
+                "",
+                rf"\paragraph{{{latex_escape(heading)}}}",
+                latex_paragraphs(content),
+            ]
+        )
 
     parts.extend(
         [

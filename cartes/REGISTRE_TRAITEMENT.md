@@ -17,6 +17,8 @@ La séquence de reprise systématique est définie dans
 | `input/The Mystery of Jotney Songs.pdf` | couverture_propositionnelle_complete | 3 pages de contenu relues intégralement le 12 juillet 2026, plus une page blanche ; six cartes existantes renforcées et une proposition créée sur l'équilibre entre autonomie mélodique et mobilité harmonique ; conjectures géographiques et prosodiques inventoriées comme pistes. | `idea_0019`, `idea_0071`, `idea_0085`, `idea_0087`, `idea_0090`, `idea_0107`, `idea_0111` |
 | `input/The Mystery of Jotney Songs -full.pdf` | couverture_propositionnelle_complete | 38 pages relues intégralement et contrôlées sur le rendu le 12 juillet 2026 ; dossier composite contenant plusieurs versions, un dialogue exploratoire et des notes. Le régime graduel Jotney, le test contrefactuel de la continuation simplement compétente et l'interdépendance mélodie-harmonie ont été raccordés à quatre cartes ; les listes de traits restent des indices et les hypothèses d'entropie, de prosodie, de géographie et de déclin historique un programme empirique. | `idea_0032`, `idea_0039`, `idea_0084`, `idea_0111` |
 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | couverture_propositionnelle_complete | 336 pages lues intégralement et échantillon de pages contrôlé sur le rendu le 12 juillet 2026 ; les termes du lexique ont été regroupés en propositions sur les transformations attentionnelles plutôt qu'atomisés. Quatre cartes créées, huit cartes existantes renforcées, exemples musicaux et objections conservés avec leurs pages. | `idea_0012`, `idea_0032`, `idea_0034`, `idea_0038`, `idea_0071`, `idea_0084`, `idea_0085`, `idea_0097`, `idea_0112` à `idea_0115` |
+| `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | lecture_ciblee_complete | Article IJCAI officiel vérifié le 27 juillet 2026 ; p. 950 relue pour l'avertissement contre la mathématisation prématurée. La citation orale longue n'apparaît pas textuellement dans les actes. | `idea_0128` |
+| `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | lecture_ciblee_a_reprendre | Mémoire d'HDR de 65 pages ajouté le 27 juillet 2026 ; p. 9-10 relues pour la critique de la formalisation a priori et la transcription de l'allocution de Russell. Une passe propositionnelle intégrale reste à faire pour les autres sections. | `idea_0128` |
 | `input/old_docs/Synopsis MIT Press.doc` | couverture_propositionnelle_complete | 43 pages de rendu relues intégralement le 12 juillet 2026 ; les chapitres rédigés ont été distingués des listes de pistes et emplacements à compléter. | `idea_0001`, `idea_0004` à `idea_0006`, `idea_0012`, `idea_0014`, `idea_0019`, `idea_0032`, `idea_0051`, `idea_0068`, `idea_0096`, `idea_0098`, `idea_0101` à `idea_0105` |
 | `input/old_docs/Interesting Interactions (sent to Luc).doc` | couverture_propositionnelle_complete | 9 pages de rendu relues intégralement le 12 juillet 2026 ; prologue et outline reconnus comme doublons du Synopsis, chapitre original raccordé à trois cartes existantes sans nouvelle carte. | `idea_0006`, `idea_0007`, `idea_0104` |
 | `input/old_docs/TBKLullyNOTES.doc` | couverture_propositionnelle_complete | 8 pages de rendu relues intégralement le 12 juillet 2026 ; fragments filtrés selon leur apport à l'intéressant, douze cartes existantes raccordées et une nouvelle proposition sur la dépendance de la similarité au corpus. | `idea_0001`, `idea_0002`, `idea_0007`, `idea_0014`, `idea_0015`, `idea_0022` à `idea_0024`, `idea_0046`, `idea_0096`, `idea_0104` à `idea_0106` |
@@ -54,11 +56,13 @@ La séquence de reprise systématique est définie dans
 
 ## État après cette passe
 
-Les 32 rangs de `ORDRE_TRAITEMENT_DOCUMENTS.md` sont terminés. Aucun document
-textuel répertorie ne reste en `premiere_passe` ou `a_revoir`. Les deux MP3 ont
+Les 32 rangs de la passe initiale de `ORDRE_TRAITEMENT_DOCUMENTS.md` sont terminés.
+Deux sources ont été ajoutées ensuite pour `idea_0128` : l'article de Russell a reçu la
+lecture ciblée nécessaire ; le mémoire d'HDR de Pachet devra faire l'objet d'une passe
+propositionnelle intégrale. Les deux MP3 ont
 été vérifiés comme fichiers distincts et décodables ; une analyse harmonique ne
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
-La prochaine étape n'est donc plus l'ingestion, mais l'organisation argumentative
-des 124 cartes : sélection des propositions centrales, regroupement des cartes
-qui se recouvrent et construction d'un plan de thèse.
+Le corpus comprend désormais 125 cartes. L'organisation argumentative reste l'activité
+principale, avec une tâche documentaire explicite en attente sur le mémoire d'HDR de
+1997.
