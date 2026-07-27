@@ -669,7 +669,7 @@ def base_page(
   <footer class="site-footer">
     <div class="shell site-footer__inner">
       <p><strong>L'émergence de l'intéressant</strong><br>Atelier documentaire d'un projet de thèse en philosophie.</p>
-      <p class="site-footer__links"><a href="{prefix}suivi/index.html">État du projet</a><a href="{prefix}cartes/index.html">121 propositions</a></p>
+      <p class="site-footer__links"><a href="{prefix}suivi/index.html">État du projet</a><a href="{prefix}cartes/index.html">{len(list(CARDS_DIR.glob("idea_*.md")))} propositions</a></p>
     </div>
   </footer>
 </body>
@@ -853,6 +853,7 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ("Cadre relationnel", "idea_0084", "Une forme, un sujet, une mémoire et un horizon historique."),
         ("Condition", "idea_0121", "Une zone de difficulté où une construction demeure possible."),
         ("Mécanisme", "idea_0123", "Un travail perceptif, explicatif ou opératoire qui donne prise."),
+        ("Médiation symbolique", "idea_0127", "Le langage compacte l'acquis et déplace la frange du presque-apprenable."),
         ("Réflexivité", "idea_0126", "Comprendre ses affects en reconstruisant le système de leurs causes."),
         ("Dynamique", "idea_0122", "Une relation métastable qui dérive vers l'ennui ou l'anxiété."),
         ("Mesure candidate", "idea_0071", "Le progrès local plutôt que la surprise ou l'erreur brute."),

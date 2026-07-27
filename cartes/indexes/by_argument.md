@@ -177,7 +177,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0089` - La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste.
 - `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
 
-## 7. Culture, langage et politique de l'attention (17)
+## 7. Culture, langage et politique de l'attention (18)
 
 ### Culture, abondance et circulation
 
@@ -190,6 +190,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ### Langage, séduction et résistance
 
+- `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0052` - Céline : créer comme ruse contre la langue.
 - `idea_0057` - Les fantasmagories séduisent par plaisir de la glisse.
 - `idea_0061` - Le langage est le terrain privilégié des impostures virtuoses.
@@ -204,6 +205,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les sept familles contiennent respectivement 17, 26, 29, 10, 13, 11 et 17
-cartes, soit les 123 cartes actives. Toute modification de cet index doit
+Les sept familles contiennent respectivement 17, 26, 29, 10, 13, 11 et 18
+cartes, soit les 124 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

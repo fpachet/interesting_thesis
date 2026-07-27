@@ -77,6 +77,26 @@ curiosité récompense l'amélioration du modèle, et non la surprise brute. Ces
 computationnels constituent des opérationalisations partielles à confronter à
 l'expérience humaine, non une réduction acquise de l'intéressant.
 
+## Médiation symbolique : le langage déplace la frange du nouveau
+
+L'intéressant paraît souvent se situer à la frange de ce qui est déjà compris. La zone
+proximale de Vygotski décrit les transitions rendues accessibles par la médiation ; Lenat
+formule que l'apprentissage étend, combine ou raffine quelques éléments déjà connus ;
+Lenat et Feigenbaum soulignent plus généralement que la quantité et la largeur du savoir
+préalable conditionnent ce qu'un système peut apprendre.
+
+La thèse examinera une hypothèse supplémentaire : le langage déplace cette frange en
+stabilisant les constructions acquises. Un mot, un concept ou une notation compacte des
+distinctions et parfois des opérations en une unité réutilisable. Ce qui exigeait un
+travail devient une prise disponible pour une construction nouvelle. La dynamique serait
+donc récursive : construction intéressante, stabilisation conceptuelle, unité
+langagière, puis nouvelle frange de problèmes exprimables.
+
+Cette compression ne doit pas être confondue avec le simple fait de nommer. Un terme
+n'est une prise que s'il peut être au moins partiellement déplié en distinctions,
+prédictions, comparaisons, opérations ou exemples contrôlables. Sinon, le langage produit
+une illusion de maîtrise et rejoint les faux positifs de la compréhension.
+
 ## Programme de naturalisation : un geste spinoziste
 
 L'étude de l'intéressant peut être comprise comme l'objectivation d'un phénomène central

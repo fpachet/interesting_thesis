@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 123 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 82 `conceptual`, 18 `scientific` et 23
+Les 124 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 82 `conceptual`, 18 `scientific` et 24
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -287,6 +287,16 @@ nouvelle sur lui-même. Le plaisir peut accompagner cette prise, mais ne constit
 définition ni une preuve suffisante de sa justesse. Feynman et Florman donnent désormais
 deux appuis distincts à cette articulation : le plaisir épistémique de découvrir et le
 plaisir existentiel de construire.
+
+`idea_0127` articule désormais la frontière du presque-apprenable et la fonction
+constructive du langage. `idea_0107` a été consolidée avec trois filiations distinctes :
+la zone proximale de Vygotski, la formule de Lenat sur l'apprentissage à la frange du
+savoir existant et le principe de connaissance défendu avec Feigenbaum. La nouvelle
+carte réserve à la thèse l'hypothèse supplémentaire : un concept ou une notation
+stabilise une construction acquise en unité compacte, utilisable pour explorer une
+nouvelle frange. Sa limite est explicite : un mot qui ne peut être déplié en
+distinctions, prédictions ou opérations produit une illusion de maîtrise plutôt qu'une
+compression cognitive.
 
 ## Identifiants retires
 

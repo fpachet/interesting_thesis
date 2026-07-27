@@ -40,6 +40,9 @@ son rendu bibliographique reste reproductible.
 | --- | --- | --- |
 | `schmidhuber1997interesting` | `input/old_docs/interestingness.pdf` | rapport technique publié |
 | `schmidhuber2009compression` | pas encore dans le corpus | chapitre de synthèse sur le progrès de compression |
+| `vygotsky1978mind` | pas encore dans le corpus | recueil édité ; définition de la zone de développement proximal, p. 86-90 |
+| `lenat2008turtle` | pas encore dans le corpus | article d'AI Magazine ; formule de l'apprentissage à la frange du savoir, p. 17-18 |
+| `lenat1991thresholds` | pas encore dans le corpus | article de Lenat et Feigenbaum sur le principe de connaissance et l'hypothèse de largeur |
 | `oudeyer2007intrinsic` | pas encore dans le corpus | article IEEE sur la curiosité adaptative et les niches de progrès |
 | `oudeyer2007typology` | pas encore dans le corpus | typologie computationnelle des motivations intrinsèques |
 | `colton2000interestingness` | `input/old_docs/interestingness-ijhcs.pdf` | article de revue |

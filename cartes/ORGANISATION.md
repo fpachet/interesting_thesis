@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   123 cartes y sont affectées une seule fois à sept familles.
+   124 cartes y sont affectées une seule fois à sept familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -58,6 +58,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Programme de naturalisation | [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md) | L'intéressant devient un phénomène psychique explicable sans être assigné comme propriété intrinsèque à l'objet. |
 | Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
 | Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
+| Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
 | Cas réflexif | [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md) | Comprendre les causes de ses affects construit une prise sur soi et transforme la manière dont le sujet en pâtit. |
 | Mesure temporelle candidate | [`idea_0071`](inbox/idea_0071_interet_gain_temporaire_compression.md) | Le gradient de progrès opérationnalise une dimension du travail constructif en cours. |
 | Dynamique et épuisement | [`idea_0122`](inbox/idea_0122_interessant_equilibre_metastable.md) | Toute relation intéressante peut dériver vers l'ennui par maîtrise ou vers l'anxiété par perte de prise. |
@@ -104,6 +105,7 @@ La première lecture du graphe fait apparaître quatre chaînes principales :
   -> relation forme-mémoire (0084)
   -> zone de flow entre ennui et anxiété (0121)
   -> construction d'une prise sur l'objet (0123)
+  -> stabilisation langagière et nouvelle frange (0127)
   -> compréhension de soi comme construction réflexive (0126)
   -> reconstruction du problème depuis sa solution (0085)
   -> dérives et épuisement de la relation (0122)
@@ -149,7 +151,7 @@ combinatoire d'une intuition philosophique plus large.
 Les cartes les plus structurantes à ce stade sont :
 
 - `idea_0083`, `idea_0084`, `idea_0121` et surtout `idea_0123` pour l'objet philosophique central ;
-- `idea_0001`, `idea_0071`, `idea_0107` et `idea_0122` pour sa dynamique temporelle ;
+- `idea_0001`, `idea_0071`, `idea_0107`, `idea_0122` et `idea_0127` pour sa dynamique temporelle et son déplacement symbolique ;
 - `idea_0085`, `idea_0096` et `idea_0109` pour problème, rareté et contraintes ;
 - `idea_0086`, `idea_0112` et `idea_0113` pour la théorie de l'attention musicale ;
 - `idea_0018`, `idea_0125`, `idea_0088` et `idea_0110` pour la contribution réflexive de la thèse.
@@ -172,6 +174,8 @@ Ces groupes sont proches mais ne doivent pas encore être fusionnés :
   phénoménologique ;
 - `idea_0049` et `idea_0107` : crédibilité de la difficulté et accessibilité d'un
   apprentissage ;
+- `idea_0027`, `idea_0107` et `idea_0127` : progrès de compression, frontière du
+  presque-apprenable et stabilisation langagière de l'acquis ;
 - `idea_0005` et `idea_0115` : insuffisance de la surprise et faux positif produit
   par l'attention.
 

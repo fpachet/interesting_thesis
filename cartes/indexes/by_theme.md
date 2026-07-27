@@ -33,6 +33,7 @@
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
+- `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 
 ## Ennui, surprise, rareté
 
@@ -100,6 +101,7 @@
 ## Exploration, similarité, parcours
 
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.
 - `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.
 - `idea_0022` - Un objet raté peut soutenir l'attention en transformant le spectateur en diagnosticien.
