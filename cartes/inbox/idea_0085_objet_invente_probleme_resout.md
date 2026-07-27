@@ -8,12 +8,15 @@ sources:
   - "input/projet thèse philo.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
+  - "docs/Bachimont.pdf"
 references:
   - pachet2018oreille
+  - bachimont1996hermeneutique
 source_notes:
   - "PDF p. 2"
   - "Jotney, chanson comme problème melodico-harmonique et preuve de sa solution, PDF p. 1-2"
   - "Histoire d'une oreille, sentiment d'optale obtenu par variations voisines, PDF p. 17-21 et 64-66 ; solution d'ouverture trouvée après recherche, p. 282."
+  - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : reconstruction gadamérienne de la question à laquelle un texte ou un signe répond, fusion des horizons et innovation interprétative."
 tags:
   - interessant
   - probleme
@@ -49,6 +52,21 @@ alternatives voisines échouent après que la forme a été entendue, faisant ap
 simultanément la solution et les contraintes qu'elle satisfait. Cette épreuve doit
 toutefois être distinguée de la pseudoptale, où la familiarité seule fait passer une
 trajectoire répétée pour nécessaire.
+
+La reconstruction que Bachimont propose de Gadamer fournit un précédent herméneutique à
+ce mécanisme. Comprendre un texte ou un signe exige de retrouver la question à laquelle
+il peut répondre. Cette reconstruction ne restitue pourtant pas un problème originaire
+qui aurait été définitivement fixé lors de la production : l'interprète réactualise la
+question depuis son propre horizon et produit ainsi une compréhension nouvelle. L'objet
+transmis pose donc lui-même une question à celui qui le reçoit, mais cette question
+excède les réponses déjà données.
+
+Le rapprochement doit rester précis. Gadamer, dans la lecture de Bachimont, décrit le
+travail de compréhension d'une chose transmise ; il n'affirme pas directement que tout
+objet intéressant « invente son problème ». La thèse ajoute cette articulation : une
+forme devient intéressante lorsque le travail herméneutique permet non seulement de
+retrouver ce à quoi elle répond, mais de rendre perceptible une configuration de
+contraintes qui n'était pas disponible avant la rencontre avec cette forme.
 
 ## Cas Jotney
 

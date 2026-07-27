@@ -8,14 +8,17 @@ sources:
   - "input/projet thèse philo.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
+  - "docs/Bachimont.pdf"
 references:
   - pachet2018oreille
   - spinoza1861oeuvres
+  - bachimont1996hermeneutique
 source_notes:
   - "PDF p. 1-2"
   - "Dossier Jotney, propriété relationnelle robuste et effet de l'analyse, PDF p. 3-4"
   - "Histoire d'une oreille, apprentissages passifs qui préparent des effets futurs, PDF p. 27-34 ; changement de goût et dépendance au contexte, p. 281-295 ; impossibilité de retrouver l'oreille antérieure, p. 306-310."
   - "Spinoza, Éthique, partie III, proposition XXVII, démonstration : les idées des affections enveloppent la nature de notre corps et celle du corps extérieur."
+  - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : l'horizon de production d'une réponse et l'horizon depuis lequel l'interprète réactualise sa question ne se confondent que par un travail de compréhension."
 tags:
   - interessant
   - memoire
@@ -56,6 +59,15 @@ devient un troisième terme explicite lorsqu'on étudie non plus l'expérience d
 mais la circulation, la stabilisation ou la disparition collective d'un intérêt. La
 thèse doit donc distinguer la structure relationnelle minimale de son explication
 sociale complète.
+
+La lecture de Gadamer proposée par Bachimont permet de rendre cet horizon dynamique.
+L'horizon n'est pas un simple stock de conventions ajouté à la forme et au sujet. Une
+chose transmise a été produite comme réponse dans une situation historique, tandis que
+l'interprète réactualise la question depuis une autre situation. Comprendre ne consiste
+ni à effacer cette différence ni à retrouver intacte l'intention d'origine : la fusion
+des horizons innove en inscrivant l'ancienne réponse dans une compréhension nouvelle de
+la question. Le paramètre `H` doit donc représenter une transformation historique de la
+relation, et non un contexte fixe.
 
 La mémoire pertinente n'est pas seulement le souvenir explicite d'une œuvre. Des écoutes
 passives, des erreurs de disque, des gestes instrumentaux et des contextes oubliés

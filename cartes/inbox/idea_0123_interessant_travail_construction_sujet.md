@@ -7,15 +7,18 @@ status: inbox
 sources:
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "input/old_docs/interestingness.pdf"
+  - "docs/Bachimont.pdf"
 references:
   - pachet2018oreille
   - schmidhuber1997interesting
   - steels2005coordinating
   - steels2015talkingheads
+  - bachimont1996hermeneutique
 source_notes:
   - "Histoire d'une oreille, apprentissages perceptifs et construction progressive d'une écoute, PDF p. 27-34 et 281-295"
   - "Schmidhuber, apprentissage de régularités et progrès de compression, PDF p. 1-3 et 20"
   - "Le rapprochement avec les language games de Steels est une articulation proposée par la thèse"
+  - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : comprendre comme reconstruction et réactualisation de la question à laquelle la chose transmise répond."
 tags:
   - interessant
   - flow
@@ -63,6 +66,14 @@ auxquelles elle répond, les alternatives qu'elle exclut et le problème qu'elle
 visible. Demander « de quel problème cet objet est-il la solution ? » devient ainsi une
 opération générale pour prolonger l'intérêt et transformer la perception en
 compréhension.
+
+Cette opération reçoit une détermination herméneutique dans la thèse de Bachimont.
+Comprendre une chose transmise revient à reconstruire la question à laquelle elle répond,
+mais cette reconstruction ne reproduit pas une signification passée. Elle dépasse
+l'horizon initial et réinscrit la réponse dans une interrogation présente. La
+construction n'est donc pas seulement l'acquisition d'une représentation plus complète
+de l'objet : elle transforme la question depuis laquelle l'objet et le sujet peuvent se
+répondre.
 
 ## Trois niveaux de construction
 

@@ -47,6 +47,7 @@ son rendu bibliographique reste reproductible.
 | `russell1995rationality` | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | article associé au Computers and Thought Award ; avertissement contre la mathématisation prématurée, p. 950 |
 | `russell1995awardlecture` | transcription dans `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | allocution pour le Computers and Thought Award à IJCAI-95 ; source intellectuelle de la formulation orale sur les parties intéressantes définies hors du problème |
 | `pachet1997representation` | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | mémoire d'HDR ; conserve la formulation orale longue de Russell sur les parties intéressantes définies hors du problème, PDF p. 10 |
+| `bachimont1996hermeneutique` | `docs/Bachimont.pdf` | thèse d'épistémologie ; lecture ciblée des PDF p. 322-323 sur la reconstruction de la question, la fusion des horizons et l'innovation interprétative |
 | `oudeyer2007intrinsic` | pas encore dans le corpus | article IEEE sur la curiosité adaptative et les niches de progrès |
 | `oudeyer2007typology` | pas encore dans le corpus | typologie computationnelle des motivations intrinsèques |
 | `colton2000interestingness` | `input/old_docs/interestingness-ijhcs.pdf` | article de revue |
