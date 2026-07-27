@@ -41,26 +41,33 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 125
-    assert manifest["families"] == 7
-    assert manifest["relations"] == 127
-    assert manifest["references"] == 72
-    assert manifest["referenced_cards"] == 37
+    assert manifest["cards"] == 131
+    assert manifest["families"] == 8
+    assert manifest["relations"] == 147
+    assert manifest["references"] == 80
+    assert manifest["referenced_cards"] == 42
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 125
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 72
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 131
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 80
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
     assert "Thèse centrale actuelle" in homepage
     assert "L&#x27;intéressant est ce qui déclenche et soutient une construction" in homepage
-    assert "125 propositions" in homepage
+    assert "131 propositions" in homepage
     assert (output / "these" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
     assert (output / "suivi" / "index.html").is_file()
     assert (output / "bibliographie" / "index.html").is_file()
     assert (output / "cartes" / "idea_0127" / "index.html").is_file()
     assert (output / "cartes" / "idea_0128" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0133" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0134" / "index.html").is_file()
     assert (output / "bibliographie" / "russell1995awardlecture" / "index.html").is_file()
+
+    thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")
+    assert "Trois mouvements provisoires" in thesis_page
+    assert "Constituer l&#x27;angle mort" in thesis_page
+    assert "discussion avec Olivia Chevallier" in thesis_page
 
     card_catalog = (output / "cartes" / "index.html").read_text(encoding="utf-8")
     assert "koestler, arthur (1989). the act of creation" in card_catalog

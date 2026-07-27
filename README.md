@@ -49,7 +49,7 @@ des objections ou comparer plusieurs architectures argumentatives.
 - [`cartes/ORGANISATION.md`](cartes/ORGANISATION.md) : lignes argumentatives,
   pivots, recouvrements et questions ouvertes ;
 - [`cartes/indexes/by_argument.md`](cartes/indexes/by_argument.md) : affectation
-  exhaustive des cartes à sept familles argumentatives ;
+  exhaustive des cartes à huit familles argumentatives ;
 - [`cartes/relations.tsv`](cartes/relations.tsv) : premier graphe de relations
   fortes et typées entre propositions ;
 - [`cartes/indexes/by_theme.md`](cartes/indexes/by_theme.md) : regroupement

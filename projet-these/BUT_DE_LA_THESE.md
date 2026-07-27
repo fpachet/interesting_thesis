@@ -22,6 +22,31 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
    et les systèmes d'intelligence artificielle comme terrains de variation et de
    comparaison, sans prendre leurs résultats pour des preuves ontologiques directes.
 
+## Architecture provisoire en trois mouvements
+
+Une discussion avec Olivia Chevallier, co-directrice de la thèse, fait apparaître une
+structure possible qui ne constitue pas encore un plan arrêté :
+
+1. **Constituer l'angle mort.** Établir comment l'intéressant échappe aux découpages
+   philosophiques et scientifiques disponibles, en prenant notamment au sérieux
+   l'hostilité structurelle de la formalisation à son égard.
+2. **Construire le concept.** Proposer une définition relationnelle, dégager des
+   propriétés et des distinctions, puis examiner les modèles qui peuvent en saisir
+   certains aspects sans le dissoudre.
+3. **Mettre le concept au travail.** L'éprouver dans la musique, l'intelligence
+   artificielle, les pratiques de création et les textes philosophiques, afin de montrer
+   les distinctions qu'il rend possibles et ce qu'il apporte aux problèmes considérés.
+
+Le troisième mouvement ne doit pas juxtaposer des exemples décoratifs. Chaque terrain
+doit contraindre le concept, révéler une limite ou produire une distinction éclairante.
+Les textes philosophiques ne constituent donc pas un habillage disciplinaire, mais des
+interlocuteurs capables de reformuler ou d'objecter au modèle proposé.
+
+La note
+[`STRUCTURE_PROVISOIRE.md`](STRUCTURE_PROVISOIRE.md)
+développe cette architecture, le rôle des différents terrains et les questions de
+composition encore ouvertes.
+
 ## Hypothèse de contribution
 
 Les théories de la syntaxe, de la sémantique, de la vérité ou de la beauté fournissent
@@ -76,6 +101,95 @@ croissante. Chez Schmidhuber, le progrès de compression joue un rôle voisin : 
 curiosité récompense l'amélioration du modèle, et non la surprise brute. Ces modèles
 computationnels constituent des opérationalisations partielles à confronter à
 l'expérience humaine, non une réduction acquise de l'intéressant.
+
+## Propriétés candidates de la relation intéressante
+
+La définition par la construction n'implique pas encore une axiomatique. Elle permet
+cependant de dégager un faisceau de propriétés candidates. Elles ne sont ni toutes
+indépendantes ni également nécessaires dans chaque cas ; leur fonction est de produire
+des distinctions et des variations susceptibles d'être discutées.
+
+### Statut relationnel et dispositionnel
+
+1. **Indexicalité relationnelle.** L'intéressant n'est ni contenu dans la forme seule ni
+   réductible à un état privé du sujet. Il dépend de la relation
+   `I(F, S | H, t)` et peut changer lorsque l'un de ses termes varie.
+2. **Dispositionnalité.** Une forme peut être susceptible de déclencher une construction
+   sans le faire effectivement, faute d'attention, de temps ou de compétences. Cette
+   puissance ne s'actualise que dans certaines conditions de rencontre.
+3. **Dépendance au chemin.** L'ordre des expériences compte. Une forme rencontrée trop
+   tôt reste opaque ; rencontrée après l'acquisition d'une prise, elle devient
+   intéressante. La relation porte la mémoire de sa trajectoire.
+
+### Dynamique de la construction
+
+4. **Écart assimilable.** L'intéressant exige assez de différence pour appeler une
+   construction et assez de prise pour que celle-ci puisse commencer. Le familier tend
+   vers la trivialité ; l'étranger absolu vers le bruit ou l'abandon.
+5. **Productivité représentationnelle.** Une forme intéressante produit plus de
+   comparaisons, d'hypothèses, de questions, de scénarios ou de distinctions qu'elle
+   n'en énonce explicitement. Sa fécondité se mesure moins à la quantité d'information
+   reçue qu'aux opérations qu'elle rend possibles.
+6. **Incomplétude structurée.** Une lacune n'intéresse que si elle appelle une
+   continuation orientée. L'objet ne se contente pas de manquer : il fournit des indices
+   permettant de construire ce qui manque ou de reformuler la question.
+7. **Transformation de l'espace des possibles.** La construction forte n'ajoute pas
+   seulement une représentation. Elle change les questions formulables, les
+   distinctions disponibles ou les actions concevables. L'intérêt peut ainsi être
+   additif, reconfigurateur ou génératif.
+8. **Non-monotonie.** Davantage d'information, de surprise ou d'attention n'implique pas
+   davantage d'intérêt. Une explication peut relancer la construction ou, au contraire,
+   fermer trop vite l'indétermination qui la soutenait.
+9. **Auto-extinction ou relance.** Certaines relations sont consumables : la résolution
+   de l'énigme supprime leur intérêt. D'autres sont génératives : chaque prise révèle une
+   résistance ou une question nouvelle.
+
+### Valeur, transfert et circulation
+
+10. **Neutralité affective relative.** L'intéressant peut être agréable, pénible,
+    inquiétant ou répugnant. Il désigne une puissance de mobilisation et de
+    transformation cognitives, non une approbation morale ou esthétique.
+11. **Résonance interdomaines.** Une construction gagne en portée lorsqu'elle devient
+    schème, modèle ou métaphore contrôlée pour d'autres domaines. L'intérêt se déplace
+    alors de l'objet local vers une manière réutilisable de voir.
+12. **Compression générative.** Certaines formes condensent rétrospectivement plusieurs
+    phénomènes tout en ouvrant prospectivement de nouvelles dérivations. Elles conjuguent
+    économie de représentation et expansion des conséquences.
+13. **Contagion médiée.** L'intérêt ne se transmet pas comme une propriété attachée à
+    l'objet. On peut en revanche préparer chez autrui les conditions de son apparition :
+    fournir des prises, installer une attente ou rendre visible une tension.
+
+### Récursivité : « l'intéressant est intéressant »
+
+14. **Auto-application.** Le concept de l'intéressant peut lui-même déclencher les
+    comparaisons, distinctions, modèles et révisions qu'il décrit. La formule
+    « l'intéressant est intéressant » n'est pas une tautologie universelle : elle affirme
+    que, dans certaines conditions, le concept entre dans son propre domaine
+    d'application.
+
+Cette récursivité possède d'abord un sens diachronique :
+
+```text
+I(F, S | H, t) -> construction -> S' -> I(F, S' | H, t+1)
+```
+
+La construction modifie le sujet et donc les conditions des évaluations suivantes. Elle
+possède aussi un sens métaconceptuel : il peut devenir intéressant de comprendre pourquoi
+une chose est intéressante, puis de comprendre ce que cette première explication laisse
+encore inexpliqué. L'enquête prend alors pour nouvel objet la relation qui l'avait
+déclenchée.
+
+Cette boucle fournit une explication partielle de l'insaisissabilité du concept. Toute
+prise acquise transforme le répertoire d'exemples, les capacités de discrimination et la
+frontière du problème ; une définition féconde fait ainsi apparaître les cas qui
+obligeront à la réviser. Il n'en résulte ni paradoxe ni ineffabilité. Des propriétés
+locales et contrôlables restent formulables, mais leur théorie doit être réflexive,
+historique et révisable.
+
+Enfin, l'auto-application n'est pas un critère de vérité. Une théorie intéressante de
+l'intéressant peut être fausse ; une théorie ennuyeuse peut être exacte. La récursivité
+décrit ce que l'enquête fait à son objet et à son sujet, non ce qui valide ses
+propositions.
 
 ## L'hostilité de la formalisation à l'égard de l'intéressant
 

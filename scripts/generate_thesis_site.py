@@ -12,7 +12,7 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, unquote, urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -546,6 +546,23 @@ def resolve_repository_path(source: str) -> Path:
     return current
 
 
+def local_card_link_paths(cards: dict[str, Card]) -> set[Path]:
+    paths: set[Path] = set()
+    for card in cards.values():
+        for target in re.findall(r"\[[^\]]+\]\(([^)]+)\)", card.body):
+            parsed = urlsplit(target)
+            if parsed.scheme or parsed.netloc or not parsed.path:
+                continue
+            resolved = (card.path.parent / unquote(parsed.path)).resolve()
+            try:
+                relative = resolved.relative_to(ROOT)
+            except ValueError:
+                continue
+            if resolved.is_file():
+                paths.add(relative)
+    return paths
+
+
 def format_people(value: str, *, shortened: bool = False) -> str:
     people = [person.strip() for person in re.split(r"\s+and\s+", value) if person.strip()]
     if shortened and len(people) > 2:
@@ -873,6 +890,27 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         </a>"""
         for label, card_id, description in roles
     )
+    plan_steps = [
+        (
+            "01",
+            "Constituer l'angle mort",
+            "Montrer ce que les découpages disponibles et leur formalisation laissent échapper.",
+        ),
+        (
+            "02",
+            "Construire le concept",
+            "Définir la relation, dégager ses propriétés et comparer plusieurs modèles partiels.",
+        ),
+        (
+            "03",
+            "Mettre le concept au travail",
+            "Éprouver son pouvoir de distinction dans la musique, l'IA, la création et les textes philosophiques.",
+        ),
+    ]
+    plan_html = "".join(
+        f"""<div><strong>{number} · {html.escape(title)}</strong><span>{html.escape(description)}</span></div>"""
+        for number, title, description in plan_steps
+    )
     content = f"""
 <section class="page-hero">
   <div class="shell page-hero__inner">
@@ -882,11 +920,12 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
 </section>
 <section class="section">
   <div class="shell thesis-page-grid">
-    <aside class="thesis-index"><p>Sur cette page</p><a href="#objet">Objet</a><a href="#hypothese">Hypothèse centrale</a><a href="#architecture">Architecture</a><a href="#methode">Mise à l'épreuve</a></aside>
+    <aside class="thesis-index"><p>Sur cette page</p><a href="#objet">Objet</a><a href="#hypothese">Hypothèse centrale</a><a href="#plan">Plan provisoire</a><a href="#architecture">Architecture argumentative</a><a href="#methode">Mise à l'épreuve</a></aside>
     <article class="prose prose--large">
       <section id="objet"><p class="eyebrow">Objet</p><h2>Constituer l'intéressant comme objet philosophique.</h2><p>Le projet ne traite pas l'intéressant comme un synonyme vague de préférence, de nouveauté ou de beauté. Il cherche à décrire un type de relation entre une forme et un sujet doté d'une mémoire, d'attentes et de capacités acquises.</p><div class="question-callout"><span>Question directrice</span><strong>{html.escape(question)}</strong></div></section>
       <section id="hypothese"><p class="eyebrow">Hypothèse centrale actuelle</p><blockquote>{html.escape(statement)}</blockquote><p>Le terme décisif est <em>construction</em>. L'objet intéressant ne se contente pas de capter l'attention : il engage un travail qui modifie les distinctions, les anticipations ou les capacités du sujet.</p><p>Cette hypothèse reste un candidat. Sa force dépendra de sa capacité à distinguer une construction réelle d'une simple impression de profondeur et à résister aux cas limites.</p></section>
-      <section id="architecture"><p class="eyebrow">Architecture</p><h2>Le dossier argumentatif.</h2><div class="argument-grid">{roles_html}</div></section>
+      <section id="plan"><p class="eyebrow">Note d'architecture</p><h2>Trois mouvements provisoires.</h2><p>À la suite d'une discussion avec Olivia Chevallier, co-directrice de la thèse, une composition en trois mouvements sert désormais d'hypothèse de travail. Elle ne constitue pas encore un plan arrêté.</p><div class="method-list">{plan_html}</div><p>Les textes philosophiques ne doivent pas être un habillage disciplinaire : ils doivent contraindre le concept, fournir des objections et montrer ce qu'il reformule réellement.</p></section>
+      <section id="architecture"><p class="eyebrow">Architecture argumentative</p><h2>Le dossier de propositions.</h2><p>Cette organisation logique reste distincte du plan de rédaction : elle indique les fonctions que les propositions devront remplir, quel que soit leur futur ordre de chapitre.</p><div class="argument-grid">{roles_html}</div></section>
       <section id="methode"><p class="eyebrow">Mise à l'épreuve</p><h2>Construire sans naturaliser.</h2><p>La musique, les pratiques de création et les systèmes d'intelligence artificielle servent de terrains de variation. Ils rendent certaines hypothèses observables ou manipulables, sans transformer automatiquement un résultat scientifique en preuve ontologique.</p><div class="method-list"><div><strong>Musique</strong><span>Attente, mémoire et micro-transformations de l'attention.</span></div><div><strong>Intelligence artificielle</strong><span>Systèmes construits comme instruments philosophiques réflexifs.</span></div><div><strong>Création</strong><span>Contraintes, problèmes implicites et nécessité rétrospective.</span></div></div></section>
     </article>
   </div>
@@ -1328,6 +1367,7 @@ def suivi_page(
     )
     referenced_cards = {card.id for card in cards.values() if card.references}
     public_documents = {source for card in cards.values() for source in card.sources}
+    public_documents.update(path.as_posix() for path in local_card_link_paths(cards))
     bibliography_coverage = "".join(
         f"""<div class="coverage-row family-{index}"><div><strong>{html.escape(name)}</strong><span>{sum(1 for card_id in ids if card_id in referenced_cards)}/{len(ids)} cartes référencées</span></div><span class="coverage-row__bar"><i style="width:{sum(1 for card_id in ids if card_id in referenced_cards) / len(ids) * 100:.1f}%"></i></span></div>"""
         for index, (name, ids) in enumerate(families)
@@ -1439,6 +1479,12 @@ def build(output: Path) -> None:
         destination.parent.mkdir(parents=True, exist_ok=True)
         if not destination.exists():
             shutil.copy2(origin, destination)
+    for relative in local_card_link_paths(cards):
+        origin = ROOT / relative
+        destination = output / relative
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        if not destination.exists():
+            shutil.copy2(origin, destination)
     write_page(
         output / "index.html",
         home_page(cards, families, relations, statement, question, questions, last_date),
@@ -1478,6 +1524,7 @@ def build(output: Path) -> None:
         )
 
     public_documents = {source for card in cards.values() for source in card.sources}
+    public_documents.update(path.as_posix() for path in local_card_link_paths(cards))
     referenced_cards = sum(1 for card in cards.values() if card.references)
     manifest = {
         "generated_at": datetime.now().astimezone().isoformat(timespec="seconds"),

@@ -1,5 +1,18 @@
 # Index thématique provisoire
 
+## Histoire, canonisation et concepts concurrents
+
+- `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
+- `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
+- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
+- `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
+- `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
+- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
+- `idea_0005` - L'inattendu ne suffit pas.
+- `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
+- `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
+
 ## Définition de l'intéressant
 
 - `idea_0001` - Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé.
@@ -35,6 +48,9 @@
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
+- `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
+- `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
+- `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 
 ## Ennui, surprise, rareté
 
@@ -98,6 +114,7 @@
 - `idea_0094` - On ne peut comprendre l'intéressant sans étudier ensemble la perception et la création.
 - `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
+- `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 
 ## Exploration, similarité, parcours
 
@@ -158,3 +175,8 @@
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0124` - La promesse de compréhension peut fasciner sans produire de compréhension.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
+- `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
+- `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
+- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
+- `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.

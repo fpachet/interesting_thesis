@@ -4,6 +4,13 @@
 thèse. Les chemins locaux restent dans les cartes pour garantir la traçabilité ;
 le champ YAML optionnel `references` relie une proposition aux clés BibTeX.
 
+Le programme de lecture consacré à l'histoire et aux théories de l'intéressant
+est maintenu dans
+[`docs/lectures/interessant-etat-art.md`](../docs/lectures/interessant-etat-art.md).
+Il distingue les références déjà entrées dans BibTeX, les textes encore à lire et
+les sources historiques dont l'édition précise doit être établie avant
+intégration.
+
 ## Règles de maintenance
 
 1. Ajouter une entrée BibTeX lorsqu'une source devient effectivement utile à une
@@ -48,6 +55,13 @@ son rendu bibliographique reste reproductible.
 | `russell1995awardlecture` | transcription dans `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | allocution pour le Computers and Thought Award à IJCAI-95 ; source intellectuelle de la formulation orale sur les parties intéressantes définies hors du problème |
 | `pachet1997representation` | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | mémoire d'HDR ; conserve la formulation orale longue de Russell sur les parties intéressantes définies hors du problème, PDF p. 10 |
 | `bachimont1996hermeneutique` | `docs/Bachimont.pdf` | thèse d'épistémologie ; lecture ciblée des PDF p. 322-323 sur la reconstruction de la question, la fusion des horizons et l'innovation interprétative |
+| `stace1944interestingness` | notice Cambridge Core | article directement consacré à l'intéressant ; métadonnées vérifiées, lecture directe à faire |
+| `kolnai1964concept` | notice Oxford Academic | article directement consacré au concept ; métadonnées vérifiées, lecture directe à faire |
+| `ngai2008merely` | numéro de *Critical Inquiry* et DOI | article sur l'intéressant comme catégorie esthétique mineure ; métadonnées vérifiées, lecture directe à faire |
+| `ngai2012categories` | notice Harvard University Press/Google Books | monographie comprenant l'intéressant parmi trois catégories esthétiques contemporaines ; lecture directe à faire |
+| `epstein2009interesting` | Project MUSE et DOI | article transdisciplinaire directement consacré à l'intéressant ; métadonnées vérifiées, lecture directe à faire |
+| `grimm2011interesting` | site ouvert de *Logos & Episteme* | article d'épistémologie sur ce qui mérite l'attention intellectuelle ; texte intégral disponible, lecture directe à faire |
+| `nannini2018interesting` | texte intégral de l'*International Lexicon of Aesthetics* | notice généalogique ouverte, lue pour vérifier la tradition et les références prioritaires |
 | `oudeyer2007intrinsic` | pas encore dans le corpus | article IEEE sur la curiosité adaptative et les niches de progrès |
 | `oudeyer2007typology` | pas encore dans le corpus | typologie computationnelle des motivations intrinsèques |
 | `colton2000interestingness` | `input/old_docs/interestingness-ijhcs.pdf` | article de revue |

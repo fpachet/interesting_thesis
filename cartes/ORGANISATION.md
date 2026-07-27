@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   125 cartes y sont affectées une seule fois à sept familles.
+   131 cartes y sont affectées une seule fois à huit familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -59,6 +59,8 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
 | Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
 | Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
+| Boucle récursive | [`idea_0133`](inbox/idea_0133_interessant_recursif_auto_application.md) | La construction transforme les conditions de l'intérêt futur et le concept peut déclencher le processus qu'il décrit. |
+| Garde-fou aléthique | [`idea_0134`](inbox/idea_0134_interessant_selectionne_enquete_pas_verite.md) | L'intéressant sélectionne ce qui mérite examen, mais seule une évaluation distincte permet d'en valider les conclusions. |
 | Garde-fou méthodologique | [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md) | La panoplie scientifique exerce une hostilité structurelle lorsqu'elle remplace la cible par un substitut stable qui élimine sa dimension intéressante. |
 | Cas réflexif | [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md) | Comprendre les causes de ses affects construit une prise sur soi et transforme la manière dont le sujet en pâtit. |
 | Mesure temporelle candidate | [`idea_0071`](inbox/idea_0071_interet_gain_temporaire_compression.md) | Le gradient de progrès opérationnalise une dimension du travail constructif en cours. |
@@ -93,7 +95,7 @@ peuvent être rendues observables, construites et contestées :
 
 Le registre [`relations.tsv`](relations.tsv) conserve les dépendances directionnelles
 entre ces propositions. L'index
-[`by_argument.md`](indexes/by_argument.md#1-définition-et-émergence-de-lintéressant-17)
+   [`by_argument.md`](indexes/by_argument.md#2-définition-et-émergence-de-lintéressant-16)
 situe leur fonction dans l'enquête, tandis que
 [`by_level.md`](indexes/by_level.md) distingue le statut épistémique de chacune. La
 thèse centrale ne remplace donc ni les familles ni les niveaux : elle fournit le centre
@@ -102,14 +104,23 @@ limites peuvent être parcourus.
 
 ## Colonne vertébrale actuelle
 
-La première lecture du graphe fait apparaître quatre chaînes principales :
+La première lecture du graphe fait apparaître cinq chaînes principales :
 
 ```text
+usage fréquent mais faible densité théorique (0130)
+  -> absence architectonique et canonique (0129)
+  -> dispersion entre concepts concurrents (0131)
+  -> substitution scientifique par des critères stables (0128)
+  -> recommandation prospective de poursuivre l'examen (0132)
+  -> distinction entre sélection heuristique et validation vraie (0134)
+  -> construction d'une prise nouvelle (0123)
+
 émergence d'une forme (0083)
   -> relation forme-mémoire (0084)
   -> zone de flow entre ennui et anxiété (0121)
   -> construction d'une prise sur l'objet (0123)
   -> stabilisation langagière et nouvelle frange (0127)
+  -> auto-application et déplacement récursif du concept (0133)
   -> compréhension de soi comme construction réflexive (0126)
   -> reconstruction du problème depuis sa solution (0085)
   -> dérives et épuisement de la relation (0122)
@@ -155,7 +166,8 @@ combinatoire d'une intuition philosophique plus large.
 
 Les cartes les plus structurantes à ce stade sont :
 
-- `idea_0083`, `idea_0084`, `idea_0121` et surtout `idea_0123` pour l'objet philosophique central ;
+- `idea_0116`, `idea_0129`, `idea_0130`, `idea_0131`, `idea_0132` et `idea_0134` pour la constitution historique et positive de l'angle mort ;
+- `idea_0083`, `idea_0084`, `idea_0121`, `idea_0123` et `idea_0133` pour l'objet philosophique central ;
 - `idea_0001`, `idea_0071`, `idea_0107`, `idea_0122` et `idea_0127` pour sa dynamique temporelle et son déplacement symbolique ;
 - `idea_0085`, `idea_0096` et `idea_0109` pour problème, rareté et contraintes ;
 - `idea_0086`, `idea_0112` et `idea_0113` pour la théorie de l'attention musicale ;

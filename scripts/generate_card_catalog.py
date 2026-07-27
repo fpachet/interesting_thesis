@@ -775,7 +775,7 @@ def render_document(
 \maketitle
 
 \begin{{abstract}}
-Ce document rassemble les {len(cards)} propositions actuellement extraites du corpus du projet de thèse. Il suit l'ordre des sept familles argumentatives de l'index de travail. Cette organisation est provisoire : elle sert à partager, comparer et discuter les propositions avant de fixer un plan de thèse. Les formulations et les attributions documentaires pourront encore être révisées.
+Ce document rassemble les {len(cards)} propositions actuellement extraites du corpus du projet de thèse. Il suit l'ordre des {len(families)} familles argumentatives de l'index de travail. Cette organisation est provisoire : elle sert à partager, comparer et discuter les propositions avant de fixer un plan de thèse. Les formulations et les attributions documentaires pourront encore être révisées.
 \end{{abstract}}
 
 \tableofcontents

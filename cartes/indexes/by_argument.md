@@ -5,7 +5,22 @@ par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
 figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
 est un outil de travail réversible, pas encore un plan de thèse.
 
-## 1. Définition et émergence de l'intéressant (17)
+## 1. Constitution de l'angle mort : histoire, canonisation et substitutions (7)
+
+### Diagnostic historique
+
+- `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
+- `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
+- `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
+- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+
+### Résidu positif et limite méthodologique
+
+- `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
+- `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
+- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
+
+## 2. Définition et émergence de l'intéressant (17)
 
 ### Pivots
 
@@ -20,6 +35,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0027` - L'intéressant mesure un progrès de compression, pas une surprise.
 - `idea_0071` - L'intérêt suit le gradient de progrès d'un observateur, non son erreur actuelle.
 - `idea_0107` - L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable.
+- `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 
 ### Distinctions et objections
 
@@ -28,12 +44,11 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0079` - Un concept hypertrophié peut cacher les mécanismes qu'il prétend expliquer.
 - `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
 - `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
-- `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 
-## 2. Temporalité, attention et apprentissage (26)
+## 3. Temporalité, attention et apprentissage (26)
 
 ### Pivots
 
@@ -70,7 +85,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 
-## 3. Forme, problème, contrainte et nécessité (29)
+## 4. Forme, problème, contrainte et nécessité (29)
 
 ### Pivots
 
@@ -113,7 +128,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0087` - Une forme intéressante peut paraître simple parce qu'elle a rendu invisibles les contraintes improbables de sa genèse.
 - `idea_0044` - Les théories de la créativité sont souvent sans théorèmes.
 
-## 4. Musique et micro-transformations de l'attention (10)
+## 5. Musique et micro-transformations de l'attention (10)
 
 ### Pivots
 
@@ -134,7 +149,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 
-## 5. IA, interaction et méthode réflexive (14)
+## 6. IA, interaction et méthode réflexive (13)
 
 ### Pivots
 
@@ -157,9 +172,8 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 - `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
-- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
 
-## 6. Virtuosité, difficulté et incorporation (11)
+## 7. Virtuosité, difficulté et incorporation (11)
 
 ### Pivot
 
@@ -178,7 +192,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0089` - La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste.
 - `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
 
-## 7. Culture, langage et politique de l'attention (18)
+## 8. Culture, langage et politique de l'attention (18)
 
 ### Culture, abondance et circulation
 
@@ -206,6 +220,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les sept familles contiennent respectivement 17, 26, 29, 10, 14, 11 et 18
-cartes, soit les 125 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 7, 17, 26, 29, 10, 13, 11 et 18
+cartes, soit les 131 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.
