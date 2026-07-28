@@ -105,6 +105,13 @@ Ces textes ne doivent pas servir d'habillage destiné à faire reconnaître le
 travail comme philosophique. Ils doivent contraindre le concept, révéler ses
 présupposés, fournir des objections et montrer ce qu'il reformule réellement.
 
+### Littérature
+
+La littérature éprouve la médiation langagière, l'incomplétude structurée,
+l'attente narrative, la contrainte formelle et la récursivité interprétative.
+Elle permet aussi de distinguer une opacité féconde, qui produit des prises
+transférables, d'une promesse indéfinie de profondeur.
+
 ### Distinctions éclairantes
 
 Le critère de réussite de ce troisième mouvement sera le rendement différentiel

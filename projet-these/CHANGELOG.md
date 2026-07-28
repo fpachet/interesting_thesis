@@ -4,6 +4,34 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 3 - 28 juillet 2026
+
+Réorganisation générale du projet selon les trois mouvements de la thèse.
+
+- remplacement de l'ancienne thèse centrale par la définition de l'intéressant
+  comme déclencheur et soutien d'une construction produisant une prise nouvelle ;
+- explicitation de la relation `I(F,S | H,t)` ;
+- intégration d'un état de l'art distinguant sources lues, repérages et programme
+  de lecture ;
+- distinction systématique de l'intéressant avec le vrai, le beau, le plaisir,
+  la surprise, la curiosité, la pertinence et la préférence ;
+- conservation littérale de la remarque rapportée de Heinz Wismann sur
+  « Deleuze et consorts », et analyse de la différence entre fécondité
+  heuristique et vérité ;
+- organisation de quatorze propriétés candidates en quatre familles :
+  relationnelles, dynamiques, transmissives et réflexives ;
+- intégration de la récursivité diachronique et métaconceptuelle, formulée par
+  « l'intéressant est intéressant » ;
+- développement du presque-apprenable, du flow, du progrès de compression et du
+  rôle médiateur du langage ;
+- reformulation de l'hostilité structurelle de la formalisation comme exigence
+  d'une formalisation réflexive ;
+- organisation de cinq terrains d'épreuve : musique, intelligence artificielle,
+  créativité, philosophie et littérature ;
+- ajout de critères comparatifs, d'une organisation du corpus en trois cercles
+  et d'un plan courant en trois parties ;
+- synchronisation intégrale des versions française et anglaise.
+
 ## Version 2 - 12 juillet 2026
 
 Première version bilingue réécrite à partir du corpus et des 112 cartes.

@@ -31,6 +31,11 @@ La V2 est la première version réécrite à partir du corpus et des cartes. Ses
 sources LaTeX sont entièrement éditables et sa bibliographie complète provient de
 `bibliographie/references.bib`.
 
+La V3 réorganise le projet en trois mouvements : constituer le problème,
+construire le concept et le mettre au travail. Elle intègre l'état de l'art, la
+définition constructive, les quatorze propriétés candidates, la récursivité et
+les cinq terrains d'épreuve.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
