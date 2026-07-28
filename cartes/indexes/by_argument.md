@@ -20,7 +20,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
 
-## 2. Définition et émergence de l'intéressant (17)
+## 2. Définition et émergence de l'intéressant (18)
 
 ### Pivots
 
@@ -36,6 +36,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0071` - L'intérêt suit le gradient de progrès d'un observateur, non son erreur actuelle.
 - `idea_0107` - L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
+- `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 
 ### Distinctions et objections
 
@@ -220,6 +221,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 7, 17, 26, 29, 10, 13, 11 et 18
-cartes, soit les 131 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 7, 18, 26, 29, 10, 13, 11 et 18
+cartes, soit les 132 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

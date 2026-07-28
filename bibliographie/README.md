@@ -77,6 +77,7 @@ son rendu bibliographique reste reproductible.
 | `meyer1956emotion` | pas encore dans le corpus | référence fondatrice sur attente, apprentissage et affect musical ; lecture directe à faire |
 | `narmour1990basic` | pas encore dans le corpus | premier volume du modèle implication-réalisation ; lecture directe à faire |
 | `narmour1992complexity` | pas encore dans le corpus | extension du modèle implication-réalisation aux structures complexes ; lecture directe à faire |
+| `pachet1999oeuvre` | passages consignés dans `docs/lectures/pachet-oeuvre-des-jours-excitation-idees.md` | livre publié ; lecture ciblée indirecte de l'ouverture et des p. 40-41, lecture intégrale à faire |
 | `pachet2018oreille` | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | livre publié ; lecture intégrale et extraction propositionnelle effectuées |
 | `spinoza1966ethique` | pas encore dans le corpus | traduction Pautrat, Seuil, 1988 ; clé historique conservée pour stabilité ; préface et définition III de la partie III mobilisées |
 | `spinoza1861oeuvres` | édition numérique consultée sur Wikisource ; notice BnF liée dans la bibliographie | traduction Saisset, Charpentier, 1861, tome III ; citations vérifiables de la préface et de la proposition XXVII de la partie III |

@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 131 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 87 `conceptual`, 19 `scientific` et 25
+Les 132 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 88 `conceptual`, 19 `scientific` et 25
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -316,6 +316,14 @@ relationnelles et historiques du phénomène. L'écart entre l'allocution orale 
 et l'article publié devient un exemple réflexif : la mise en garde subsiste dans l'écrit,
 mais les termes « intéressant » et « inintéressant » qui en faisaient la force
 disparaissent.
+
+`idea_0135` a été ajoutée à partir de deux passages ciblés de *L'Œuvre des jours*.
+Elle distingue deux directions : l'idée qui prend forme peut produire une excitation,
+et cette mobilisation affective peut à son tour relancer l'attention et l'arrivée
+d'autres idées. La carte ne transforme pas ce rapprochement en attribution littérale à
+Pierre Pachet : la boucle avec l'intéressant est une reconstruction proposée par la
+thèse. Elle conserve aussi la limite méthodologique selon laquelle une excitation,
+notamment publique, ne prouve ni la fécondité ni la vérité de l'idée.
 
 ## Identifiants retires
 

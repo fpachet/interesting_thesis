@@ -51,6 +51,7 @@
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
+- `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 
 ## Ennui, surprise, rareté
 
