@@ -129,3 +129,5 @@ au cours de la relation.
 - Donne à la construction de systèmes de `idea_0018`, `idea_0088` et `idea_0110` une place dans la définition centrale.
 - Est limitée par `idea_0124`, où la promesse de comprendre ne produit aucune prise vérifiable.
 - Le gradient de progrès de `idea_0071` mesure une dimension de la construction en cours.
+- `idea_0137` déplie cette construction en épluchage successif et distingue ses
+  issues : épuisement, abandon ou relance par la résistance.

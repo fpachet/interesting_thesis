@@ -315,7 +315,6 @@ DOCUMENT_ACCENTS = {
     "raccordes": "raccordés",
     "regroupes": "regroupés",
     "sourcees": "sourcées",
-    "supprime": "supprimé",
     "versionne": "versionné",
     "audites": "audités",
     "documentes": "documentés",

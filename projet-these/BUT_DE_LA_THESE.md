@@ -78,6 +78,17 @@ qui matérialise ce qu'il pense avoir compris. Ces niveaux peuvent se relancer :
 un système fait apparaître de nouvelles résistances, qui exigent de nouvelles catégories
 et reformulent le problème.
 
+Le déclenchement ouvre ainsi un **épluchage constructif** : chaque prise dissipe une
+opacité, révèle une couche ou reformule le problème, puis sert d'instrument à la prise
+suivante. Ce processus peut épuiser l'objet, épuiser le sujet, s'interrompre devant une
+résistance sans prise, recevoir une clôture décidée ou être relancé par une résistance
+productive. Sa vie rejoint ainsi le processus créatif : les décisions locales ne
+contiennent pas toujours leur propre critère d'arrêt, et la fin peut devoir être imposée
+à une construction encore féconde. Cette clôture rétroagit sur le parcours et le
+constitue comme un tout sans prétendre avoir épuisé l'objet. L'épluchage se distingue de
+la contemplation au sens fort : celle-ci suspend les opérations transformatrices pour
+maintenir l'objet intact ou à distance, et interdit ou repousse ainsi la construction.
+
 La construction ne vaut pas automatiquement comme preuve. Pour ne pas désigner toute
 interprétation arbitraire, elle doit produire une prise contrôlable : distinction,
 prédiction, transfert, intervention ou artefact dont les réussites et les échecs peuvent
@@ -137,31 +148,36 @@ des distinctions et des variations susceptibles d'être discutées.
    seulement une représentation. Elle change les questions formulables, les
    distinctions disponibles ou les actions concevables. L'intérêt peut ainsi être
    additif, reconfigurateur ou génératif.
-8. **Non-monotonie.** Davantage d'information, de surprise ou d'attention n'implique pas
+8. **Épluchage constructif.** Le déclenchement ouvre des prises successives. Chacune
+   dissipe une opacité, révèle une couche ou reformule le problème, puis devient
+   l'instrument de la suivante. Le processus s'achève par épuisement, abandon, clôture
+   décidée ou relance selon la résistance rencontrée. Produire cette fin peut constituer
+   un acte créatif distinct de l'épuisement de l'objet.
+9. **Non-monotonie.** Davantage d'information, de surprise ou d'attention n'implique pas
    davantage d'intérêt. Une explication peut relancer la construction ou, au contraire,
    fermer trop vite l'indétermination qui la soutenait.
-9. **Auto-extinction ou relance.** Certaines relations sont consumables : la résolution
+10. **Auto-extinction ou relance.** Certaines relations sont consumables : la résolution
    de l'énigme supprime leur intérêt. D'autres sont génératives : chaque prise révèle une
    résistance ou une question nouvelle.
 
 ### Valeur, transfert et circulation
 
-10. **Neutralité affective relative.** L'intéressant peut être agréable, pénible,
+11. **Neutralité affective relative.** L'intéressant peut être agréable, pénible,
     inquiétant ou répugnant. Il désigne une puissance de mobilisation et de
     transformation cognitives, non une approbation morale ou esthétique.
-11. **Résonance interdomaines.** Une construction gagne en portée lorsqu'elle devient
+12. **Résonance interdomaines.** Une construction gagne en portée lorsqu'elle devient
     schème, modèle ou métaphore contrôlée pour d'autres domaines. L'intérêt se déplace
     alors de l'objet local vers une manière réutilisable de voir.
-12. **Compression générative.** Certaines formes condensent rétrospectivement plusieurs
+13. **Compression générative.** Certaines formes condensent rétrospectivement plusieurs
     phénomènes tout en ouvrant prospectivement de nouvelles dérivations. Elles conjuguent
     économie de représentation et expansion des conséquences.
-13. **Contagion médiée.** L'intérêt ne se transmet pas comme une propriété attachée à
+14. **Contagion médiée.** L'intérêt ne se transmet pas comme une propriété attachée à
     l'objet. On peut en revanche préparer chez autrui les conditions de son apparition :
     fournir des prises, installer une attente ou rendre visible une tension.
 
 ### Récursivité : « l'intéressant est intéressant »
 
-14. **Auto-application.** Le concept de l'intéressant peut lui-même déclencher les
+15. **Auto-application.** Le concept de l'intéressant peut lui-même déclencher les
     comparaisons, distinctions, modèles et révisions qu'il décrit. La formule
     « l'intéressant est intéressant » n'est pas une tautologie universelle : elle affirme
     que, dans certaines conditions, le concept entre dans son propre domaine

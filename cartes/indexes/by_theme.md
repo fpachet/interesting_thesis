@@ -53,6 +53,7 @@
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
+- `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 
 ## Ennui, surprise, rareté
 
@@ -66,6 +67,7 @@
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 - `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
+- `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 
@@ -122,6 +124,7 @@
 ## Exploration, similarité, parcours
 
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.
 - `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.

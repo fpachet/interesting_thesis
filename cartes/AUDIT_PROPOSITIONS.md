@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 133 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 89 `conceptual`, 19 `scientific` et 25
+Les 134 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 90 `conceptual`, 19 `scientific` et 25
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -333,6 +333,16 @@ transformationnelle et formule comme hypothèse de la thèse, non comme conclusi
 Perec, que les styles de grilles correspondent à des attentes de jeu de mots différentes.
 Elle conserve comme limite la distribution sociale réelle des vocabulaires, des supports
 et des conventions.
+
+`idea_0137` a été ajoutée à partir d'une formulation personnelle sur
+l'« épluchage » de l'intéressant. Elle déplie la construction de `idea_0123` en une
+séquence de prises successives et distingue quatre issues : épuisement, abandon devant
+une résistance sans prise, clôture décidée et relance par une résistance productive.
+Le rapprochement avec `idea_0082` et *De l'impossibilité de créer* fait de la fin un
+problème interne à la vie de l'intéressant : une construction peut être achevée sans que
+son objet soit épuisé. L'opposition à la contemplation est formulée fonctionnellement :
+l'immobilité visible peut cacher un travail constructif, tandis que la contemplation au
+sens fort suspend ou repousse les opérations qui transforment la relation à l'objet.
 
 ## Identifiants retires
 

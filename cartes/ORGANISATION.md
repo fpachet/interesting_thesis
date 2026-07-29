@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   133 cartes y sont affectées une seule fois à huit familles.
+   134 cartes y sont affectées une seule fois à huit familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -58,6 +58,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Programme de naturalisation | [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md) | L'intéressant devient un phénomène psychique explicable sans être assigné comme propriété intrinsèque à l'objet. |
 | Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
 | Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
+| Dynamique interne | [`idea_0137`](inbox/idea_0137_epluchage_interessant_contemplation.md) | Après le déclenchement, les prises se succèdent par épluchage jusqu'à épuisement, abandon, clôture décidée ou relance par une résistance productive. |
 | Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
 | Boucle récursive | [`idea_0133`](inbox/idea_0133_interessant_recursif_auto_application.md) | La construction transforme les conditions de l'intérêt futur et le concept peut déclencher le processus qu'il décrit. |
 | Garde-fou aléthique | [`idea_0134`](inbox/idea_0134_interessant_selectionne_enquete_pas_verite.md) | L'intéressant sélectionne ce qui mérite examen, mais seule une évaluation distincte permet d'en valider les conclusions. |
@@ -99,7 +100,7 @@ peuvent être rendues observables, construites et contestées :
 
 Le registre [`relations.tsv`](relations.tsv) conserve les dépendances directionnelles
 entre ces propositions. L'index
-   [`by_argument.md`](indexes/by_argument.md#2-définition-et-émergence-de-lintéressant-16)
+[`by_argument.md`](indexes/by_argument.md#2-définition-et-émergence-de-lintéressant-18)
 situe leur fonction dans l'enquête, tandis que
 [`by_level.md`](indexes/by_level.md) distingue le statut épistémique de chacune. La
 thèse centrale ne remplace donc ni les familles ni les niveaux : elle fournit le centre
@@ -123,6 +124,7 @@ usage fréquent mais faible densité théorique (0130)
   -> relation forme-mémoire (0084)
   -> zone de flow entre ennui et anxiété (0121)
   -> construction d'une prise sur l'objet (0123)
+  -> épluchage et production d'une fin (0137, 0082)
   -> stabilisation langagière et nouvelle frange (0127)
   -> auto-application et déplacement récursif du concept (0133)
   -> compréhension de soi comme construction réflexive (0126)

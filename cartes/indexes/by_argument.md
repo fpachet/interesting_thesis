@@ -49,7 +49,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 
-## 3. Temporalité, attention et apprentissage (26)
+## 3. Temporalité, attention et apprentissage (27)
 
 ### Pivots
 
@@ -57,6 +57,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
 - `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 
 ### Méthodes et ancrages scientifiques
@@ -222,6 +223,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 7, 18, 26, 30, 10, 13, 11 et 18
-cartes, soit les 133 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 7, 18, 27, 30, 10, 13, 11 et 18
+cartes, soit les 134 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.
