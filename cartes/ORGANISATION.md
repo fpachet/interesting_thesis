@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   132 cartes y sont affectées une seule fois à huit familles.
+   133 cartes y sont affectées une seule fois à huit familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -92,6 +92,10 @@ peuvent être rendues observables, construites et contestées :
 - [`idea_0110`](inbox/idea_0110_comprendre_pratique_scientifique_articulation.md)
   distingue les résultats scientifiques, les idées qu'une pratique rend pensables et
   leur articulation philosophique.
+- [`idea_0136`](inbox/idea_0136_mots_croises_triggers_attentes.md) fait des mots
+  croisés un micro-laboratoire de l'écart assimilable, des attentes apprises et de la
+  nécessité rétrospective, en distinguant difficulté transformationnelle et simple
+  érudition.
 
 Le registre [`relations.tsv`](relations.tsv) conserve les dépendances directionnelles
 entre ces propositions. L'index

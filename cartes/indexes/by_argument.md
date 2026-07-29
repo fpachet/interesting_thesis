@@ -86,7 +86,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 
-## 4. Forme, problème, contrainte et nécessité (29)
+## 4. Forme, problème, contrainte et nécessité (30)
 
 ### Pivots
 
@@ -127,6 +127,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 - `idea_0019` - Une surprise musicale forte devient rétrospectivement nécessaire.
 - `idea_0087` - Une forme intéressante peut paraître simple parce qu'elle a rendu invisibles les contraintes improbables de sa genèse.
+- `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0044` - Les théories de la créativité sont souvent sans théorèmes.
 
 ## 5. Musique et micro-transformations de l'attention (10)
@@ -221,6 +222,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 7, 18, 26, 29, 10, 13, 11 et 18
-cartes, soit les 132 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 7, 18, 26, 30, 10, 13, 11 et 18
+cartes, soit les 133 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

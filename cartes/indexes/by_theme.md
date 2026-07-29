@@ -52,6 +52,7 @@
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
+- `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 
 ## Ennui, surprise, rareté
 
@@ -100,6 +101,7 @@
 - `idea_0100` - La difficulté d'une contrainte dépend de l'état conjoint du modèle et de la forme.
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
 - `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
+- `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 
 ## Interaction et systèmes réflexifs
 

@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 132 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 88 `conceptual`, 19 `scientific` et 25
+Les 133 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 89 `conceptual`, 19 `scientific` et 25
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -324,6 +324,15 @@ d'autres idées. La carte ne transforme pas ce rapprochement en attribution litt
 Pierre Pachet : la boucle avec l'intéressant est une reconstruction proposée par la
 thèse. Elle conserve aussi la limite méthodologique selon laquelle une excitation,
 notamment publique, ne prouve ni la fécondité ni la vérité de l'idée.
+
+`idea_0136` a été ajoutée à partir de l'avant-propos des *Mots croisés* de Georges
+Perec. Elle isole un cas particulièrement représentatif de nécessité rétrospective :
+une bonne définition paraît insoluble, puis devient exactement énoncée une fois le
+niveau de lecture découvert. La carte distingue la difficulté lexicale de la difficulté
+transformationnelle et formule comme hypothèse de la thèse, non comme conclusion de
+Perec, que les styles de grilles correspondent à des attentes de jeu de mots différentes.
+Elle conserve comme limite la distribution sociale réelle des vocabulaires, des supports
+et des conventions.
 
 ## Identifiants retires
 

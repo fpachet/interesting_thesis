@@ -54,3 +54,6 @@ de perfection.
 - Operationnalise la nécessité inventée de `idea_0085`.
 - Met à l'épreuve l'autostabilité de `idea_0087`.
 - Complète la comparaison contrefactuelle de `idea_0032`.
+- Trouve dans la bonne définition de mots croisés de Perec (`idea_0136`) un
+  analogue linguistique : après résolution, le couple indice-solution paraît
+  ne plus pouvoir être amélioré sans changer le problème.
