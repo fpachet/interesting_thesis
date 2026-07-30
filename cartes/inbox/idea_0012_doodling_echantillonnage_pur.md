@@ -1,6 +1,6 @@
 ---
 id: idea_0012
-title: "Produire sans but explicite peut faire apparaître le but après coup"
+title: "Le gribouillage comme signal précurseur d'une direction créative"
 kind: hypothesis
 level: conceptual
 status: inbox

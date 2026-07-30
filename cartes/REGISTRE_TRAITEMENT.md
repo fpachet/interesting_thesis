@@ -24,6 +24,7 @@ La séquence de reprise systématique est définie dans
 | `docs/lectures/pachet-oeuvre-des-jours-excitation-idees.md` | lecture_ciblee_indirecte | Deux passages de *L'Œuvre des jours* repérés dans des reproductions en ligne le 28 juillet 2026 : ouverture sur la capacité d'avoir des idées et p. 40-41 sur l'émotion de l'adresse publique. La présentation de l'éditeur a été contrôlée ; le livre complet n'est pas présent dans le corpus local. | `idea_0135` |
 | `docs/lectures/perec-mots-croises-interessant.md` | lecture_ciblee_directe | Avant-propos des *Mots croisés* vérifié le 29 juillet 2026 dans l'extrait électronique de l'éditeur, p. 8-17 : séparation grille/définitions, degrés d'ambivalence, nécessité rétrospective et distinction entre mots rares et définitions déconcertantes. | `idea_0136` |
 | `docs/notes/epluchage-interessant-contemplation.md` | note_personnelle_documentee | Deux formulations du 29 juillet 2026 conservées verbatim ; proposition développée sur les prises successives, l'épuisement du sujet ou de l'objet, la clôture décidée, la résistance productive, le problème créatif de la fin et l'opposition fonctionnelle entre construction et contemplation. | `idea_0137` |
+| `docs/notes/enigme-interessant.md` | note_personnelle_documentee | Formulation du 30 juillet 2026 conservée verbatim ; distinction entre contrainte, énigme, problème et construction, conditions de l'envie de résolution, mort locale de l'énigme et relance générative. | `idea_0138` |
 | `docs/notes/discussion-heinz-wismann-vrai-interessant.md` | temoignage_oral_documente | Discussion consignée le 27 juillet 2026. Les propos rapportés sur « Deleuze et consorts » et l'exigence d'une philosophie vraie même ennuyeuse sont conservés tels quels. | `idea_0134` |
 | `docs/correspondance-bachimont-2026-04-01.md` | premiere_passe_complete | Correspondance privée du 1er avril 2026 archivée et relue intégralement le 27 juillet 2026. Quatre cartes candidates et un programme de lecture ont été isolés ; les rapprochements avec Gadamer, Simondon et Romano doivent être vérifiés dans les textes directs avant attribution bibliographique. | `idea_0083`, `idea_0084`, `idea_0094`, `idea_0123` à renforcer ; aucune nouvelle carte créée |
 | `docs/Bachimont.pdf` | lecture_ciblee_complete | Thèse de 354 pages ; PDF p. 322-323 (pagination imprimée p. 310-311) relues le 27 juillet 2026 pour la reconstruction gadamérienne de la question, la fusion des horizons et l'innovation interprétative. Le reste du document n'a pas reçu de passe propositionnelle intégrale. | `idea_0084`, `idea_0085`, `idea_0094`, `idea_0123` renforcées |
@@ -72,6 +73,6 @@ propositionnelle intégrale. Les deux MP3 ont
 été vérifiés comme fichiers distincts et décodables ; une analyse harmonique ne
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
-Le corpus comprend désormais 134 cartes. L'organisation argumentative reste l'activité
+Le corpus comprend désormais 135 cartes. L'organisation argumentative reste l'activité
 principale, avec une tâche documentaire explicite en attente sur le mémoire d'HDR de
 1997.

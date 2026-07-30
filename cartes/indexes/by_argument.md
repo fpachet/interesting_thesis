@@ -20,7 +20,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
 
-## 2. Définition et émergence de l'intéressant (18)
+## 2. Définition et émergence de l'intéressant (19)
 
 ### Pivots
 
@@ -37,6 +37,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0107` - L'intéressant se situe à la frontière mouvante de ce qui est presque apprenable.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
+- `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 
 ### Distinctions et objections
 
@@ -97,9 +98,9 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ### Création et apparition du possible
 
-- `idea_0008` - Créer commence par une impossibilité.
+- `idea_0008` - L'injonction à créer contient une contradiction.
 - `idea_0009` - Le nouveau devient accessible localement sans avoir été concevable à l'avance.
-- `idea_0012` - Produire sans but explicite peut faire apparaître le but après coup.
+- `idea_0012` - Le gribouillage comme signal précurseur d'une direction créative.
 - `idea_0042` - Créer n'ajoute rien au monde physique.
 - `idea_0043` - L'impossible est productif.
 - `idea_0045` - On ne se chatouille pas soi-même.
@@ -223,6 +224,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 7, 18, 27, 30, 10, 13, 11 et 18
-cartes, soit les 134 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 7, 19, 27, 30, 10, 13, 11 et 18
+cartes, soit les 135 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

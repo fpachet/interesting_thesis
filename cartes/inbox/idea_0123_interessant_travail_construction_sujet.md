@@ -43,6 +43,14 @@ nouvelle sur un objet**. La construction est le terme médiateur entre l'attenti
 initiale et la compréhension. Elle explique ce que l'intéressant fait, plutôt que de le
 définir seulement par sa position entre ennui et anxiété.
 
+L'hypothèse de l'énigme précise ce déclenchement sans remplacer encore cette
+définition. Avant de pouvoir formuler un problème, le sujet peut rencontrer une
+opacité structurée qui lui promet une prise et lui paraît susceptible d'être
+résolue. La contrainte désigne alors ce que la solution devra satisfaire ;
+l'énigme désigne la relation pré-problématique qui donne au sujet l'envie de
+reconstruire ces contraintes. Cette médiation reste à tester au-delà des cas
+explicites de résolution.
+
 Ce travail n'est ni nécessairement conscient ni extérieurement visible. Un bébé qui
 regarde longuement un triangle jaune peut sembler passif tout en apprenant à distinguer
 des invariants de couleur, de contour ou de forme. Cet exemple constitue une hypothèse
@@ -131,3 +139,5 @@ au cours de la relation.
 - Le gradient de progrès de `idea_0071` mesure une dimension de la construction en cours.
 - `idea_0137` déplie cette construction en épluchage successif et distingue ses
   issues : épuisement, abandon ou relance par la résistance.
+- `idea_0138` propose l'énigme comme médiation entre la rencontre avec l'objet,
+  la formulation du problème et le déclenchement de la construction.

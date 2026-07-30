@@ -67,6 +67,13 @@ parcours et le rend saisissable comme un tout.
 **Relance.** Une prise révèle une résistance, un niveau ou un objet nouveaux. Ce qui
 semblait être la fin d'une construction devient le déclencheur de la suivante.
 
+L'hypothèse de l'énigme permet de préciser ces issues. Chaque prise résout une
+énigme locale et détruit son pouvoir déclencheur propre. L'objet ne reste
+intéressant que si cette résolution est incomplète, si elle révèle une nouvelle
+énigme ou si le sujet clôt volontairement l'enquête avant son épuisement. La
+mort d'une énigme ne se confond donc pas avec la mort définitive de l'objet
+comme source d'intérêt.
+
 ## Vie de l'intéressant et processus créatif
 
 En ce sens, la vie de l'intéressant est liée au processus créatif. Tous deux commencent
@@ -136,3 +143,5 @@ contemplation : l'une préserve ou diffère, l'autre transforme et produit des p
 - Contraste avec la beauté encore contemplable après épuisement de l'intérêt dans
   `idea_0108`.
 - Fournit à `idea_0011` une objection contre la durée d'attention prise isolément.
+- Déplie dans le temps la mort locale et la relance des énigmes décrites dans
+  `idea_0138`.

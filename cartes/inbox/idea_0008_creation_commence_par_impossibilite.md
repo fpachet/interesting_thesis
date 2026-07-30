@@ -1,6 +1,6 @@
 ---
 id: idea_0008
-title: "Créer commence par une impossibilité"
+title: "L'injonction à créer contient une contradiction"
 kind: argument
 level: conceptual
 status: inbox

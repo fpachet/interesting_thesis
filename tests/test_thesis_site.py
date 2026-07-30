@@ -41,19 +41,19 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 131
+    assert manifest["cards"] == 135
     assert manifest["families"] == 8
-    assert manifest["relations"] == 147
-    assert manifest["references"] == 80
-    assert manifest["referenced_cards"] == 42
+    assert manifest["relations"] == 168
+    assert manifest["references"] == 82
+    assert manifest["referenced_cards"] == 45
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 131
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 80
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 135
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 82
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
     assert "Thèse centrale actuelle" in homepage
     assert "L&#x27;intéressant est ce qui déclenche et soutient une construction" in homepage
-    assert "131 propositions" in homepage
+    assert "135 propositions" in homepage
     assert (output / "these" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
     assert (output / "suivi" / "index.html").is_file()
@@ -62,6 +62,7 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "cartes" / "idea_0128" / "index.html").is_file()
     assert (output / "cartes" / "idea_0133" / "index.html").is_file()
     assert (output / "cartes" / "idea_0134" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0138" / "index.html").is_file()
     assert (output / "bibliographie" / "russell1995awardlecture" / "index.html").is_file()
 
     thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")

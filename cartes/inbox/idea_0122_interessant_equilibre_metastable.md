@@ -70,3 +70,5 @@ ils compensent, exploitent ou accélèrent ces deux dérives.
 - Précise la temporalité et l'épuisement de l'intérêt décrits dans `idea_0001` et `idea_0004`.
 - Relie l'apprentissage des régularités de `idea_0071` au passage vers l'ennui.
 - Situe le presque-apprenable de `idea_0107` près de la dérive vers l'anxiété.
+- `idea_0138` reformule cet intervalle comme celui d'une énigme dont la
+  résolution paraît accessible sans être déjà acquise.

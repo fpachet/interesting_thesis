@@ -58,6 +58,13 @@ dans ce changement de prise, non dans la seule quantité de connaissances mobili
 Le sujet reconstruit la règle locale du jeu de mots et découvre que le problème était
 visible sans être vu.
 
+La définition de mots croisés fournit ainsi un cas presque pur d'énigme
+consumable. Tant que la solution paraît accessible sans être acquise, l'indice
+soutient les constructions du joueur. Une fois le déplacement compris, cette
+énigme locale meurt : elle ne peut redevenir intéressante qu'après oubli ou
+depuis un autre niveau d'analyse, par exemple celui de l'élégance de la
+définition.
+
 ## Une optale linguistique
 
 Perec rejoint ici l'idée de l'**optale**, développée dans *Histoire d'une
@@ -165,3 +172,5 @@ du joueur, puis observer à quel moment l'opacité devient prise.
 - Prolonge la contrainte littéraire de `idea_0051` du côté de la réception.
 - Distingue la difficulté effectivement éprouvée de sa réputation sociale dans
   `idea_0059`.
+- Illustre dans `idea_0138` l'énigme consumable dont la résolution détruit le
+  pouvoir déclencheur local.

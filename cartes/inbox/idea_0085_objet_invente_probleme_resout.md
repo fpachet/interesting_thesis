@@ -36,6 +36,12 @@ travail attentionnel ne consiste alors pas seulement à reconnaître des traits,
 inférer des contraintes, imaginer des alternatives et comprendre pourquoi la forme
 rencontrée réussit là où les solutions voisines échoueraient.
 
+L'énigme nomme l'état intermédiaire entre la rencontre avec la forme et la
+formulation de ce problème. Le sujet perçoit que l'objet résout quelque chose
+sans savoir encore quoi. La forme fait énigme tant que les contraintes qu'elle
+réconcilie restent à reconstruire ; cette énigme particulière s'éteint lorsque
+le problème et la nécessité de la solution deviennent entièrement transparents.
+
 Cette définition s'inscrit dans la zone de flow. Si le problème et sa solution sont
 immédiatement évidents, la reconstruction n'exige aucun travail et dérive vers l'ennui.
 Si les contraintes restent impossibles à inférer, l'objet demeure opaque et la relation
@@ -98,3 +104,5 @@ forme déterminée au travail constructif du sujet : comprendre ce que la forme 
 - À rapprocher de la réification dans `idea_0076`.
 - Donne un contenu de résolution de problème au travail constructif de `idea_0123`.
 - Se situe dans la zone de flow définie par `idea_0121` et dynamisée par `idea_0122`.
+- Fournit à `idea_0138` le cas où une solution fait énigme avant que son problème
+  soit formulé.

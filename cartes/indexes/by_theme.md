@@ -54,6 +54,7 @@
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
+- `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 
 ## Ennui, surprise, rareté
 
@@ -68,15 +69,16 @@
 - `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
+- `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 
 ## Création, contrainte, impossibilité
 
-- `idea_0008` - Créer commence par une impossibilité.
+- `idea_0008` - L'injonction à créer contient une contradiction.
 - `idea_0009` - Le nouveau devient accessible localement sans avoir été concevable à l'avance.
 - `idea_0010` - Virtuosité et difficultuosité.
-- `idea_0012` - Produire sans but explicite peut faire apparaître le but après coup.
+- `idea_0012` - Le gribouillage comme signal précurseur d'une direction créative.
 - `idea_0016` - La génération a besoin d'un sens de la direction.
 - `idea_0017` - Une génération contrainte peut être validée tout en biaisant la distribution cible.
 - `idea_0041` - L'injonction démocratique à créer.
@@ -104,6 +106,7 @@
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
 - `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
+- `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 
 ## Interaction et systèmes réflexifs
 
