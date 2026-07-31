@@ -64,7 +64,7 @@
 - `idea_0030` - Une coïncidence devient intéressante quand ses exemples forment eux-mêmes un motif.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0037` - Thue-Morse : non-répétition structurée.
-- `idea_0114` - Une phrase banale peut devenir intéressante après coup ou rester un simple substrat.
+- `idea_0114` - Une phrase musicale banale peut devenir intéressante après coup ou rester un simple substrat.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 - `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.

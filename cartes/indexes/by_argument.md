@@ -145,7 +145,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0039` - L'intéressant d'une séquence naît de dimensions qui se contraignent mutuellement.
 - `idea_0111` - Autonomie mélodique et mobilité harmonique peuvent se renforcer au lieu de s'opposer.
 - `idea_0113` - L'optale éprouve une nécessité par variation, la pseudoptale la simule par familiarité.
-- `idea_0114` - Une phrase banale peut devenir intéressante après coup ou rester un simple substrat.
+- `idea_0114` - Une phrase musicale banale peut devenir intéressante après coup ou rester un simple substrat.
 
 ### Cas, contexte et objection
 

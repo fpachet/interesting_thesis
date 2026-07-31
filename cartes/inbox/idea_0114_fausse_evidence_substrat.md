@@ -1,6 +1,6 @@
 ---
 id: idea_0114
-title: "Une phrase banale peut devenir intéressante après coup ou rester un simple substrat"
+title: "Une phrase musicale banale peut devenir intéressante après coup ou rester un simple substrat"
 kind: distinction
 level: conceptual
 status: inbox
