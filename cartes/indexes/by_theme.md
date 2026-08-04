@@ -2,7 +2,7 @@
 
 ## Histoire, canonisation et concepts concurrents
 
-- `idea_0139` - Garve anticipe la construction par lacune ; la thèse doit en préciser la résistance et la relance.
+- `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
 - `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
@@ -56,7 +56,7 @@
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
-- `idea_0139` - Garve anticipe la construction par lacune ; la thèse doit en préciser la résistance et la relance.
+- `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 
 ## Ennui, surprise, rareté
 
@@ -164,7 +164,7 @@
 - `idea_0057` - Les fantasmagories séduisent par plaisir de la glisse.
 - `idea_0058` - Le vrai virtuose paie la fluidité par une vie de travail.
 - `idea_0059` - La chalépodoxie : réputation sociale de difficulté.
-- `idea_0139` - Garve anticipe la construction par lacune ; la thèse doit en préciser la résistance et la relance.
+- `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 - `idea_0060` - On désire l'état du virtuose plus que son objet.
 - `idea_0061` - Le langage est le terrain privilégié des impostures virtuoses.
 - `idea_0062` - Penser, c'est accepter la contrainte du réel.

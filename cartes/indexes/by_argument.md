@@ -38,7 +38,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
-- `idea_0139` - Garve anticipe la construction par lacune ; la thèse doit en préciser la résistance et la relance.
+- `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 
 ### Distinctions et objections
 

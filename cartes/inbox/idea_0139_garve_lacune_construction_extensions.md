@@ -1,6 +1,6 @@
 ---
 id: idea_0139
-title: "Garve anticipe la construction par lacune ; la thèse doit en préciser la résistance et la relance"
+title: "Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée"
 kind: argument
 level: conceptual
 status: inbox
