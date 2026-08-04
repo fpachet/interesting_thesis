@@ -1,11 +1,13 @@
 ---
 id: idea_0059
-title: "La chalepodoxie : réputation sociale de difficulté"
+title: "La chalépodoxie : réputation sociale de difficulté"
 kind: definition
 level: conceptual
 status: inbox
 sources:
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
+references:
+  - pachet2027virtuosite
 source_notes:
   - "PDF p. 13-16"
 tags:
@@ -16,7 +18,7 @@ tags:
 ---
 ## Idée
 
-La chalepodoxie désigne l'appropriation sociale d'une difficulté non maîtrisée : donner
+La chalépodoxie désigne l'appropriation sociale d'une difficulté non maîtrisée : donner
 l'apparence de naviguer dans le difficile pour en tirer prestige et plaisir. Elle met en
 relation un domaine réputé difficile, un sujet qui n'en a pas surmonte la résistance et
 un tiers qu'il souhaite impressionner.

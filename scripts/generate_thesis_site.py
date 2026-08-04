@@ -481,6 +481,32 @@ def markdown_to_html(markdown: str) -> str:
                 index += 1
             output.append(f"<blockquote>{inline_markdown(' '.join(quote_lines))}</blockquote>")
             continue
+        if stripped.startswith("|") and index + 1 < len(lines):
+            separator = lines[index + 1].strip()
+            if re.match(r"^\|(?:\s*:?-{3,}:?\s*\|)+$", separator):
+                flush_paragraph()
+
+                def cells(row: str) -> list[str]:
+                    return [cell.strip() for cell in row.strip().strip("|").split("|")]
+
+                headers = cells(stripped)
+                index += 2
+                rows: list[list[str]] = []
+                while index < len(lines) and lines[index].strip().startswith("|"):
+                    rows.append(cells(lines[index]))
+                    index += 1
+                head = "".join(f"<th>{inline_markdown(cell)}</th>" for cell in headers)
+                body = "".join(
+                    "<tr>"
+                    + "".join(f"<td>{inline_markdown(cell)}</td>" for cell in row)
+                    + "</tr>"
+                    for row in rows
+                )
+                output.append(
+                    f'<div class="table-scroll"><table><thead><tr>{head}</tr></thead>'
+                    f"<tbody>{body}</tbody></table></div>"
+                )
+                continue
         if re.match(r"^- ", stripped):
             flush_paragraph()
             items: list[str] = []
@@ -657,6 +683,7 @@ def base_page(
     nav_items = [
         ("accueil", "Vue d'ensemble", "index.html"),
         ("these", "La thèse", "these/index.html"),
+        ("lectures", "Lectures", "lectures/index.html"),
         ("cartes", "Les cartes", "cartes/index.html"),
         ("bibliographie", "Bibliographie", "bibliographie/index.html"),
         ("graphe", "Le graphe", "graphe/index.html"),
@@ -937,6 +964,40 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         content=content,
         prefix="../",
         active="these",
+    )
+
+
+def reading_program_page() -> str:
+    source = (ROOT / "docs" / "lectures" / "interessant-etat-art.md").read_text(
+        encoding="utf-8"
+    )
+    source = re.sub(r"^# .+?\n+", "", source, count=1)
+    source = re.sub(
+        r"\]\(([^):]+\.md)\)",
+        lambda match: f"](../docs/lectures/{match.group(1)})",
+        source,
+    )
+    content = f"""
+<section class="page-hero">
+  <div class="shell page-hero__inner">
+    <div><p class="eyebrow">Programme de lecture</p><h1>Lire l'histoire<br><em>de l'intéressant.</em></h1></div>
+    <p class="page-hero__lead">Un parcours en dix séances, des questions de travail et des accès publics vérifiés vers les textes primaires et secondaires.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="shell reading-program-header">
+    <p>Le programme distingue le domaine public, l'accès ouvert, la simple consultation publique et les textes qui restent à obtenir.</p>
+    <div class="button-row"><a class="button button--primary" href="#programme">Commencer le parcours</a><a class="button" href="../docs/lectures/passages-interessant-etat-art.md">Guide détaillé des passages</a></div>
+  </div>
+  <article class="shell prose prose--reading" id="programme">{markdown_to_html(source)}</article>
+</section>
+"""
+    return base_page(
+        title="Programme de lecture",
+        description="Programme de lecture priorisé sur l'histoire et les théories de l'intéressant, avec accès publics vérifiés.",
+        content=content,
+        prefix="../",
+        active="lectures",
     )
 
 
@@ -1485,11 +1546,16 @@ def build(output: Path) -> None:
         destination.parent.mkdir(parents=True, exist_ok=True)
         if not destination.exists():
             shutil.copy2(origin, destination)
+    for origin in (ROOT / "docs" / "lectures").glob("*.md"):
+        destination = output / "docs" / "lectures" / origin.name
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(origin, destination)
     write_page(
         output / "index.html",
         home_page(cards, families, relations, statement, question, questions, last_date),
     )
     write_page(output / "these" / "index.html", thesis_page(cards, statement, question))
+    write_page(output / "lectures" / "index.html", reading_program_page())
     write_page(
         output / "cartes" / "index.html",
         cards_page(cards, families, bibliography),

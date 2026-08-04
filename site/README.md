@@ -34,7 +34,9 @@ python3 scripts/generate_thesis_site.py --output /tmp/interesting-thesis-site
 
 - une page d'accueil destinée aux personnes qui suivent la thèse ;
 - une présentation de l'objet, de l'hypothèse centrale et de sa méthode ;
-- un catalogue des 135 cartes avec recherche et filtres ;
+- un programme de lecture en dix séances avec questions de travail, statut des
+  sources et liens d'accès public vérifiés ;
+- un catalogue des 136 cartes avec recherche et filtres ;
 - une fiche complète pour chaque carte, avec provenance et relations ;
 - une bibliographie recherchable, avec notices détaillées, documents publics et
   navigation bidirectionnelle entre références et propositions ;

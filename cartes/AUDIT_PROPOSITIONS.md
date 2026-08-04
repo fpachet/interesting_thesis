@@ -117,7 +117,7 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 135 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+Les 136 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
 du genre de leur document source : 91 `conceptual`, 19 `scientific` et 25
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
@@ -343,6 +343,15 @@ problème interne à la vie de l'intéressant : une construction peut être ache
 son objet soit épuisé. L'opposition à la contemplation est formulée fonctionnellement :
 l'immobilité visible peut cacher un travail constructif, tandis que la contemplation au
 sens fort suspend ou repousse les opérations qui transforment la relation à l'objet.
+
+`idea_0139` a été ajoutée après lecture directe des passages prioritaires de Garve,
+guidée mais non remplacée par la reconstruction de Nannini. Elle établit que la lacune
+éprouvée, l'orientation vers la suite et la construction depuis des matériaux antérieurs
+sont déjà présentes en 1779. Elle déplace donc l'apport propre de la thèse vers la
+systématisation de ce cycle : énigme, prises contrôlables, résistance, résolution,
+épuisement ou relance. La difficultuosité y est présentée comme une transposition à
+tester ; la chalépodoxie, comme une simulation sociale possible de la difficulté sans
+construction réelle.
 
 ## Identifiants retires
 

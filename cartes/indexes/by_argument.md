@@ -20,7 +20,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
 
-## 2. Définition et émergence de l'intéressant (19)
+## 2. Définition et émergence de l'intéressant (20)
 
 ### Pivots
 
@@ -38,6 +38,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
+- `idea_0139` - Garve anticipe la construction par lacune ; la thèse doit en préciser la résistance et la relance.
 
 ### Distinctions et objections
 
@@ -190,7 +191,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0049` - La difficultuosité vit dans une zone de crédibilité.
 - `idea_0050` - Le flow est le signal tardif d'une difficulté incorporée, pas un moteur créatif.
 - `idea_0058` - Le vrai virtuose paie la fluidité par une vie de travail.
-- `idea_0059` - La chalepodoxie : réputation sociale de difficulté.
+- `idea_0059` - La chalépodoxie : réputation sociale de difficulté.
 - `idea_0060` - On désire l'état du virtuose plus que son objet.
 - `idea_0078` - La virtuosité est perçue par comparaison avec les capacités corporelles latentes du public.
 - `idea_0089` - La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste.
@@ -224,6 +225,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 7, 19, 27, 30, 10, 13, 11 et 18
-cartes, soit les 135 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 7, 20, 27, 30, 10, 13, 11 et 18
+cartes, soit les 136 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

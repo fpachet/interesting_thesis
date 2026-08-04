@@ -41,20 +41,21 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 135
+    assert manifest["cards"] == 136
     assert manifest["families"] == 8
-    assert manifest["relations"] == 168
-    assert manifest["references"] == 82
-    assert manifest["referenced_cards"] == 45
+    assert manifest["relations"] == 173
+    assert manifest["references"] == 84
+    assert manifest["referenced_cards"] == 49
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 135
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 82
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 136
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 84
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
     assert "Thèse centrale actuelle" in homepage
     assert "L&#x27;intéressant est ce qui déclenche et soutient une construction" in homepage
-    assert "135 propositions" in homepage
+    assert "136 propositions" in homepage
     assert (output / "these" / "index.html").is_file()
+    assert (output / "lectures" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
     assert (output / "suivi" / "index.html").is_file()
     assert (output / "bibliographie" / "index.html").is_file()
@@ -63,12 +64,23 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "cartes" / "idea_0133" / "index.html").is_file()
     assert (output / "cartes" / "idea_0134" / "index.html").is_file()
     assert (output / "cartes" / "idea_0138" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0139" / "index.html").is_file()
     assert (output / "bibliographie" / "russell1995awardlecture" / "index.html").is_file()
 
     thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")
     assert "Trois mouvements provisoires" in thesis_page
     assert "Constituer l&#x27;angle mort" in thesis_page
     assert "discussion avec Olivia Chevallier" in thesis_page
+
+    reading_page = (output / "lectures" / "index.html").read_text(encoding="utf-8")
+    assert "Parcours exécutable en dix séances" in reading_page
+    assert "Christian Garve" in reading_page
+    assert "Friedrich Schlegel" in reading_page
+    assert "Bibliothèque numérique prioritaire" in reading_page
+    assert "<table>" in reading_page
+    assert "../docs/lectures/passages-interessant-etat-art.md" in reading_page
+    assert "https://textgridrep.de/browse/v35f.0?lang=de" in reading_page
+    assert "https://play.google.com/store/books/details?id=7nMQky4ClX8C" in reading_page
 
     card_catalog = (output / "cartes" / "index.html").read_text(encoding="utf-8")
     assert "koestler, arthur (1989). the act of creation" in card_catalog

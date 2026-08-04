@@ -14,10 +14,10 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
 2. **Dégager ses propriétés.** Examiner notamment la temporalité, la singularité, la
    transformation des attentes, la nécessité rétrospective, la dépendance à l'histoire
    du sujet et la possibilité de l'ennui.
-3. **Établir sa place philosophique.** Reconstruire la manière dont la philosophie a
-   traité séparément le vrai, le beau, le bien, le sens, le jugement, l'invention et
-   l'attention, puis déterminer si l'intéressant constitue réellement un angle mort ou
-   seulement un nouveau nom pour des problèmes déjà connus.
+3. **Établir sa place philosophique.** Partir de Garve, qui formule déjà explicitement
+   le rapport entre attention, lacune et construction, puis reconstruire la faible
+   canonisation de ce noyau et sa dispersion ultérieure entre le vrai, le beau, le bien,
+   le sens, le jugement, l'invention et l'attention.
 4. **Mettre les hypothèses à l'épreuve.** Utiliser la musique, les pratiques de création
    et les systèmes d'intelligence artificielle comme terrains de variation et de
    comparaison, sans prendre leurs résultats pour des preuves ontologiques directes.
@@ -27,7 +27,8 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
 Une discussion avec Olivia Chevallier, co-directrice de la thèse, fait apparaître une
 structure possible qui ne constitue pas encore un plan arrêté :
 
-1. **Constituer l'angle mort.** Établir comment l'intéressant échappe aux découpages
+1. **Constituer l'angle mort.** Établir comment une formulation explicite chez Garve a
+   pu rester faiblement canonisée, puis comment l'intéressant échappe aux découpages
    philosophiques et scientifiques disponibles, en prenant notamment au sérieux
    l'hostilité structurelle de la formalisation à son égard.
 2. **Construire le concept.** Proposer une définition relationnelle, dégager des
@@ -63,6 +64,15 @@ l'expérience individuelle, il agit déjà à l'intérieur des deux pôles en fo
 attentes du sujet et le répertoire des formes disponibles.
 
 ## Hypothèse centrale : l'intéressant comme déclencheur de construction
+
+Cette hypothèse n'est plus présentée comme une découverte sans antécédent. Dans
+*Einige Gedanken über das Interessirende* (1779), Garve relie déjà l'intéressant à une
+attention sans effort volontaire, à une difficulté antérieurement éprouvée, à une lacune
+aperçue dans les connaissances, à la construction depuis des matériaux mentaux déjà
+présents et à l'affaiblissement de l'activité lorsque l'issue devient certaine. La
+contribution propre de la thèse consiste à systématiser ce mécanisme, à définir les
+prises qu'il produit et à en développer la temporalité, les extensions créatives, les
+limites et la récursivité.
 
 Le candidat actuel pour le cœur de la thèse est le suivant : **l'intéressant est ce qui
 déclenche et soutient une construction par laquelle un sujet acquiert une prise nouvelle
@@ -159,6 +169,22 @@ des distinctions et des variations susceptibles d'être discutées.
 10. **Auto-extinction ou relance.** Certaines relations sont consumables : la résolution
    de l'énigme supprime leur intérêt. D'autres sont génératives : chaque prise révèle une
    résistance ou une question nouvelle.
+
+### Difficultuosité et chalépodoxie
+
+Le manuscrit de *La virtuosité à la portée des caniches*, à paraître chez Hermann en
+2027, permet de distinguer trois régimes. La difficulté intrinsèque attribue la
+résistance à la tâche ; la **difficultuosité** désigne la difficulté ressentie dans la
+relation entre un sujet, ses compétences et une performance ; la **chalépodoxie** fait
+de la réputation sociale d'une difficulté non maîtrisée un instrument de prestige face
+à un tiers.
+
+La difficultuosité peut préciser la résistance praticable de l'énigme : trop faible,
+elle est déjà résolue ; sans prise possible, elle ne déclenche aucune construction. La
+chalépodoxie constitue au contraire un faux positif possible de l'intéressant : fluidité,
+opacité ou jargon peuvent simuler la profondeur sans produire de prise contrôlable. Il
+faut donc distinguer difficulté travaillée, difficulté ressentie et réputation sociale
+de difficulté.
 
 ### Valeur, transfert et circulation
 

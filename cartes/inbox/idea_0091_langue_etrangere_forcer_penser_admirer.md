@@ -20,7 +20,7 @@ Le grand styliste rend la langue étrangère à elle-même parce qu'une idée ou
 expérience résiste aux formes disponibles. La déformation ouvre un passage à la limite
 du dicible et oblige le lecteur à réorganiser sa pensée.
 
-La chalepodoxie peut employer les mêmes signes visibles - jargon, abstraction, syntaxe
+La chalépodoxie peut employer les mêmes signes visibles - jargon, abstraction, syntaxe
 brisée, obscurité - sans rencontrer cette résistance. La complexité ne porte alors
 aucune proposition plus exigeante ; elle sert à produire une réputation de profondeur.
 Dans un cas, la difficulté est le coût d'une idée ; dans l'autre, elle est l'effet

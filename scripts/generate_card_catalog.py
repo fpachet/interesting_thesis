@@ -421,6 +421,15 @@ def latex_inline(text: str) -> str:
         tokens[marker] = rf"\{command}{{{latex_escape(content)}}}"
         return marker
 
+    def link_token(match: re.Match[str]) -> str:
+        marker = f"@@TOKEN{len(tokens)}@@"
+        label, url = match.groups()
+        tokens[marker] = (
+            rf"\href{{\detokenize{{{url}}}}}{{{latex_escape(label)}}}"
+        )
+        return marker
+
+    text = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", link_token, text)
     text = re.sub(r"`([^`]+)`", lambda match: token("texttt", match.group(1)), text)
     text = re.sub(r"\*\*(.+?)\*\*", lambda match: token("textbf", match.group(1)), text)
     text = re.sub(r"\*([^*\n]+)\*", lambda match: token("emph", match.group(1)), text)

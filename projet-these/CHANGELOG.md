@@ -4,6 +4,35 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 4 - 4 août 2026
+
+Repositionnement historique de la définition constructive après lecture directe
+de Christian Garve.
+
+- remplacement de Garve comme simple lecture annoncée par un résultat historique
+  intégré : attention sans effort volontaire, difficulté antérieurement éprouvée,
+  lacune aperçue, construction depuis des matériaux mentaux déjà présents,
+  orientation prospective et affaiblissement par la certitude ;
+- abandon explicite de toute revendication de découverte ex nihilo du mécanisme
+  constructif ;
+- déplacement de la contribution propre vers la systématisation du cycle, les
+  prises contrôlables, les distinctions lacune--énigme--problème--contrainte,
+  l'épluchage, l'épuisement ou la relance, la généralisation créative et la
+  récursivité ;
+- transformation de l'angle mort en problème de faible canonisation et d'absence
+  de tradition cumulative à partir de Garve ;
+- intégration de la difficultuosité comme difficulté ressentie et calibrée dans
+  une zone de plausibilité incarnée ;
+- intégration de la chalépodoxie comme régime social distinct où la réputation
+  d'une difficulté non maîtrisée devient capital symbolique et faux positif de
+  l'intéressant ;
+- attribution de ces deux concepts au manuscrit de *La virtuosité à la portée
+  des caniches*, à paraître chez Hermann en 2027 ;
+- réorganisation du plan historique autour de Garve, puis du déclassement et de
+  la dispersion ultérieure de l'intéressant ;
+- synchronisation des versions française et anglaise et mise à jour des
+  documents de cadrage, des cartes et du programme de lecture.
+
 ## Version 3 - 28 juillet 2026
 
 Réorganisation générale du projet selon les trois mouvements de la thèse.

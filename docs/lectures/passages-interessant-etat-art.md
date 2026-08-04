@@ -47,13 +47,28 @@ avant les lectures intégrales.
 
 ## I. Généalogie historique
 
-### 1. Christian Garve reconstruit par Alessandro Nannini — **V**
+### 1. Christian Garve lu directement, avec Alessandro Nannini comme guide — **V**
 
-Référence : Alessandro Nannini, *Christian Garve e l'estetica
-dell'interessante*, *Aesthetica Preprint*, no 108, 2018.
+Références : Christian Garve, « Einige Gedanken über das Interessirende », dans
+*Sammlung einiger Abhandlungen*, 1779, p. 253–439 ; Alessandro Nannini,
+*Christian Garve e l'estetica dell'interessante*, *Aesthetica Preprint*,
+no 108, 2018.
 
 Accès :
-[numéro complet en PDF](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/download/8/9).
+[transcription de Garve dans le Deutsches Textarchiv](https://www.deutschestextarchiv.de/book/show/garve_sammlung_1779) ;
+[numérisation de l'édition de 1779](https://opendata.uni-halle.de/handle/1981185920/97616) ;
+[numéro complet de Nannini en PDF](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/download/8/9).
+
+| Pages de Garve | Passage ou problème | Résultat de lecture |
+| --- | --- | --- |
+| 253–255 | Attention, effort et attraction de l'objet | L'intéressant fixe l'attention sans résolution volontaire, par une attraction douce liée au plaisir et au rapport avec l'état du sujet. |
+| 257–260 | Orientation vers la suite | L'attention est déjà en avant de l'idée présente et désire les membres suivants de la série. |
+| 266–269 | Difficulté éprouvée et lacune | Une explication intéresse si le sujet a déjà rencontré la difficulté qu'elle résout et aperçu la lacune qu'elle comble. |
+| 269–274 | Séries mentales et matériaux antérieurs | Les représentations nouvelles agissent lorsqu'elles se construisent depuis des matériaux déjà présents et provoquent le sujet à relier et prolonger. |
+| 313–317 | Obscurité de l'avenir et certitude | Une part d'incertitude entretient l'activité ; la certitude de l'issue la diminue. |
+
+La table suivante conserve la cartographie de Nannini qui situe ces passages
+dans une histoire plus large de l'esthétique de l'intéressant.
 
 | Pages | Passage ou problème | Extraction attendue |
 | --- | --- | --- |
@@ -71,10 +86,13 @@ Accès :
 existe comme concept relationnel de réception. Sa faible canonisation viendrait
 en partie de sa bifurcation entre médiation cognitive et stimulation subjective.
 
-**Attention.** Nannini reconstruit Garve. Les propositions historiques devront
-ensuite être rapportées aux textes primaires de Garve identifiés dans ses notes.
+**Attention.** Les propositions conceptuelles centrales ci-dessus ont été
+contrôlées dans le texte primaire. La reconstruction historique plus large de
+Nannini — notamment la taxonomie complète, la subjectivisation et la crise de
+la catégorie — doit rester distinguée des formulations littérales de Garve.
 
-Cartes : `idea_0129`, `idea_0131`, puis `idea_0108`.
+Cartes : `idea_0139` pour la confrontation directe avec la définition constructive,
+puis `idea_0129`, `idea_0131` et `idea_0108` pour la généalogie et les substitutions.
 
 ### 2. Friedrich Schlegel, *On the Study of Greek Poetry* — **P/I**
 

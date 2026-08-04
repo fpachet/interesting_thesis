@@ -8,6 +8,8 @@ sources:
   - "input/De l'impossibilité de créer.pdf"
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
   - "input/ERCGrantPachetInterestingness.pdf"
+references:
+  - pachet2027virtuosite
 source_notes:
   - "De l'impossibilité de créer, PDF p. 46-58"
   - "La Virtuosité à portée des caniches, PDF p. 13-16"

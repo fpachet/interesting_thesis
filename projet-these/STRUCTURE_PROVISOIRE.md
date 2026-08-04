@@ -37,6 +37,9 @@ angle mort et résistances
 Le premier mouvement ne devra pas affirmer trop vite que la philosophie n'a
 jamais parlé de l'intéressant. Il devra établir un diagnostic plus précis :
 
+- comment Garve a-t-il pu formuler dès 1779 le rapport entre attention, lacune,
+  difficulté éprouvée et construction sans devenir le point de départ d'une
+  tradition cumulative ?
 - sous quels autres noms le phénomène a-t-il été approché ?
 - quelles dimensions sont saisies par le vrai, le beau, le plaisir, la
   préférence, la surprise, la curiosité ou l'attention ?
@@ -56,6 +59,8 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
   collectif et un moment ;
 - la distinction entre intéressant, préférence, plaisir, surprise, beauté,
   pertinence et valeur ;
+- la distinction entre difficulté intrinsèque, difficultuosité ressentie et
+  chalépodoxie comme réputation sociale de difficulté ;
 - l'hypothèse de l'intéressant comme déclencheur et soutien d'une construction
   donnant au sujet une prise nouvelle ;
 - la zone intermédiaire entre ennui et anxiété, ainsi que l'évolution temporelle
@@ -100,6 +105,11 @@ et le confronter à des distinctions déjà constituées. Spinoza, par exemple,
 contribue au programme de naturalisation des affects ; d'autres traditions
 permettront d'examiner le jugement, l'attention, la curiosité, le plaisir, le beau
 ou l'émergence du sens.
+
+Garve occupe désormais une fonction plus précise : il fournit l'antécédent
+historique direct du mécanisme constructif. Les autres textes doivent permettre
+de suivre son déclassement, sa dispersion ou ses transformations, puis de mesurer
+ce que la thèse ajoute réellement à ce noyau.
 
 Ces textes ne doivent pas servir d'habillage destiné à faire reconnaître le
 travail comme philosophique. Ils doivent contraindre le concept, révéler ses

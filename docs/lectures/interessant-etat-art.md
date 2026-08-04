@@ -20,6 +20,73 @@ Les pages et sections déjà localisées sont réunies dans le
 distingue les repérages vérifiés dans le texte intégral des localisations encore
 fondées sur un aperçu ou une source secondaire.
 
+## Comment utiliser ce programme
+
+Le parcours ci-dessous est conçu comme une suite de **dix séances de deux à
+trois heures**. Il ne demande pas de lire immédiatement chaque ouvrage en
+entier : chaque séance doit d'abord produire une fiche comparable aux autres,
+avec une thèse, un passage décisif, une objection et une conséquence possible
+pour le concept de l'intéressant.
+
+Codes d'accès employés dans cette page :
+
+- **DP** — texte du domaine public ou édition patrimoniale librement
+  consultable ;
+- **OA** — texte intégral diffusé en accès ouvert par une revue, un auteur ou
+  une institution ;
+- **CP** — consultation publique, aperçu, prêt numérique ou copie d'auteur ;
+  l'accès convient à la recherche personnelle mais les droits restent réservés ;
+- **Notice** — métadonnées ou résumé seulement ; le texte doit être obtenu par
+  une bibliothèque, un achat ou une demande à l'auteur.
+
+La disponibilité indiquée a été contrôlée le **3 août 2026**. Un lien public
+n'est pas nécessairement une édition de référence : les citations destinées à
+la thèse doivent toujours être contrôlées dans l'édition effectivement citée.
+
+## Parcours exécutable en dix séances
+
+| Séance | Lecture centrale | Question de travail | Trace à produire |
+| --- | --- | --- | --- |
+| 1 | Nannini, « Interesting » et introduction de *Christian Garve e l'estetica dell'interessante* | Existe-t-il une histoire discontinue mais réelle de la catégorie ? | chronologie provisoire et liste des textes primaires |
+| 2 | Garve, « Einige Gedanken über das Interessirende » | Comment l'objet stabilise-t-il l'attention sans contrainte ni effort volontaire ? | schéma sujet–objet–attention–désir |
+| 3 | Schlegel, *Über das Studium der griechischen Poesie* | L'intéressant est-il une valeur, un symptôme de la modernité ou une étape à dépasser ? | tableau beau / intéressant / moderne |
+| 4 | Schopenhauer, « Ueber das Interessante » | Pourquoi la stimulation intéressante conduit-elle à l'insatisfaction ou à l'ennui ? | modèle de la surenchère et de l'épuisement |
+| 5 | Kierkegaard, « Vexel-Driften » / « The Rotation of Crops » | Changer l'objet ou changer la manière de le cultiver : où réside l'intéressant ? | note sur variation, ennui et réflexivité |
+| 6 | Whitehead puis Stace | Que signifie préférer une proposition intéressante à une proposition seulement vraie ? | distinction valeur prospective / vérité acquise |
+| 7 | Kolnai | Quelles propriétés phénoménologiques distinguent l'intéressant du beau, du plaisant et de l'important ? | tableau des propriétés candidates |
+| 8 | Epstein puis Grimm | L'intéressant porte-t-il sur les objets, les questions ou le rapport improbabilité–démontrabilité ? | confrontation avec l'hypothèse de l'énigme |
+| 9 | Ngai, « Merely Interesting » | Pourquoi ce jugement faible appelle-t-il des raisons, une circulation et une reprise ? | note sur récursivité et temporalité future |
+| 10 | Freivogel, puis contrôle par Pikulik, Eagan, Erion, Thomas ou Xu selon le besoin | Que reste-t-il propre à l'intéressant après comparaison avec curiosité, attention, beauté, nouveauté et importance ? | matrice finale, cartes corrigées et section d'état de l'art |
+
+À l'issue de chaque séance, remplir au minimum : **définition**, **objet
+qualifié**, **mécanisme déclenché**, **temporalité**, **mode de disparition**,
+**rapport au vrai**, **cas pathologique**, **pages**, **carte concernée**.
+
+## Bibliothèque numérique prioritaire
+
+| Texte | Accès public repéré | Statut et usage |
+| --- | --- | --- |
+| Alessandro Nannini, *Christian Garve e l'estetica dell'interessante* (2018) | [PDF intégral du no 108 d'*Aesthetica Preprint*](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/download/8/9) | **OA** — étude secondaire à lire d'abord, puis à contrôler sur Garve |
+| Christian Garve, *Sammlung einiger Abhandlungen* (1779), notamment « Einige Gedanken über das Interessirende », p. 253–439 | [numérisation Google Books](https://play.google.com/store/books/details?id=7nMQky4ClX8C) | **DP** — texte allemand en caractères gothiques ; l'essai comprend l'appendice de 1779 |
+| Friedrich Schlegel, *Über das Studium der griechischen Poesie* | [texte allemand intégral, TextGrid](https://textgridrep.de/browse/v35f.0?lang=de) ; [aperçu de la traduction Barnett](https://books.google.com/books/about/On_the_Study_of_Greek_Poetry.html?id=5Wuk9aoJrdMC) | **DP** pour l'allemand ; **CP** pour l'aperçu anglais |
+| Arthur Schopenhauer, « Ueber das Interessante » | [texte allemand, Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/schopenh/nachlas2/chap009.html) ; [volume VI numérisé](https://commons.ptsem.edu/id/arthurschopenhau0006scho) | **DP** — contrôler la pagination sur le fac-similé |
+| Søren Kierkegaard, « Vexel-Driften » dans *Enten–Eller*, I | [édition danoise officielle, Bibliothèque royale du Danemark](https://tekster.kb.dk/text/sks-ee1-txt-root.pdf) ; [notice du chapitre anglais, p. 281–300](https://www.degruyterbrill.com/document/doi/10.1515/9781400846931-009/html?lang=en) | **DP/OA** pour l'original danois ; **Notice** pour la traduction Hong |
+| Alfred North Whitehead, *Process and Reality* (1929) | [édition numérisée avec formats téléchargeables, Open Library](https://openlibrary.org/books/OL14642173M/Process_and_reality) | **DP** pour l'édition de 1929 ; viser partie III, chap. VI, § ii |
+| W. T. Stace, « Interestingness » (1944) | [PDF direct de l'éditeur](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EEF830F5A3202674EB10D1B6452386E5/S003181910002194Xa.pdf/interestingness.pdf) | **CP** — PDF publiquement accessible, droits éditoriaux conservés |
+| Aurel Kolnai, « On the Concept of the Interesting » (1964) | [notice Oxford, p. 22–39](https://academic.oup.com/bjaesthetics/article/4/1/22/16793) | **Notice** — priorité d'obtention en bibliothèque |
+| Sianne Ngai, « Merely Interesting » (2008) | [PDF direct de la revue](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/592544) | **CP** — accès public actuel, droits éditoriaux conservés |
+| Mikhail Epstein, « The Interesting » (2009) | [copie déposée par l'auteur](https://www.researchgate.net/publication/236704299_The_Interesting) | **CP** — version d'auteur pour lecture personnelle ; citer la version publiée |
+| Stephen Grimm, « What Is Interesting? » (2011) | [PDF intégral](https://philpapers.org/archive/GRIWII-5.pdf) | **OA** — texte de travail directement exploitable |
+| Alessandro Nannini, « Interesting » (2018) | [PDF intégral, *International Lexicon of Aesthetics*](https://lexicon.mimesisjournals.com/archive/2018/autumn/Interesting.pdf) | **OA** — synthèse généalogique et bibliographie de contrôle |
+| Stephan Freivogel, *L'intérêt et l'intéressant dans les valeurs épistémiques et les valeurs esthétiques* (2018) | [notice et PDF, Archive ouverte UNIGE](https://archive-ouverte.unige.ch/unige%3A157535) | **OA** — mémoire utile comme cartographie contemporaine |
+| Liang Xu, « How Does the Interesting Become an Aesthetic Category » (2023) | [notice et téléchargement, Research Commons](https://tsla.researchcommons.org/journal/vol43/iss3/3/) | **OA** — lecture en chinois ou traduction de travail |
+
+Les ouvrages de Pikulik (2014), Eagan (2024) et le chapitre d'Erion (2014)
+n'ont pas, à ce jour, de texte intégral public légitime identifié. Ils restent
+dans le programme, mais après exploitation des sources immédiatement
+accessibles. Cette distinction évite que la disponibilité en ligne ne devienne
+un critère intellectuel de priorité.
+
 ## Règle d'achèvement
 
 Une lecture n'est considérée comme intégrée que lorsque les cinq opérations
@@ -37,16 +104,18 @@ Le simple contrôle d'une notice d'éditeur ne coche que la première opération
 
 ### A1. Christian Garve par Alessandro Nannini
 
-- [ ] Lire Alessandro Nannini, *Christian Garve e l'estetica
+- [x] Lire Alessandro Nannini, *Christian Garve e l'estetica
   dell'interessante*, *Aesthetica Preprint*, no 108, 2018, 80 p.
-- [ ] Identifier dans cette étude les textes primaires allemands de Garve, leurs
+- [x] Identifier dans cette étude les textes primaires allemands de Garve, leurs
   éditions et les passages consacrés à `Interesse` ou `interessant`.
-- [ ] Revenir ensuite aux textes primaires au lieu d'attribuer à Garve la seule
+- [x] Revenir ensuite aux textes primaires au lieu d'attribuer à Garve la seule
   reconstruction de Nannini.
 
 Accès :
 
-- [archive de la revue, no 108](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/archive) ;
+- [PDF intégral de l'étude de Nannini](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/download/8/9) ;
+- [édition de 1779 de Garve, numérisée par Google Books](https://play.google.com/store/books/details?id=7nMQky4ClX8C),
+  où « Einige Gedanken über das Interessirende » occupe les p. 253–439 ;
 - [notice Aesthetica, ISBN 9788877261182](https://www.aestheticaedizioni.it/catalogo/christian-garve-lestetica-dellinteressante/).
 
 Questions :
@@ -57,10 +126,13 @@ Questions :
 - Son traitement permet-il réellement de déplacer l'origine du concept en amont
   du romantisme ?
 
-Cartes cibles : `idea_0129`, `idea_0131`, puis éventuellement `idea_0108`.
+Cartes cibles : `idea_0139` pour la confrontation directe avec la définition
+constructive, puis `idea_0129`, `idea_0131` et `idea_0108`.
 
-Statut : **étude de Nannini lue par passages ciblés ; p. 9–80 cartographiées ;
-corpus primaire de Garve à reconstruire**.
+Statut : **étude de Nannini lue par passages ciblés et p. 9–80 cartographiées ;
+texte primaire de Garve lu directement pour les p. 253–274 et 313–317 ; noyau
+relationnel et constructif intégré à `idea_0139` et à la version 4 du projet de
+thèse**.
 
 ### A2. Friedrich Schlegel
 
@@ -72,6 +144,8 @@ corpus primaire de Garve à reconstruire**.
 
 Accès :
 
+- [texte allemand intégral, TextGrid](https://textgridrep.de/browse/v35f.0?lang=de) ;
+- [aperçu de la traduction anglaise de Stuart Barnett](https://books.google.com/books/about/On_the_Study_of_Greek_Poetry.html?id=5Wuk9aoJrdMC) ;
 - [notice de l'édition SUNY Press](https://utpdistribution.com/9780791448298/on-the-study-of-greek-poetry/).
 
 Questions :
@@ -129,6 +203,8 @@ cartographié p. 381–389 ; comparaison avec les textes sur l'ennui à faire**.
 
 Accès :
 
+- [texte danois de *Enten–Eller*, édition critique en PDF](https://tekster.kb.dk/text/sks-ee1-txt-root.pdf) ;
+- [notice et pagination de « Rotation of Crops » dans la traduction Hong](https://www.degruyterbrill.com/document/doi/10.1515/9781400846931-009/html?lang=en) ;
 - [catalogue Princeton des *Kierkegaard's Writings*](https://assets.press.princeton.edu/catalogs/phil13.pdf) ;
 - [notice de l'ouvrage d'Anthony Eagan](https://www.bloomsbury.com/ca/kierkegaards-concept-of-the-interesting-9781666962475/).
 
@@ -182,8 +258,9 @@ Statut : **métadonnées vérifiées, ouvrage à obtenir et lire**.
 - [ ] Lire le contexte suffisant pour déterminer la fonction de cette formule
   dans la métaphysique du processus.
 
-Point d'accès :
+Points d'accès :
 
+- [*Process and Reality*, édition de 1929 numérisée et téléchargeable](https://openlibrary.org/books/OL14642173M/Process_and_reality) ;
 - [Stace, « Interestingness », notice et extrait Cambridge](https://www.cambridge.org/core/journals/philosophy/article/abs/interestingness/EEF830F5A3202674EB10D1B6452386E5),
   qui donne les deux localisations whiteheadiennes à vérifier.
 
@@ -209,9 +286,9 @@ lecture directe.
 
 | Lecture | Accès | Extraction attendue | Cartes principales | Statut |
 | --- | --- | --- | --- | --- |
-| W. T. Stace, « Interestingness », 1944 | [Cambridge](https://www.cambridge.org/core/journals/philosophy/article/abs/interestingness/EEF830F5A3202674EB10D1B6452386E5) | rapport entre vérité, trivialité et valeur de l'intéressant | `0129`, `0132` | [~] p. 233–235 repérées ; texte complet à obtenir |
+| W. T. Stace, « Interestingness », 1944 | [PDF direct Cambridge](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EEF830F5A3202674EB10D1B6452386E5/S003181910002194Xa.pdf/interestingness.pdf) | rapport entre vérité, trivialité et valeur de l'intéressant | `0129`, `0132` | [~] p. 233–235 repérées ; PDF public à lire intégralement |
 | Aurel Kolnai, « On the Concept of the Interesting », 1964 | [Oxford](https://academic.oup.com/bjaesthetics/article/4/1/22/16793) | phénoménologie, individualité, valeur intrinsèque ou instrumentale | `0129`, `0131`, `0132` | [~] p. 22–39 cartographiées indirectement ; texte à obtenir |
-| Sianne Ngai, « Merely Interesting », 2008 | [Critical Inquiry](https://criticalinquiry.uchicago.edu/past_issues/issue/summer_2008_v34_n4/) | jugement faible, raisons, circulation discursive et temporalité | `0129`–`0132` | [~] passages repérés par aperçu et sources secondaires |
+| Sianne Ngai, « Merely Interesting », 2008 | [PDF direct de la revue](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/592544) | jugement faible, raisons, circulation discursive et temporalité | `0129`–`0132` | [~] passages repérés ; PDF public à lire intégralement |
 | Sianne Ngai, *Our Aesthetic Categories*, 2012 | [Open Library](https://openlibrary.org/books/OL25259916M/Our_aesthetic_categories) | version développée, art conceptuel, information et ennui | `0129`, `0131`, `0132` | [~] chapitre localisé ; exemplaire à obtenir |
 | Mikhail Epstein, « The Interesting », 2009 | [Project MUSE](https://muse.jhu.edu/article/364012) | improbabilité, démontrabilité et structure transdisciplinaire | `0129`, `0132` | [x] p. 75–88 cartographiées dans une version d'auteur |
 | Stephen Grimm, « What Is Interesting? », 2011 | [PDF intégral](https://philpapers.org/archive/GRIWII-5.pdf) | valeur épistémique des questions et allocation de l'attention | `0129`, `0132` | [x] texte intégral lu et p. 515–542 cartographiées |

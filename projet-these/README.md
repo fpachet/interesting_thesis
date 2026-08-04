@@ -36,6 +36,11 @@ construire le concept et le mettre au travail. Elle intègre l'état de l'art, l
 définition constructive, les quatorze propriétés candidates, la récursivité et
 les cinq terrains d'épreuve.
 
+La V4 intègre la lecture directe de Garve comme antécédent du mécanisme
+constructif. Elle déplace l'originalité vers sa systématisation et ajoute la
+difficultuosité ainsi que la chalépodoxie à partir de *La virtuosité à la portée
+des caniches*, à paraître chez Hermann en 2027.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.

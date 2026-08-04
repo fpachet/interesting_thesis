@@ -85,7 +85,7 @@ découpage ci-dessous suit les titres visibles et les ruptures argumentatives.
 | 1-4 | Pages liminaires | aucune carte autonome | inventorié |
 | 5-9 | Fantasmagories politiques et plaisir de la glisse | `idea_0057` | traité |
 | 9-13 | Exposition spectaculaire et vrais virtuoses | `idea_0048`, `idea_0058`, `idea_0089`, `idea_0092` | traité ; exemples regroupés comme preuves |
-| 13-16 | Virtuosité, difficultuosité et chalepodoxie | `idea_0010`, `idea_0049`, `idea_0059` | traité |
+| 13-16 | Virtuosité, difficultuosité et chalépodoxie | `idea_0010`, `idea_0049`, `idea_0059` | traité |
 | 16-19 | Désir mimétique, apprentissage et humilité | `idea_0058`, `idea_0060`, `idea_0090` | traité |
 | 20-23 | Langage, prose en escalier et pensée contrainte | `idea_0061`, `idea_0062` | traité ; cas Butler conservé comme démonstration |
 | 24-27 | Substitution harmonique et encerclement mélodique | `idea_0063`, `idea_0064` | traité |
