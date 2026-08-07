@@ -13,6 +13,8 @@
 - `idea_0005` - L'inattendu ne suffit pas.
 - `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
+- `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
+- `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
 
 ## Définition de l'intéressant
 
@@ -57,6 +59,8 @@
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 - `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
+- `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
+- `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
 
 ## Ennui, surprise, rareté
 
@@ -192,3 +196,5 @@
 - `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
+- `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
+- `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
