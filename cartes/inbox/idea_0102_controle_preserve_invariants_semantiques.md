@@ -6,8 +6,12 @@ level: articulation
 status: inbox
 sources:
   - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/publications-francois-pachet/pachet-99a.pdf"
+references:
+  - pachet1999active
 source_notes:
   - "Synopsis MIT Press, chapitre Active Listening, rendu PDF p. 11-16 et 20"
+  - "Active Listening: What Is in the Air?, PDF p. 2-8 et 15 : espaces d'exploration dont les contraintes préservent les intentions musicales sous les variations de l'auditeur."
 tags:
   - controle
   - semantique

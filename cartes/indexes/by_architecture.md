@@ -68,8 +68,14 @@ distinction centrale.
 ## Cas réflexif classé
 
 - `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
+- `idea_0146` - La thèse relationnelle reprend et corrige le programme objectiviste de la mélodie intéressante.
+- `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
+- `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
+- `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
+- `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
+- `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 
-Cette carte reçoit le statut `CASE` non comme exemple périphérique, mais parce qu'elle
-réalise sur un travail scientifique précis la méthode réflexive formulée par
-`idea_0110`. Sa fonction est de montrer comment un résultat disciplinaire devient
-matériau philosophique sans changer rétroactivement de régime de preuve.
+Ces cartes reçoivent le statut `CASE` non comme exemples périphériques, mais parce
+qu'elles réalisent sur des travaux scientifiques précis la méthode réflexive formulée
+par `idea_0110`. Leur fonction est de montrer comment un résultat disciplinaire
+devient matériau philosophique sans changer rétroactivement de régime de preuve.

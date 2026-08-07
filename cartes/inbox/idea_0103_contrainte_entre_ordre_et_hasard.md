@@ -6,8 +6,12 @@ level: conceptual
 status: inbox
 sources:
   - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/publications-francois-pachet/pachet-99m.pdf"
+references:
+  - pachet1999programs
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 18-23"
+  - "Automatic Generation of Music Programs, PDF p. 2, 5 et 8 : compromis entre répétition et surprise, puis contraintes de similarité, différence et cardinalité sur la séquence."
 tags:
   - contrainte
   - exploration
@@ -36,3 +40,4 @@ génération et d'interaction.
 
 - Complète `idea_0096` sur la rareté relative à un problème.
 - Fournit un cadre général a `idea_0014` et `idea_0102`.
+- Reçoit dans `idea_0151` un cas publié issu des travaux personnels.

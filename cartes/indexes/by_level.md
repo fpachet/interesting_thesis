@@ -28,7 +28,7 @@ portée ne se réduit pas à un résultat scientifique.
 `idea_0138`, `idea_0139`, `idea_0140`, `idea_0141`, `idea_0142`, `idea_0143`,
 `idea_0144`.
 
-## Scientific (19)
+## Scientific (20)
 
 Résultats formels ou empiriques, méthodes, protocoles, mesures, algorithmes et
 propriétés de systèmes. Leur validité se juge d'abord dans le cadre scientifique
@@ -37,9 +37,9 @@ qui définit leurs données, hypothèses et limites.
 `idea_0011`, `idea_0013`, `idea_0014`, `idea_0017`, `idea_0028`, `idea_0029`,
 `idea_0032`, `idea_0035`, `idea_0036`, `idea_0038`, `idea_0039`, `idea_0068`,
 `idea_0069`, `idea_0070`, `idea_0072`, `idea_0097`, `idea_0100`, `idea_0106`,
-`idea_0130`.
+`idea_0130`, `idea_0150`.
 
-## Articulation (26)
+## Articulation (31)
 
 Propositions de second niveau reliant la pratique scientifique à l'enquête
 philosophique. Elles explicitent une conséquence, une limite, un présupposé ou une
@@ -50,7 +50,8 @@ faire de ceux-ci une preuve directe d'une ontologie de l'intéressant.
 `idea_0034`, `idea_0037`, `idea_0051`, `idea_0067`, `idea_0071`, `idea_0075`,
 `idea_0086`, `idea_0088`, `idea_0094`, `idea_0095`, `idea_0096`, `idea_0098`,
 `idea_0099`, `idea_0102`, `idea_0104`, `idea_0109`, `idea_0110`, `idea_0127`,
-`idea_0128`, `idea_0145`.
+`idea_0128`, `idea_0145`, `idea_0146`, `idea_0147`, `idea_0148`, `idea_0149`,
+`idea_0151`.
 
 Les cartes pivots de ce niveau sont `idea_0018`, `idea_0088`, `idea_0109` et
 `idea_0110`. La classification reste révisable : une carte doit changer de niveau

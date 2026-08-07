@@ -476,6 +476,69 @@ intéressant est plaisant et ne suffit pas à fonder la définition constructive
 la thèse. Les conjectures évolutionnaires et la généralisation du schème
 narratif sont conservées comme limites, non comme résultats acquis.
 
+## Revue des publications personnelles
+
+La page de publications de François Pachet a été inventoriée le 7 août 2026. Elle
+produit 336 notices ou versions, dont 302 dans le périmètre scientifique retenu. Les
+248 URL PDF directes ont été téléchargées et validées ; trois paires de fichiers sont
+des doublons binaires. Après retrait de deux livres édités hors du périmètre, le corpus
+de lecture contient donc 243 PDF scientifiques uniques, 3 228 pages et autant
+d'extractions textuelles sans échec.
+
+Le triage lexical ne vaut pas décision de pertinence. Il sert à ordonner une lecture
+argumentaire selon l'attention, l'ennui, les attentes, la surprise, la création, la
+réflexivité, les préférences, les trajectoires et les contraintes. Les décisions sont
+consignées séparément dans
+`docs/lectures/publications-francois-pachet-revue-systematique.md`.
+
+La première grappe lue fait apparaître cinq sources fortes. *Qu'est-ce qu'une mélodie
+intéressante ?* produit `idea_0146` et renforce `idea_0096` et `idea_0098` ;
+*Surprising Harmonies* renforce `idea_0019` ; *Active Listening* renforce les cartes
+sur PathBuilder, les invariants sémantiques et les trajectoires ; *On the Design of
+Flow Machines* documente la réflexivité et une séquence temporelle de l'attention ;
+*Les nouveaux enjeux de la réification* donne un fondement interne à la méthode de
+reprise des exemples scientifiques. La lecture des autres PDF uniques reste en
+cours et ne doit pas être présentée comme achevée.
+
+La deuxième grappe ajoute cinq décisions. *Creativity Studies and Musical
+Interaction* et *Enhancing Individual Creativity with Interactive Musical Reflective
+Systems* fondent `idea_0147`, qui prend le couple sujet--système comme unité
+expérimentale. Le chapitre de Martín et al. sur la composition de lead sheets produit `idea_0148`
+sur la dépendance du consensus à l'horizon d'expertise. *Interacting with a Musical
+Learning System* et le rapport de Jones et al. sur le feedback computationnel
+renforcent les cartes du miroir, de l'épluchage et du flow. Dix PDF sont désormais
+décidés après cette deuxième étape.
+
+La troisième grappe décide sept PDF supplémentaires consacrés au Continuator et aux
+enfants. L'article de 2005 sur 27 enfants fournit `idea_0149` : une interaction
+intéressante peut traverser des temps morts qui réajustent la relation, et une erreur du
+système peut devenir matériau créatif si elle reste appropriable. Les articles de 2004
+et 2006 rendent explicite le déplacement du critère, du produit cohérent vers
+l'interaction intéressante ou « marrante ». La grille de flow de 2006 renforce la
+méthode comportementale, avec les réserves dues aux neuf enfants observés et au passage
+des conduites visibles aux états affectifs. Les deux versions de *Without Touch,
+Without Seeing* sont traitées comme redondance éditoriale. Dix-sept PDF sont désormais
+décidés.
+
+La quatrième grappe décide sept PDF sur Flow Machines et la génération sous
+contraintes. Elle produit `idea_0150` : une sortie peut être nouvelle comme totalité
+et néanmoins recopier de longs fragments du corpus, car l'ordre de Markov ne borne pas
+la longueur effectivement reconstruite. Les travaux sur `MAXORDER` garantissent la
+non-copie mais non l'intérêt. *Markov Constraints*, les paroles de *Yesterday* et
+FlowComposer renforcent `idea_0109` sur le couplage sampling--contraintes ;
+FlowComposer fournit en outre le cas explicite d'une solution nouvelle, valide et
+stylistiquement juste mais moins intéressante. Enfin, les variations structurées
+renforcent `idea_0016` tout en maintenant la limite du *templagiarism*. Vingt-quatre
+PDF sont désormais décidés et 219 restent à lire.
+
+La cinquième grappe est volontairement resserrée sur *Automatic Génération of Music
+Programs*. Le papier produit `idea_0151` : l'intéressant peut être reconstruit comme un
+compromis entre contraintes antagonistes à l'échelle d'une trajectoire, répétition et
+surprise d'une part, continuité et variété d'autre part. Il renforce `idea_0014` et
+`idea_0103`. La rupture reste une extension conceptuelle de la thèse, puisque la source
+formalise la différence et la variété. Vingt-cinq PDF sont désormais décidés et 218
+restent à lire.
+
 ## Conclusion
 
 La couverture propositionnelle est maintenant établie pour les 32 rangs de

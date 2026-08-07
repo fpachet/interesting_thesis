@@ -7,12 +7,18 @@ status: inbox
 sources:
   - "input/old_docs/Paper citations_updated.docx"
   - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
+  - "input/publications-francois-pachet/roy-16b.pdf"
+  - "input/publications-francois-pachet/pachet-17d.pdf"
 references:
   - pachet2026biases
+  - papadopoulos2016flowcomposer
+  - pachet2017variations
 source_notes:
   - "Projet SenseOfDirection, résumé et challenge, rendu PDF p. 1-3"
   - "Projet SenseOfDirection, corrélations longues et synthèse, rendu PDF p. 5-6"
   - "Hidden Biases, contraintes de forme globales et dépendance aux continuations futures, PDF p. 1-3 et 12-14"
+  - "Assisted Lead Sheet Composition, PDF p. 10-11 : génération autonome localement cohérente mais sans direction, et besoin de modèles de répétitions, variations et sections."
+  - "Sampling Variations, PDF p. 1-2 et 6 : répétitions et variations imposées pour produire une cohérence à longue portée et l'impression d'une intention."
 tags:
   - ia
   - generation
@@ -38,6 +44,13 @@ la fin, le mètre ou une position future couple les choix présents à l'ensembl
 continuations possibles. Une bonne probabilité locale ne dit donc pas si le chemin
 pourra satisfaire la forme globale, ni s'il restera probable une fois cette forme
 imposée.
+
+FlowComposer fournit un cas expérimental de cette limite. Les compositeurs utilisent
+rarement la génération autonome au-delà de huit mesures : les fragments restent
+localement cohérents, mais les pièces longues requièrent répétitions, variations et
+sections. Le mécanisme de 2017 impose ces relations à longue portée et obtient une
+forme qui « semble composée avec des intentions ». Ce succès reste partiel, puisque la
+structure est empruntée à une œuvre cible plutôt qu'engendrée avec son propre matériau.
 
 ## Intérêt pour la thèse
 

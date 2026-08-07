@@ -8,10 +8,17 @@ sources:
   - "input/ERCGrantPachetInterestingness.pdf"
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/old_docs/TBKLullyNOTES.doc"
+  - "input/publications-francois-pachet/pachet-06c.pdf"
+  - "input/publications-francois-pachet/pachet-09c.pdf"
+references:
+  - pachet2000melodie
+  - pachet2011markov
 source_notes:
   - "PDF p. 4"
   - "Synopsis MIT Press, rendu PDF p. 22-23"
   - "TBKLullyNOTES, palindromes comme solutions rares, rendu PDF p. 6"
+  - "Qu'est-ce qu'une mélodie intéressante ?, PDF p. 5-6 : hypothèse de la solution unique, avec la réserve qu'un problème trop particulier fabrique artificiellement l'unicité."
+  - "Markov Constraints, PDF p. 8-9 : le Boulez Blues combine style tonal et AllDifferent, produisant une solution de très faible probabilité inaccessible en pratique à une marche gloutonne."
 tags:
   - rarete
   - probleme
@@ -35,6 +42,13 @@ ne produit aucune rareté perceptible; une contrainte trop particulière peut fa
 artificiellement une solution unique sans lui donner de portée. La rareté devient
 signifiante lorsque des contraintes assez génériques relient globalement les parties de
 l'objet tout en laissant une petite classe de solutions.
+
+Le « Boulez Blues » fournit un cas construit de cette géométrie : les probabilités du
+blues tonal de Charlie Parker sont croisées avec une contrainte `AllDifferent` issue
+d'un principe sériel. Le résultat occupe une région extrêmement peu probable du modèle
+et n'est atteint que par recherche globale. Le papier qualifie la combinaison
+d'intéressante, mais ne mesure pas sa réception ; il établit la rareté relative au
+problème, non la thèse générale selon laquelle toute solution rare intéresse.
 
 ## Intérêt pour la thèse
 

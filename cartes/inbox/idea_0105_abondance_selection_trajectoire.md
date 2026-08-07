@@ -7,9 +7,13 @@ status: inbox
 sources:
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/old_docs/TBKLullyNOTES.doc"
+  - "input/publications-francois-pachet/pachet-99a.pdf"
+references:
+  - pachet1999active
 source_notes:
   - "Synopsis MIT Press, chapitre Active Listening, rendu PDF p. 14-20"
   - "TBKLullyNOTES, le beaucoup relatif à ce qui peut être appréhende, rendu PDF p. 8"
+  - "Active Listening: What Is in the Air?, PDF p. 9-15 : l'impression produite dépend de l'ordre ; l'unité d'accès devient le programme contraint plutôt que le titre isolé."
 tags:
   - catalogue
   - sequence

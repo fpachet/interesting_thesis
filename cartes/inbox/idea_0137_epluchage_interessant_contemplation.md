@@ -8,11 +8,23 @@ architecture: core
 sources:
   - "docs/notes/epluchage-interessant-contemplation.md"
   - "input/De l'impossibilité de créer.pdf"
+  - "input/publications-francois-pachet/pachet-04-designflowmachines.pdf"
+  - "input/publications-francois-pachet/pachet-02-icmai-final.pdf"
+  - "input/publications-francois-pachet/pachet-06-Enhancing_Individual_Creativity.pdf"
+  - "input/publications-francois-pachet/pachet-04j.pdf"
 references:
   - pachet2026impossibilite
+  - pachet2004flowmachines
+  - pachet2002continuatorinteraction
+  - pachet2006reflective
+  - addessi2005experiments
 source_notes:
   - "Formulation personnelle consignée le 29 juillet 2026 ; l'opposition à la contemplation est une hypothèse propre à la thèse."
   - "De l'impossibilité de créer, PDF p. 96-101 : la fin comme décision imposée à un processus qui pourrait continuer."
+  - "On the Design of Flow Machines, PDF p. 12-14 : séquence observée scepticisme, surprise/Aha, excitation, concentration et conduite analytique ; résultat empirique partiel, non modèle général de l'épluchage."
+  - "Interacting with a Musical Learning System, PDF p. 5-8 : sélection et maintien de régions musicales jugées intéressantes, puis effet Aha et exploration de nouveaux modes de jeu."
+  - "Enhancing Individual Creativity with Interactive Musical Reflective Systems, PDF p. 8-14 : passage d'un test externe des règles du système à une exploration auto-motivée de son propre style."
+  - "Experiments with a Musical Machine, PDF p. 10-21 : états dynamiques non linéaires, temps morts de réajustement, perte d'intérêt lorsque le miroir disparaît et réemploi créatif d'une erreur."
 tags:
   - interessant
   - construction
@@ -126,6 +138,18 @@ reformulations et raisons de l'arrêt.
 Cette proposition suggère une mesure processuelle : non pas « combien de temps le sujet
 regarde-t-il ? », mais « que devient-il capable de distinguer, d'anticiper ou de varier,
 et chaque prise ferme-t-elle ou relance-t-elle la construction ? »
+
+Les expériences du Continuator offrent un cas partiel de cette transition. Les
+utilisateurs commencent par tester les règles du dispositif, puis retiennent certaines
+régions, reconnaissent leurs propres motifs dans les réponses et passent à une
+exploration auto-motivée de leur style. Ce déroulement ne démontre pas le modèle de
+l'épluchage, mais il fournit une séquence observable de prises et de relances.
+
+La version empirique détaillée interdit toutefois d'identifier l'épluchage à une
+progression lisse. Les états ne suivent pas nécessairement un ordre linéaire et des
+temps morts peuvent servir à réajuster la relation. Lorsque le miroir devient trop
+lointain, l'intérêt se défait ; lorsqu'une erreur reste appropriable, elle peut être
+reprise comme matériau musical. `idea_0149` isole ce cas et ses limites expérimentales.
 
 ## Intérêt pour la thèse
 

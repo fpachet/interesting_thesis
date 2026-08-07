@@ -6,12 +6,21 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
+  - "input/publications-francois-pachet/pachet-04-designflowmachines.pdf"
+  - "input/publications-francois-pachet/jones-09a.pdf"
   - "docs/On_the_pleasures_of_the_mind.pdf"
+  - "input/publications-francois-pachet/addessi-06c.pdf"
 references:
+  - pachet2004flowmachines
+  - jones2009stimulating
   - kubovy1999pleasures
+  - addessi2006flowmachine
 source_notes:
   - "PDF p. 59-62 pour le modèle du flow ; l'identification à l'intéressant est une hypothèse propre à la thèse"
+  - "On the Design of Flow Machines, PDF p. 9-14 : application du diagramme compétences-défis au Continuator, avec attention, ennui, anxiété et progression temporelle des conduites."
+  - "Stimulating Creative Flow through Computational Feedback, PDF p. 2-4 : optimum de déformation, canal compétences-difficulté et incertitude sur ce qui doit venir ensuite."
   - "Kubovy, prépublication, PDF p. 13-15 : flow relu comme plaisir de virtuosité ; buts, feedback et difficulté praticable distingués de l'immersion et de l'oubli de soi."
+  - "Young Children's Musical Experiences with a Flow Machine, PDF p. 3-7 : opérationnalisation exploratoire de neuf variables ; flow codé dans 54 % des observations avec système contre 42 % sans système, sur neuf enfants."
 tags:
   - interessant
   - flow
@@ -52,6 +61,18 @@ suggèrent que l'attention se porte plus précisément vers les situations où l
 d'apprentissage estimé est maximal. L'ajustement compétences-difficulté donne la
 géographie générale ; le gradient de progrès de `idea_0071` indique où, dans cette zone,
 une construction est effectivement en train d'aboutir.
+
+Dans une interaction générative, la difficulté ne vient pas seulement d'une tâche
+fixée à l'avance. Elle dépend aussi du degré de déformation introduit par la réponse du
+système : trop proche, elle devient répétition ; trop lointaine, elle devient bruit sans
+prise. Le maintien du flow demande que cette distance évolue avec les compétences et
+les attentes du sujet.
+
+La grille d'observation appliquée au Continuator confirme aussi que le flow n'est pas
+un état continu : des états de contrôle, d'activation, de relaxation ou d'apathie
+alternent avec lui. Le résultat est suggestif, mais la petite taille de l'échantillon et
+la traduction de conduites visibles en états affectifs empêchent d'y voir une mesure
+générale de l'intéressant.
 
 ## Conséquences testables
 

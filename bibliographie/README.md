@@ -38,7 +38,17 @@ références dans la bibliographie générale.
 La section comprend actuellement :
 
 - `pachet1997representation` ;
-- `pachet2006clefs`, `pachet2008machines` et `pachet2012virtuosity` ;
+- `pachet1999active`, `pachet1999programs`, `pachet1999surprising` et
+  `pachet2000melodie` ;
+- `pachet2002continuatorinteraction`, `pachet2004flowmachines`,
+  `pachet2004cybernetic`, `pachet2004childrenreflect`, `pachet2004reification`,
+  `addessi2005experiments`, `pachet2006clefs`, `pachet2006creativity`,
+  `pachet2006reflective`, `pachet2006interactionsreflexives`,
+  `addessi2006flowmachine`, `pachet2008machines`, `jones2009stimulating` et
+  `pachet2011markov`, `barbieri2012lyrics` et `pachet2012virtuosity` ;
+- `papadopoulos2014avoiding`, `ghedini2015flowmachines`,
+  `papadopoulos2016nonplagiaristic`, `papadopoulos2016flowcomposer`,
+  `martin2016creativeprocess` et `pachet2017variations` ;
 - `pachet2018oreille` et `montecchio2020skipping` ;
 - `pachet2021assisted` ;
 - `pachet2026biases`, `pachet2026impossibilite` et `pachet2026markov` ;
@@ -73,6 +83,29 @@ son rendu bibliographique reste reproductible.
 | `russell1995rationality` | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | article associé au Computers and Thought Award ; avertissement contre la mathématisation prématurée, p. 950 |
 | `russell1995awardlecture` | transcription dans `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | allocution pour le Computers and Thought Award à IJCAI-95 ; source intellectuelle de la formulation orale sur les parties intéressantes définies hors du problème |
 | `pachet1997representation` | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | mémoire d'HDR ; conserve la formulation orale longue de Russell sur les parties intéressantes définies hors du problème, PDF p. 10 |
+| `pachet1999surprising` | `input/publications-francois-pachet/pachet-99-Casys.pdf` | article relu ; distingue la surprise brute de la surprise compréhensible ou « prouvable » depuis des régularités et règles acquises |
+| `pachet1999active` | `input/publications-francois-pachet/pachet-99a.pdf` | chapitre relu ; déplace l'accès musical de la sélection d'items vers des parcours et espaces d'exploration sémantiquement contraints |
+| `pachet1999programs` | `input/publications-francois-pachet/pachet-99m.pdf` | article relu ; compromis entre répétition et surprise, continuité par similarité et variété par différence et cardinalité à l'échelle d'une séquence |
+| `pachet2000melodie` | `input/publications-francois-pachet/pachet-06c.pdf` | article relu intégralement ; trois modèles objectifs de la mélodie intéressante et limite explicitement assumée de l'exclusion de l'auditeur |
+| `pachet2004flowmachines` | `input/publications-francois-pachet/pachet-04-designflowmachines.pdf` | chapitre relu ; observations du cycle surprise--excitation--concentration, de l'attention et de la réflexivité dans le Continuator |
+| `pachet2004cybernetic` | `input/publications-francois-pachet/pachet-03g.pdf` | article relu ; déplacement explicite du critère de conception, du matériau cohérent vers l'interaction intéressante |
+| `pachet2004childrenreflect` | `input/publications-francois-pachet/pachet-04-When.pdf` | article relu ; attention, règles implicites, tour de rôle et découverte de soi dans les premières expériences avec les enfants |
+| `pachet2004reification` | `input/publications-francois-pachet/pachet-04f.pdf` | article relu ; rôle des exemples nourriciers, de la résistance des terrains et du contexte d'usage dans la fécondité des modèles |
+| `pachet2002continuatorinteraction` | `input/publications-francois-pachet/pachet-02-icmai-final.pdf` | article relu ; effet Aha, contrôle intime et conservation de régions musicales jugées intéressantes |
+| `addessi2005experiments` | `input/publications-francois-pachet/pachet-04j.pdf` | article relu intégralement ; états non linéaires de l'engagement, temps morts de réajustement, règles implicites et réemploi créatif d'une erreur |
+| `pachet2006creativity` | `input/publications-francois-pachet/Pachet-06-Creativity_Studies.pdf` | chapitre relu ; créativité comme sentiment situé de produire quelque chose de nouveau et d'intéressant, étudié dans le couple humain-machine |
+| `pachet2006reflective` | `input/publications-francois-pachet/pachet-06-Enhancing_Individual_Creativity.pdf` | chapitre relu ; systèmes réflexifs, échafaudage de complexité et déplacement de l'attention du produit vers le sujet |
+| `pachet2006interactionsreflexives` | `input/publications-francois-pachet/pachet-06a.pdf` | communication relue ; système « marrant », activité autotélique et primat de la qualité de l'interaction sur son produit |
+| `addessi2006flowmachine` | `input/publications-francois-pachet/addessi-06c.pdf` | communication relue ; grille comportementale du flow sur neuf enfants et comparaison des tâches avec et sans Continuator |
+| `jones2009stimulating` | `input/publications-francois-pachet/jones-09a.pdf` | rapport relu ; niveau optimal de distorsion, indétermination productive et feedback continu |
+| `pachet2011markov` | `input/publications-francois-pachet/pachet-09c.pdf` | article relu ; génération markovienne pilotable, recherche globale et séquences à faible probabilité sous contraintes arbitraires |
+| `barbieri2012lyrics` | `input/publications-francois-pachet/barbieri-12a.pdf` | article relu ; style local et contraintes globales de rime, mètre, syntaxe et sémantique dans la génération de paroles |
+| `papadopoulos2014avoiding` | `input/publications-francois-pachet/papadopoulos-14a.pdf` | article relu ; l'ordre de Markov ne borne pas la longueur copiée et la contrainte MAXORDER garantit une limite explicite |
+| `ghedini2015flowmachines` | `input/publications-francois-pachet/ghedini-15b.pdf` | chapitre relu ; style comme texture, contrainte comme structure et développement diachronique d'un style propre |
+| `papadopoulos2016nonplagiaristic` | `input/publications-francois-pachet/max_order.pdf` | chapitre relu ; généralisation par fragments interdits et échantillonnage exact des séquences non plagiaires |
+| `papadopoulos2016flowcomposer` | `input/publications-francois-pachet/roy-16b.pdf` | article relu ; composition assistée, contraintes métriques et harmoniques, et différence explicite entre sortie valide et sortie intéressante |
+| `martin2016creativeprocess` | `input/publications-francois-pachet/martin-16a.pdf` | chapitre relu ; distinction jugement propre/consensus, effet sélectif du feedback et dépendance des préférences à l'expérience des juges |
+| `pachet2017variations` | `input/publications-francois-pachet/pachet-17d.pdf` | article relu ; variations contrôlées et structure répétitive à longue portée, avec limite assumée du templagiarism |
 | `bachimont1996hermeneutique` | `docs/Bachimont.pdf` | thèse d'épistémologie ; lecture ciblée des PDF p. 322-323 sur la reconstruction de la question, la fusion des horizons et l'innovation interprétative |
 | `anselin2021attention` | `input/theses-comparaison/anselin-2021-accorder-son-attention.pdf` | thèse de philosophie ; lecture ciblée de l'introduction, des chapitres 1-3, des objections et de la conclusion comme étalon d'architecture argumentative |
 | `thalabard2012attention` | `input/theses-comparaison/thalabard-2012-attention-et-conscience.pdf` | thèse de philosophie ; lecture ciblée de l'introduction, de la défense de la thèse dépendantiste et de la conclusion comme étalon de falsifiabilité et de réponse aux contre-exemples |

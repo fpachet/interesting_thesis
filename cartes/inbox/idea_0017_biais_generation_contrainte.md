@@ -6,12 +6,15 @@ level: scientific
 status: inbox
 sources:
   - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
+  - "input/publications-francois-pachet/max_order.pdf"
 references:
   - pachet2026biases
+  - papadopoulos2016nonplagiaristic
 source_notes:
   - "Hidden Biases, distinction entre génération pratique et conditionnement exact, PDF p. 1-3"
   - "Hidden Biases, dureté du conditionnement et de l'approximation, PDF p. 4-9"
   - "Hidden Biases, perte de support, inpainting et limites des résultats, PDF p. 9-14"
+  - "Generating Non-Plagiaristic Markov Sequences, PDF p. 8-17 : une marche aléatoire dans l'automate sans no-goods produit des solutions valides mais sur- ou sous-représentées ; la propagation restaure l'échantillonnage exact."
 tags:
   - ia
   - contraintes
@@ -40,6 +43,12 @@ exacte est #P-difficile, et même une approximation à moins d'un bit de surpris
 par token reste NP-difficile dans le pire cas. Ces résultats ne mesurent cependant pas
 le biais d'un système concret et ne disent pas que toute instance pratique est
 difficile.
+
+Le cas `MAXORDER` montre empiriquement la distinction sur une famille calculable. Une
+simple marche dans l'automate qui exclut les fragments interdits ne produit que des
+séquences valides, mais sur- ou sous-représente fortement certaines d'entre elles. La
+propagation de croyance sur le graphe linéaire restaure ici l'échantillonnage exact :
+la correction de la sortie et la correction de sa loi sont bien deux exigences.
 
 ## Intérêt pour la thèse
 

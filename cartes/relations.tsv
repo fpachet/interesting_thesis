@@ -198,3 +198,26 @@ idea_0145	operationalizes	idea_0011	Les temps de skip agrégés transforment l'a
 idea_0145	illustrates	idea_0086	La structure temporelle musicale produit des effets comportementaux localisables dans l'écoute.
 idea_0145	illustrates	idea_0137	Le skip rend observable une interruption de la relation sans en identifier la cause subjective.
 idea_0128	limits	idea_0145	Le skip est un indicateur comportemental ambigu et ne doit pas être substitué à l'intéressant.
+idea_0146	illustrates	idea_0110	Le papier de 2000 devient un cas de reprise réflexive : ses résultats formels sont conservés, tandis que son objectivisme méthodologique est corrigé.
+idea_0146	supports	idea_0098	L'énumération de millions d'harmonisations légales montre depuis la pratique que la correction syntaxique ne classe pas les bonnes solutions.
+idea_0146	specifies	idea_0084	Les propriétés de la forme deviennent des dispositions à intéresser qui ne s'actualisent que pour un sujet doté d'une mémoire et d'attentes.
+idea_0146	contrasts_with	idea_0145	La mélodie intéressante part du pôle de la forme ; le skipping part des conduites d'écoute ; leur écart motive le modèle relationnel.
+idea_0147	operationalizes	idea_0006	La comparaison du couple sujet-système avec une condition sans système transforme le miroir réflexif en protocole expérimental.
+idea_0147	supports	idea_0125	Le produit, l'expérience subjective et leur transformation temporelle sont observés ensemble sans assigner l'intéressant à l'objet.
+idea_0147	contrasts_with	idea_0146	Le programme objectiviste part des propriétés de la forme ; l'étude de l'interaction prend explicitement le couple humain-machine comme unité.
+idea_0148	illustrates	idea_0084	Le croisement entre expérience du juge et du compositeur rend visible l'horizon qui structure la rencontre avec la forme.
+idea_0148	limits	idea_0118	La préférence mesurée n'est pas l'intéressant, mais sa dépendance à l'expertise avertit contre toute mesure subjective déshistoricisée.
+idea_0148	supports	idea_0046	Le feedback améliore la création lorsqu'il est sélectionné par le créateur, plutôt qu'incorporé mécaniquement.
+idea_0149	specifies	idea_0137	Les temps morts montrent que l'épluchage peut être discontinu et se relancer après un réajustement.
+idea_0149	specifies	idea_0011	Une mesure comportementale de l'intérêt doit suivre la séquence des conduites plutôt qu'une durée ou une coupure isolée.
+idea_0149	limits	idea_0145	Une interruption observable ne signifie pas nécessairement perte d'intérêt : elle peut préparer une reprise.
+idea_0149	specifies	idea_0147	Le couple sujet-système se constitue aussi dans ses désajustements, ses erreurs et ses reprises.
+idea_0149	limits	idea_0121	Le flow observé alterne avec d'autres états et ne décrit pas à lui seul toute la trajectoire intéressante.
+idea_0150	specifies	idea_0054	Le modèle apprend des répétitions et peut en reconstituer de longues sans que son ordre fournisse une borne de copie.
+idea_0150	illustrates	idea_0080	La non-copie devient une propriété distincte de la recomposition entre forme et matière.
+idea_0150	supports	idea_0098	Même garantie explicitement satisfaite, la non-copie ne classe pas les sorties selon leur intérêt.
+idea_0017	specifies	idea_0150	Une marche dans l'automate admissible peut encore déformer les probabilités ; la validité ne suffit pas à préserver la loi conditionnelle.
+idea_0151	specifies	idea_0014	Le parcours combine une continuité locale avec des différences globales au lieu de transférer mécaniquement une préférence entre objets similaires.
+idea_0151	illustrates	idea_0103	RecitalComposer rend calculable un espace situé entre répétition pure et surprise sans préparation.
+idea_0151	specifies	idea_0005	Une surprise devient assimilable lorsqu'une continuité la prépare, sans que cette condition suffise à garantir l'intérêt.
+idea_0151	bridges	idea_0146	Le programme objectiviste consacré à la mélodie est prolongé vers les propriétés globales d'un programme musical.

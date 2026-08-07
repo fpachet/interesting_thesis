@@ -19,3 +19,6 @@ cartes/build/
 
 memory/state.json
 !memory/.gitkeep
+
+# Corpus local des publications personnelles, téléchargeable depuis francoispachet.fr.
+input/publications-francois-pachet/*.pdf

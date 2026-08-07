@@ -40,6 +40,10 @@
 - `idea_0083` - Naissance d'une idée, compréhension et fascination sont trois faces de l'émergence d'une forme.
 - `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
 - `idea_0085` - L'objet intéressant peut inventer le problème dont il apparaît ensuite comme la solution nécessaire.
+- `idea_0146` - La thèse relationnelle reprend et corrige le programme objectiviste de la mélodie intéressante.
+- `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
+- `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
+- `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
 - `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
 - `idea_0096` - Un objet peut être intéressant parce qu'il apparaît comme une solution rare d'un problème implicite.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
@@ -118,6 +122,8 @@
 - `idea_0100` - La difficulté d'une contrainte dépend de l'état conjoint du modèle et de la forme.
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
 - `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
+- `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
+- `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 
@@ -137,6 +143,10 @@
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
+- `idea_0146` - La thèse relationnelle reprend et corrige le programme objectiviste de la mélodie intéressante.
+- `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
+- `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
+- `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
 
 ## Exploration, similarité, parcours
 
@@ -156,6 +166,7 @@
 - `idea_0093` - L'exposition passive aux médias fabrique des modes d'attention que l'industrie ne devrait pas seule définir.
 - `idea_0105` - L'abondance transforme la sélection d'objets en construction de trajectoires.
 - `idea_0106` - Une similarité culturelle dépend du corpus interrogé, pas d'une vérité terrain unique.
+- `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 
 ## Exemples et symptômes
 
@@ -197,6 +208,11 @@
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 - `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.
 - `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
+- `idea_0146` - La thèse relationnelle reprend et corrige le programme objectiviste de la mélodie intéressante.
+- `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
+- `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
+- `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
+- `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.

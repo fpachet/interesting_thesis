@@ -94,7 +94,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 
-## 4. Forme, problème, contrainte et nécessité (30)
+## 4. Forme, problème, contrainte et nécessité (32)
 
 ### Pivots
 
@@ -130,6 +130,8 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0099` - La meilleure solution peut être simple tout en exigeant un chemin de création singulier.
 - `idea_0100` - La difficulté d'une contrainte dépend de l'état conjoint du modèle et de la forme.
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
+- `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
+- `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 
 ### Rareté, genèse et objection
 
@@ -159,7 +161,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 
-## 6. IA, interaction et méthode réflexive (14)
+## 6. IA, interaction et méthode réflexive (18)
 
 ### Pivots
 
@@ -181,6 +183,10 @@ est un outil de travail réversible, pas encore un plan de thèse.
 ### Cas réflexif
 
 - `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
+- `idea_0146` - La thèse relationnelle reprend et corrige le programme objectiviste de la mélodie intéressante.
+- `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
+- `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
+- `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
 
 ### Cadre philosophique et limite épistémologique
 
@@ -234,6 +240,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 10, 22, 27, 30, 10, 14, 11 et 18
-cartes, soit les 142 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 10, 22, 27, 32, 10, 18, 11 et 18
+cartes, soit les 148 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

@@ -10,11 +10,13 @@ sources:
   - "input/The Mystery of Jotney Songs -full.pdf"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "docs/Bachimont.pdf"
+  - "input/publications-francois-pachet/martin-16a.pdf"
   - "docs/On_the_pleasures_of_the_mind.pdf"
 references:
   - pachet2018oreille
   - spinoza1861oeuvres
   - bachimont1996hermeneutique
+  - martin2016creativeprocess
   - kubovy1999pleasures
 source_notes:
   - "PDF p. 1-2"
@@ -22,6 +24,7 @@ source_notes:
   - "Histoire d'une oreille, apprentissages passifs qui préparent des effets futurs, PDF p. 27-34 ; changement de goût et dépendance au contexte, p. 281-295 ; impossibilité de retrouver l'oreille antérieure, p. 306-310."
   - "Spinoza, Éthique, partie III, proposition XXVII, démonstration : les idées des affections enveloppent la nature de notre corps et celle du corps extérieur."
   - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : l'horizon de production d'une réponse et l'horizon depuis lequel l'interprète réactualise sa question ne se confondent que par un travail de compréhension."
+  - "The Creative Process in Lead Sheet Composition, PDF p. 10-15 : désaccord entre auteurs et commentateurs et interaction entre l'expérience du juge et celle du compositeur."
   - "Kubovy, prépublication, PDF p. 6-8 : complexité perçue comme structure d'un ensemble d'alternatives imaginées, dépendante des intérêts et connaissances du sujet."
 tags:
   - interessant
@@ -85,6 +88,12 @@ passives, des erreurs de disque, des gestes instrumentaux et des contextes oubli
 préparent des attentes qui se réveillent beaucoup plus tard. L'histoire de l'oreille est
 en partie irreconstructible : apprendre à entendre ouvre de nouveaux détails tout en
 rendant l'écoute antérieure inaccessible.
+
+L'expérience sur les lead sheets donne un exemple mesurable de cet horizon. Les juges
+expérimentés préfèrent les productions de compositeurs expérimentés, tandis que les
+juges moins expérimentés présentent la préférence inverse. Une moyenne de jugements
+peut donc masquer plusieurs relations entre formes et mémoires musicales ; le consensus
+n'est pas un regard sans horizon.
 
 ## Intérêt pour la thèse
 

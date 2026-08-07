@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 142 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 97 `conceptual`, 19 `scientific` et 26
+Les 148 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 97 `conceptual`, 20 `scientific` et 30
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -371,6 +371,37 @@ son niveau principal est `articulation`. Elle constitue un cas réflexif de
 thèse sans être présentée rétrospectivement comme une théorie déjà constituée de
 l'intéressant. La carte interdit explicitement d'identifier un skip individuel à
 l'ennui ou à la perte d'intérêt.
+
+`idea_0146` a été ajoutée après relecture intégrale de *Qu'est-ce qu'une mélodie
+intéressante ?* (2000). La carte ne transforme pas rétrospectivement l'article en
+théorie relationnelle : elle conserve au contraire son choix explicite d'étudier la
+mélodie indépendamment de l'auditeur. Son apport réflexif vient de l'écart entre ce
+programme objectiviste et les limites qu'il rencontre lui-même : imitation sans critère
+de qualité, solutions légales indifférenciées, unicité relative à la formulation du
+problème, propriétés globales insuffisantes. Le modèle `I(F, S | H, t)` est présenté
+comme une correction de la thèse actuelle, non comme une conclusion du papier.
+
+`idea_0147` et `idea_0148` prolongent cette série après lecture de la deuxième grappe
+des publications personnelles. La première transforme le couple sujet--système et la
+comparaison avec une condition sans système en protocole de l'intéressant interactif.
+La seconde mobilise l'expérience des lead sheets comme cas limité mais contrôlé de la
+dépendance du consensus à l'horizon d'expertise. Toutes deux signalent explicitement
+la frontière entre résultat publié et articulation philosophique.
+
+`idea_0149` a été ajoutée après lecture de la troisième grappe, consacrée au
+Continuator et aux enfants. Elle ne déduit pas l'intéressant d'une longue durée
+d'attention. Elle isole un mécanisme plus précis observé dans deux études de cas : une
+pause, une perplexité ou une erreur peuvent réajuster et relancer la relation, tandis
+que la disparition de l'effet de miroir peut la faire cesser. Les effectifs, la
+sélection des cas et le codage exploratoire du flow sont explicitement conservés comme
+limites.
+
+`idea_0150` a été ajoutée après lecture des deux publications sur `MAXORDER`. Elle
+isolé un résultat distinct de la critique générale du style transfer : l'ordre d'un
+modèle de Markov borne son contexte d'apprentissage, mais non la longueur des fragments
+du corpus que la génération peut reconstituer. La contrainte de non-copie et
+l'échantillonnage exact sont conservés comme résultats scientifiques ; la carte précise
+explicitement qu'ils ne suffisent à garantir ni l'originalité forte ni l'intéressant.
 
 ## Identifiants retires
 

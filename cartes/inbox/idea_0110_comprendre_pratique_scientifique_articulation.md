@@ -6,9 +6,13 @@ level: articulation
 status: inbox
 sources:
   - "input/projet thèse philo.pdf"
+  - "input/publications-francois-pachet/pachet-04f.pdf"
+references:
+  - pachet2004reification
 source_notes:
   - "Projet de thèse, comprendre quarante ans de construction de systèmes, PDF p. 1"
   - "Projet de thèse, reprise philosophique des anciens travaux computationnels, PDF p. 3-4"
+  - "Les nouveaux enjeux de la réification, PDF p. 4-8 et 27-28 : les modèles ne prennent sens que dans des usages situés ; les exemples nourriciers font résister le réel et ouvrent un champ d'abstraction."
 tags:
   - reflexivite
   - pratique_scientifique
@@ -35,6 +39,13 @@ Faire ces passages de manière explicite peut constituer une contribution propre
 thèse. Le résultat n'est pas seulement une collection d'idées sur l'intéressant, mais
 une méthode pour transformer une trajectoire de construction scientifique en matériau
 philosophique sans confondre les deux régimes de preuve.
+
+Cette méthode était déjà esquissée de l'intérieur de la pratique informatique. Dans
+*Les nouveaux enjeux de la réification*, la fécondité d'un modèle dépend d'une
+coïncidence entre avancée technique, avancée conceptuelle et exemples nourriciers.
+Ces exemples sont des prises sur lesquelles la pensée peut s'accrocher pour abstraire,
+mais leur portée reste bornée par les usages où le modèle « marche ». La reprise
+philosophique doit conserver à la fois cette puissance d'abstraction et cette limite.
 
 ## Intérêt pour la thèse
 

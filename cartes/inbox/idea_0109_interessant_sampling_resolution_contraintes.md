@@ -10,15 +10,24 @@ sources:
   - "input/ERCGrantPachetInterestingness.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/aaai99A.pdf"
   - "input/old_docs/interestingness/fp perso/fdp/Papiers/Future of Music book/interestingness/Dan Gang/netneg.pdf"
+  - "input/publications-francois-pachet/pachet-09c.pdf"
+  - "input/publications-francois-pachet/barbieri-12a.pdf"
+  - "input/publications-francois-pachet/roy-16b.pdf"
 references:
   - pachet2026biases
   - goldman1999netneg
+  - pachet2011markov
+  - barbieri2012lyrics
+  - papadopoulos2016flowcomposer
 source_notes:
   - "Hidden Biases, insuffisance du sampling local pour les propriétés globales, PDF p. 1-3 et 10-14"
   - "Notes thèse, doodling comme échantillonnage peu contraint, PDF p. 1"
   - "ERC Grant, objet comme solution rare, harmonisations légales et exploration combinatoire, PDF p. 4-6"
   - "NetNeg, prédictions du réseau négociées avec les contraintes de contrepoint, PDF p. 3-6"
   - "NetNeg développe, architecture et comparaison des modules, PDF p. 9-18"
+  - "Markov Constraints, PDF p. 1-8 et 21-23 : inversion de generate-and-test, recherche globale de séquences à faible probabilité et contrôle arbitraire."
+  - "Markov Constraints for Lyrics, PDF p. 1-5 : comparaison empirique entre Markov pur, contraintes pures et processus markovien contraint."
+  - "Assisted Lead Sheet Composition, PDF p. 1-8 et 13-15 : échantillonnage de chaînes markoviennes sous contraintes métriques, harmoniques et utilisateur dans un outil de composition."
 tags:
   - interessant
   - sampling
@@ -55,6 +64,13 @@ les préférences apprises tout en respectant les contraintes du contrepoint. Le
 retenu est réinjecté comme nouveau contexte. Le système ne démontre pas une théorie
 générale de l'intéressant, mais il réalise déjà la boucle proposition, négociation,
 contrainte et relance décrite ici.
+
+Les travaux ultérieurs sur les contraintes de Markov rendent ce couplage systématique.
+Ils inversent le generate-and-test : l'espace des contraintes est exploré globalement,
+tandis que la probabilité stylistique ordonne ou échantillonne les solutions. Les
+expériences sur les paroles puis FlowComposer montrent que le couplage vaut comme
+architecture générale — style local plus forme globale — sans que sa réussite technique
+garantisse à elle seule l'intérêt du résultat.
 
 ## Statut de la source
 

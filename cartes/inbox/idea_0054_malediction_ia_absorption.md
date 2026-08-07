@@ -7,9 +7,18 @@ status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
   - "input/old_docs/Paper citations_updated.docx"
+  - "input/publications-francois-pachet/ghedini-15b.pdf"
+  - "input/publications-francois-pachet/papadopoulos-14a.pdf"
+  - "input/publications-francois-pachet/max_order.pdf"
+references:
+  - ghedini2015flowmachines
+  - papadopoulos2014avoiding
+  - papadopoulos2016nonplagiaristic
 source_notes:
   - "PDF p. 83-87"
   - "Projet SenseOfDirection, critique du style transfer, rendu PDF p. 2-5"
+  - "Creating Music and Texts with Flow Machines, PDF p. 10-14 : opérationnalisation du style par un corpus et questions sur la typicalité humaine."
+  - "Avoiding Plagiarism et Generating Non-Plagiaristic Markov Sequences, PDF p. 1-3 : un ordre plus élevé renforce l'impression de style en recopiant des fragments parfois bien plus longs que le contexte appris."
 tags:
   - ia
   - corpus
@@ -33,6 +42,12 @@ en empruntant à une cible la structure globale qui lui manque. Cette apparence 
 direction ne prouve pas que le modèle a appris à engendrer une forme adaptée à son
 propre contenu.
 
+Les expériences `MAXORDER` rendent cette limite mesurable. Augmenter l'ordre de
+Markov améliore l'impression d'imitation, mais permet de reconstituer des fragments du
+corpus beaucoup plus longs que cet ordre. Le système n'a pas absorbé une œuvre comme
+singularité : il réenchaîne ses répétitions locales jusqu'à produire, parfois, une
+copie longue qu'une contrainte supplémentaire doit explicitement interdire.
+
 ## Intérêt pour la thèse
 
 Cette carte prolonge la question de la création impossible vers celle de la dépossession
@@ -42,3 +57,4 @@ contemporaine.
 
 - Proche de `idea_0055`.
 - Proche de `idea_0017`.
+- `idea_0150` isole le résultat scientifique sur la longueur des copies générées.

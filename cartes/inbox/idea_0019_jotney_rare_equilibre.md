@@ -7,9 +7,13 @@ status: inbox
 sources:
   - "input/The Mystery of Jotney Songs.pdf"
   - "input/old_docs/Synopsis MIT Press.doc"
+  - "input/publications-francois-pachet/pachet-99-Casys.pdf"
+references:
+  - pachet1999surprising
 source_notes:
   - "The Mystery of Jotney Songs, necessary surprise et justification rétrospective, PDF p. 1-3"
   - "Synopsis MIT Press, chapitre Aha, rendu PDF p. 31-34"
+  - "Surprising Harmonies, PDF p. 1-3 et 18-19 : une surprise intéressante suppose des attentes fortes et devient intelligible par des règles de transformation ; elle est dite « prouvable » plutôt que simplement inouïe."
 tags:
   - musique
   - chanson
@@ -32,6 +36,12 @@ Le mécanisme dépasse le cas des chansons Jotney. Dans un effet de "aha", un é
 ultérieur attribue soudain une fonction à une anomalie antérieure et force l'auditeur ou
 le spectateur à relire mentalement la séquence. Le futur ne supprime pas l'étrangeté :
 il la transforme rétrospectivement en indice ou en anticipation.
+
+Le travail antérieur sur les harmonies de jazz donne à cette nécessité une forme
+calculable. Une oreille ne traite pas seulement les suites déjà rencontrées ; elle peut
+ramener une progression inédite à des schèmes connus par des règles de substitution.
+La surprise musicalement féconde n'est donc ni la fréquence minimale ni l'écart brut :
+elle surprend dans la mesure même où l'auditeur peut en reconstruire la dérivation.
 
 ## Intérêt pour la thèse
 
