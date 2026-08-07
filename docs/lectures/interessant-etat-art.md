@@ -396,12 +396,19 @@ concurrents de `idea_0131`.
 | jugement esthétique | Kant, Frank Sibley, Stanley Cavell, Nelson Goodman | `0108`, `0116`, `0131`, `0132` |
 | beau, nouveauté et modernité | Adorno, Benjamin, Schlegel, Ngai | `0005`, `0108`, `0131` |
 | ennui et stimulation | Schopenhauer, Kierkegaard, Heidegger | `0004`, `0122`, `0124` |
+| plaisir, émotion et temporalité | Kubovy, Kahneman, Meyer | `0001`, `0005`, `0038`, `0084`, `0121` |
 | intérêt et connaissance | Whitehead, Stace, Grimm, Habermas | `0028`, `0116`, `0132` |
 
 Simondon et Gadamer restent traités dans
 [`gadamer-simondon.md`](gadamer-simondon.md) comme interlocuteurs indirects :
 ils ne doivent pas être transformés sans preuve en auteurs d'une théorie de
 l'intéressant.
+
+Kubovy est traité de la même manière dans
+[`kubovy-plaisirs-de-lesprit.md`](kubovy-plaisirs-de-lesprit.md) : son chapitre
+sur les plaisirs de l'esprit fournit un modèle psychologique de la temporalité
+affective et de la recherche d'interprétation, mais ne doit pas être présenté
+comme une théorie directe de l'intéressant.
 
 ## Ordre recommandé
 

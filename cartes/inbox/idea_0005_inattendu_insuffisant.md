@@ -7,11 +7,14 @@ status: inbox
 sources:
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/old_docs/interestingness.pdf"
+  - "docs/On_the_pleasures_of_the_mind.pdf"
 references:
   - schmidhuber1997interesting
+  - kubovy1999pleasures
 source_notes:
   - "Synopsis MIT Press, rendu PDF p. 4 et 28"
   - "Schmidhuber, What's Interesting?, PDF p. 2 et 4"
+  - "Kubovy, prépublication, PDF p. 9-12 : violation d'attentes tacites, activation et recherche d'une interprétation, notamment dans la musique et l'humour."
 tags:
   - surprise
   - inattendu
@@ -31,6 +34,12 @@ Le bruit fournit ainsi beaucoup d'information au sens de Shannon et peut faire �
 indéfiniment un prédicteur sans devenir intéressant. Chez Schmidhuber, une surprise
 digne de récompense suppose au contraire une attente confiante et la possibilité qu'une
 régularité soit apprise.
+
+Kubovy décompose le passage de l'écart à l'émotion : une attente schématique est
+violée, l'activation qui en résulte déclenche une recherche de sa source, puis une
+interprétation donne un objet à l'émotion. La surprise n'est donc productive que si le
+sujet possède à la fois une attente assez déterminée pour percevoir l'écart et des
+ressources suffisantes pour l'inscrire dans une structure interprétable.
 
 ## Intérêt pour la thèse
 

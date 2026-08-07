@@ -455,6 +455,27 @@ rapport éclat-structure ont renforcé des cartes existantes.
 comme matériau pour « comprendre ce que je fais » est isolée dans `idea_0145`. Le lien
 avec l'ennui reste une hypothèse à tester, non une conclusion de l'article.
 
+## Kubovy, *On the Pleasures of the Mind*
+
+`docs/On_the_pleasures_of_the_mind.pdf` a reçu une couverture propositionnelle
+complète le 7 août 2026. Les 18 pages de la prépublication ont été lues et un
+échantillon couvrant les conjectures principales, la critique de Berlyne, la
+musique, la curiosité, la virtuosité, le flow et la conclusion a été contrôlé
+sur le rendu.
+
+| PDF | Noyaux examinés | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1-5 | distinction corps/esprit ; séquences émotionnelles ; règle pic-fin | `idea_0001` | traité |
+| 6-8 | limites de l'optimum de complexité ; alternatives construites par le sujet | `idea_0084`, `idea_0121` | traité |
+| 9-12 | attente tacite, violation, recherche d'interprétation, musique répétée et humour | `idea_0005`, `idea_0038` | traité |
+| 12-15 | rythme émotionnel, curiosité, virtuosité, flow et autres objets d'émotion | `idea_0121` | traité |
+| 15-18 | conclusion et références | cartes précédentes synthétisées | inventorié |
+
+Le papier est intégré comme comparant psychologique. Il ne démontre pas que tout
+intéressant est plaisant et ne suffit pas à fonder la définition constructive de
+la thèse. Les conjectures évolutionnaires et la généralisation du schème
+narratif sont conservées comme limites, non comme résultats acquis.
+
 ## Conclusion
 
 La couverture propositionnelle est maintenant établie pour les 32 rangs de

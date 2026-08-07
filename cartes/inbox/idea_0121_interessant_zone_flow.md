@@ -6,8 +6,12 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
+  - "docs/On_the_pleasures_of_the_mind.pdf"
+references:
+  - kubovy1999pleasures
 source_notes:
   - "PDF p. 59-62 pour le modèle du flow ; l'identification à l'intéressant est une hypothèse propre à la thèse"
+  - "Kubovy, prépublication, PDF p. 13-15 : flow relu comme plaisir de virtuosité ; buts, feedback et difficulté praticable distingués de l'immersion et de l'oubli de soi."
 tags:
   - interessant
   - flow
@@ -36,6 +40,12 @@ n'épuise l'intéressant. Une énigme irritante, une œuvre qui résiste ou une 
 inquiète peuvent soutenir une promesse de prise tout en rompant la fluidité. Le flow est
 donc un régime partiel à confronter aux cas de rupture, de fascination et de
 contemplation.
+
+Kubovy renforce cette limitation en redistribuant les traits du flow. L'ajustement entre
+difficulté et compétences, les buts et le retour d'information caractérisent surtout
+des activités où le sujet peut éprouver sa virtuosité ; l'immersion et l'oubli de soi
+sont des conditions ou des effets plus généraux des plaisirs de l'esprit. Le flow ne
+désigne donc ni un objet d'émotion unique ni le mécanisme complet de l'intéressant.
 
 La zone n'est cependant pas homogène. Les travaux sur la curiosité artificielle
 suggèrent que l'attention se porte plus précisément vers les situations où le progrès

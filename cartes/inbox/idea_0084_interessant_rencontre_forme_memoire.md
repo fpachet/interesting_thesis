@@ -10,16 +10,19 @@ sources:
   - "input/The Mystery of Jotney Songs -full.pdf"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "docs/Bachimont.pdf"
+  - "docs/On_the_pleasures_of_the_mind.pdf"
 references:
   - pachet2018oreille
   - spinoza1861oeuvres
   - bachimont1996hermeneutique
+  - kubovy1999pleasures
 source_notes:
   - "PDF p. 1-2"
   - "Dossier Jotney, propriété relationnelle robuste et effet de l'analyse, PDF p. 3-4"
   - "Histoire d'une oreille, apprentissages passifs qui préparent des effets futurs, PDF p. 27-34 ; changement de goût et dépendance au contexte, p. 281-295 ; impossibilité de retrouver l'oreille antérieure, p. 306-310."
   - "Spinoza, Éthique, partie III, proposition XXVII, démonstration : les idées des affections enveloppent la nature de notre corps et celle du corps extérieur."
   - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : l'horizon de production d'une réponse et l'horizon depuis lequel l'interprète réactualise sa question ne se confondent que par un travail de compréhension."
+  - "Kubovy, prépublication, PDF p. 6-8 : complexité perçue comme structure d'un ensemble d'alternatives imaginées, dépendante des intérêts et connaissances du sujet."
 tags:
   - interessant
   - memoire
@@ -39,6 +42,13 @@ relationnelle peut être robuste lorsqu'on peut décrire le problème que la for
 les attentes qu'elle déjoue et les compétences nécessaires pour entendre cette
 résolution. Une analyse réussie explicite alors la relation au lieu de remplacer
 l'expérience par une liste de traits.
+
+La critique de Berlyne par Kubovy précise cette dépendance. La complexité attribuée à
+une forme dépend de l'ensemble des alternatives que le sujet sait construire autour
+d'elle : un tableau peut sembler presque sans choix à un regard et manifester une
+multitude de décisions à un autre. Les intérêts, les connaissances et les dimensions de
+variation disponibles déterminent ainsi ce qui peut être perçu dans la forme, sans que
+celle-ci se dissolve dans une préférence arbitraire.
 
 Cette distribution des causes entre objet et sujet possède un précédent spinoziste. Dans
 la démonstration de la proposition XXVII de la partie III de l'*Éthique*, les idées des

@@ -68,6 +68,7 @@ jugement absolu sur la valeur intellectuelle des textes.
 | ---: | --- | --- | --- |
 | 33 | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | Source primaire ciblée sur les limites de la formalisation. | Lecture ciblée complète ; passage sur la mathématisation prématurée intégré à `idea_0128`. |
 | 34 | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | Mémoire d'HDR de 65 pages potentiellement riche en articulations IA/philosophie. | Passage p. 9-10 traité pour `idea_0128` ; passe propositionnelle intégrale à planifier. |
+| 35 | `docs/On_the_pleasures_of_the_mind.pdf` | Comparant psychologique sur temporalité affective, attentes, interprétation, curiosité, virtuosité et flow. | Couverture propositionnelle complète ; 18 pages relues, cinq cartes renforcées, aucune nouvelle carte. |
 
 ## Matériaux non textuels
 
@@ -125,6 +126,7 @@ de quelques formulations alternatives de ses propositions centrales.
 | 32 | `input/PACHET_HISTOIRE_OREILLE_BAT.pdf` | couverture propositionnelle complète | 12 juillet 2026 |
 | 33 | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | lecture ciblée complète | 27 juillet 2026 |
 | 34 | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | lecture ciblée ; passe intégrale à faire | 27 juillet 2026 |
+| 35 | `docs/On_the_pleasures_of_the_mind.pdf` | couverture propositionnelle complète | 7 août 2026 |
 
 Les 32 documents de la passe initiale ont été traités. Parmi les deux sources ajoutées
 le 27 juillet 2026, le mémoire d'HDR du rang 34 reste à traiter intégralement.

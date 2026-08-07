@@ -97,6 +97,7 @@ son rendu bibliographique reste reproductible.
 | `pachet2026biases` | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | manuscrit non publié |
 | `montecchio2020skipping` | `input/Montecchio_Roy_Pachet_2020_skipping_behavior.pdf` | article PLOS ONE relu intégralement ; résultat scientifique et cas réflexif reliant les recherches menées à Spotify à l'enquête philosophique sur l'intéressant |
 | `meyer1956emotion` | pas encore dans le corpus | référence fondatrice sur attente, apprentissage et affect musical ; lecture directe à faire |
+| `kubovy1999pleasures` | `docs/On_the_pleasures_of_the_mind.pdf` | chapitre relu intégralement ; séquences émotionnelles, attentes tacites, recherche d'interprétation, critique de la complexité intrinsèque et relecture du flow |
 | `narmour1990basic` | pas encore dans le corpus | premier volume du modèle implication-réalisation ; lecture directe à faire |
 | `narmour1992complexity` | pas encore dans le corpus | extension du modèle implication-réalisation aux structures complexes ; lecture directe à faire |
 | `pachet1999oeuvre` | passages consignés dans `docs/lectures/pachet-oeuvre-des-jours-excitation-idees.md` | livre publié ; lecture ciblée indirecte de l'ouverture et des p. 40-41, lecture intégrale à faire |
