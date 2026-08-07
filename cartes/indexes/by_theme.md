@@ -15,6 +15,7 @@
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
 - `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
 - `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
+- `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 
 ## Définition de l'intéressant
 
@@ -61,6 +62,7 @@
 - `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 - `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
 - `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
+- `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 
 ## Ennui, surprise, rareté
 
@@ -76,6 +78,7 @@
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
+- `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 

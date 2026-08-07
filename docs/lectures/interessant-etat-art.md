@@ -67,7 +67,7 @@ qualifié**, **mécanisme déclenché**, **temporalité**, **mode de disparition
 | Texte | Accès public repéré | Statut et usage |
 | --- | --- | --- |
 | Alessandro Nannini, *Christian Garve e l'estetica dell'interessante* (2018) | [PDF intégral du no 108 d'*Aesthetica Preprint*](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/download/8/9) | **OA** — étude secondaire à lire d'abord, puis à contrôler sur Garve |
-| Christian Garve, *Sammlung einiger Abhandlungen* (1779), notamment « Einige Gedanken über das Interessirende », p. 253–439 | [numérisation Google Books](https://play.google.com/store/books/details?id=7nMQky4ClX8C) | **DP** — texte allemand en caractères gothiques ; l'essai comprend l'appendice de 1779 |
+| Christian Garve, « Einige Gedanken über das Interessirende », première publication dans les volumes 12 et 13 de la *Neue Bibliothek* (1771–1772), reprise dans la *Sammlung einiger Abhandlungen* (1779), p. 253–439 | [numérisation Google Books](https://play.google.com/store/books/details?id=7nMQky4ClX8C) | **DP** — texte allemand en caractères gothiques ; la reprise comprend l'annexe de 1779 |
 | Friedrich Schlegel, *Über das Studium der griechischen Poesie* | [texte allemand intégral, TextGrid](https://textgridrep.de/browse/v35f.0?lang=de) ; [aperçu de la traduction Barnett](https://books.google.com/books/about/On_the_Study_of_Greek_Poetry.html?id=5Wuk9aoJrdMC) | **DP** pour l'allemand ; **CP** pour l'aperçu anglais |
 | Arthur Schopenhauer, « Ueber das Interessante » | [texte allemand, Projekt Gutenberg-DE](https://www.projekt-gutenberg.org/schopenh/nachlas2/chap009.html) ; [volume VI numérisé](https://commons.ptsem.edu/id/arthurschopenhau0006scho) | **DP** — contrôler la pagination sur le fac-similé |
 | Søren Kierkegaard, « Vexel-Driften » dans *Enten–Eller*, I | [édition danoise officielle, Bibliothèque royale du Danemark](https://tekster.kb.dk/text/sks-ee1-txt-root.pdf) ; [notice du chapitre anglais, p. 281–300](https://www.degruyterbrill.com/document/doi/10.1515/9781400846931-009/html?lang=en) | **DP/OA** pour l'original danois ; **Notice** pour la traduction Hong |
@@ -115,7 +115,8 @@ Accès :
 
 - [PDF intégral de l'étude de Nannini](https://mimesisjournals.com/ojs/index.php/aesthetica-preprint/issue/download/8/9) ;
 - [édition de 1779 de Garve, numérisée par Google Books](https://play.google.com/store/books/details?id=7nMQky4ClX8C),
-  où « Einige Gedanken über das Interessirende » occupe les p. 253–439 ;
+  où la reprise augmentée de « Einige Gedanken über das Interessirende », publié
+  initialement en 1771–1772, occupe les p. 253–439 ;
 - [notice Aesthetica, ISBN 9788877261182](https://www.aestheticaedizioni.it/catalogo/christian-garve-lestetica-dellinteressante/).
 
 Questions :
@@ -131,8 +132,8 @@ constructive, puis `idea_0129`, `idea_0131` et `idea_0108`.
 
 Statut : **étude de Nannini lue par passages ciblés et p. 9–80 cartographiées ;
 texte primaire de Garve lu directement pour les p. 253–274 et 313–317 ; noyau
-relationnel et constructif intégré à `idea_0139` et à la version 4 du projet de
-thèse**.
+relationnel et constructif intégré à `idea_0139`, puis hypothèse de son échec
+historique intégrée à `idea_0142` et à la version 5 du projet de thèse**.
 
 ### A2. Friedrich Schlegel
 

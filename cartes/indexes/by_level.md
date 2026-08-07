@@ -4,7 +4,7 @@ Cet index distingue ce que les sources et les cartes mettent encore trop facilem
 sur un même plan. Le champ YAML `level` de chaque carte constitue la classification
 canonique ; les listes ci-dessous servent de vue de travail.
 
-## Conceptual (94)
+## Conceptual (95)
 
 Propositions sur l'intéressant, la création, la compréhension, la virtuosité, la
 valeur ou l'attention. Elles peuvent être inspirées par des sciences, mais leur
@@ -25,7 +25,7 @@ portée ne se réduit pas à un résultat scientifique.
 `idea_0117`, `idea_0118`, `idea_0119`, `idea_0120`, `idea_0121`, `idea_0122`,
 `idea_0123`, `idea_0124`, `idea_0125`, `idea_0126`, `idea_0129`, `idea_0131`,
 `idea_0132`, `idea_0133`, `idea_0134`, `idea_0135`, `idea_0136`, `idea_0137`,
-`idea_0138`, `idea_0139`, `idea_0140`, `idea_0141`.
+`idea_0138`, `idea_0139`, `idea_0140`, `idea_0141`, `idea_0142`.
 
 ## Scientific (19)
 

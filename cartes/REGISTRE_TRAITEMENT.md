@@ -73,6 +73,6 @@ propositionnelle intégrale. Les deux MP3 ont
 été vérifiés comme fichiers distincts et décodables ; une analyse harmonique ne
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
-Le corpus comprend désormais 138 cartes. L'organisation argumentative reste l'activité
+Le corpus comprend désormais 139 cartes. L'organisation argumentative reste l'activité
 principale, avec une tâche documentaire explicite en attente sur le mémoire d'HDR de
 1997.

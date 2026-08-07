@@ -4,6 +4,28 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 5 - 7 août 2026
+
+Explication pluricausale de l'échec historique du programme garvien et
+déplacement explicite de l'intéressant hors du seul domaine esthétique.
+
+- distinction entre stérilité théorique et non-canonisation historique ;
+- défaite de la *Popularphilosophie* comme forme publique, empirique et
+  essayistique de philosophie, documentée par Thompson et Bachmann-Medick ;
+- analyse des captures kantienne par le désintéressement, romantique par la
+  poésie moderne et morale par les usages souhaitables de l'attention ;
+- rapprochement avec Maslow : l'intéressant comme régime transversal de
+  mobilisation du psychisme, avec l'ennui comme indice symétrique, et non comme
+  étage supplémentaire d'une pyramide ;
+- rappel historiographique que Maslow n'a pas produit la visualisation
+  pyramidale devenue canonique ;
+- intégration de l'analogie de Russell sur la mathématisation prématurée, en
+  distinguant l'article publié de la formule orale retranscrite par Pachet ;
+- formulation d'un programme de vérification portant sur la réception de Garve,
+  l'histoire lexicale et la migration disciplinaire du mécanisme ;
+- synchronisation des documents français et anglais, de leur plan et de leurs
+  références.
+
 ## Version 4 - 4 août 2026
 
 Repositionnement historique de la définition constructive après lecture directe

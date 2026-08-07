@@ -7,6 +7,9 @@ status: inbox
 sources:
   - "docs/L_interessant_histoire_philosophique_et_programme_de_recherche.docx"
 references:
+  - garve1779interessirende
+  - nannini2018garve
+  - bachmannmedick2008anziehungskraft
   - stace1944interestingness
   - kolnai1964concept
   - ngai2008merely
@@ -16,6 +19,7 @@ references:
   - nannini2018interesting
 source_notes:
   - "Le document distingue quatre sens de l'absence : lexicale, doctrinale, architectonique et canonique."
+  - "L'essai de Garve constitue le contre-exemple historique le plus substantiel à une absence doctrinale : première publication dans les volumes 12 et 13 de la Neue Bibliothek (1771-1772), puis reprise augmentée dans le recueil de 1779, p. 253-439."
   - "Les références en ligne attestent l'existence d'une tradition discontinue ; leur interprétation détaillée exige encore une lecture directe, sauf pour la notice ouverte de Nannini."
 tags:
   - interessant
@@ -44,6 +48,14 @@ interdisent un récit de découverte ex nihilo. Ils dessinent cependant une trad
 discontinue : ces textes ne semblent pas avoir constitué un domaine unifié doté de
 problèmes, de distinctions et de références obligées.
 
+Garve est le contre-exemple le plus massif à toute thèse d'une absence doctrinale.
+Son long essai ne se contente pas d'employer un adjectif critique : il examine les
+conditions générales sous lesquelles un objet, un récit ou une pensée attire
+l'attention, met les représentations en mouvement et suscite le désir de poursuivre.
+La question historique n'est donc plus de savoir si la philosophie a jamais
+constitué l'intéressant en objet, mais pourquoi cette tentative précoce et
+substantielle n'a pas fondé une tradition cumulative et canonique.
+
 ## Intérêt pour la thèse
 
 Cette distinction transforme l'angle mort de `idea_0116` en hypothèse historique
@@ -55,9 +67,15 @@ Les contre-exemples historiques deviennent alors des données centrales. Plus le
 textes consacrés à l'intéressant sont substantiels, plus il faut expliquer leur
 faible intégration réciproque et leur faible pouvoir de canonisation.
 
+Garve peut ainsi devenir le personnage historique central de ce premier mouvement :
+non l'exception gênante qu'une thèse d'absence devrait minimiser, mais le cas qui
+oblige à redéfinir l'angle mort comme oubli, interruption et non-canonisation d'une
+enquête philosophique déjà engagée.
+
 ## Ressources en ligne
 
 - [Guide des passages prioritaires de l'état de l'art](../../docs/lectures/passages-interessant-etat-art.md)
+- [Garve, transcription du texte dans le Deutsches Textarchiv](https://www.deutschestextarchiv.de/book/show/garve_sammlung_1779)
 - [Stace, « Interestingness » — notice Cambridge](https://www.cambridge.org/core/journals/philosophy/article/abs/interestingness/EEF830F5A3202674EB10D1B6452386E5)
 - [Kolnai, « On the Concept of the Interesting » — notice Oxford](https://academic.oup.com/bjaesthetics/article/4/1/22/16793)
 - [Ngai, « Merely Interesting » — numéro de *Critical Inquiry*](https://criticalinquiry.uchicago.edu/past_issues/issue/summer_2008_v34_n4/)

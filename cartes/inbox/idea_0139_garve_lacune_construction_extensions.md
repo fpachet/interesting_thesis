@@ -14,7 +14,7 @@ references:
   - holert2008interested
   - pachet2027virtuosite
 source_notes:
-  - "Texte primaire contrôlé dans la transcription du Deutsches Textarchiv et la numérisation de l'Universitäts- und Landesbibliothek Sachsen-Anhalt."
+  - "Texte primaire contrôlé dans la transcription du Deutsches Textarchiv et la numérisation de l'Universitäts- und Landesbibliothek Sachsen-Anhalt : première publication dans les volumes 12 et 13 de la Neue Bibliothek (1771-1772), puis reprise augmentée avec l'annexe de 1779 dans la Sammlung einiger Abhandlungen, p. 253-439."
   - "Les formulations françaises citées sont des traductions de travail ; toute citation de thèse devra être contrôlée sur l'allemand."
   - "Nannini sert de guide historique, non de substitut au texte de Garve."
   - "Bachmann-Medick explicite la portée morale et pratique de l'essai : décentrement du sujet, participation à l'objet et formation de possibilités d'action."

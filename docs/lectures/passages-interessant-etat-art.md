@@ -49,8 +49,10 @@ avant les lectures intégrales.
 
 ### 1. Christian Garve lu directement, avec Alessandro Nannini comme guide — **V**
 
-Références : Christian Garve, « Einige Gedanken über das Interessirende », dans
-*Sammlung einiger Abhandlungen*, 1779, p. 253–439 ; Alessandro Nannini,
+Références : Christian Garve, « Einige Gedanken über das Interessirende », publié
+d'abord dans les volumes 12 et 13 de la *Neue Bibliothek der schönen
+Wissenschaften und der freyen Künste* (1771–1772), puis repris avec une annexe dans
+la *Sammlung einiger Abhandlungen*, 1779, p. 253–439 ; Alessandro Nannini,
 *Christian Garve e l'estetica dell'interessante*, *Aesthetica Preprint*,
 no 108, 2018.
 

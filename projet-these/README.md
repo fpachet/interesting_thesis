@@ -41,6 +41,13 @@ constructif. Elle déplace l'originalité vers sa systématisation et ajoute la
 difficultuosité ainsi que la chalépodoxie à partir de *La virtuosité à la portée
 des caniches*, à paraître chez Hermann en 2027.
 
+La V5 explique pourquoi ce programme garvien n'a pas fondé de tradition
+cumulative : défaite de la *Popularphilosophie*, captures kantienne, romantique
+et morale, puis dispersion disciplinaire. Elle déplace l'intéressant hors de la
+seule esthétique vers une fonction générale de mobilisation du psychisme, mise
+en relation avec Maslow, l'ennui et l'avertissement de Russell contre la
+formalisation prématurée.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.

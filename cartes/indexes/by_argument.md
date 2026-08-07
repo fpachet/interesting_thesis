@@ -5,7 +5,7 @@ par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
 figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
 est un outil de travail réversible, pas encore un plan de thèse.
 
-## 1. Constitution de l'angle mort : histoire, canonisation et substitutions (7)
+## 1. Constitution de l'angle mort : histoire, canonisation et substitutions (8)
 
 ### Diagnostic historique
 
@@ -13,6 +13,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
 - `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 
 ### Résidu positif et limite méthodologique
 
@@ -227,6 +228,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 7, 22, 27, 30, 10, 13, 11 et 18
-cartes, soit les 138 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 8, 22, 27, 30, 10, 13, 11 et 18
+cartes, soit les 139 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.
