@@ -1,18 +1,20 @@
 # Organisation argumentative des cartes
 
-Cette organisation ajoute deux vues aux index existants : une famille
-argumentative principale pour chaque carte et un graphe restreint de relations
-fortes. Elle reste volontairement antérieure au plan de thèse. Son but est de
+Cette organisation articule quatre vues : niveau épistémique, famille argumentative,
+statut architectural et graphe restreint de relations fortes. Elle reste volontairement
+antérieure au plan de thèse. Son but est de
 faire apparaître les lignes de force, les recouvrements et les objections avant
 de choisir un ordre de chapitres.
 
-## Trois axes distincts
+## Quatre axes distincts
 
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   141 cartes y sont affectées une seule fois à huit familles.
-3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
+   142 cartes y sont affectées une seule fois à huit familles.
+3. `indexes/by_architecture.md` hiérarchise provisoirement les propositions selon
+   leur rôle dans la démonstration ; sa première passe retient quinze cartes `CORE`.
+4. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
 Ne pas fusionner ces axes dans une taxonomie unique est important. Une méthode
@@ -26,8 +28,8 @@ L'organisation du corpus est guidée par une thèse centrale, mais ne doit pas l
 présenter comme un résultat déjà acquis. Sa formulation reste un candidat à défendre,
 préciser et éventuellement réfuter au cours du travail :
 
-> **L'intéressant est ce qui déclenche et soutient une construction par laquelle un
-> sujet acquiert une prise nouvelle sur un objet.**
+> **Est intéressant ce qui, pour un sujet situé et relativement à un horizon donné,
+> ouvre et soutient une activité dont une prise nouvelle constitue une issue crédible.**
 
 Cette proposition ne définit pas l'intéressant comme une propriété intrinsèque de
 l'objet ni comme une préférence privée. Elle décrit une relation dynamique entre une
@@ -38,13 +40,15 @@ le moment de la rencontre.
 
 La **construction** nomme l'activité propre de cette relation : discriminer, comparer,
 anticiper, former une catégorie, réviser un modèle, reconstruire un problème ou
-fabriquer un dispositif. La **prise nouvelle** nomme son critère : la construction doit
-laisser une distinction, une prédiction, une possibilité de transfert ou d'intervention,
-ou un artefact dont les réussites et les échecs peuvent être examinés. Cette exigence
-empêche de confondre construction et simple impression de profondeur.
+fabriquer un dispositif. La **prise nouvelle** désigne une issue contrôlable : nouvelle
+capacité de discrimination, d'anticipation, de variation, de transfert, d'intervention
+ou de reconstruction. Son obtention caractérise l'intérêt fécond ; sa seule crédibilité
+peut déjà soutenir l'intérêt, et son ajournement indéfini caractérise la fascination
+promissive. Cette distinction empêche de juger rétrospectivement que toute enquête
+infructueuse n'avait jamais été intéressante.
 
 La formulation développée et son statut dans le projet se trouvent dans
-[`BUT_DE_LA_THESE.md`](../projet-these/BUT_DE_LA_THESE.md#hypothèse-centrale--lintéressant-comme-déclencheur-de-construction).
+[`BUT_DE_LA_THESE.md`](../projet-these/BUT_DE_LA_THESE.md#hypothèse-centrale--lintéressant-comme-promesse-crédible-de-prise).
 La carte [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) en est
 la proposition canonique dans le corpus manipulable. Les deux documents ont des rôles
 différents : le premier expose l'objet, les tâches et le résultat attendu de la thèse ;
@@ -57,7 +61,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Cadre relationnel | [`idea_0084`](inbox/idea_0084_interessant_rencontre_forme_memoire.md) | L'intéressant naît de la rencontre entre une forme et une mémoire, indexée par un horizon et un moment. |
 | Programme de naturalisation | [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md) | L'intéressant devient un phénomène psychique explicable sans être assigné comme propriété intrinsèque à l'objet. |
 | Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
-| Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
+| Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Une prise perceptive, explicative ou opératoire constitue d'abord une issue crédible ; son obtention caractérise l'intérêt fécond. |
 | Antécédent historique direct | [`idea_0139`](inbox/idea_0139_garve_lacune_construction_extensions.md) | Garve formule déjà la lacune éprouvée, l'orientation prospective et la construction depuis des matériaux antérieurs ; la thèse précise la résistance, la prise, l'épuisement et la relance. |
 | Diagnostic de l'échec historique | [`idea_0142`](inbox/idea_0142_echec_garve_capture_dispersion.md) | La défaite de la Popularphilosophie, les captures esthétique et romantique, puis la dispersion disciplinaire expliquent pourquoi le programme de Garve n'a pas fondé de lignée canonique. |
 | Survie déplacée du particulier | [`idea_0143`](inbox/idea_0143_pachet_survie_philosophie_particulier.md) | Pierre Pachet rend plausible la survie, dans l'essai, d'une philosophie attentive à la naissance singulière des idées sans établir de filiation historique avec Garve. |
@@ -66,7 +70,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
 | Boucle récursive | [`idea_0133`](inbox/idea_0133_interessant_recursif_auto_application.md) | La construction transforme les conditions de l'intérêt futur et le concept peut déclencher le processus qu'il décrit. |
 | Garde-fou aléthique | [`idea_0134`](inbox/idea_0134_interessant_selectionne_enquete_pas_verite.md) | L'intéressant sélectionne ce qui mérite examen, mais seule une évaluation distincte permet d'en valider les conclusions. |
-| Garde-fou méthodologique | [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md) | La panoplie scientifique exerce une hostilité structurelle lorsqu'elle remplace la cible par un substitut stable qui élimine sa dimension intéressante. |
+| Garde-fou méthodologique | [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md) | Toute formalisation risque de substituer un indicateur stable à la cible relationnelle qu'elle devait rendre testable. |
 | Maxime méthodologique | [`idea_0144`](inbox/idea_0144_conceptualiser_sans_desinteresser_experience.md) | La thèse alterne fidélité aux cas et extraction de structure afin de conceptualiser l'intéressant sans perdre le phénomène qui motive le concept. |
 | Cas réflexif | [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md) | Comprendre les causes de ses affects construit une prise sur soi et transforme la manière dont le sujet en pâtit. |
 | Mesure temporelle candidate | [`idea_0071`](inbox/idea_0071_interet_gain_temporaire_compression.md) | Le gradient de progrès opérationnalise une dimension du travail constructif en cours. |
@@ -88,8 +92,8 @@ peuvent être rendues observables, construites et contestées :
 - [`idea_0088`](inbox/idea_0088_modele_computationnel_sans_naturalisation.md) rappelle
   qu'un modèle testable ne suffit pas à épuiser l'objet philosophique ;
 - [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md)
-  décrit l'hostilité structurelle par laquelle les instruments de formalisation peuvent
-  remplacer l'objet par un problème plus commode ;
+  décrit le risque structurel par lequel un indicateur peut remplacer l'objet par un
+  problème plus commode ;
 - [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md)
   distingue cette non-réduction d'un refus de toute explication causale ;
 - [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md)
@@ -98,6 +102,10 @@ peuvent être rendues observables, construites et contestées :
 - [`idea_0110`](inbox/idea_0110_comprendre_pratique_scientifique_articulation.md)
   distingue les résultats scientifiques, les idées qu'une pratique rend pensables et
   leur articulation philosophique.
+- [`idea_0145`](inbox/idea_0145_skipping_recherche_passee_interessant.md) réalise cette
+  méthode sur un cas réflexif précis : le travail mené à Spotify sur les profils de
+  skipping devient un matériau pour penser la continuation et l'abandon sans être
+  présenté rétrospectivement comme une preuve philosophique.
 - [`idea_0136`](inbox/idea_0136_mots_croises_triggers_attentes.md) fait des mots
   croisés un micro-laboratoire de l'écart assimilable, des attentes apprises et de la
   nécessité rétrospective, en distinguant difficulté transformationnelle et simple
@@ -105,7 +113,7 @@ peuvent être rendues observables, construites et contestées :
 
 Le registre [`relations.tsv`](relations.tsv) conserve les dépendances directionnelles
 entre ces propositions. L'index
-[`by_argument.md`](indexes/by_argument.md#2-définition-et-émergence-de-lintéressant-18)
+[`by_argument.md`](indexes/by_argument.md#2-définition-et-émergence-de-lintéressant-22)
 situe leur fonction dans l'enquête, tandis que
 [`by_level.md`](indexes/by_level.md) distingue le statut épistémique de chacune. La
 thèse centrale ne remplace donc ni les familles ni les niveaux : elle fournit le centre
@@ -123,13 +131,13 @@ usage fréquent mais faible densité théorique (0130)
   -> substitution scientifique par des critères stables (0128)
   -> recommandation prospective de poursuivre l'examen (0132)
   -> distinction entre sélection heuristique et validation vraie (0134)
-  -> construction d'une prise nouvelle (0123)
+  -> ouverture d'une prise nouvelle crédible (0123)
 
 émergence d'une forme (0083)
   -> relation forme-mémoire (0084)
-  -> zone de flow entre ennui et anxiété (0121)
+  -> flow comme régime partiel de maintien (0121)
   -> constitution de l'objet en énigme désirable et accessible (0138)
-  -> construction d'une prise sur l'objet (0123)
+  -> ouverture puis construction éventuelle d'une prise (0123)
   -> épluchage et production d'une fin (0137, 0082)
   -> stabilisation langagière et nouvelle frange (0127)
   -> auto-application et déplacement récursif du concept (0133)

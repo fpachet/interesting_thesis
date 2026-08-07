@@ -54,6 +54,39 @@ class CardMetadataTests(unittest.TestCase):
             for source in sources:
                 self.assertTrue((project_root / source).exists(), f"{card.name}: {source}")
 
+    def test_architectural_statuses_are_valid_and_core_index_matches_metadata(self) -> None:
+        project_root = Path(__file__).resolve().parents[1]
+        cards = sorted((project_root / "cartes" / "inbox").glob("idea_*.md"))
+        valid_statuses = {"core", "derived", "test", "case", "objection", "speculative"}
+        metadata_core: set[str] = set()
+
+        for card in cards:
+            frontmatter = card.read_text(encoding="utf-8").split("---", 2)[1]
+            card_id = re.search(r"^id:\s*(\S+)\s*$", frontmatter, re.MULTILINE)
+            statuses = re.findall(
+                r"^architecture:\s*(\S+)\s*$", frontmatter, re.MULTILINE
+            )
+            self.assertLessEqual(len(statuses), 1, card.name)
+            if not statuses:
+                continue
+            self.assertIn(statuses[0], valid_statuses, card.name)
+            if statuses[0] == "core":
+                self.assertIsNotNone(card_id, card.name)
+                metadata_core.add(card_id.group(1))
+
+        architecture_index = (
+            project_root / "cartes" / "indexes" / "by_architecture.md"
+        ).read_text(encoding="utf-8")
+        core_section = architecture_index.split(
+            "## Première passe : les 15 propositions `CORE`", 1
+        )[1].split("## Règle de la prochaine passe", 1)[0]
+        indexed_core = set(
+            re.findall(r"^- `(idea_\d{4})` - ", core_section, re.MULTILINE)
+        )
+
+        self.assertEqual(len(metadata_core), 15)
+        self.assertEqual(indexed_core, metadata_core)
+
     def test_card_reference_keys_exist_in_bibliography(self) -> None:
         project_root = Path(__file__).resolve().parents[1]
         bibliography = (project_root / "bibliographie" / "references.bib").read_text(

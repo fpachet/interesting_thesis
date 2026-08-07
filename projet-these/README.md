@@ -11,6 +11,8 @@ que leurs instantanés historiques.
   résultat attendu avant la sélection des propositions pivots ;
 - `STRUCTURE_PROVISOIRE.md` : note d'architecture issue de la discussion avec
   Olivia Chevallier ; trois mouvements possibles et questions de composition ;
+- `PLAN_ACTION_DEMONSTRATION.md` : chantiers destinés à transformer la définition
+  candidate en position philosophiquement défendue avant une nouvelle version ;
 - `versions/projet-these-vN-fr.tex` et `versions/projet-these-vN-en.tex` :
   versions stabilisées et immuables ;
 - `CHANGELOG.md` : différences intellectuelles et documentaires entre versions ;

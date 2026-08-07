@@ -1,9 +1,10 @@
 ---
 id: idea_0128
-title: "La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant"
+title: "Toute formalisation risque de substituer son indicateur à la cible"
 kind: objection
 level: articulation
 status: inbox
+architecture: core
 sources:
   - "input/Russell_Rationality_and_Intelligence_IJCAI95.pdf"
   - "input/Pachet_Representation_connaissances_langages_objets_1997.pdf"
@@ -25,16 +26,16 @@ tags:
   - objectif
   - russell
   - methode
-  - hostilite-scientifique
+  - substitution-de-cible
 ---
 ## Idée
 
-Il faut prendre au sérieux l'**hostilité de la formalisation à l'égard de
-l'intéressant**. Cette hostilité n'est ni une intention des chercheurs, ni une
-impossibilité de principe. Elle est structurelle : pour rendre un problème testable et
-cumulatif, la science doit le traduire en objets stabilisés, variables contrôlables et
-critères calculables. Or cette traduction tend à éliminer les propriétés mêmes que la
-thèse attribue à l'intéressant : son caractère relationnel, historique, singulier et
+Il faut prendre au sérieux le **risque structurel de substitution de cible**. Ce risque
+n'est ni une intention des chercheurs, ni une impossibilité de principe. Pour rendre un
+problème testable et cumulatif, la science doit le traduire en objets stabilisés,
+variables contrôlables et critères calculables. La difficulté apparaît lorsque cette
+traduction est traitée comme la définition complète du phénomène : l'indicateur peut
+alors remplacer la cible et éliminer son caractère relationnel, historique, singulier et
 transformateur.
 
 La réussite sur le problème formel ne garantit donc plus un progrès sur le problème
@@ -51,7 +52,7 @@ du problème ce qui résistait à sa définition.
 ## Un exemple réflexif : de l'oral à l'écrit
 
 La différence entre l'allocution retranscrite par Pachet et l'article publié est
-elle-même un exemple possible de cette hostilité. À l'oral, Russell nomme directement
+elle-même un exemple possible de cette substitution. À l'oral, Russell nomme directement
 le danger : un problème formel remplace un problème informel, ses parties intéressantes
 sont définies hors du champ et les solutions deviennent inintéressantes. Dans les actes,
 la mise en garde subsiste, mais sous la catégorie plus abstraite de **mathématisation
@@ -101,7 +102,8 @@ même que chacun de ses instruments est légitime et fécond dans d'autres enqu�
 Appliquée à l'intéressant, cette panoplie ne produit pas seulement une approximation
 imparfaite. Elle exerce une pression convergente pour rabattre le phénomène sur ce qui
 est déjà stabilisé, comparable et optimisable. Autrement dit, elle risque de rendre
-scientifique le substitut précisément en expulsant l'intéressant.
+scientifique le substitut précisément en expulsant l'intéressant. Ce risque n'est pas
+une propriété de toute formalisation : il naît de la clôture prématurée de la cible.
 
 ## Distinction
 
@@ -137,7 +139,7 @@ pas seulement à proposer un nouveau score pour les systèmes génératifs, mais
 ce que les formalismes existants ont rendu invisible en remplaçant la valeur recherchée
 par la correction, la cohérence, la probabilité ou la satisfaction de contraintes.
 
-La thèse doit ainsi étudier cette hostilité comme un problème positif de méthode :
+La thèse doit ainsi étudier cette substitution comme un problème positif de méthode :
 comment construire des instruments scientifiques qui ne détruisent pas leur objet en le
 rendant mesurable ? La réponse ne peut être un refus de la formalisation, mais une
 formalisation réflexive, locale et révisable, capable de conserver ses résidus et ses

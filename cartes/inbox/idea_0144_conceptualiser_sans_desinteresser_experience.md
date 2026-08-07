@@ -4,6 +4,7 @@ title: "Conceptualiser l'intéressant sans désintéresser le concept de l'expé
 kind: method
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/notes/garve-kant-pierre-pachet-particulier-concept.md"
 references:

@@ -4,6 +4,7 @@ title: "L'intéressant sélectionne l'enquête sans valider ses conclusions"
 kind: distinction
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/notes/discussion-heinz-wismann-vrai-interessant.md"
 source_notes:

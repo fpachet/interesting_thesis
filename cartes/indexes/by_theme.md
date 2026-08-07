@@ -9,7 +9,7 @@
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
-- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
+- `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
 - `idea_0005` - L'inattendu ne suffit pas.
 - `idea_0108` - Une forme peut être belle parce qu'elle est simple et ennuyeuse parce qu'elle est déjà connue.
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
@@ -48,10 +48,10 @@
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
-- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
-- `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
+- `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
+- `idea_0121` - Le flow décrit un régime de maintien de l'intérêt, non sa définition.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
-- `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
@@ -78,7 +78,7 @@
 - `idea_0037` - Thue-Morse : non-répétition structurée.
 - `idea_0114` - Une phrase musicale banale peut devenir intéressante après coup ou rester un simple substrat.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
-- `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
+- `idea_0121` - Le flow décrit un régime de maintien de l'intérêt, non sa définition.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
@@ -136,10 +136,11 @@
 - `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
+- `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
 
 ## Exploration, similarité, parcours
 
-- `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.
@@ -195,6 +196,7 @@
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 - `idea_0110` - Comprendre une pratique scientifique exige de distinguer ses résultats des idées qu'elle rend pensables.
+- `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.

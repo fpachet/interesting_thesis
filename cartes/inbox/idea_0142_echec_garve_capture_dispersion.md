@@ -4,6 +4,7 @@ title: "L'« échec » de Garve vient d'une défaite philosophique, puis de la c
 kind: hypothesis
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/lectures/interessant-etat-art.md"
   - "docs/lectures/passages-interessant-etat-art.md"

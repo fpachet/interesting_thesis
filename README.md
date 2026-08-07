@@ -50,6 +50,9 @@ des objections ou comparer plusieurs architectures argumentatives.
   pivots, recouvrements et questions ouvertes ;
 - [`cartes/indexes/by_argument.md`](cartes/indexes/by_argument.md) : affectation
   exhaustive des cartes à huit familles argumentatives ;
+- [`cartes/indexes/by_architecture.md`](cartes/indexes/by_architecture.md) :
+  hiérarchie provisoire entre noyau, conséquences, tests, cas, objections et
+  réserve spéculative ;
 - [`cartes/relations.tsv`](cartes/relations.tsv) : premier graphe de relations
   fortes et typées entre propositions ;
 - [`cartes/indexes/by_theme.md`](cartes/indexes/by_theme.md) : regroupement
@@ -61,6 +64,8 @@ des objections ou comparer plusieurs architectures argumentatives.
 - [`cartes/COUVERTURE_EXTRACTION.md`](cartes/COUVERTURE_EXTRACTION.md) : contrôle détaillé de la couverture propositionnelle ;
 - [`bibliographie/references.bib`](bibliographie/references.bib) : bibliographie
   canonique ;
+- [`input/theses-comparaison/`](input/theses-comparaison/) : deux thèses de
+  philosophie conservées comme étalons méthodologiques ;
 - [`input/`](input/) : corpus documentaire, avec les archives dans
   `input/old_docs/`.
 

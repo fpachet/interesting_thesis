@@ -48,3 +48,5 @@ cette activité.
 - Généralise `idea_0018`, où la construction d'IA fonctionne comme laboratoire philosophique.
 - Donne son cadre réflexif à `idea_0088`, qui refuse de confondre modèle et naturalisation.
 - Situe `idea_0109` comme articulation construite, non comme résultat de `Hidden Biases`.
+- Est réalisé concrètement par `idea_0145`, où le travail passé sur le skipping
+  devient un matériau philosophique sans cesser d'être un résultat scientifique situé.

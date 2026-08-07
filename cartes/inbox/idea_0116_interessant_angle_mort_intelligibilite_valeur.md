@@ -4,6 +4,7 @@ title: "L'intéressant occupe un angle mort entre intelligibilité et valeur"
 kind: hypothesis
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "projet-these/versions/projet-these-v1-fr.tex"
 source_notes:

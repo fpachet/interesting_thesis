@@ -4,6 +4,7 @@ title: "L'absence de l'intéressant est architectonique et canonique, non lexica
 kind: distinction
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/L_interessant_histoire_philosophique_et_programme_de_recherche.docx"
 references:

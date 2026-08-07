@@ -1,24 +1,29 @@
 ---
 id: idea_0123
-title: "L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet"
+title: "L'intéressant ouvre une activité orientée vers une prise nouvelle crédible"
 kind: definition
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "input/old_docs/interestingness.pdf"
   - "docs/Bachimont.pdf"
+  - "docs/lectures/theses-comparaison-preuve-philosophique.md"
 references:
   - pachet2018oreille
   - schmidhuber1997interesting
   - steels2005coordinating
   - steels2015talkingheads
   - bachimont1996hermeneutique
+  - anselin2021attention
+  - thalabard2012attention
 source_notes:
   - "Histoire d'une oreille, apprentissages perceptifs et construction progressive d'une écoute, PDF p. 27-34 et 281-295"
   - "Schmidhuber, apprentissage de régularités et progrès de compression, PDF p. 1-3 et 20"
   - "Le rapprochement avec les language games de Steels est une articulation proposée par la thèse"
   - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : comprendre comme reconstruction et réactualisation de la question à laquelle la chose transmise répond."
+  - "Anselin et Thalabard sont mobilisés comme comparants méthodologiques pour séparer exposition du modèle, objections et défense ; la définition révisée reste une proposition propre à cette thèse."
 tags:
   - interessant
   - flow
@@ -31,17 +36,29 @@ tags:
 ---
 ## Idée
 
-Un objet ne peut rester intéressant qu'en déclenchant un travail chez le sujet. Ce
-travail peut consister à comparer, anticiper, discriminer, former une catégorie, réviser
-une croyance ou construire un modèle partiel de ce qui est perçu. L'intéressant n'est
-donc pas seulement une stimulation reçue : il inaugure une relation dans laquelle le
-sujet acquiert de nouvelles prises et se transforme.
+Un objet ne reste intéressant que s'il ouvre et soutient une activité orientée vers une
+prise nouvelle. Cette activité peut consister à comparer, anticiper, discriminer, former
+une catégorie, réviser une croyance ou construire un modèle partiel de ce qui est perçu.
+L'intéressant n'est donc pas seulement une stimulation reçue : il inaugure une relation
+dans laquelle une transformation devient crédible pour le sujet.
 
-Cette proposition fournit un candidat pour le cœur de la thèse : **l'intéressant est ce
-qui déclenche et soutient une construction par laquelle un sujet acquiert une prise
-nouvelle sur un objet**. La construction est le terme médiateur entre l'attention
-initiale et la compréhension. Elle explique ce que l'intéressant fait, plutôt que de le
-définir seulement par sa position entre ennui et anxiété.
+Cette proposition fournit un candidat révisé pour le cœur de la thèse : **est
+intéressant ce qui, pour un sujet situé et relativement à un horizon donné, ouvre et
+soutient une activité dont une prise nouvelle sur un objet, un problème ou un espace de
+possibilités constitue une issue crédible**. La construction est le terme médiateur
+entre l'attention initiale et la compréhension. Elle explique ce que l'intéressant met
+en mouvement, sans définir rétrospectivement l'intérêt par la réussite de cette activité.
+
+Quatre états doivent alors être distingués :
+
+- **intérêt** : une prise nouvelle constitue une issue crédible de l'activité ;
+- **intérêt fécond** : une prise nouvelle est effectivement acquise ;
+- **fascination promissive** : la crédibilité est entretenue sans prise contrôlable ;
+- **épuisement** : aucune prise nouvelle ne paraît encore crédible dans cet horizon.
+
+Cette séparation empêche de conclure qu'une fascination n'a jamais été intéressante
+parce qu'elle s'est révélée vide. La réussite évalue le produit de l'intérêt ; elle ne
+décide pas à elle seule si la relation a existé.
 
 L'hypothèse de l'énigme précise ce déclenchement sans remplacer encore cette
 définition. Avant de pouvoir formuler un problème, le sujet peut rencontrer une
@@ -113,18 +130,26 @@ relation peut capturer momentanément l'attention par la seule variation des sti
 mais elle ne peut soutenir l'intéressant sans renouvellement externe continu.
 
 La construction ne doit pas non plus devenir le nom flatteur de toute interprétation.
-Elle doit produire au moins une prise contrôlable : une distinction reproductible, une
-prédiction, une comparaison, une possibilité d'intervention, un transfert ou un objet
-construit dont les réussites et les échecs peuvent être examinés. Ce critère distingue
-la construction d'une simple impression de profondeur.
+L'intérêt fécond doit produire au moins une prise contrôlable. Celle-ci est attestée
+lorsque le sujet devient nouvellement capable de :
+
+1. discriminer deux cas ;
+2. anticiper une suite ou un comportement ;
+3. produire une variation contrefactuelle contrôlée ;
+4. transférer une organisation vers un autre cas ;
+5. intervenir ou construire un artefact dont l'échec est informatif ;
+6. reconstruire le problème ou les contraintes auxquels la forme répond.
+
+Ces opérations distinguent la construction d'une simple impression de profondeur sans
+supposer que toute expérience intéressante doive immédiatement livrer un résultat.
 
 ## Intérêt pour la thèse
 
 Cette définition relie phénoménologie de l'attention, apprentissage, formation des
-concepts et pratique de l'ingénieur. Elle suggère également une méthode : mesurer
-l'intéressant non seulement par la durée d'exposition, mais par les distinctions,
-prédictions, stratégies, modèles ou artefacts que le sujet devient capable de produire
-au cours de la relation.
+concepts et pratique de l'ingénieur. Elle suggère également une méthode : décrire
+d'abord la crédibilité prospective de la prise, puis évaluer séparément les distinctions,
+prédictions, variations, transferts, interventions ou reconstructions que le sujet
+devient effectivement capable de produire.
 
 ## Liens
 

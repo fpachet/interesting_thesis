@@ -793,7 +793,8 @@ Ce document rassemble les {len(cards)} propositions actuellement extraites du co
     bibliography = rf"""
 \clearpage
 \nocite{{{','.join(reference_keys)}}}
-\printbibliography[title={{Bibliographie des cartes}}]
+\printbibliography[keyword={{francois-pachet}},title={{Travaux de François Pachet}}]
+\printbibliography[notkeyword={{francois-pachet}},title={{Autres références des cartes}}]
 
 \end{{document}}
 """

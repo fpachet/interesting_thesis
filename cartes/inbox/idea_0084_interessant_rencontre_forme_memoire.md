@@ -4,6 +4,7 @@ title: "L'intéressant est la rencontre entre une forme organisée et une mémoi
 kind: definition
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "input/projet thèse philo.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"

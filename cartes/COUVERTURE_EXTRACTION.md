@@ -447,6 +447,14 @@ substrat (`idea_0114`), puis biais productif de la surattention (`idea_0115`).
 L'écoute superposée, l'interdifference, le noodling, l'histoire du goût et le
 rapport éclat-structure ont renforcé des cartes existantes.
 
+## Article sur le skipping
+
+`input/Montecchio_Roy_Pachet_2020_skipping_behavior.pdf` a été relu intégralement le
+7 août 2026. Les résultats sur les Skip Profiles et la structure musicale renforcent
+`idea_0011`. Leur reprise comme moment de la trajectoire scientifique personnelle et
+comme matériau pour « comprendre ce que je fais » est isolée dans `idea_0145`. Le lien
+avec l'ennui reste une hypothèse à tester, non une conclusion de l'article.
+
 ## Conclusion
 
 La couverture propositionnelle est maintenant établie pour les 32 rangs de

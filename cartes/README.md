@@ -37,14 +37,17 @@ résultat scientifique. Une carte d'articulation doit signaler ce qui vient
 directement des sources et ce qui relève de la reconstruction proposée par la
 thèse. L'index `indexes/by_level.md` permet de parcourir ces trois ensembles.
 
-## Trois vues complémentaires
+## Quatre vues complémentaires
 
 L'organisation actuelle ne repose pas sur une taxonomie unique :
 
 - `indexes/by_theme.md` rassemble les cartes par objet ou vocabulaire ;
 - `indexes/by_level.md` distingue leur statut épistémique ;
-- `indexes/by_argument.md` affecte chacune des 141 cartes à une famille
+- `indexes/by_argument.md` affecte chacune des 142 cartes à une famille
   argumentative principale, de manière exhaustive et réversible.
+- `indexes/by_architecture.md` distingue leur rôle dans la démonstration
+  (`CORE`, `DERIVED`, `TEST`, `CASE`, `OBJECTION`, `SPECULATIVE`). Cette vue
+  commence volontairement par le noyau de quinze cartes avant de classer le reste.
 
 Le document `ORGANISATION.md` présente les pivots, les recouvrements et les
 questions ouvertes. Le registre `relations.tsv` conserve un graphe plus restreint
@@ -53,7 +56,7 @@ complète les liens associatifs inscrits dans chaque carte sans les remplacer.
 
 ## Catalogue partageable
 
-`catalogue-idees.tex` rassemble le texte des 141 cartes dans l'ordre de
+`catalogue-idees.tex` rassemble le texte des 142 cartes dans l'ordre de
 `indexes/by_argument.md`, avec leurs statuts, provenances et références. Il est
 régénéré depuis les cartes, puis compile en PDF avec :
 
@@ -99,6 +102,7 @@ title: "Titre court"
 kind: argument
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "chemin/document.pdf"
 references:
@@ -114,6 +118,12 @@ Le champ `level` est obligatoire et prend l'une des valeurs `conceptual`,
 `scientific` ou `articulation`. `kind` indique la forme logique de la carte ;
 `level` indique sa place dans le rapport entre activité scientifique et enquête
 philosophique.
+
+Le champ optionnel `architecture` indique le rôle actuel de la carte dans la
+démonstration. Les valeurs admises sont `core`, `derived`, `test`, `case`,
+`objection` et `speculative`. Il reste optionnel pendant la campagne de classement :
+son absence signifie « à classer », et non « dérivé » par défaut. L'index
+`indexes/by_architecture.md` documente les critères et la première sélection.
 
 Le champ `sources` est obligatoire des qu'une provenance documentaire est connue.
 Il contient le chemin exact du ou des documents qui soutiennent la proposition.

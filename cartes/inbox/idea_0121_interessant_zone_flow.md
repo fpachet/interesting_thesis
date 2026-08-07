@@ -1,6 +1,6 @@
 ---
 id: idea_0121
-title: "L'intéressant peut être défini comme la zone de flow entre ennui et anxiété"
+title: "Le flow décrit un régime de maintien de l'intérêt, non sa définition"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -18,25 +18,24 @@ tags:
 ---
 ## Idée
 
-Pour un sujet donné à un moment donné, l'intéressant peut être défini comme la zone où
-la difficulté d'une tâche sollicite ses compétences sans être ni trop faible ni trop
-forte. À compétences fixes, une difficulté croissante produit la succession **ennui →
-intéressant/flow → anxiété**. L'intéressant n'est donc pas seulement ce qui s'oppose à
-l'ennuyeux : il occupe une région intermédiaire entre sous-sollicitation et perte de
-prise.
+Pour un sujet donné à un moment donné, la zone de flow décrit un régime où la difficulté
+d'une tâche sollicite ses compétences sans être ni trop faible ni trop forte. À
+compétences fixes, une difficulté croissante peut produire la succession **ennui →
+engagement praticable → anxiété**. Ce modèle explique certaines conditions de maintien
+de l'intérêt ; il n'en fournit pas une définition générale.
 
-Cette définition est relationnelle. Une même tâche peut être ennuyeuse pour un expert,
+Ce modèle est relationnel. Une même tâche peut être ennuyeuse pour un expert,
 intéressante pour un sujet suffisamment préparé et anxiogène ou opaque pour un novice.
 Elle est aussi dynamique : pour une tâche fixe, l'apprentissage fait parcourir le
 diagramme en sens inverse, **anxiété → intéressant/flow → ennui**. L'intérêt apparaît,
 se maintient et s'épuise avec le déplacement du rapport entre compétences et exigences.
 
 Il faut distinguer la **zone de flow**, qui fournit cette structure, de l'**état de
-flow**, expérience d'absorption intense décrite par Csíkszentmihályi. L'hypothèse
-identifie l'intéressant à la première ; elle ne suppose pas que tout objet intéressant
-produit continuellement le second. Surprise, hésitation et rupture peuvent appartenir à
-la zone intéressante précisément parce que le sujet conserve une prise sur une
-difficulté qui le sollicite.
+flow**, expérience d'absorption intense décrite par Csíkszentmihályi. Ni l'une ni l'autre
+n'épuise l'intéressant. Une énigme irritante, une œuvre qui résiste ou une pensée qui
+inquiète peuvent soutenir une promesse de prise tout en rompant la fluidité. Le flow est
+donc un régime partiel à confronter aux cas de rupture, de fascination et de
+contemplation.
 
 La zone n'est cependant pas homogène. Les travaux sur la curiosité artificielle
 suggèrent que l'attention se porte plus précisément vers les situations où le progrès
@@ -53,9 +52,10 @@ une construction est effectivement en train d'aboutir.
 
 ## Intérêt pour la thèse
 
-Cette hypothèse donne à l'intéressant une définition positive, relationnelle et
-opérationnalisable. Elle unifie ennui, apprentissage, difficulté et attention dans un
-même espace de variation, tout en fournissant des conditions d'échec observables.
+Cette hypothèse fournit un modèle positif, relationnel et opérationnalisable d'un régime
+de maintien. Elle articule ennui, apprentissage, difficulté et attention dans un même
+espace de variation, tout en laissant à `idea_0123` la définition générale de
+l'intéressant.
 
 ## Liens
 

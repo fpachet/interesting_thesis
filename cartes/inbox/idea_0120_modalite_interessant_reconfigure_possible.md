@@ -4,6 +4,7 @@ title: "L'intéressant est une modalité dynamique qui reconfigure le possible"
 kind: hypothesis
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "projet-these/BUT_DE_LA_THESE.md"
   - "input/projet thèse philo.pdf"

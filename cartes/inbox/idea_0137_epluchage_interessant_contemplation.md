@@ -4,6 +4,7 @@ title: "Après le déclenchement, la vie de l'intéressant est un épluchage con
 kind: hypothesis
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/notes/epluchage-interessant-contemplation.md"
   - "input/De l'impossibilité de créer.pdf"
@@ -94,24 +95,25 @@ créatif accompli alors que l'intérêt demeure vivant. Un objet peut rester int
 après la clôture d'une enquête ou d'une œuvre ; cette réserve explique qu'il puisse être
 repris plus tard depuis un autre horizon.
 
-## Opposition à la contemplation
+## La contemplation comme objection et cas limite
 
-La formulation de départ, conservée verbatim dans la note source, pose une opposition
-forte : puisque l'intéressant conduit à une construction, il ne relève pas de la
-contemplation ; celle-ci interdit ou repousse la construction.
+La formulation de départ, conservée verbatim dans la note source, posait une opposition
+forte : puisque l'intéressant conduit à une construction, il ne relèverait pas de la
+contemplation. Cette opposition est trop coûteuse pour devenir une thèse centrale. Une
+contemplation esthétique ou phénoménologique peut transformer la perception sans viser
+une action extérieure ni un résultat déterminé.
 
-La distinction ne passe pas entre activité corporelle et immobilité. Écouter, regarder
-ou lire peuvent engager un épluchage perceptif et conceptuel intense. La contemplation
-désigne ici une relation qui suspend les opérations transformatrices afin de maintenir
-l'objet à distance ou de le laisser intact. Elle diffère donc de l'intéressant non par
-la quantité d'attention, mais par le destin de cette attention : conservation d'un côté,
-construction de l'autre.
+La distinction utile ne passe donc pas entre contemplation et construction en général,
+encore moins entre immobilité et activité corporelle. Écouter, regarder ou lire peuvent
+engager un épluchage perceptif et conceptuel intense. Il faut plutôt distinguer une
+attention qui maintient provisoirement l'objet à distance et une attention qui produit
+déjà une discrimination, une variation, un transfert ou une autre capacité nouvelle.
 
-Dire que la contemplation « interdit » ou « repousse » la construction ne signifie pas
-qu'un même sujet ne puisse passer de l'une à l'autre. Cela signifie que les deux régimes
-ne peuvent être actualisés sous le même rapport au même moment. Dès que la contemplation
-produit une distinction réutilisable, une variation ou une prise nouvelle, elle a déjà
-basculé, selon cette définition, dans la construction.
+La contemplation devient ainsi un test de sous-extension pour la théorie. Si une
+expérience contemplative transforme la prise du sujet, la conception constructive doit
+pouvoir l'inclure. Si elle soutient une attention sans que rien de tel soit attestable,
+elle oblige à demander si toute expérience intéressante promet réellement une prise ou
+si la définition doit admettre un autre régime.
 
 ## Conséquence méthodologique
 
@@ -122,16 +124,17 @@ distinctions acquises, hypothèses écartées, variations tentées, résistances
 reformulations et raisons de l'arrêt.
 
 Cette proposition suggère une mesure processuelle : non pas « combien de temps le sujet
-regarde-t-il ? », mais « quelles couches devient-il capable de distinguer, et chaque
-prise ferme-t-elle ou relance-t-elle la construction ? »
+regarde-t-il ? », mais « que devient-il capable de distinguer, d'anticiper ou de varier,
+et chaque prise ferme-t-elle ou relance-t-elle la construction ? »
 
 ## Intérêt pour la thèse
 
 Cette carte déplie la temporalité interne laissée compacte dans la notion de
 déclencheur. Elle fait de l'intéressant une conduite orientée qui peut épuiser son objet,
 épuiser son sujet, échouer sur une résistance, se régénérer grâce à elle ou recevoir une
-fin construite avant tout épuisement. Elle fournit aussi un contraste testable avec la
-contemplation : l'une préserve ou diffère, l'autre transforme et produit des prises.
+fin construite avant tout épuisement. La contemplation n'est plus exclue par
+définition : elle devient un cas limite capable de révéler une sous-extension de la
+théorie.
 
 ## Liens
 

@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 141 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 97 `conceptual`, 19 `scientific` et 25
+Les 142 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 97 `conceptual`, 19 `scientific` et 26
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -362,6 +362,15 @@ philosophie. La seconde transforme la difficulté en méthode propre à la thès
 des cas, en extraire une structure, puis retourner aux cas pour corriger le concept. La
 maxime « Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui
 lui donne naissance » n'est attribuée à aucun des trois auteurs.
+
+`idea_0145` a été ajoutée après relecture intégrale de l'article de Montecchio, Roy et
+Pachet sur les comportements de skipping. La carte conserve le résultat scientifique
+— spécificité des profils agrégés et corrélation avec les frontières musicales — mais
+son niveau principal est `articulation`. Elle constitue un cas réflexif de
+`idea_0110` : une recherche menée antérieurement à Spotify devient un matériau de la
+thèse sans être présentée rétrospectivement comme une théorie déjà constituée de
+l'intéressant. La carte interdit explicitement d'identifier un skip individuel à
+l'ennui ou à la perte d'intérêt.
 
 ## Identifiants retires
 

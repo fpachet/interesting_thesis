@@ -20,7 +20,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
-- `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
+- `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
 ## 2. Définition et émergence de l'intéressant (22)
@@ -29,7 +29,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 - `idea_0083` - Naissance d'une idée, compréhension et fascination sont trois faces de l'émergence d'une forme.
 - `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
-- `idea_0121` - L'intéressant peut être défini comme la zone de flow entre ennui et anxiété.
+- `idea_0121` - Le flow décrit un régime de maintien de l'intérêt, non sa définition.
 
 ### Mécanismes et précisions
 
@@ -63,7 +63,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0004` - L'ennui est le prix de l'excitation parce que le plaisir vient d'une variation.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
-- `idea_0123` - L'intéressant est un déclencheur de constructions qui donnent prise sur l'objet.
+- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 
@@ -159,7 +159,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 
-## 6. IA, interaction et méthode réflexive (13)
+## 6. IA, interaction et méthode réflexive (14)
 
 ### Pivots
 
@@ -177,6 +177,10 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0094` - On ne peut comprendre l'intéressant sans étudier ensemble la perception et la création.
 - `idea_0102` - Un contrôle devient significatif lorsqu'il préserve des invariants sémantiques.
 - `idea_0104` - Une interaction intéressante maintient à la fois l'autonomie et l'ajustement mutuel.
+
+### Cas réflexif
+
+- `idea_0145` - Le skipping relie une recherche passée à l'enquête philosophique sur l'intéressant.
 
 ### Cadre philosophique et limite épistémologique
 
@@ -230,6 +234,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 10, 22, 27, 30, 10, 13, 11 et 18
-cartes, soit les 141 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 10, 22, 27, 30, 10, 14, 11 et 18
+cartes, soit les 142 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

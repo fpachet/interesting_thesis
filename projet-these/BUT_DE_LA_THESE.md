@@ -32,16 +32,18 @@ structure possible qui ne constitue pas encore un plan arrêté :
 1. **Constituer l'angle mort.** Établir comment une formulation explicite chez Garve a
    pu rester faiblement canonisée, puis comment l'intéressant échappe aux découpages
    philosophiques et scientifiques disponibles, en prenant notamment au sérieux
-   l'hostilité structurelle de la formalisation à son égard.
-2. **Construire le concept.** Proposer une définition relationnelle, dégager des
-   propriétés et des distinctions, puis examiner les modèles qui peuvent en saisir
-   certains aspects sans le dissoudre.
-3. **Mettre le concept au travail.** L'éprouver dans la musique, l'intelligence
-   artificielle, les pratiques de création et les textes philosophiques, afin de montrer
-   les distinctions qu'il rend possibles et ce qu'il apporte aux problèmes considérés.
+   le risque structurel qu'une formalisation substitue son indicateur à la cible.
+2. **Construire et défendre le concept.** Fixer des desiderata, comparer les rivaux,
+   proposer une définition relationnelle, spécifier la prise, puis traiter les objections
+   avant d'en dégager les propriétés et les modèles partiels.
+3. **Mettre le concept au travail.** L'éprouver dans deux laboratoires principaux, la
+   musique et l'intelligence artificielle/création, puis dans des cas différentiels plus
+   courts, afin de montrer les distinctions qu'il rend possibles et ce qu'il apporte aux
+   problèmes considérés.
 
-Le troisième mouvement ne doit pas juxtaposer des exemples décoratifs. Chaque terrain
-doit contraindre le concept, révéler une limite ou produire une distinction éclairante.
+Le troisième mouvement ne doit pas juxtaposer des exemples décoratifs ni rendre cinq
+domaines artificiellement symétriques. Chaque terrain doit contraindre le concept,
+révéler une limite ou produire une distinction éclairante.
 Les textes philosophiques ne constituent donc pas un habillage disciplinaire, mais des
 interlocuteurs capables de reformuler ou d'objecter au modèle proposé.
 
@@ -83,7 +85,7 @@ la recherche porte sur la circulation ou la stabilisation sociale de l'intérêt
 l'expérience individuelle, il agit déjà à l'intérieur des deux pôles en formant les
 attentes du sujet et le répertoire des formes disponibles.
 
-## Hypothèse centrale : l'intéressant comme déclencheur de construction
+## Hypothèse centrale : l'intéressant comme promesse crédible de prise
 
 Cette hypothèse n'est plus présentée comme une découverte sans antécédent. Dans
 *Einige Gedanken über das Interessirende* (1779), Garve relie déjà l'intéressant à une
@@ -94,11 +96,19 @@ contribution propre de la thèse consiste à systématiser ce mécanisme, à dé
 prises qu'il produit et à en développer la temporalité, les extensions créatives, les
 limites et la récursivité.
 
-Le candidat actuel pour le cœur de la thèse est le suivant : **l'intéressant est ce qui
-déclenche et soutient une construction par laquelle un sujet acquiert une prise nouvelle
-sur un objet**. Le flow décrit les conditions dans lesquelles cette construction reste
-possible ; la construction décrit l'activité proprement dite ; la compréhension, le
-modèle ou l'artefact en sont des résultats possibles.
+Le candidat actuel pour le cœur de la thèse est le suivant : **est intéressant ce qui,
+pour un sujet situé et relativement à un horizon donné, ouvre et soutient une activité
+dont une prise nouvelle sur un objet, un problème ou un espace de possibilités constitue
+une issue crédible**. Le flow décrit certaines conditions dans lesquelles cette activité
+reste possible ; la construction décrit l'activité proprement dite ; la compréhension,
+le modèle ou l'artefact en sont des résultats possibles.
+
+La formulation sépare l'intérêt de sa réussite rétrospective. **L'intérêt** ouvre une
+issue crédible ; **l'intérêt fécond** produit effectivement une prise ; la **fascination
+promissive** entretient cette crédibilité sans livrer de prise contrôlable ;
+l'**épuisement** survient lorsqu'aucune prise nouvelle ne paraît encore crédible dans
+l'horizon présent. Cette distinction permet de reconnaître qu'une chose a réellement
+intéressé sans devoir valider après coup ce qu'elle promettait.
 
 Cette construction peut être perceptive et conceptuelle, lorsque le sujet discrimine des
 invariants et forme des catégories ; explicative, lorsqu'il agence des relations en
@@ -115,14 +125,16 @@ résistance sans prise, recevoir une clôture décidée ou être relancé par un
 productive. Sa vie rejoint ainsi le processus créatif : les décisions locales ne
 contiennent pas toujours leur propre critère d'arrêt, et la fin peut devoir être imposée
 à une construction encore féconde. Cette clôture rétroagit sur le parcours et le
-constitue comme un tout sans prétendre avoir épuisé l'objet. L'épluchage se distingue de
-la contemplation au sens fort : celle-ci suspend les opérations transformatrices pour
-maintenir l'objet intact ou à distance, et interdit ou repousse ainsi la construction.
+constitue comme un tout sans prétendre avoir épuisé l'objet. L'épluchage ne s'oppose pas
+par principe à la contemplation : une attention contemplative peut transformer la
+perception. Le contraste utile porte entre une attention qui maintient provisoirement
+l'objet à distance et une attention qui produit déjà des distinctions ou des variations.
 
 La construction ne vaut pas automatiquement comme preuve. Pour ne pas désigner toute
-interprétation arbitraire, elle doit produire une prise contrôlable : distinction,
-prédiction, transfert, intervention ou artefact dont les réussites et les échecs peuvent
-être examinés. Cette exigence relie le cœur conceptuel de la thèse à quarante ans de
+interprétation arbitraire, elle doit produire une prise contrôlable : discrimination,
+anticipation, variation contrefactuelle, transfert, intervention, artefact ou
+reconstruction d'un problème dont les réussites et les échecs peuvent être examinés.
+Cette exigence relie le cœur conceptuel de la thèse à quarante ans de
 pratique scientifique sans confondre un système construit avec une ontologie complète de
 l'intéressant.
 
@@ -253,19 +265,19 @@ l'intéressant peut être fausse ; une théorie ennuyeuse peut être exacte. La 
 décrit ce que l'enquête fait à son objet et à son sujet, non ce qui valide ses
 propositions.
 
-## L'hostilité de la formalisation à l'égard de l'intéressant
+## Le risque structurel de substitution de cible
 
-La science dispose d'une panoplie redoutable pour lutter contre l'objectif même de cette
-thèse. Définition opératoire, décomposition, contrôle des variables, répétabilité,
+La science dispose d'une panoplie puissante pour rendre l'objectif de cette thèse
+traitable. Définition opératoire, décomposition, contrôle des variables, répétabilité,
 normalisation, moyennes, benchmarks et optimisation permettent de produire des
 hypothèses testables et cumulatives. Mais ces instruments tendent aussi à remplacer
 silencieusement le problème initial par un substitut plus stable et plus commode.
 
-Il existe en ce sens une **hostilité structurelle de la formalisation à l'égard de
-l'intéressant**. Ce n'est pas une intention hostile des chercheurs ni un argument
-antiscientifique. C'est une difficulté propre à un phénomène relationnel, historique et
-transformateur : le rendre mesurable peut neutraliser la relation, l'histoire et la
-transformation qui le constituent.
+Il existe en ce sens un **risque structurel de substitution de cible**. Ce n'est pas
+une intention hostile des chercheurs ni un argument antiscientifique. C'est une
+difficulté propre à un phénomène relationnel, historique et transformateur : le rendre
+mesurable peut neutraliser la relation, l'histoire et la transformation qui le
+constituent lorsque l'indicateur est traité comme la définition complète du phénomène.
 
 Russell avertit contre une « mathématisation prématurée » où des résultats de plus en
 plus techniques s'éloignent du problème de l'intelligence. Dans son allocution pour le
@@ -294,6 +306,31 @@ Une formalisation réussie ne doit pas seulement rendre le problème soluble ; e
 montrer ce qu'elle a préservé de la question qui motivait sa construction. Une part du
 programme consiste ainsi à concevoir une formalisation réflexive qui conserve ses
 résidus au lieu de les déclarer extérieurs au problème.
+
+## Modalité de validation : une preuve différentielle et abductive
+
+La solidité du concept ne reposera ni sur une preuve mathématique unique ni sur une
+validation statistique ajoutée artificiellement. Elle prendra la forme d'une comparaison
+réglée : établir d'abord ce qu'une théorie de l'intéressant doit expliquer, soumettre les
+analyses concurrentes aux mêmes cas, attaquer la définition par ses meilleurs
+contre-exemples, puis montrer ce qu'elle distingue et prédit mieux que ses rivales.
+
+Le cahier des charges initial comprendra notamment : le désagréable mais intéressant ;
+le surprenant mais inintéressant ; l'ancien rendu intéressant par apprentissage ;
+l'intérêt qui s'épuise pour le même sujet ; l'opacité du novice, la fécondité de
+l'intermédiaire et la trivialité pour l'expert ; l'explication qui relance ou tue
+l'intérêt ; enfin la captivation qui entretient une promesse sans livrer de prise.
+
+Les mêmes cas seront confrontés au plaisir, à la préférence, à la surprise, à la
+nouveauté, à la curiosité, au flow, au progrès de compression, à la pertinence, à Garve
+et à la conception constructive révisée. La matrice obtenue ne sera probante que si
+chaque verdict est argumenté et si la théorie proposée peut échouer sur certains tests.
+
+Huit objections formeront un dossier autonome : sur-extension, sous-extension,
+circularité de la construction, échec de la prise promise, contemplation, réduction à
+la curiosité, écart entre captation causale et jugement normatif, irréfutabilité possible
+d'un horizon `H` capable d'absorber toute variation. Une réponse réussie pourra réviser
+la définition ; elle ne consistera pas à immuniser la théorie.
 
 ## Médiation symbolique : le langage déplace la frange du nouveau
 

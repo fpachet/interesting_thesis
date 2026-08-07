@@ -4,6 +4,7 @@ title: "Naturaliser l'intéressant, c'est expliquer une relation psychique sans 
 kind: distinction
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "projet-these/BUT_DE_LA_THESE.md"
 references:

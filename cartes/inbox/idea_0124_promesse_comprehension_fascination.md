@@ -4,6 +4,7 @@ title: "La promesse de compréhension peut fasciner sans produire de compréhens
 kind: hypothesis
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
 references:
@@ -31,11 +32,12 @@ réorganiser le monde, puis diffèrent continuellement sa livraison. Chaque prop
 familière semble préparer une révélation ; chaque difficulté ou obscurité peut être
 interprétée comme l'indice d'une profondeur encore inaccessible.
 
-Ce régime simule le travail constructif de l'intéressant. Le sujet ne construit pas
-nécessairement un modèle plus précis ; il maintient plutôt une croyance de second ordre
-: « je suis sur le point de comprendre ». La promesse suffit à relancer l'attention,
-même si les prédictions, distinctions et capacités d'action du sujet ne se transforment
-pas. La fascination peut ainsi survivre à l'absence répétée de gain cognitif.
+Ce régime peut réellement intéresser tout en échouant à devenir fécond. Le sujet ne
+construit pas nécessairement un modèle plus précis ; il maintient plutôt une croyance de
+second ordre : « je suis sur le point de comprendre ». La promesse suffit à relancer
+l'attention, même si les prédictions, distinctions et capacités d'action du sujet ne se
+transforment pas. La fascination peut ainsi survivre à l'absence répétée de gain
+cognitif.
 
 Dans la géométrie du flow, cette rhétorique maintient artificiellement le sujet près de
 la frontière de l'anxiété. Des banalités, anecdotes ou formules familières lui donnent
@@ -63,7 +65,7 @@ origines de l'univers peuvent soutenir l'attente d'intéressant tout au long d'u
 
 ## Critère de distinction
 
-Une fascination productive devrait laisser des traces : nouvelles distinctions,
+Une fascination devenue féconde devrait laisser des traces : nouvelles distinctions,
 prédictions, questions mieux formulées, transfert vers un autre cas où reconstruction
 d'un problème implicite. Une fascination seulement promissive relance l'attente sans
 produire ces transformations. Ce critère reste empirique : l'absence de compréhension
@@ -76,10 +78,9 @@ mécanismes qui lui en donnaient l'impression.
 
 ## Intérêt pour la thèse
 
-Cette hypothèse empêche d'identifier trop vite fascination, flow et construction
-cognitive. Elle fournit un cas limite pour tester la définition de l'intéressant : la
-promesse d'un gain peut-elle soutenir durablement l'attention lorsque le gain lui-même
-reste nul ou invérifiable ?
+Cette hypothèse empêche d'identifier trop vite intérêt, fécondité, flow et construction
+cognitive réussie. Elle fournit un cas discriminant pour la définition de `idea_0123` :
+la réalité prospective de l'intérêt ne garantit pas la livraison de la prise promise.
 
 ## Liens
 

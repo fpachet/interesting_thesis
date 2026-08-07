@@ -4,6 +4,7 @@ title: "La non-canonisation de l'intéressant vient de la dispersion de ses fonc
 kind: hypothesis
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/L_interessant_histoire_philosophique_et_programme_de_recherche.docx"
 references:

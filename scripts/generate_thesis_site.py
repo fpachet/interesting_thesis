@@ -730,7 +730,7 @@ def base_page(
 
 def thesis_statement() -> str:
     text = (ROOT / "projet-these" / "BUT_DE_LA_THESE.md").read_text(encoding="utf-8")
-    central = section(text, "Hypothèse centrale : l'intéressant comme déclencheur de construction")
+    central = section(text, "Hypothèse centrale : l'intéressant comme promesse crédible de prise")
     match = re.search(r"\*\*([^*]+)\*\*", central, re.DOTALL)
     if not match:
         raise ValueError("Impossible d'extraire la thèse centrale")
@@ -902,10 +902,10 @@ def home_page(
 def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
     roles = [
         ("Cadre relationnel", "idea_0084", "Une forme, un sujet, une mémoire et un horizon historique."),
-        ("Condition", "idea_0121", "Une zone de difficulté où une construction demeure possible."),
-        ("Mécanisme", "idea_0123", "Un travail perceptif, explicatif ou opératoire qui donne prise."),
+        ("Régime partiel", "idea_0121", "Le flow décrit certaines conditions de maintien, non la définition générale."),
+        ("Mécanisme", "idea_0123", "Une activité orientée vers une prise perceptive, explicative ou opératoire crédible."),
         ("Médiation symbolique", "idea_0127", "Le langage compacte l'acquis et déplace la frange du presque-apprenable."),
-        ("Garde-fou méthodologique", "idea_0128", "La panoplie scientifique peut éliminer la dimension qu'elle cherche à expliquer."),
+        ("Garde-fou méthodologique", "idea_0128", "Un indicateur peut se substituer à la cible qu'il devait rendre testable."),
         ("Réflexivité", "idea_0126", "Comprendre ses affects en reconstruisant le système de leurs causes."),
         ("Dynamique", "idea_0122", "Une relation métastable qui dérive vers l'ennui ou l'anxiété."),
         ("Mesure candidate", "idea_0071", "Le progrès local plutôt que la surprise ou l'erreur brute."),
@@ -925,13 +925,13 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ),
         (
             "02",
-            "Construire le concept",
-            "Définir la relation, dégager ses propriétés et comparer plusieurs modèles partiels.",
+            "Construire et défendre le concept",
+            "Fixer les desiderata, comparer les rivaux, préciser la prise et traiter les objections.",
         ),
         (
             "03",
             "Mettre le concept au travail",
-            "Éprouver son pouvoir de distinction dans la musique, l'IA, la création et les textes philosophiques.",
+            "L'éprouver dans deux laboratoires principaux puis dans des cas différentiels ciblés.",
         ),
     ]
     plan_html = "".join(
@@ -950,10 +950,10 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
     <aside class="thesis-index"><p>Sur cette page</p><a href="#objet">Objet</a><a href="#hypothese">Hypothèse centrale</a><a href="#plan">Plan provisoire</a><a href="#architecture">Architecture argumentative</a><a href="#methode">Mise à l'épreuve</a></aside>
     <article class="prose prose--large">
       <section id="objet"><p class="eyebrow">Objet</p><h2>Constituer l'intéressant comme objet philosophique.</h2><p>Le projet ne traite pas l'intéressant comme un synonyme vague de préférence, de nouveauté ou de beauté. Il cherche à décrire un type de relation entre une forme et un sujet doté d'une mémoire, d'attentes et de capacités acquises.</p><div class="question-callout"><span>Question directrice</span><strong>{html.escape(question)}</strong></div></section>
-      <section id="hypothese"><p class="eyebrow">Hypothèse centrale actuelle</p><blockquote>{html.escape(statement)}</blockquote><p>Le terme décisif est <em>construction</em>. L'objet intéressant ne se contente pas de capter l'attention : il engage un travail qui modifie les distinctions, les anticipations ou les capacités du sujet.</p><p>Cette hypothèse reste un candidat. Sa force dépendra de sa capacité à distinguer une construction réelle d'une simple impression de profondeur et à résister aux cas limites.</p></section>
+      <section id="hypothese"><p class="eyebrow">Hypothèse centrale actuelle</p><blockquote>{html.escape(statement)}</blockquote><p>Le terme décisif est <em>prise crédible</em>. L'objet intéressant ne se contente pas de capter l'attention : il ouvre une activité susceptible de modifier les distinctions, les anticipations ou les capacités du sujet.</p><p>Cette hypothèse reste un candidat. Sa force dépendra de sa capacité à distinguer intérêt, intérêt fécond et fascination promissive, puis à résister aux cas limites.</p></section>
       <section id="plan"><p class="eyebrow">Note d'architecture</p><h2>Trois mouvements provisoires.</h2><p>À la suite d'une discussion avec Olivia Chevallier, co-directrice de la thèse, une composition en trois mouvements sert désormais d'hypothèse de travail. Elle ne constitue pas encore un plan arrêté.</p><div class="method-list">{plan_html}</div><p>Les textes philosophiques ne doivent pas être un habillage disciplinaire : ils doivent contraindre le concept, fournir des objections et montrer ce qu'il reformule réellement.</p></section>
       <section id="architecture"><p class="eyebrow">Architecture argumentative</p><h2>Le dossier de propositions.</h2><p>Cette organisation logique reste distincte du plan de rédaction : elle indique les fonctions que les propositions devront remplir, quel que soit leur futur ordre de chapitre.</p><div class="argument-grid">{roles_html}</div></section>
-      <section id="methode"><p class="eyebrow">Mise à l'épreuve</p><h2>Construire sans naturaliser.</h2><p>La musique, les pratiques de création et les systèmes d'intelligence artificielle servent de terrains de variation. Ils rendent certaines hypothèses observables ou manipulables, sans transformer automatiquement un résultat scientifique en preuve ontologique.</p><div class="method-list"><div><strong>Musique</strong><span>Attente, mémoire et micro-transformations de l'attention.</span></div><div><strong>Intelligence artificielle</strong><span>Systèmes construits comme instruments philosophiques réflexifs.</span></div><div><strong>Création</strong><span>Contraintes, problèmes implicites et nécessité rétrospective.</span></div></div></section>
+      <section id="methode"><p class="eyebrow">Mise à l'épreuve</p><h2>Défendre puis instancier.</h2><p>La preuve recherchée est différentielle : desiderata indépendants, rivaux soumis aux mêmes cas, objections explicites et révisions possibles. La musique et l'intelligence artificielle/création servent ensuite de laboratoires principaux, sans transformer automatiquement un résultat scientifique en preuve ontologique.</p><div class="method-list"><div><strong>Musique</strong><span>Attente, mémoire et micro-transformations de l'attention.</span></div><div><strong>IA et création</strong><span>Construction d'artefacts, génération/jugement et substitution de cible.</span></div><div><strong>Cas différentiels</strong><span>Énigme, contemplation, littérature et pseudo-profondeur.</span></div></div></section>
     </article>
   </div>
 </section>

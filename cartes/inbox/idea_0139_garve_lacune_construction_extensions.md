@@ -4,6 +4,7 @@ title: "Garve : une idée devient intéressante quand elle répond à une diffic
 kind: argument
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/lectures/passages-interessant-etat-art.md"
   - "docs/lectures/interessant-etat-art.md"

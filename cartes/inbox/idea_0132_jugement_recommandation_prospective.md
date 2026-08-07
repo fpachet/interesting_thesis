@@ -4,6 +4,7 @@ title: "Le jugement d'intéressant est une recommandation prospective de second 
 kind: argument
 level: conceptual
 status: inbox
+architecture: core
 sources:
   - "docs/L_interessant_histoire_philosophique_et_programme_de_recherche.docx"
 references:
@@ -40,6 +41,12 @@ beau évaluent des objets déjà présentés au jugement ; l'intéressant contri
 sélectionner les objets, questions ou formes qui méritent d'entrer dans un examen
 plus coûteux. Cette fonction n'établit pas que l'objet sera finalement vrai, bon,
 beau ou même fécond. Elle justifie provisoirement l'allocation d'attention.
+
+Cette fonction évaluative ne doit pas être confondue avec l'effet causal de l'objet.
+« Cela m'intéresse » peut rapporter une mobilisation effective ; « c'est intéressant »
+peut en outre avancer que la poursuite est justifiée, pour moi ou pour autrui. Les deux
+dimensions se recouvrent souvent, mais peuvent diverger : une captation peut être creuse,
+et une enquête jugée digne d'être poursuivie peut rester pénible et peu mobilisatrice.
 
 ## Distinctions
 

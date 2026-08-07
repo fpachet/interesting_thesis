@@ -28,6 +28,25 @@ Les documents personnels, grants, notes, courriels et archives restent inventori
 dans `cartes/REGISTRE_TRAITEMENT.md`. Ils ne deviennent des entrées bibliographiques
 que s'ils doivent être cités dans le manuscrit.
 
+## Travaux de François Pachet
+
+Les publications dont François Pachet est auteur ou coauteur portent le mot-clé
+BibLaTeX `francois-pachet`. Le projet de thèse et le catalogue des cartes utilisent ce
+marquage pour produire une section bibliographique distincte, sans dupliquer les
+références dans la bibliographie générale.
+
+La section comprend actuellement :
+
+- `pachet1997representation` ;
+- `pachet2006clefs`, `pachet2008machines` et `pachet2012virtuosity` ;
+- `pachet2018oreille` et `montecchio2020skipping` ;
+- `pachet2021assisted` ;
+- `pachet2026biases`, `pachet2026impossibilite` et `pachet2026markov` ;
+- `pachet2027virtuosite`.
+
+Toute nouvelle publication personnelle citée doit recevoir ce mot-clé. Les œuvres de
+Pierre Pachet restent classées avec les autres références.
+
 ## Projet de thèse V2
 
 La réécriture bilingue du projet de thèse utilise directement ce fichier avec
@@ -55,6 +74,8 @@ son rendu bibliographique reste reproductible.
 | `russell1995awardlecture` | transcription dans `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | allocution pour le Computers and Thought Award à IJCAI-95 ; source intellectuelle de la formulation orale sur les parties intéressantes définies hors du problème |
 | `pachet1997representation` | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | mémoire d'HDR ; conserve la formulation orale longue de Russell sur les parties intéressantes définies hors du problème, PDF p. 10 |
 | `bachimont1996hermeneutique` | `docs/Bachimont.pdf` | thèse d'épistémologie ; lecture ciblée des PDF p. 322-323 sur la reconstruction de la question, la fusion des horizons et l'innovation interprétative |
+| `anselin2021attention` | `input/theses-comparaison/anselin-2021-accorder-son-attention.pdf` | thèse de philosophie ; lecture ciblée de l'introduction, des chapitres 1-3, des objections et de la conclusion comme étalon d'architecture argumentative |
+| `thalabard2012attention` | `input/theses-comparaison/thalabard-2012-attention-et-conscience.pdf` | thèse de philosophie ; lecture ciblée de l'introduction, de la défense de la thèse dépendantiste et de la conclusion comme étalon de falsifiabilité et de réponse aux contre-exemples |
 | `stace1944interestingness` | notice Cambridge Core | article directement consacré à l'intéressant ; métadonnées vérifiées, lecture directe à faire |
 | `kolnai1964concept` | notice Oxford Academic | article directement consacré au concept ; métadonnées vérifiées, lecture directe à faire |
 | `ngai2008merely` | numéro de *Critical Inquiry* et DOI | article sur l'intéressant comme catégorie esthétique mineure ; métadonnées vérifiées, lecture directe à faire |
@@ -74,6 +95,7 @@ son rendu bibliographique reste reproductible.
 | `berger1999expectations` | `input/old_docs/interestingness/.../Dan Gang/Expectationfinal-paper.pdf` | manuscrit, support éditorial à compléter |
 | `kelly2002music` | `input/old_docs/interestingness/.../WhereMusicWillBeComingFromNYTArticle.txt` | article de presse |
 | `pachet2026biases` | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | manuscrit non publié |
+| `montecchio2020skipping` | `input/Montecchio_Roy_Pachet_2020_skipping_behavior.pdf` | article PLOS ONE relu intégralement ; résultat scientifique et cas réflexif reliant les recherches menées à Spotify à l'enquête philosophique sur l'intéressant |
 | `meyer1956emotion` | pas encore dans le corpus | référence fondatrice sur attente, apprentissage et affect musical ; lecture directe à faire |
 | `narmour1990basic` | pas encore dans le corpus | premier volume du modèle implication-réalisation ; lecture directe à faire |
 | `narmour1992complexity` | pas encore dans le corpus | extension du modèle implication-réalisation aux structures complexes ; lecture directe à faire |
