@@ -48,6 +48,12 @@ seule esthétique vers une fonction générale de mobilisation du psychisme, mis
 en relation avec Maslow, l'ennui et l'avertissement de Russell contre la
 formalisation prématurée.
 
+La V6 examine Pierre Pachet comme indice possible d'une survie de la philosophie
+du particulier dans l'essai, sans postuler de filiation avec Garve. Elle formule
+la méthode de la thèse comme boucle entre fidélité au phénomène et extraction de
+structure, sous la maxime : « Conceptualiser l'intéressant sans désintéresser le
+concept de l'expérience qui lui donne naissance. »
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.

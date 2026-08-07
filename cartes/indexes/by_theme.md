@@ -16,6 +16,8 @@
 - `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
 - `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
+- `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
+- `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
 ## Définition de l'intéressant
 
@@ -63,6 +65,8 @@
 - `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
 - `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
+- `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
+- `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
 ## Ennui, surprise, rareté
 
@@ -183,6 +187,9 @@
 - `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
 
 ## Méthode et réflexivité de la thèse
+
+- `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
+- `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 
 - `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.

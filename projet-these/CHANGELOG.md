@@ -4,6 +4,29 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 6 - 7 août 2026
+
+Intégration de Pierre Pachet dans l'histoire métaphilosophique de l'intéressant et
+explicitation de la méthode qui articule expérience singulière et concept.
+
+- rapprochement prudent entre la *Popularphilosophie* de Garve et l'attention de
+  Pierre Pachet au particulier, sans affirmer de filiation historique ;
+- hypothèse d'une survie déplacée de la philosophie du particulier dans l'essai
+  après son déclassement dans le canon philosophique ;
+- caractérisation des « aguets » comme disponibilité du sujet à ce qui peut
+  devenir une prise pour la pensée ;
+- distribution de trois fonctions méthodologiques : Pachet protège le phénomène,
+  Garve montre la possibilité de généraliser depuis l'expérience, et l'exigence
+  kantienne interdit de s'arrêter à l'impression privée ;
+- adoption de la maxime « Conceptualiser l'intéressant sans désintéresser le
+  concept de l'expérience qui lui donne naissance » ;
+- formalisation d'une boucle entre fidélité au phénomène, extraction de structure
+  et retour correctif aux cas ;
+- ajout des références à l'entretien Salgas--Pachet, à *Aux aguets* et à l'étude
+  de Martin Rueff ;
+- synchronisation des textes français et anglais, des cartes, du graphe et du
+  site.
+
 ## Version 5 - 7 août 2026
 
 Explication pluricausale de l'échec historique du programme garvien et

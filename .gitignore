@@ -15,6 +15,7 @@ output/graph/
 
 tmp/
 site/dist/
+cartes/build/
 
 memory/state.json
 !memory/.gitkeep

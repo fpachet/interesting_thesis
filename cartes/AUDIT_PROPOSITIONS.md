@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 139 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 91 `conceptual`, 19 `scientific` et 25
+Les 141 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 97 `conceptual`, 19 `scientific` et 25
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -352,6 +352,16 @@ systématisation de ce cycle : énigme, prises contrôlables, résistance, réso
 épuisement ou relance. La difficultuosité y est présentée comme une transposition à
 tester ; la chalépodoxie, comme une simulation sociale possible de la difficulté sans
 construction réelle.
+
+`idea_0143` et `idea_0144` ont été ajoutées à partir d'une discussion sur Garve,
+Kant et Pierre Pachet, puis contrôlées sur l'entretien de Pachet avec Jean-Pierre
+Salgas et sur l'étude de Martin Rueff. La première carte ne postule aucune influence :
+elle formule comme hypothèse à tester que la philosophie du particulier, déclassée avec
+la *Popularphilosophie*, a pu survivre dans l'essai sans revendiquer le nom de
+philosophie. La seconde transforme la difficulté en méthode propre à la thèse : partir
+des cas, en extraire une structure, puis retourner aux cas pour corriger le concept. La
+maxime « Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui
+lui donne naissance » n'est attribuée à aucun des trois auteurs.
 
 ## Identifiants retires
 

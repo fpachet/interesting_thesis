@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   139 cartes y sont affectées une seule fois à huit familles.
+   141 cartes y sont affectées une seule fois à huit familles.
 3. `relations.tsv` décrit un premier ensemble de relations directionnelles et
    typées. Il ne remplace pas les sections `Liens` des cartes, plus associatives.
 
@@ -60,12 +60,14 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Le sujet construit une prise perceptive, explicative ou opératoire sur l'objet. |
 | Antécédent historique direct | [`idea_0139`](inbox/idea_0139_garve_lacune_construction_extensions.md) | Garve formule déjà la lacune éprouvée, l'orientation prospective et la construction depuis des matériaux antérieurs ; la thèse précise la résistance, la prise, l'épuisement et la relance. |
 | Diagnostic de l'échec historique | [`idea_0142`](inbox/idea_0142_echec_garve_capture_dispersion.md) | La défaite de la Popularphilosophie, les captures esthétique et romantique, puis la dispersion disciplinaire expliquent pourquoi le programme de Garve n'a pas fondé de lignée canonique. |
+| Survie déplacée du particulier | [`idea_0143`](inbox/idea_0143_pachet_survie_philosophie_particulier.md) | Pierre Pachet rend plausible la survie, dans l'essai, d'une philosophie attentive à la naissance singulière des idées sans établir de filiation historique avec Garve. |
 | Médiation énigmatique | [`idea_0138`](inbox/idea_0138_enigme_declencheur_resolution.md) | Avant la formulation du problème, une opacité structurée promet une prise désirable et accessible ; sa résolution éteint l'énigme locale ou en ouvre une autre. |
 | Dynamique interne | [`idea_0137`](inbox/idea_0137_epluchage_interessant_contemplation.md) | Après le déclenchement, les prises se succèdent par épluchage jusqu'à épuisement, abandon, clôture décidée ou relance par une résistance productive. |
 | Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
 | Boucle récursive | [`idea_0133`](inbox/idea_0133_interessant_recursif_auto_application.md) | La construction transforme les conditions de l'intérêt futur et le concept peut déclencher le processus qu'il décrit. |
 | Garde-fou aléthique | [`idea_0134`](inbox/idea_0134_interessant_selectionne_enquete_pas_verite.md) | L'intéressant sélectionne ce qui mérite examen, mais seule une évaluation distincte permet d'en valider les conclusions. |
 | Garde-fou méthodologique | [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md) | La panoplie scientifique exerce une hostilité structurelle lorsqu'elle remplace la cible par un substitut stable qui élimine sa dimension intéressante. |
+| Maxime méthodologique | [`idea_0144`](inbox/idea_0144_conceptualiser_sans_desinteresser_experience.md) | La thèse alterne fidélité aux cas et extraction de structure afin de conceptualiser l'intéressant sans perdre le phénomène qui motive le concept. |
 | Cas réflexif | [`idea_0126`](inbox/idea_0126_se_comprendre_construction_interessante.md) | Comprendre les causes de ses affects construit une prise sur soi et transforme la manière dont le sujet en pâtit. |
 | Mesure temporelle candidate | [`idea_0071`](inbox/idea_0071_interet_gain_temporaire_compression.md) | Le gradient de progrès opérationnalise une dimension du travail constructif en cours. |
 | Dynamique et épuisement | [`idea_0122`](inbox/idea_0122_interessant_equilibre_metastable.md) | Toute relation intéressante peut dériver vers l'ennui par maîtrise ou vers l'anxiété par perte de prise. |

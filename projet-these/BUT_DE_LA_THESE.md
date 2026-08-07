@@ -17,7 +17,9 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
 3. **Établir sa place philosophique.** Partir de Garve, qui formule déjà explicitement
    le rapport entre attention, lacune et construction, puis reconstruire la faible
    canonisation de ce noyau et sa dispersion ultérieure entre le vrai, le beau, le bien,
-   le sens, le jugement, l'invention et l'attention.
+   le sens, le jugement, l'invention et l'attention. Examiner avec Pierre Pachet la
+   survie possible d'une philosophie du particulier dans l'essai, sans transformer ce
+   rapprochement en filiation historique.
 4. **Mettre les hypothèses à l'épreuve.** Utiliser la musique, les pratiques de création
    et les systèmes d'intelligence artificielle comme terrains de variation et de
    comparaison, sans prendre leurs résultats pour des preuves ontologiques directes.
@@ -42,6 +44,24 @@ Le troisième mouvement ne doit pas juxtaposer des exemples décoratifs. Chaque 
 doit contraindre le concept, révéler une limite ou produire une distinction éclairante.
 Les textes philosophiques ne constituent donc pas un habillage disciplinaire, mais des
 interlocuteurs capables de reformuler ou d'objecter au modèle proposé.
+
+## Maxime méthodologique
+
+> **Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui
+> donne naissance.**
+
+La recherche alternera deux temps réversibles. La **fidélité au phénomène** part de cas
+effectivement éprouvés et décrit la rupture d'indifférence, l'attention, la résistance,
+la prise et la relance. L'**extraction de structure** compare les cas, produit des
+distinctions et des contre-exemples, puis formule des invariants révisables. Le concept
+doit ensuite retourner aux cas afin qu'ils puissent révéler ses faux positifs, ses
+résidus et ses conditions de correction.
+
+Dans cette triangulation méthodologique, Pachet protège la naissance singulière de la
+pensée contre l'abstraction prématurée ; Garve montre qu'une enquête partie de
+l'expérience peut chercher des conditions générales ; l'exigence kantienne empêche la
+thèse de se réduire à une chronique personnelle. Il s'agit de fonctions reconstruites
+par la thèse, non d'une synthèse doctrinale entre les trois auteurs.
 
 La note
 [`STRUCTURE_PROVISOIRE.md`](STRUCTURE_PROVISOIRE.md)

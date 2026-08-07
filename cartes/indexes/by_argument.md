@@ -5,7 +5,7 @@ par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
 figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
 est un outil de travail réversible, pas encore un plan de thèse.
 
-## 1. Constitution de l'angle mort : histoire, canonisation et substitutions (8)
+## 1. Constitution de l'angle mort : histoire, canonisation et substitutions (10)
 
 ### Diagnostic historique
 
@@ -14,12 +14,14 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
 - `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
+- `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 
 ### Résidu positif et limite méthodologique
 
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0128` - La formalisation scientifique exerce une hostilité structurelle à l'égard de l'intéressant.
+- `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
 ## 2. Définition et émergence de l'intéressant (22)
 
@@ -228,6 +230,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 8, 22, 27, 30, 10, 13, 11 et 18
-cartes, soit les 139 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 10, 22, 27, 30, 10, 13, 11 et 18
+cartes, soit les 141 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

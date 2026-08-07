@@ -823,7 +823,7 @@ def home_page(
 <section class="hero hero--home">
   <div class="shell hero__grid">
     <div class="hero__copy">
-      <p class="eyebrow">Projet de thèse en philosophie · version 2</p>
+      <p class="eyebrow">Projet de thèse en philosophie · version 6</p>
       <h1>L'émergence<br><em>de l'intéressant</em></h1>
       <p class="hero__lead">Naissance des idées, compréhension et singularité des formes.</p>
       <p class="hero__question"><span>Question directrice</span>{html.escape(question)}</p>
@@ -1442,7 +1442,7 @@ def suivi_page(
 </section>
 <section class="section section--compact">
   <div class="shell status-strip">
-    <div><span>Version du projet</span><strong>Version 2</strong><small>Texte français et anglais synchronisé</small></div>
+    <div><span>Version du projet</span><strong>Version 6</strong><small>Texte français et anglais synchronisé</small></div>
     <div><span>Dernière évolution</span><strong>{datetime.strptime(last_date, '%Y-%m-%d').strftime('%d.%m.%Y') if last_date else '—'}</strong><small>D'après l'historique Git</small></div>
     <div><span>Corpus traité</span><strong>{covered}/{source_total}</strong><small>Documents à couverture complète ou intégrée</small></div>
     <div><span>Couverture bibliographique</span><strong>{len(referenced_cards)}/{len(cards)}</strong><small>Cartes reliées à une notice canonique</small></div>

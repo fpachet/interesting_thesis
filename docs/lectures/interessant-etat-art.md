@@ -133,7 +133,9 @@ constructive, puis `idea_0129`, `idea_0131` et `idea_0108`.
 Statut : **étude de Nannini lue par passages ciblés et p. 9–80 cartographiées ;
 texte primaire de Garve lu directement pour les p. 253–274 et 313–317 ; noyau
 relationnel et constructif intégré à `idea_0139`, puis hypothèse de son échec
-historique intégrée à `idea_0142` et à la version 5 du projet de thèse**.
+historique intégrée à `idea_0142` et à la version 5 du projet de thèse ; son
+prolongement par Pierre Pachet et par la maxime méthodologique est intégré à
+`idea_0143`, `idea_0144` et à la version 6**.
 
 ### A2. Friedrich Schlegel
 
