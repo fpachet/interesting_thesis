@@ -52,7 +52,8 @@ La section comprend actuellement :
   `martin2016creativeprocess` et `pachet2017variations` ;
 - `pachet2018oreille` et `montecchio2020skipping` ;
 - `pachet2021assisted` ;
-- `pachet2026biases`, `pachet2026impossibilite` et `pachet2026markov` ;
+- `pachet2026biases`, `pachet2026generation`, `pachet2026impossibilite` et
+  `pachet2026markov` ;
 - `pachet2027virtuosite`.
 
 Toute nouvelle publication personnelle citée doit recevoir ce mot-clé. Les œuvres de
@@ -135,6 +136,8 @@ son rendu bibliographique reste reproductible.
 | `berger1999expectations` | `input/old_docs/interestingness/.../Dan Gang/Expectationfinal-paper.pdf` | manuscrit, support éditorial à compléter |
 | `kelly2002music` | `input/old_docs/interestingness/.../WhereMusicWillBeComingFromNYTArticle.txt` | article de presse |
 | `pachet2026biases` | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | manuscrit non publié |
+| `norton2012ikea` | notice de l'éditeur et DOI | étude primaire de l'effet IKEA ; l'effet porte sur la valorisation après une construction réussie et ne démontre pas un gain d'apprentissage ou de compréhension |
+| `pachet2026generation` | `input/publications-francois-pachet/pachet-2026-generation-musicale-ia.pdf` | article publié ; lecture ciblée des p. 152-154 sur l'effet IKEA, l'appropriation créative et le déplacement de la qualité du résultat vers celle de l'interaction |
 | `montecchio2020skipping` | `input/Montecchio_Roy_Pachet_2020_skipping_behavior.pdf` | article PLOS ONE relu intégralement ; résultat scientifique et cas réflexif reliant les recherches menées à Spotify à l'enquête philosophique sur l'intéressant |
 | `meyer1956emotion` | pas encore dans le corpus | référence fondatrice sur attente, apprentissage et affect musical ; lecture directe à faire |
 | `kubovy1999pleasures` | `docs/On_the_pleasures_of_the_mind.pdf` | chapitre relu intégralement ; séquences émotionnelles, attentes tacites, recherche d'interprétation, critique de la complexité intrinsèque et relecture du flow |
