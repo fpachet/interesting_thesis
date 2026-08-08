@@ -37,6 +37,7 @@ références dans la bibliographie générale.
 
 La section comprend actuellement :
 
+- `milipachet1995regularity` ;
 - `pachet1997representation` ;
 - `pachet1999active`, `pachet1999programs`, `pachet1999surprising` et
   `pachet2000melodie` ;
@@ -84,10 +85,12 @@ son rendu bibliographique reste reproductible.
 | `koestler1989act` | pas encore dans le corpus | réédition de `The Act of Creation` (1964) ; bisociation et filiation explicitement invoquée par Lenat pour l'apprentissage à la frange |
 | `russell1995rationality` | `input/Russell_Rationality_and_Intelligence_IJCAI95.pdf` | article associé au Computers and Thought Award ; avertissement contre la mathématisation prématurée, p. 950 |
 | `russell1995awardlecture` | transcription dans `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | allocution pour le Computers and Thought Award à IJCAI-95 ; source intellectuelle de la formulation orale sur les parties intéressantes définies hors du problème |
+| `milipachet1995regularity` | `input/publications-francois-pachet/mili-95a-Regularity_Document_Generation_and_Cyc.pdf` | chapitre relu ; situe l'information utile entre régularité tautologique et irrégularité arbitraire, dans le cadre local de la textualisation des traces de preuve |
 | `pachet1997representation` | `input/Pachet_Representation_connaissances_langages_objets_1997.pdf` | mémoire d'HDR ; conserve la formulation orale longue de Russell sur les parties intéressantes définies hors du problème, PDF p. 10 |
 | `pachet1999surprising` | `input/publications-francois-pachet/pachet-99-Casys.pdf` | article relu ; distingue la surprise brute de la surprise compréhensible ou « prouvable » depuis des régularités et règles acquises |
 | `pachet1999active` | `input/publications-francois-pachet/pachet-99a.pdf` | chapitre relu ; déplace l'accès musical de la sélection d'items vers des parcours et espaces d'exploration sémantiquement contraints |
 | `pachet1999programs` | `input/publications-francois-pachet/pachet-99m.pdf` | article relu ; compromis entre répétition et surprise, continuité par similarité et variété par différence et cardinalité à l'échelle d'une séquence |
+| `pachet2012virtuosity` | `input/publications-francois-pachet/pachet12b.pdf` | chapitre publié sous le titre *Musical Virtuosity and Creativity* ; le PDF de travail porte le titre interne *Bebop Virtuosity Explained* ; partition intentionnelle, texture markovienne, ennui et limites de la validation cognitive |
 | `aucouturier2002similarity` | `input/publications-francois-pachet/pachet-02g.pdf` | article relu ; une mesure valide peut rester triviale et devenir intéressante par contradiction entre proximité timbrale et attente textuelle |
 | `pachet2000melodie` | `input/publications-francois-pachet/pachet-06c.pdf` | article relu intégralement ; trois modèles objectifs de la mélodie intéressante et limite explicitement assumée de l'exclusion de l'auditeur |
 | `pachet2004flowmachines` | `input/publications-francois-pachet/pachet-04-designflowmachines.pdf` | chapitre relu ; observations du cycle surprise--excitation--concentration, de l'attention et de la réflexivité dans le Continuator |

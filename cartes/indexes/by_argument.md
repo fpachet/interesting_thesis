@@ -23,7 +23,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
-## 2. Définition et émergence de l'intéressant (22)
+## 2. Définition et émergence de l'intéressant (23)
 
 ### Pivots
 
@@ -42,6 +42,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0135` - L'excitation d'avoir une idée peut contribuer à l'intéressant autant qu'elle peut en résulter.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 - `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
+- `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
 
 ### Distinctions et objections
 
@@ -194,7 +195,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 
-## 7. Virtuosité, difficulté et incorporation (11)
+## 7. Virtuosité, difficulté et incorporation (12)
 
 ### Pivot
 
@@ -212,6 +213,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0078` - La virtuosité est perçue par comparaison avec les capacités corporelles latentes du public.
 - `idea_0089` - La virtuosité se reconnaît à la capacité d'absorber l'imprévu sans perdre la cohérence du geste.
 - `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
+- `idea_0154` - La virtuosité distribue l'intention entre un flux incorporé et des décisions de haut niveau.
 
 ## 8. Culture, langage et politique de l'attention (18)
 
@@ -241,6 +243,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 10, 22, 27, 32, 10, 19, 11 et 18
-cartes, soit les 149 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 10, 23, 27, 32, 10, 19, 12 et 18
+cartes, soit les 151 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

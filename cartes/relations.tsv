@@ -42,6 +42,14 @@ idea_0100	specifies	idea_0017	Precise quand une contrainte est calculable par et
 idea_0098	limits	idea_0017	La validite contrainte ne suffit pas a produire une bonne solution.
 idea_0103	bridges	idea_0109	Situe la generation entre ordre fixe et hasard.
 idea_0016	supports	idea_0109	Formule le besoin d'un sens global de la direction.
+idea_0153	specifies	idea_0005	Remplace la surprise brute par une irrégularité explicable depuis une régularité identifiable.
+idea_0153	illustrates	idea_0103	Situe l'élément informatif entre ordre parfait et arbitraire pur.
+idea_0153	limits	idea_0027	Montre que la rareté ou l'irrégularité seules ne suffisent pas sans structure explicative.
+idea_0153	illustrates	idea_0110	Fournit un antécédent personnel relu sans lui attribuer rétroactivement la théorie générale.
+idea_0154	specifies	idea_0010	Distribue la difficulté virtuose entre texture incorporée et décisions intentionnelles de haut niveau.
+idea_0154	illustrates	idea_0109	Réalise le couplage entre sampling markovien, transformations et contraintes globales.
+idea_0154	supports	idea_0016	La partition intentionnelle fournit au flux local une direction à plus longue portée.
+idea_0154	illustrates	idea_0110	Fournit un cas réflexif dont les limites cognitives et évaluatives restent explicites.
 idea_0067	motivates	idea_0094	Le decalage production-evaluation impose leur etude conjointe.
 idea_0068	operationalizes	idea_0094	La trace complete permet d'etudier perception et creation ensemble.
 idea_0018	supports	idea_0110	Fait de la construction de systemes un materiau philosophique.

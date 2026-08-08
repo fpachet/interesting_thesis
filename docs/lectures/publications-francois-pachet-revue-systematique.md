@@ -136,6 +136,20 @@ animaux doivent rester distincts. La préférence pour des trilles artificiellem
 difficiles étaye le versant virtuosité ; le protocole en boucle fermée établit que la
 contingence de la relation modifie la conduite vocale.
 
+## Décisions validées dans la septième et dernière grappe
+
+| Publication | Décision | Apport précis | Intégration |
+|---|---|---|---|
+| Pachet, *Musical Virtuosity and Creativity* (PDF de travail titré *Bebop Virtuosity Explained*, 2012), 34 p. | **fort, généalogique et constructif** | Distingue une texture markovienne, qui produit le flux local, d'une « partition intentionnelle » portant les décisions au niveau du temps musical. L'ennui markovien apparaît lorsque les règles deviennent prévisibles sans espoir d'un événement saillant. Le modèle construit une architecture plausible de la virtuosité, sans constituer une preuve cognitive générale. | Nouvelle `idea_0154` ; `idea_0010`, `idea_0078`, `idea_0109` et `idea_0122` renforcées ; clé `pachet2012virtuosity`. |
+| Mili et Pachet, *Regularity, Document Generation, and Cyc* (1995), PDF de 33 p. | **fort, généalogique et formel** | Distingue régularité parfaite et peu informative, irrégularité arbitraire sans prise, et irrégularité structurée par des règles, seule féconde pour la textualisation d'une trace de preuve. L'écart peut révéler une propriété du monde ou un concept manquant dans la base. | Nouvelle `idea_0153` ; clés et cartes connexes rattachées à `milipachet1995regularity`. |
+| Pachet, *Exploiting Regularity in Cyc for Text Generation* (version courte), 11 p. | **contexte redondant, formulation concentrée** | Reformule la même hypothèse et son usage opérationnel local. La version longue sert de référence canonique. | Source secondaire de `idea_0153`, sans doublon bibliographique. |
+
+Cette grappe rend visibles deux antécédents personnels particulièrement proches de la
+thèse actuelle. Leur reprise reste contrôlée : la régularité de Cyc est un critère
+local de génération documentaire, et Virtuoso un modèle computationnel soutenu par une
+évaluation experte partiellement subjective. La thèse peut reconstruire leur parenté
+avec l'intéressant, mais non leur attribuer rétroactivement sa théorie générale.
+
 ## Premier résultat transversal
 
 La première grappe fait apparaître une généalogie interne plus précise que prévu. Les
@@ -156,15 +170,13 @@ et intéressant » comme expérience située. Elle montre aussi pourquoi le para
 d'horizon ne peut pas être éliminé par une moyenne : dans l'expérience sur les lead
 sheets, les préférences croisent le niveau d'expérience des producteurs et des juges.
 
-## Lecture restant à faire
+## Clôture de la campagne
 
-211 PDF scientifiques directs restent à décider. Les prochains groupes à lire sont :
+Trente-cinq PDF ont reçu une décision argumentée. Les 208 PDF restants n'ont pas reçu
+de décision individuelle de pertinence. À la demande de l'auteur, la revue systématique
+est arrêtée après le traitement des deux priorités finales ci-dessus ; les autres
+candidats précédemment envisagés sont abandonnés et ne sont plus programmés.
 
-1. préférence, popularité, timbre et extraction de traits ;
-2. interaction animale et éthologie artificielle ;
-3. travaux de représentation des connaissances, contraintes et applications sans lien
-   apparent, afin de confirmer ou d'infirmer leur valeur méthodologique.
-
-Le nombre de textes lus et les décisions seront mis à jour ici. Tant que la ligne
-correspondante n'a pas une décision et des pages, elle reste `à examiner`, même si son
-titre ou son score de triage paraît prometteur.
+Le statut `à examiner` doit donc être compris comme « non décidé si la campagne était
+rouverte », et non comme `non pertinent`. Aucun rejet scientifique n'est inféré d'un
+titre, d'un score lexical ou de cette décision d'arrêt.

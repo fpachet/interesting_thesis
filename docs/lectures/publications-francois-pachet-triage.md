@@ -4,13 +4,17 @@ Ce document ordonne la lecture ; il ne prononce aucune décision de pertinence.
 Le score combine des occurrences dans le titre, l’abstract, la conclusion et le texte
 complet. Une décision ne devient valide qu’après lecture et relevé de pages.
 
+La campagne est close après 35 décisions, à la demande de l'auteur. Les 208 lignes
+encore marquées `à examiner` restent indécidées : elles ne sont plus programmées et ne
+doivent pas être interprétées comme non pertinentes.
+
 ## État du corpus
 
 - 243 PDF scientifiques uniques après dédoublonnage ;
 - 3228 pages ;
 - 243 textes extraits ;
 - 0 échecs d’extraction ;
-- 25 décisions de lecture validées ;
+- 35 décisions de lecture validées ;
 - 1 texte en priorité haute, 66 en priorité moyenne, 176 en priorité basse.
 
 ## Ordre de lecture proposé
@@ -26,7 +30,7 @@ complet. Une décision ne devient valide qu’après lecture et relevé de pages
 | 7 | FP-055 | 2011 | Markov constraints: steerable generation of Markov sequences | 25 | 330 | fort scientifique |
 | 8 | FP-189 | 2009 | Stimulating creative flow through computational feedback | 10 | 317 | moyen à fort |
 | 9 | FP-026 | 2015 | Creating Music and Texts with Flow Machines | 21 | 291 | fort conceptuel |
-| 10 | FP-046 | 1995 | Regularity, document generation and Cyc | 33 | 279 | à examiner |
+| 10 | FP-046 | 1995 | Regularity, document generation and Cyc | 33 | 279 | fort, généalogique et formel |
 | 11 | FP-229 | 2000 | Les clefs d’une mélodie intéressante | 9 | 279 | fort |
 | 12 | FP-027 | 2015 | Improving music composition through peer feedback: experiment and preliminary results | 10 | 277 | à examiner |
 | 13 | FP-238 | 1999 | Constraints and Multimedia | 11 | 276 | à examiner |
@@ -50,18 +54,18 @@ complet. Une décision ne devient valide qu’après lecture et relevé de pages
 | 31 | FP-287 | 1995 | Integrating constraint satisfaction techniques with complex object structures | 13 | 221 | à examiner |
 | 32 | FP-254 | 1998 | Formulating Constraint Satisfaction Problems on Part-Whole Relations: The Case of Automatic Musical Harmonization | 11 | 220 | à examiner |
 | 33 | FP-240 | 1999 | Le projet Ecoute active à Sony CSL | 5 | 219 | à examiner |
-| 34 | FP-290 | 1994 | Exploiting Regularity in Cyc for Text Generation | 11 | 218 | à examiner |
+| 34 | FP-290 | 1994 | Exploiting Regularity in Cyc for Text Generation | 11 | 218 | contexte redondant, formulation concentrée |
 | 35 | FP-141 | 1999 | Automatic Generation of Music Programs | 15 | 217 | fort, généalogique et formel |
 | 36 | FP-175 | 2015 | The Comic Strip Game: observing the impact of implicit feedback in the content creation process | 9 | 217 | à examiner |
 | 37 | FP-111 | 2014 | Avoiding Plagiarism in Markov Sequence Generation | 7 | 216 | moyen précurseur |
 | 38 | FP-223 | 2001 | Musical Mosaicing | 6 | 215 | à examiner |
-| 39 | FP-034 | 2008 | Des machines à sortir de soi | 15 | 215 | à examiner |
+| 39 | FP-034 | 2008 | Des machines à sortir de soi | 15 | 215 | fort réflexif |
 | 40 | FP-258 | 1998 | A Combinatorial Pattern Generation Approach to Content-Based Music Selection | 2 | 214 | à examiner |
 | 41 | FP-058 | 2009 | Analytical Features: a Knowledge-Based Approach to Audio Feature Generation | 25 | 213 | à examiner |
 | 42 | FP-054 | 2014 | Predicting the Composer and Style of Jazz Chord Progressions | 16 | 212 | à examiner |
 | 43 | FP-210 | 2004 | Children Confronting an Interactive Musical System | 4 | 209 | à examiner |
-| 44 | FP-063 | 2008 | The future of content is in ourselves | 20 | 203 | à examiner |
-| 45 | FP-031 | 2010 | The Future of Content is in Ourselves | 20 | 203 | à examiner |
+| 44 | FP-063 | 2008 | The future of content is in ourselves | 20 | 203 | contexte redondant |
+| 45 | FP-031 | 2010 | The Future of Content is in Ourselves | 20 | 203 | contexte redondant |
 | 46 | FP-104 | 2016 | Enforcing Structure on Temporal Sequences: the Allen Constraint | 16 | 203 | à examiner |
 | 47 | FP-209 | 2005 | Experiment with a musical machine | 6 | 199 | à examiner |
 | 48 | FP-174 | 2015 | Improving music composition through peer feedback: experiment and preliminary results | 5 | 199 | à examiner |
@@ -74,7 +78,7 @@ complet. Une décision ne devient valide qu’après lecture et relevé de pages
 | 55 | FP-191 | 2008 | Teaching to Improvise with the Continuator | 1 | 192 | à examiner |
 | 56 | FP-257 | 1998 | MusicSpace: a Constraint-Based Music Spatializer | 6 | 190 | à examiner |
 | 57 | FP-243 | 1999 | MusicSpace: a Constraint-based Music Spatializer | 6 | 190 | à examiner |
-| 58 | FP-029 | 2012 | Musical Virtuosity and Creativity | 36 | 189 | à examiner |
+| 58 | FP-029 | 2012 | Musical Virtuosity and Creativity | 36 | 189 | fort, généalogique et constructif |
 | 59 | FP-023 | 2017 | The Score Effect in Collective Jazz Improvization | 15 | 189 | à examiner |
 | 60 | FP-274 | 1996 | EpiTalk, a Platform for Epiphyte Advisor Systems Dedicated to Both Individual and Collaborative Learning. Intelligent Tutoring Systems | 10 | 188 | à examiner |
 | 61 | FP-246 | 1998 | Annotations for Real Time Music Spatialization | 10 | 187 | à examiner |
@@ -101,7 +105,7 @@ complet. Une décision ne devient valide qu’après lecture et relevé de pages
 | 82 | FP-260 | 1998 | Logiques de Descriptions pour L’analyse Structurelle de Film | 9 | 159 | à examiner |
 | 83 | FP-318 | 1992 | Représentation de connaissances par objets et règles: le système NéOpus | 285 | 158 | à examiner |
 | 84 | FP-253 | 1998 | Consistency of Temporal Constraint Networks for Medical Monitoring : Binary or Nary Constraints ? | 8 | 157 | à examiner |
-| 85 | FP-057 | 2011 | Closed-loop bird-computer interactions: A new method to study the role of bird callings | 11 | 156 | à examiner |
+| 85 | FP-057 | 2011 | Closed-loop bird-computer interactions: A new method to study the role of bird callings | 11 | 156 | moyen à fort méthodologique |
 | 86 | FP-096 | 1995 | Régularité, Génération de documents et Cyc | 19 | 155 | à examiner |
 | 87 | FP-306 | 1991 | A meta-level architecture for analysing jazz chord sequences | 4 | 154 | à examiner |
 | 88 | FP-093 | 1996 | Representing Temporal Musical Objects and Reasoning in the MusES System | 19 | 151 | à examiner |
@@ -131,19 +135,19 @@ complet. Une décision ne devient valide qu’après lecture et relevé de pages
 | 112 | FP-214 | 2004 | Suonare con il Continuator è un ésperienza ottimale ? | 8 | 125 | à examiner |
 | 113 | FP-125 | 2005 | Descriptor-based spatialization | 8 | 124 | à examiner |
 | 114 | FP-196 | 2007 | De l’intérêt des features analytiques : une étude pour la classification des sons de pandeiro | 8 | 124 | à examiner |
-| 115 | FP-121 | 2008 | Hit Song Science is Not Yet a Science | 6 | 124 | à examiner |
+| 115 | FP-121 | 2008 | Hit Song Science is Not Yet a Science | 6 | 124 | fort résultat négatif |
 | 116 | FP-250 | 1998 | Constraint-Based Spatialization | 4 | 123 | à examiner |
 | 117 | FP-067 | 2005 | The Way It Sounds: Timbre Models For Analysis and Retrieval of Polyphonic Music Signals | 8 | 123 | à examiner |
 | 118 | FP-291 | 1994 | Pluggable Advisors as Epiphyte Systems | 10 | 121 | à examiner |
 | 119 | FP-283 |  | Mixing constraints and objects: a case study in automatic harmonization | 8 | 120 | à examiner |
 | 120 | FP-083 | 2001 | Musical harmonization with constraints: A survey | 11 | 120 | à examiner |
-| 121 | FP-135 | 2002 | Music Similarity Measures: What’s the Use? | 7 | 120 | à examiner |
+| 121 | FP-135 | 2002 | Music Similarity Measures: What’s the Use? | 7 | 120 | fort généalogique et conceptuel |
 | 122 | FP-040 | 2004 | Harmonisation Automatique et Programmation par Contraintes | 21 | 120 | à examiner |
 | 123 | FP-186 | 2013 | Creativity through Style Manipulation: the Flow Machines project | 2 | 120 | à examiner |
 | 124 | FP-179 | 2015 | Max Order: A Tale of Creativity | 2 | 119 | à examiner |
 | 125 | FP-078 | 2003 | Noms de Fichiers: Le Nom | 25 | 118 | à examiner |
 | 126 | FP-080 | 2003 | Representing Musical Genre: A State of the Art | 12 | 118 | à examiner |
-| 127 | FP-030 | 2011 | Hit Song Science | 22 | 118 | à examiner |
+| 127 | FP-030 | 2011 | Hit Song Science | 22 | 118 | fort synthèse relationnelle |
 | 128 | FP-317 | 1997 | Représentation de connaissances et langages à objets | 65 | 117 | à examiner |
 | 129 | FP-198 | 2007 | Some Case Studies in Automatic Descriptor Extraction | 14 | 117 | à examiner |
 | 130 | FP-181 | 2014 | Non-Conformant Harmonization: the Real Book in the Style of Take 6 | 8 | 116 | à examiner |

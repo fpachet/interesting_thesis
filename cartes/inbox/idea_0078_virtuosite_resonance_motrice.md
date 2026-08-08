@@ -7,12 +7,15 @@ status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
   - "input/publications-francois-pachet/pachet-11a.pdf"
+  - "input/publications-francois-pachet/pachet12b.pdf"
 references:
   - pachet2026impossibilite
   - pachet2011hitsong
+  - pachet2012virtuosity
 source_notes:
   - "De l'impossibilité de créer, PDF p. 50-53 (pages imprimées 49-52) : les chants impossibles, la compétence vocale latente des femelles et l'hypothèse d'une résonance motrice fondent la difficultuosité comme relation entre geste perçu et corps possible."
   - "Hit Song Science, PDF p. 7-8 : discussion de Draganoiu et al. (2002), où des femelles canaris préfèrent des phrases artificielles combinant largeur de bande et vitesse de trille au-delà des limites ordinaires de production."
+  - "Bebop Virtuosity Explained, PDF p. 6-7 : même expérience mobilisée comme cas de préférence pour un signal dépassant les limites ordinaires de production et comme indice fiable de qualité."
 tags:
   - virtuosite
   - corps
@@ -39,6 +42,11 @@ corporelle demeure une hypothèse philosophique et empirique. *De l'impossibilit
 créer* en donne la formulation personnelle développée : le chant latent des femelles
 rend plausible une comparaison interne avec leurs capacités corporelles, puis généralise
 ce schème à tout public capable d'estimer ce qu'un geste lui coûterait.
+
+Le chapitre de 2012 constitue la première publication personnelle qui relie
+explicitement ce résultat sur les canaris à une théorie de la virtuosité. Il renforce
+la généalogie du cas, mais ne démontre pas davantage le mécanisme précis de résonance
+motrice proposé ultérieurement.
 
 ## Intérêt pour la thèse
 

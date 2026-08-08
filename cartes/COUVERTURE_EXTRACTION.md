@@ -547,7 +547,15 @@ sociale. *Music Similarity Measures: What's the Use?* produit `idea_0152` : une 
 valide peut rester triviale, et devenir intéressante par sa confrontation à une autre
 attente. Enfin, l'expérience en boucle fermée sur les appels de femelles canaris est
 séparée du cas de préférence pour des trilles artificiellement difficiles. Trente-deux
-PDF sont désormais décidés et 211 restent à lire.
+PDF étaient alors décidés et 211 restaient à lire.
+
+La septième et dernière grappe ajoute *Bebop Virtuosity Explained* ainsi que les
+versions longue et courte du travail sur la régularité dans Cyc. Elle produit
+`idea_0153`, sur l'irrégularité explicable entre tautologie et arbitraire, et
+`idea_0154`, sur la distribution de l'intention entre texture incorporée et décisions
+de haut niveau. Trente-cinq PDF ont désormais une décision. À la demande de l'auteur,
+la campagne est close : les 208 autres restent indécidés et ne sont pas déclarés non
+pertinents.
 
 ## Conclusion
 

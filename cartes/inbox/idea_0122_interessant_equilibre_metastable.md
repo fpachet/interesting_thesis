@@ -6,8 +6,12 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
+  - "input/publications-francois-pachet/pachet12b.pdf"
+references:
+  - pachet2012virtuosity
 source_notes:
   - "PDF p. 59-62 pour le modèle du flow ; les deux dérives et leur application à l'écoute sont une hypothèse propre à la thèse"
+  - "Bebop Virtuosity Explained, PDF p. 25 : l'ennui markovien apparaît lorsque l'exposition répétée révèle les mêmes règles sans espoir d'un événement saillant."
 tags:
   - interessant
   - flow
@@ -47,6 +51,11 @@ restent inaccessibles, comme peut l'être une musique dodécaphonique pour un au
 sans prises adéquates, peut accumuler incompréhension et frustration jusqu'au rejet. Ces
 exemples ne qualifient pas les œuvres en elles-mêmes : ils décrivent leur relation
 temporelle à un auditeur donné.
+
+L'« ennui markovien » décrit dans le chapitre de 2012 fournit un antécédent
+computationnel précis à la première dérive : une texture peut rester localement correcte
+tout en cessant d'intéresser lorsque ses règles deviennent entièrement prévisibles et
+qu'aucune rupture saillante n'est plus attendue.
 
 ## Conséquence
 

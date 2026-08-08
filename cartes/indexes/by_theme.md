@@ -18,6 +18,7 @@
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 - `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
+- `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
 
 ## Définition de l'intéressant
 
@@ -89,6 +90,7 @@
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
+- `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
 
 ## Création, contrainte, impossibilité
 
@@ -125,6 +127,7 @@
 - `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 - `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
+- `idea_0154` - La virtuosité distribue l'intention entre un flux incorporé et des décisions de haut niveau.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 

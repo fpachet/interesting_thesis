@@ -13,12 +13,14 @@ sources:
   - "input/publications-francois-pachet/pachet-09c.pdf"
   - "input/publications-francois-pachet/barbieri-12a.pdf"
   - "input/publications-francois-pachet/roy-16b.pdf"
+  - "input/publications-francois-pachet/pachet12b.pdf"
 references:
   - pachet2026biases
   - goldman1999netneg
   - pachet2011markov
   - barbieri2012lyrics
   - papadopoulos2016flowcomposer
+  - pachet2012virtuosity
 source_notes:
   - "Hidden Biases, insuffisance du sampling local pour les propriétés globales, PDF p. 1-3 et 10-14"
   - "Notes thèse, doodling comme échantillonnage peu contraint, PDF p. 1"
@@ -28,6 +30,7 @@ source_notes:
   - "Markov Constraints, PDF p. 1-8 et 21-23 : inversion de generate-and-test, recherche globale de séquences à faible probabilité et contrôle arbitraire."
   - "Markov Constraints for Lyrics, PDF p. 1-5 : comparaison empirique entre Markov pur, contraintes pures et processus markovien contraint."
   - "Assisted Lead Sheet Composition, PDF p. 1-8 et 13-15 : échantillonnage de chaînes markoviennes sous contraintes métriques, harmoniques et utilisateur dans un outil de composition."
+  - "Bebop Virtuosity Explained, PDF p. 13-14 et 25-33 : texture markovienne, transformations, contraintes globales et partition intentionnelle au niveau du temps musical."
 tags:
   - interessant
   - sampling
@@ -71,6 +74,12 @@ tandis que la probabilité stylistique ordonne ou échantillonne les solutions. 
 expériences sur les paroles puis FlowComposer montrent que le couplage vaut comme
 architecture générale — style local plus forme globale — sans que sa réussite technique
 garantisse à elle seule l'intérêt du résultat.
+
+Le chapitre sur la virtuosité bebop donne à cette architecture une interprétation
+musicale plus fine. Le processus markovien y produit une texture locale plutôt que des
+idées ; les décisions de haut niveau forment une « partition intentionnelle » qui
+pilote contour, chromatisme, continuité et ruptures. Ce cas montre comment le sampling
+et les contraintes peuvent aussi distribuer l'intention entre plusieurs échelles.
 
 ## Statut de la source
 

@@ -43,7 +43,7 @@ L'organisation actuelle ne repose pas sur une taxonomie unique :
 
 - `indexes/by_theme.md` rassemble les cartes par objet ou vocabulaire ;
 - `indexes/by_level.md` distingue leur statut épistémique ;
-- `indexes/by_argument.md` affecte chacune des 149 cartes à une famille
+- `indexes/by_argument.md` affecte chacune des 151 cartes à une famille
   argumentative principale, de manière exhaustive et réversible.
 - `indexes/by_architecture.md` distingue leur rôle dans la démonstration
   (`CORE`, `DERIVED`, `TEST`, `CASE`, `OBJECTION`, `SPECULATIVE`). Cette vue
@@ -56,7 +56,7 @@ complète les liens associatifs inscrits dans chaque carte sans les remplacer.
 
 ## Catalogue partageable
 
-`catalogue-idees.tex` rassemble le texte des 149 cartes dans l'ordre de
+`catalogue-idees.tex` rassemble le texte des 151 cartes dans l'ordre de
 `indexes/by_argument.md`, avec leurs statuts, provenances et références. Il est
 régénéré depuis les cartes, puis compile en PDF avec :
 
