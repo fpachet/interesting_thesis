@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 151 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 97 `conceptual`, 20 `scientific` et 32
+Les 152 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 98 `conceptual`, 20 `scientific` et 34
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 

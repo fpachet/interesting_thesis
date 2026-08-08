@@ -4,7 +4,7 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
-## Version 6 - 7 août 2026
+## Version 6 - 8 août 2026
 
 Intégration de Pierre Pachet dans l'histoire métaphilosophique de l'intéressant et
 explicitation de la méthode qui articule expérience singulière et concept.
@@ -22,6 +22,9 @@ explicitation de la méthode qui articule expérience singulière et concept.
   concept de l'expérience qui lui donne naissance » ;
 - formalisation d'une boucle entre fidélité au phénomène, extraction de structure
   et retour correctif aux cas ;
+- ajout d'un seuil étymologique distinguant l'intérêt attentionnel, pratique et
+  financier, puis de l'ambiguïté pragmatique de l'anglais *interesting* dans la
+  tradition de l'*understatement* ;
 - ajout des références à l'entretien Salgas--Pachet, à *Aux aguets* et à l'étude
   de Martin Rueff ;
 - synchronisation des textes français et anglais, des cartes, du graphe et du

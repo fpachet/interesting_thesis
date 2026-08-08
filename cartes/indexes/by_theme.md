@@ -19,6 +19,7 @@
 - `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 - `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
+- `idea_0155` - Les ambiguïtés du mot « intéressant ».
 
 ## Définition de l'intéressant
 
@@ -72,6 +73,7 @@
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 - `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
+- `idea_0155` - Les ambiguïtés du mot « intéressant ».
 
 ## Ennui, surprise, rareté
 
