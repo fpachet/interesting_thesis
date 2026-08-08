@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 148 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 97 `conceptual`, 20 `scientific` et 30
+Les 149 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 97 `conceptual`, 20 `scientific` et 32
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -395,6 +395,13 @@ pause, une perplexité ou une erreur peuvent réajuster et relancer la relation,
 que la disparition de l'effet de miroir peut la faire cesser. Les effectifs, la
 sélection des cas et le codage exploratoire du flow sont explicitement conservés comme
 limites.
+
+`idea_0152` a été ajoutée après lecture de *Music Similarity Measures: What's the
+Use?*. Elle conserve la faiblesse de la validation initiale et les paramètres définis
+à la main, mais isole une articulation réflexive précise : une mesure peut être valide
+et triviale, puis devenir féconde par la contradiction intelligible qu'elle produit
+avec une autre attente. L'effet Aha publié devient ainsi un antécédent du modèle
+relationnel, non sa validation générale.
 
 `idea_0150` a été ajoutée après lecture des deux publications sur `MAXORDER`. Elle
 isolé un résultat distinct de la critique générale du style transfer : l'ordre d'un

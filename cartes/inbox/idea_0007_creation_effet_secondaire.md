@@ -9,13 +9,16 @@ sources:
   - "input/old_docs/ERCInteractiveReflexions2.docx"
   - "input/old_docs/TBKLullyNOTES.doc"
   - "input/publications-francois-pachet/pachet-06-Enhancing_Individual_Creativity.pdf"
+  - "input/publications-francois-pachet/Pachet-08-Stiegler.pdf"
 references:
   - pachet2006reflective
+  - pachet2008machines
 source_notes:
   - "Projet REFLEX, résumé et description du projet, rendu PDF p. 1 et 4-6"
   - "Interesting Interactions, rendu PDF p. 7"
   - "TBKLullyNOTES, couple utilisateur-Continuator et plaisir de faire, rendu PDF p. 6-8"
   - "Enhancing Individual Creativity with Interactive Musical Reflective Systems, PDF p. 2-3 et 13-14 : la différence entre production avec et sans système prime sur l'attribution de la création à l'un des deux termes."
+  - "Des machines à sortir de soi, PDF p. 2-4 et 12-15 : les objets d'intérêt émergent comme effets secondaires d'une interaction qui actualise continuellement une image imparfaite du sujet."
 tags:
   - creation
   - interaction
@@ -34,6 +37,12 @@ L'évaluation doit par conséquent comparer ce que produit le couple à ce que l
 aurait produit seul. Cette différence est plus instructive que la question de savoir si
 la machine ou l'humain est « réellement » créatif : elle localise la nouveauté dans la
 transformation rendue possible par l'interaction.
+
+Cette émergence ne suppose pas que l'utilisateur possède déjà une intention bien
+formée. Le système réflexif l'aide précisément à exprimer une idée encore mal définie
+en lui renvoyant une image imparfaite, continuellement révisée. L'objet intéressant est
+alors moins l'exécution d'un projet préalable qu'une stabilisation provisoire produite
+par la boucle.
 
 ## Intérêt pour la thèse
 

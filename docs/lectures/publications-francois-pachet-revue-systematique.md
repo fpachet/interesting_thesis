@@ -2,7 +2,7 @@
 
 Source du corpus : [page personnelle des publications](https://www.francoispachet.fr/publications/)
 
-## État au 7 août 2026
+## État au 8 août 2026
 
 La page fournit 336 notices ou versions. Le périmètre scientifique retenu comprend
 302 notices (chapitres, articles, conférences, arXiv, autres actes, inédits, thèses et
@@ -117,6 +117,25 @@ sur le Sony Music Browser, le Cuidado Music Browser et les playlists n'ont pas �
 dans cette passe et ne reçoivent donc aucune décision de pertinence par simple analogie
 de titre.
 
+## Décisions validées dans la sixième grappe
+
+| Publication | Décision | Apport précis | Intégration |
+|---|---|---|---|
+| Pachet, *Des machines à sortir de soi* (2008), 15 p. | **fort, réflexif** | Les objets intéressants émergent comme effets secondaires d'une interaction avec une image imparfaite et révisable du sujet. Les sessions lentes du Continuator produisent rétrospectivement des pièces jugées plus intéressantes sans maximiser l'imitation immédiate. | `idea_0006`, `idea_0007`, `idea_0147` ; clé canonique `pachet2008machines`. |
+| Pachet, *The Future of Content Is in Ourselves* (2008 et 2010), deux PDF de 20 p. | **contexte redondant** | Les versions anglaises développent le même argument et les mêmes cas que le chapitre français, avec des variations éditoriales mineures. Elles confirment la distinction entre réflexivité, imitation et intérêt sans proposition indépendante. | Aucun nouvel identifiant ni doublon bibliographique ; rattachement à `pachet2008machines`. |
+| Pachet et Roy, *Hit Song Science Is Not Yet a Science* (2008), 6 p. | **fort, résultat négatif** | Sur 32 978 titres, 98 traits génériques, 98 traits spécifiques et 629 étiquettes humaines ne prédisent pas trois classes de popularité au-delà du hasard, alors que d'autres catégories subjectives sont apprenables. L'échec est donc propre à la cible, sans prouver l'impossibilité de toute prédiction. | `idea_0013`, `idea_0069` ; clé `pachetroy2008hitsong`. |
+| Pachet, *Hit Song Science* (2011), 22 p. | **fort, synthèse relationnelle** | L'exposition répétée, l'influence sociale cumulative et la boucle diffuseur-public rendent la popularité dynamique et contaminent le *ground truth*. Le chapitre rapporte aussi l'expérience de Draganoiu et al. sur la préférence des femelles canaris pour des trilles artificiellement au-delà des limites ordinaires de production. | `idea_0013`, `idea_0053`, `idea_0070`, `idea_0078` ; clé `pachet2011hitsong`. |
+| Aucouturier et Pachet, *Music Similarity Measures: What's the Use?* (2002), 7 p. | **fort, généalogique et conceptuel** | Une mesure de timbre peut être valide tout en produisant des rapprochements triviaux. L'effet Aha est recherché dans la contradiction entre similarité timbrale et attente textuelle. L'étude exploratoire à dix utilisateurs et les paramètres manuels limitent la portée empirique. | Nouvelle `idea_0152` ; `idea_0128`, `idea_0151`, `idea_0106` ; clé `aucouturier2002similarity`. |
+| Lerch et al., *Closed-loop Bird--Computer Interactions* (2011), 11 p. | **moyen à fort, méthodologique** | Des femelles canaris vocalisent davantage dans une interaction contingente que pendant le playback des mêmes appels (8,9 contre 3,13 vocalisations/minute, $n=7$, $p=0{,}016$). Le résultat porte sur la contingence sociale et non sur la virtuosité du chant. | `idea_0011`, `idea_0070` ; clé `lerch2011closedloop`. |
+
+Cette grappe précise trois corrections utiles. Une métrique valide peut manquer
+l'intéressant tout en devenant féconde lorsqu'elle est confrontée à une autre attente.
+Une cible comme la popularité n'est pas seulement bruyante : elle est partiellement
+produite par l'histoire de l'exposition et de la diffusion. Enfin, les deux dossiers
+animaux doivent rester distincts. La préférence pour des trilles artificiellement
+difficiles étaye le versant virtuosité ; le protocole en boucle fermée établit que la
+contingence de la relation modifie la conduite vocale.
+
 ## Premier résultat transversal
 
 La première grappe fait apparaître une généalogie interne plus précise que prévu. Les
@@ -139,7 +158,7 @@ sheets, les préférences croisent le niveau d'expérience des producteurs et de
 
 ## Lecture restant à faire
 
-218 PDF scientifiques directs restent à décider. Les prochains groupes à lire sont :
+211 PDF scientifiques directs restent à décider. Les prochains groupes à lire sont :
 
 1. préférence, popularité, timbre et extraction de traits ;
 2. interaction animale et éthologie artificielle ;

@@ -40,11 +40,12 @@ La section comprend actuellement :
 - `pachet1997representation` ;
 - `pachet1999active`, `pachet1999programs`, `pachet1999surprising` et
   `pachet2000melodie` ;
-- `pachet2002continuatorinteraction`, `pachet2004flowmachines`,
+- `aucouturier2002similarity`, `pachet2002continuatorinteraction`, `pachet2004flowmachines`,
   `pachet2004cybernetic`, `pachet2004childrenreflect`, `pachet2004reification`,
   `addessi2005experiments`, `pachet2006clefs`, `pachet2006creativity`,
   `pachet2006reflective`, `pachet2006interactionsreflexives`,
-  `addessi2006flowmachine`, `pachet2008machines`, `jones2009stimulating` et
+  `addessi2006flowmachine`, `pachet2008machines`, `pachetroy2008hitsong`,
+  `jones2009stimulating`, `pachet2011hitsong`, `lerch2011closedloop`,
   `pachet2011markov`, `barbieri2012lyrics` et `pachet2012virtuosity` ;
 - `papadopoulos2014avoiding`, `ghedini2015flowmachines`,
   `papadopoulos2016nonplagiaristic`, `papadopoulos2016flowcomposer`,
@@ -86,6 +87,7 @@ son rendu bibliographique reste reproductible.
 | `pachet1999surprising` | `input/publications-francois-pachet/pachet-99-Casys.pdf` | article relu ; distingue la surprise brute de la surprise compréhensible ou « prouvable » depuis des régularités et règles acquises |
 | `pachet1999active` | `input/publications-francois-pachet/pachet-99a.pdf` | chapitre relu ; déplace l'accès musical de la sélection d'items vers des parcours et espaces d'exploration sémantiquement contraints |
 | `pachet1999programs` | `input/publications-francois-pachet/pachet-99m.pdf` | article relu ; compromis entre répétition et surprise, continuité par similarité et variété par différence et cardinalité à l'échelle d'une séquence |
+| `aucouturier2002similarity` | `input/publications-francois-pachet/pachet-02g.pdf` | article relu ; une mesure valide peut rester triviale et devenir intéressante par contradiction entre proximité timbrale et attente textuelle |
 | `pachet2000melodie` | `input/publications-francois-pachet/pachet-06c.pdf` | article relu intégralement ; trois modèles objectifs de la mélodie intéressante et limite explicitement assumée de l'exclusion de l'auditeur |
 | `pachet2004flowmachines` | `input/publications-francois-pachet/pachet-04-designflowmachines.pdf` | chapitre relu ; observations du cycle surprise--excitation--concentration, de l'attention et de la réflexivité dans le Continuator |
 | `pachet2004cybernetic` | `input/publications-francois-pachet/pachet-03g.pdf` | article relu ; déplacement explicite du critère de conception, du matériau cohérent vers l'interaction intéressante |
@@ -98,6 +100,11 @@ son rendu bibliographique reste reproductible.
 | `pachet2006interactionsreflexives` | `input/publications-francois-pachet/pachet-06a.pdf` | communication relue ; système « marrant », activité autotélique et primat de la qualité de l'interaction sur son produit |
 | `addessi2006flowmachine` | `input/publications-francois-pachet/addessi-06c.pdf` | communication relue ; grille comportementale du flow sur neuf enfants et comparaison des tâches avec et sans Continuator |
 | `jones2009stimulating` | `input/publications-francois-pachet/jones-09a.pdf` | rapport relu ; niveau optimal de distorsion, indétermination productive et feedback continu |
+| `pachet2008machines` | `input/publications-francois-pachet/Pachet-08-Stiegler.pdf` | chapitre français relu ; création d'objets intéressants comme effet secondaire d'une interaction réflexive et distinction entre imitation immédiate et intérêt rétrospectif |
+| `pachetroy2008hitsong` | `input/publications-francois-pachet/pachet-08c.pdf` | article relu ; échec de traits audio et humains à prédire la popularité au-delà du hasard, malgré l'apprentissage d'autres étiquettes subjectives |
+| `pachet2011hitsong` | `input/publications-francois-pachet/pachet-11a.pdf` | chapitre relu ; cible popularité produite par l'exposition, l'influence sociale et la boucle diffuseur-auditeur ; discussion du cas de virtuosité des canaris |
+| `lerch2011closedloop` | `input/publications-francois-pachet/lerch-10a.pdf` | article relu ; davantage de vocalisations de femelles canaris en interaction contingente qu'en playback, sur un petit échantillon comparatif |
+| `pachet2026impossibilite` | `input/De l'impossibilité de créer.pdf` | manuscrit à paraître chez Matériologiques ; p. 50-53 du PDF, le cas des canaris relie préférence pour les chants impossibles, compétence vocale latente et hypothèse de résonance motrice ; cette dernière est une interprétation conceptuelle, non un résultat direct de l'expérience |
 | `pachet2011markov` | `input/publications-francois-pachet/pachet-09c.pdf` | article relu ; génération markovienne pilotable, recherche globale et séquences à faible probabilité sous contraintes arbitraires |
 | `barbieri2012lyrics` | `input/publications-francois-pachet/barbieri-12a.pdf` | article relu ; style local et contraintes globales de rime, mètre, syntaxe et sémantique dans la génération de paroles |
 | `papadopoulos2014avoiding` | `input/publications-francois-pachet/papadopoulos-14a.pdf` | article relu ; l'ordre de Markov ne borne pas la longueur copiée et la contrainte MAXORDER garantit une limite explicite |

@@ -124,6 +124,7 @@
 - `idea_0109` - Produire de l'intéressant exige souvent d'articuler sampling et résolution de contraintes.
 - `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
+- `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 
@@ -167,6 +168,7 @@
 - `idea_0105` - L'abondance transforme la sélection d'objets en construction de trajectoires.
 - `idea_0106` - Une similarité culturelle dépend du corpus interrogé, pas d'une vérité terrain unique.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
+- `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 
 ## Exemples et symptômes
 
@@ -213,6 +215,7 @@
 - `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
 - `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
+- `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0118` - Préférer un objet et le trouver intéressant sont deux relations distinctes.

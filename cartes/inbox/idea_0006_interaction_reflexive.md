@@ -16,6 +16,7 @@ sources:
   - "input/publications-francois-pachet/pachet-04-When.pdf"
   - "input/publications-francois-pachet/pachet-03g.pdf"
   - "input/publications-francois-pachet/pachet-06a.pdf"
+  - "input/publications-francois-pachet/Pachet-08-Stiegler.pdf"
 references:
   - pachet2004flowmachines
   - pachet2002continuatorinteraction
@@ -24,6 +25,7 @@ references:
   - pachet2004childrenreflect
   - pachet2004cybernetic
   - pachet2006interactionsreflexives
+  - pachet2008machines
 source_notes:
   - "Grant ERC PDF p. 4"
   - "Synopsis MIT Press, rendu PDF p. 4 et 36"
@@ -36,6 +38,7 @@ source_notes:
   - "When Children Reflect on Their Playing Style, PDF p. 15-18 : similarité, apprentissage implicite, incrémentalité et déplacement du centre d'attention du produit vers le sujet."
   - "Beyond the Cybernetic Jam Fantasy, PDF p. 4-5 : compromis réglable entre cohérence stylistique et réaction au contexte ; objectif déplacé de la production cohérente vers l'interaction intéressante."
   - "Interactions réflexives, PDF p. 1-2 et 10-12 : apprentissage mimétique inséré dans la boucle et activité autotélique dont la qualité compte davantage que le produit."
+  - "Des machines à sortir de soi, PDF p. 5-12 : l'imitation parfaite n'est pas le but ; les sessions lentes du Continuator ont produit après coup les pièces jugées les plus intéressantes, alors qu'elles réussissaient moins bien le test d'imitation immédiat."
 tags:
   - interaction
   - reflexivite
@@ -74,6 +77,13 @@ trop étrangère perd la reconnaissance du sujet. Entre les deux, la transformat
 produire un effet Aha : l'utilisateur reconnait soudain un motif ou une manière de jouer
 qui lui appartient, mais dont la réapparition ouvre une possibilité qu'il n'avait pas
 anticipée.
+
+Le retour rétrospectif de *Des machines à sortir de soi* renforce cette distinction.
+Les sessions qui satisfaisaient le mieux une épreuve d'imitation immédiate n'étaient
+pas nécessairement celles dont les enregistrements paraissaient ensuite les plus
+intéressants. Des interactions plus lentes, moins spectaculaires en démonstration,
+pouvaient produire un matériau plus riche. La performance mimétique et l'intérêt de
+la trajectoire doivent donc être évalués séparément.
 
 ## Intérêt pour la thèse
 

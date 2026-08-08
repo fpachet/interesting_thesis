@@ -539,6 +539,16 @@ surprise d'une part, continuité et variété d'autre part. Il renforce `idea_00
 formalise la différence et la variété. Vingt-cinq PDF sont désormais décidés et 218
 restent à lire.
 
+La sixième grappe décide sept PDF répartis en quatre dossiers. Les trois versions de
+l'argument réflexif sont comparées et rattachées à la source française canonique. Les
+deux textes sur la *Hit Song Science* donnent un résultat négatif sur la prédiction de
+popularité et reconstruisent la cible comme produit de l'exposition et de l'influence
+sociale. *Music Similarity Measures: What's the Use?* produit `idea_0152` : une mesure
+valide peut rester triviale, et devenir intéressante par sa confrontation à une autre
+attente. Enfin, l'expérience en boucle fermée sur les appels de femelles canaris est
+séparée du cas de préférence pour des trilles artificiellement difficiles. Trente-deux
+PDF sont désormais décidés et 211 restent à lire.
+
 ## Conclusion
 
 La couverture propositionnelle est maintenant établie pour les 32 rangs de

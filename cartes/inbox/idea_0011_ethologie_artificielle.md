@@ -10,16 +10,19 @@ sources:
   - "input/Montecchio_Roy_Pachet_2020_skipping_behavior.pdf"
   - "input/publications-francois-pachet/pachet-04j.pdf"
   - "input/publications-francois-pachet/addessi-06c.pdf"
+  - "input/publications-francois-pachet/lerch-10a.pdf"
 references:
   - montecchio2020skipping
   - addessi2005experiments
   - addessi2006flowmachine
+  - lerch2011closedloop
 source_notes:
   - "Grant ERC PDF p. 3-4"
   - "Projet SenseOfDirection, comportement de skip, rendu PDF p. 6"
   - "Montecchio, Roy et Pachet, Skip Profiles et relation entre comportement agrégé et structure musicale, PDF p. 1-15."
   - "Experiments with a Musical Machine, PDF p. 8-23 : observation vidéo, durées d'attention et séquences de conduites dans quatre tâches ; deux études de cas détaillées, neuf enfants ayant achevé le protocole."
   - "Young Children's Musical Experiences with a Flow Machine, PDF p. 3-7 : grille de neuf variables comportementales et accord inter-observateurs moyen de 80,55 %."
+  - "Closed-loop bird-computer interactions, PDF p. 4-9 : des femelles canaris vocalisent davantage dans une interaction contingente que pendant la diffusion des mêmes appels enregistrés ; petit échantillon comparatif de sept sujets répondeurs."
 tags:
   - ethologie_artificielle
   - methodologie
@@ -50,6 +53,13 @@ grille ultérieure code neuf variables de flow avec deux observateurs. Ce dispos
 reste exploratoire et porte sur neuf enfants ayant achevé le protocole ; il montre
 néanmoins pourquoi une conduite isolée ou une durée brute doit être replacée dans une
 trajectoire observable.
+
+L'expérience en boucle fermée avec des femelles canaris fournit un contrôle animal de
+la même exigence. À stimuli comparables, les oiseaux vocalisent davantage lorsque le
+dispositif répond de façon contingente que pendant un simple playback. La conduite
+observable renseigne ici sur la relation active, non sur une préférence abstraite pour
+un son ; l'effectif comparatif de sept répondeuses interdit toutefois une généralisation
+forte.
 
 ## Intérêt pour la thèse
 

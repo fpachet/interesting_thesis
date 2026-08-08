@@ -39,7 +39,7 @@ qui définit leurs données, hypothèses et limites.
 `idea_0069`, `idea_0070`, `idea_0072`, `idea_0097`, `idea_0100`, `idea_0106`,
 `idea_0130`, `idea_0150`.
 
-## Articulation (31)
+## Articulation (32)
 
 Propositions de second niveau reliant la pratique scientifique à l'enquête
 philosophique. Elles explicitent une conséquence, une limite, un présupposé ou une
@@ -51,7 +51,7 @@ faire de ceux-ci une preuve directe d'une ontologie de l'intéressant.
 `idea_0086`, `idea_0088`, `idea_0094`, `idea_0095`, `idea_0096`, `idea_0098`,
 `idea_0099`, `idea_0102`, `idea_0104`, `idea_0109`, `idea_0110`, `idea_0127`,
 `idea_0128`, `idea_0145`, `idea_0146`, `idea_0147`, `idea_0148`, `idea_0149`,
-`idea_0151`.
+`idea_0151`, `idea_0152`.
 
 Les cartes pivots de ce niveau sont `idea_0018`, `idea_0088`, `idea_0109` et
 `idea_0110`. La classification reste révisable : une carte doit changer de niveau

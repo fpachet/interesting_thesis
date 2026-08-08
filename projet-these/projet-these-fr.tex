@@ -10,7 +10,7 @@
 \usepackage[autostyle]{csquotes}
 \usepackage[hidelinks]{hyperref}
 \usepackage{amsmath}
-\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=12]{biblatex}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=12,pagetracker=false]{biblatex}
 \addbibresource{../bibliographie/references.bib}
 
 \setlength{\parindent}{0pt}
@@ -19,7 +19,7 @@
 \setlist[enumerate]{leftmargin=1.8em,itemsep=0.5em,topsep=0.4em}
 
 \newcommand{\projectversion}{6}
-\newcommand{\projectdate}{7 août 2026}
+\newcommand{\projectdate}{8 août 2026}
 
 \title{L'émergence de l'intéressant\\
 \large Naissance des idées, compréhension et singularité des formes}
@@ -691,6 +691,8 @@ pachet2002continuatorinteraction,pachet2004flowmachines,pachet2004reification,
 pachet2004cybernetic,pachet2004childrenreflect,addessi2005experiments,
 pachet2006clefs,pachet2006creativity,pachet2006reflective,pachet2008machines,
 jones2009stimulating,pachet2006interactionsreflexives,addessi2006flowmachine,
+aucouturier2002similarity,pachetroy2008hitsong,pachet2011hitsong,
+lerch2011closedloop,
 pachet2012virtuosity,martin2016creativeprocess,
 pachet2021assisted,pachet2026markov}.
 Ils rendent explicites des opérations souvent laissées implicites :
@@ -711,6 +713,55 @@ et le système, en comparant à la fois sa production et l'expérience du sujet 
 une condition sans système. L'expérience de composition par feedback montre en
 outre que l'accord esthétique dépend de l'expérience des juges : agréger des
 notes ne supprime donc pas l'horizon depuis lequel elles sont produites.
+
+Les systèmes réflexifs ajoutent une distinction entre imitation et intérêt.
+
+Dans \emph{Des machines à sortir de soi}, les objets intéressants sont décrits comme
+des effets secondaires d'une interaction avec une image imparfaite et
+continuellement révisée du sujet. Les sessions du Continuator qui réussissaient
+le mieux l'imitation immédiate n'étaient pas nécessairement celles dont les
+enregistrements paraissaient ensuite les plus intéressants
+\parencite{pachet2008machines}. Une mesure de performance locale peut donc
+manquer la fécondité rétrospective de la trajectoire.
+
+Un travail antérieur sur la similarité formule une limite analogue plus
+directement encore. Une mesure timbrale peut être valide tout en renvoyant des
+rapprochements triviaux ; l'effet Aha apparaît lorsque cette proximité contredit
+une attente construite par les métadonnées textuelles
+\parencite{aucouturier2002similarity}. L'évaluation auprès de dix utilisateurs et
+les niveaux de confiance définis à la main interdisent d'en faire une théorie
+générale. Le cas anticipe néanmoins la thèse relationnelle : l'intéressant ne se
+trouve pas dans une mesure isolée, mais dans ce que son écart à une autre attente
+fait comprendre à un sujet.
+
+Les travaux sur la \emph{Hit Song Science} fournissent quant à eux un résultat
+négatif instructif. Sur 32 978 titres, des descripteurs audio et des centaines
+d'étiquettes humaines ne classent pas la popularité au-delà du hasard, alors que
+d'autres propriétés subjectives sont apprenables sur les mêmes données
+\parencite{pachetroy2008hitsong}. Le chapitre de synthèse montre pourquoi la cible
+est instable : exposition répétée, information sociale et décisions de diffusion
+participent à produire le succès qu'elles servent ensuite à prédire
+\parencite{pachet2011hitsong}. Ce résultat ne prouve pas que les propriétés de la
+forme sont sans effet ; il interdit de traiter la popularité comme une propriété
+intrinsèque et indépendante de son histoire.
+
+Deux expériences sur les canaris permettent enfin de séparer virtuosité et
+interaction. Le chapitre précédent rapporte une étude où les femelles préfèrent
+des trilles artificiels combinant largeur de bande et vitesse au-delà des limites
+ordinaires de production : ce cas soutient une sensibilité à la difficulté du
+geste, sans démontrer la résonance motrice supposée par la notion de
+difficultuosité. \emph{De l'impossibilité de créer} développe précisément cette
+interprétation personnelle : puisque les femelles possèdent une compétence vocale
+latente, elles pourraient évaluer le chant entendu relativement à un corps possible,
+et non par une mesure acoustique isolée \parencite{pachet2026impossibilite}. Cette
+hypothèse conceptuelle doit rester distinguée du résultat expérimental. Dans une
+autre étude, des femelles vocalisent davantage lorsque
+la réponse informatique est contingente que pendant la diffusion des mêmes
+appels enregistrés (8,9 contre 3,13 vocalisations par minute chez sept sujets
+répondeurs) \parencite{pachet2011hitsong,lerch2011closedloop}. Le second résultat
+porte sur la relation active, non sur la virtuosité ; leur rapprochement montre
+deux manières complémentaires de fabriquer expérimentalement une situation où
+une préférence ou un engagement devient observable.
 
 Un jalon antérieur formalise déjà l'intéressant comme tension plutôt que comme
 maximum scalaire. \textcite{pachet1999programs} ramènent le choix musical à deux
@@ -948,7 +999,9 @@ conditions d'une axiomatique minimale.
         formes de virtuosité et introduit la difficultuosité ainsi que la
         chalépodoxie.
   \item \textcite{pachet2026impossibilite} examine les obstacles scientifiques
-        et conceptuels à l'idée de créer du nouveau.
+        et conceptuels à l'idée de créer du nouveau ; le cas des canaris y sert à
+        formuler la difficultuosité comme relation entre geste perçu, compétence
+        corporelle latente et coût supposé de la production.
   \item \textcite{pachet2026markov} synthétise les travaux sur la modélisation
         markovienne et la génération contrôlée par contraintes.
   \item \textcite{pachet2011markov}, \textcite{barbieri2012lyrics} et
@@ -980,7 +1033,19 @@ conditions d'une axiomatique minimale.
         une déformation réglée entre répétition et étrangeté, capable d'ouvrir de
         nouvelles directions d'exploration.
   \item \textcite{pachet2008machines} présente les systèmes réflexifs comme des
-        machines favorisant la sortie de soi.\par
+        machines favorisant la sortie de soi, et les objets intéressants comme
+        effets secondaires d'une interaction avec une image imparfaite du sujet.\par
+  \item \textcite{aucouturier2002similarity} distingue la validité d'une mesure
+        de son utilité et situe un effet Aha dans la contradiction entre
+        similarité timbrale et attente textuelle.
+  \item \textcite{pachetroy2008hitsong} et \textcite{pachet2011hitsong}
+        établissent les limites de la prédiction de popularité et reconstruisent
+        la cible comme produit conjoint de la forme, de l'exposition et de
+        l'influence sociale ; le chapitre discute aussi le cas des trilles
+        artificiellement difficiles chez les canaris.
+  \item \textcite{lerch2011closedloop} montre, dans un protocole distinct sur les
+        appels de femelles canaris, que l'interaction contingente suscite davantage
+        de vocalisations que le playback des mêmes stimuli.
   \item \textcite{pachet2006creativity} définit la créativité comme le sentiment
         situé de produire quelque chose de nouveau et d'intéressant et déplace
         l'unité d'analyse vers le couple humain--machine.

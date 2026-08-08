@@ -74,6 +74,7 @@ distinction centrale.
 - `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
 - `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
+- `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 
 Ces cartes reçoivent le statut `CASE` non comme exemples périphériques, mais parce
 qu'elles réalisent sur des travaux scientifiques précis la méthode réflexive formulée

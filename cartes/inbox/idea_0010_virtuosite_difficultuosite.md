@@ -9,9 +9,10 @@ sources:
   - "input/ESSAI-La Virtuosité à portée des caniches-F. PACHET.pdf"
   - "input/ERCGrantPachetInterestingness.pdf"
 references:
+  - pachet2026impossibilite
   - pachet2027virtuosite
 source_notes:
-  - "De l'impossibilité de créer, PDF p. 46-58"
+  - "De l'impossibilité de créer, PDF p. 45-59 ; le cas des canaris et la difficultuosité comme relation entre geste perçu et corps possible sont développés p. 50-53 (pages imprimées 49-52)."
   - "La Virtuosité à portée des caniches, PDF p. 13-16"
   - "Grant ERC PDF p. 4 et 6"
 tags:

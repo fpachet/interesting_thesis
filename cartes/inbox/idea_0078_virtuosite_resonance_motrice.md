@@ -6,8 +6,13 @@ level: conceptual
 status: inbox
 sources:
   - "input/De l'impossibilité de créer.pdf"
+  - "input/publications-francois-pachet/pachet-11a.pdf"
+references:
+  - pachet2026impossibilite
+  - pachet2011hitsong
 source_notes:
-  - "PDF p. 51-53"
+  - "De l'impossibilité de créer, PDF p. 50-53 (pages imprimées 49-52) : les chants impossibles, la compétence vocale latente des femelles et l'hypothèse d'une résonance motrice fondent la difficultuosité comme relation entre geste perçu et corps possible."
+  - "Hit Song Science, PDF p. 7-8 : discussion de Draganoiu et al. (2002), où des femelles canaris préfèrent des phrases artificielles combinant largeur de bande et vitesse de trille au-delà des limites ordinaires de production."
 tags:
   - virtuosite
   - corps
@@ -25,6 +30,15 @@ caractère impossible des trilles qu'elles préfèrent.
 La difficultuosité est alors une relation entre un geste perçu et un corps possible. Une
 performance séduit parce que le public sait, au moins en puissance, ce qu'elle coûterait
 et jusqu'où elle dépasse une norme corporelle partagée.
+
+La source éthologique établit la préférence pour un signal qui maximise deux contraintes
+de production antagonistes, largeur de bande et vitesse de trille. Elle soutient donc
+l'idée d'une sensibilité à la difficulté du geste. Elle ne démontre pas, en revanche,
+que les femelles simulent ce geste dans leur propre appareil moteur : cette résonance
+corporelle demeure une hypothèse philosophique et empirique. *De l'impossibilité de
+créer* en donne la formulation personnelle développée : le chant latent des femelles
+rend plausible une comparaison interne avec leurs capacités corporelles, puis généralise
+ce schème à tout public capable d'estimer ce qu'un geste lui coûterait.
 
 ## Intérêt pour la thèse
 

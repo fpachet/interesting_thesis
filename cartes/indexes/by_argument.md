@@ -161,7 +161,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
 
-## 6. IA, interaction et méthode réflexive (18)
+## 6. IA, interaction et méthode réflexive (19)
 
 ### Pivots
 
@@ -187,6 +187,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
 - `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
 - `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
+- `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 
 ### Cadre philosophique et limite épistémologique
 
@@ -240,6 +241,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 10, 22, 27, 32, 10, 18, 11 et 18
-cartes, soit les 148 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 10, 22, 27, 32, 10, 19, 11 et 18
+cartes, soit les 149 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.
