@@ -135,6 +135,7 @@
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 - `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
 - `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
+- `idea_0158` - Une intelligence inventive doit articuler exploration en largeur et résolution en profondeur.
 
 ## Interaction et systèmes réflexifs
 
@@ -156,6 +157,7 @@
 - `idea_0147` - L'unité expérimentale de l'intéressant interactif est le couple sujet-système.
 - `idea_0148` - Le consensus esthétique apparent dépend de l'horizon d'expertise des juges.
 - `idea_0149` - Les temps morts peuvent maintenir l'intérêt en réajustant la relation.
+- `idea_0158` - Une intelligence inventive doit articuler exploration en largeur et résolution en profondeur.
 
 ## Exploration, similarité, parcours
 

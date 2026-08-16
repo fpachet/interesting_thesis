@@ -311,7 +311,7 @@ résolution n’a pas été tentée.
 | FP-146 |  | Arxiv | arxiv:2606.24911 | lien indirect à résoudre |
 | FP-147 |  | Arxiv | François Pachet, Indirect Access, Model-Level Substitution, and Copyright’s Work-Level Gap, in progress | aucun lien |
 | FP-148 |  | Arxiv | arXiv:2605.07839 | lien indirect à résoudre |
-| FP-149 |  | Arxiv | arXiv:2603.22558 | lien indirect à résoudre |
+| FP-149 | 2026 | Arxiv | arXiv:2604.07855 | déjà présent |
 | FP-150 | 2026 | Arxiv | arXiv:2603.22558 | lien indirect à résoudre |
 | FP-151 | 2022 | Arxiv | arXiv:2206.03224 | lien indirect à résoudre |
 | FP-152 | 2006 | Arxiv | arXiv:2006.09232 | lien indirect à résoudre |

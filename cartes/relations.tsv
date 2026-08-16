@@ -42,6 +42,10 @@ idea_0100	specifies	idea_0017	Precise quand une contrainte est calculable par et
 idea_0098	limits	idea_0017	La validite contrainte ne suffit pas a produire une bonne solution.
 idea_0103	bridges	idea_0109	Situe la generation entre ordre fixe et hasard.
 idea_0016	supports	idea_0109	Formule le besoin d'un sens global de la direction.
+idea_0158	specifies	idea_0109	Généralise le couplage sampling-contraintes en boucle entre proposition, résolution vérifiable et révision de la représentation.
+idea_0100	supports	idea_0158	Montre que changer la représentation conjointe peut modifier la difficulté pratique de la recherche.
+idea_0158	bridges	idea_0085	Situe une part de l'invention dans la formulation du problème, des invariants et des abstractions qui rendent sa solution accessible.
+idea_0098	limits	idea_0158	Une solution vérifiée ne suffit pas à garantir qu'elle soit bonne ou intéressante.
 idea_0153	specifies	idea_0005	Remplace la surprise brute par une irrégularité explicable depuis une régularité identifiable.
 idea_0153	illustrates	idea_0103	Situe l'élément informatif entre ordre parfait et arbitraire pur.
 idea_0153	limits	idea_0027	Montre que la rareté ou l'irrégularité seules ne suffisent pas sans structure explicative.

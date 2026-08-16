@@ -96,7 +96,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0117` - L'intéressant permet d'étudier l'attachement sans le confondre avec un jugement moral.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 
-## 4. Forme, problème, contrainte et nécessité (32)
+## 4. Forme, problème, contrainte et nécessité (33)
 
 ### Pivots
 
@@ -134,6 +134,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0103` - La contrainte ouvre un espace d'exploration entre ordre fixe et hasard.
 - `idea_0150` - Une séquence peut être statistiquement nouvelle et pourtant copier le corpus.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
+- `idea_0158` - Une intelligence inventive doit articuler exploration en largeur et résolution en profondeur.
 
 ### Rareté, genèse et objection
 
@@ -246,6 +247,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 11, 23, 27, 32, 10, 19, 12 et 20
-cartes, soit les 154 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 11, 23, 27, 33, 10, 19, 12 et 20
+cartes, soit les 155 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

@@ -113,6 +113,6 @@ propositionnelle intégrale. Les deux MP3 ont
 été vérifiés comme fichiers distincts et décodables ; une analyse harmonique ne
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
-Le corpus comprend désormais 154 cartes. L'organisation argumentative reste l'activité
+Le corpus comprend désormais 155 cartes. L'organisation argumentative reste l'activité
 principale. La revue des publications personnelles est close après 35 décisions ; les
 208 autres PDF ne sont ni programmés ni déclarés non pertinents.
