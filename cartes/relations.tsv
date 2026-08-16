@@ -235,3 +235,11 @@ idea_0152	illustrates	idea_0006	L'effet Aha rend observable la reconnaissance d'
 idea_0155	specifies	idea_0130	Distingue la polysémie lexicale d'intérêt et les fonctions pragmatiques de l'énoncé « c'est intéressant ».
 idea_0155	limits	idea_0132	Un emploi conversationnel d'« intéressant » peut marquer la réserve ou clore l'échange sans recommander sincèrement une enquête future.
 idea_0155	illustrates	idea_0128	Le mot employé comme indicateur peut se substituer à la relation d'intérêt qu'il était censé mesurer.
+idea_0156	specifies	idea_0096	La rareté devient une probabilité située inférieure à un seuil, distinguée du volume brut par le nombre effectif de directions explorées.
+idea_0156	supports	idea_0140	Une faible qualité moyenne doit être décrite avant d'être attribuée à une faute morale ou politique du système.
+idea_0156	limits	idea_0074	L'abondance n'est appauvrissante que si elle homogénéise l'exploration ou monopolise l'exposition, non parce qu'elle comprend des échecs.
+idea_0105	specifies	idea_0156	Les trajectoires sélectives protègent l'attention à la réception sans interdire les essais à la production.
+idea_0157	limits	idea_0156	Le coût normal de l'exploration ne justifie pas la répétition optimisée ni la domination de l'exposition.
+idea_0157	specifies	idea_0074	Distingue la quantité de sorties de la diversité effective des directions explorées.
+idea_0157	specifies	idea_0093	Réserve le terme manipulation aux effets causalement établis qui exploitent une asymétrie pertinente.
+idea_0023	illustrates	idea_0157	Un contenu sans valeur peut devenir saillant par son agencement sans que sa médiocrité établisse une manipulation.

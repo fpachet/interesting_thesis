@@ -28,6 +28,12 @@ uniquement par l'optimisation de l'engagement. Des systèmes qui favorisent l'ex
 et la création active pourraient exercer d'autres formes d'attention que la consommation
 passive de flux.
 
+Cette fabrication ne doit toutefois pas être appelée manipulation par définition. Pour
+établir celle-ci, il faut isoler un dispositif, montrer son effet causal par comparaison
+contrefactuelle et préciser l'asymétrie par laquelle il dissimule ses fins, contourne les
+raisons du sujet ou contrarie ses préférences réfléchies. La médiation forme toujours
+l'attention ; elle ne la manipule pas toujours.
+
 ## Intérêt pour la thèse
 
 Cette hypothèse relie l'intéressant à la formation historique de l'attention et donne
@@ -37,3 +43,4 @@ une portée normative au design des systèmes culturels.
 
 - Complète la temporalité de `idea_0001`.
 - S'oppose à la fluidité performative de `idea_0092`.
+- `idea_0157` distingue formation, captation et manipulation de l'attention.

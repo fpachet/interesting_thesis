@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 152 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 98 `conceptual`, 20 `scientific` et 34
+Les 154 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 100 `conceptual`, 20 `scientific` et 34
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -409,6 +409,18 @@ modèle de Markov borne son contexte d'apprentissage, mais non la longueur des f
 du corpus que la génération peut reconstituer. La contrainte de non-copie et
 l'échantillonnage exact sont conservés comme résultats scientifiques ; la carte précise
 explicitement qu'ils ne suffisent à garantir ni l'originalité forte ni l'intéressant.
+
+`idea_0156` et `idea_0157` ont été ajoutées à partir d'une proposition de François
+Pachet sur la rareté de l'intéressant et la nécessité de la médiocrité dans une société
+libre. La première rend l'intuition réfutable en définissant la rareté dans une
+distribution située et en prédisant le compromis entre qualité moyenne, diversité et
+queue supérieure sous filtrage ex ante. La seconde empêche cette proposition de devenir
+une apologie de la surabondance : elle oppose le coût d'une exploration incertaine à la
+répétition optimisée pour dominer l'exposition. Debord, Muray et Stiegler servent de
+contrepoint documenté, sans être regroupés abusivement sous une doctrine technophobe ;
+le caractère pharmacologique de la technique chez Stiegler est conservé. Le terme
+« manipulation » reçoit des critères causaux et normatifs distincts de la qualité du
+contenu.
 
 ## Identifiants retires
 

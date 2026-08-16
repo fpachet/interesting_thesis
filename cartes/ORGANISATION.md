@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   152 cartes y sont affectées une seule fois à huit familles.
+   154 cartes y sont affectées une seule fois à huit familles.
 3. `indexes/by_architecture.md` hiérarchise provisoirement les propositions selon
    leur rôle dans la démonstration ; sa première passe retient quinze cartes `CORE`.
 4. `relations.tsv` décrit un premier ensemble de relations directionnelles et
@@ -149,6 +149,11 @@ nécessité inventée (0085)
   -> solution rare d'un problème implicite (0096)
   -> articulation sampling / contraintes (0109)
 
+rareté relationnelle dans une distribution située (0156)
+  -> médiocrité comme coût d'une exploration libre (0156)
+  -> distinction entre exploration et exploitation répétitive (0157)
+  -> production ouverte et exposition sélective (0105, 0093)
+
 musique comme laboratoire (0086)
   -> attentes (0038)
   -> micro-émotions et variations (0112, 0113, 0114)
@@ -215,6 +220,8 @@ Ces groupes sont proches mais ne doivent pas encore être fusionnés :
   presque-apprenable et stabilisation langagière de l'acquis ;
 - `idea_0005` et `idea_0115` : insuffisance de la surprise et faux positif produit
   par l'attention.
+- `idea_0074`, `idea_0156` et `idea_0157` : surabondance homogénéisante, coût
+  statistique de l'exploration et répétition optimisée pour l'exposition.
 
 ## Questions ouvertes
 
@@ -229,6 +236,10 @@ Ces groupes sont proches mais ne doivent pas encore être fusionnés :
   `idea_0115` ?
 - Quelles constructions scientifiques soutiennent vraiment une articulation
   philosophique, et lesquelles ne sont que des analogies suggestives ?
+- Comment fixer une règle d'échantillonnage et un seuil de prise qui rendent la rareté
+  de `idea_0156` mesurable sans réifier l'intéressant dans l'objet ?
+- Un filtrage ex ante peut-il relever la qualité moyenne sans réduire la diversité ni
+  perdre les réussites rares que prédit `idea_0156` ?
 
 ## Règle de maintenance
 

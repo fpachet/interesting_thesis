@@ -216,7 +216,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0090` - L'expertise dissipe le mystère d'une performance mais peut approfondir l'admiration.
 - `idea_0154` - La virtuosité distribue l'intention entre un flux incorporé et des décisions de haut niveau.
 
-## 8. Culture, langage et politique de l'attention (18)
+## 8. Culture, langage et politique de l'attention (20)
 
 ### Culture, abondance et circulation
 
@@ -226,6 +226,8 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0055` - Le créateur veut circuler sans être dissous.
 - `idea_0056` - La création contemporaine est distribuée.
 - `idea_0073` - Appeler une œuvre contenu la transforme en substance interchangeable.
+- `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
+- `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
 
 ### Langage, séduction et résistance
 
@@ -244,6 +246,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 11, 23, 27, 32, 10, 19, 12 et 18
-cartes, soit les 152 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 11, 23, 27, 32, 10, 19, 12 et 20
+cartes, soit les 154 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

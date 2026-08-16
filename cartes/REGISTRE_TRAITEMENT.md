@@ -80,6 +80,7 @@ La séquence de reprise systématique est définie dans
 | `input/old_docs/Lenat and interestingness.eml` | couverture_propositionnelle_complete | Courriel intégral relu ; deux lignes substantielles, attribution et absence de démonstration explicitées dans la carte. | `idea_0030` |
 | `input/old_docs/interestingness ERC.docx` | conteneur_vide_verifie | Structure OOXML inspectée : paragraphe vide, aucun media ni objet incorpore ; rendu contrôle, une page blanche. | - |
 | `input/old_docs/interestingness.zip` | dezippe_puis_supprime | Archive dézippée dans `input/old_docs/interestingness/`, puis zip supprimé comme doublon. Fichiers texte uniques lus, `.ps` et doublons exacts supprimés, intégrité des deux MP3 vérifiée. | `idea_0031`, `idea_0032`, `idea_0034`, `idea_0035`, `idea_0036`, `idea_0037`, `idea_0038`, `idea_0039`, `idea_0040` |
+| `docs/notes/rarete-interessant-mediocrite-liberte.md` | note_personnelle_documentee | Proposition du 16 août 2026 développée en hypothèse située, distinction entre médiocrité exploratoire et exploitation répétitive, critères de manipulation, prédictions et protocoles ; cadrage contrôlé sur Debord, Muray, Stiegler et le manuscrit *De l'impossibilité de créer*. | `idea_0156`, `idea_0157` créées ; `idea_0074`, `idea_0093`, `idea_0105`, `idea_0140` renforcées |
 
 ## Détail du zip dézippé
 
@@ -112,6 +113,6 @@ propositionnelle intégrale. Les deux MP3 ont
 été vérifiés comme fichiers distincts et décodables ; une analyse harmonique ne
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
-Le corpus comprend désormais 152 cartes. L'organisation argumentative reste l'activité
+Le corpus comprend désormais 154 cartes. L'organisation argumentative reste l'activité
 principale. La revue des publications personnelles est close après 35 décisions ; les
 208 autres PDF ne sont ni programmés ni déclarés non pertinents.

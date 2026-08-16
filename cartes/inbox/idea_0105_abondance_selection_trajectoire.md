@@ -47,3 +47,5 @@ reformule la recommandation comme composition.
 
 - Développe `idea_0001` et le dispositif de `idea_0032`.
 - Donne sa motivation pratique au parcours de `idea_0014`.
+- Complète `idea_0156` : préserver les essais médiocres à la production exige de
+  protéger l'attention par des trajectoires sélectives à la réception.

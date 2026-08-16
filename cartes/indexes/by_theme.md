@@ -93,6 +93,7 @@
 - `idea_0045` - On ne se chatouille pas soi-même.
 - `idea_0047` - Les inventions impensables perdent leur force en advenant.
 - `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
+- `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
 
 ## Création, contrainte, impossibilité
 
@@ -132,6 +133,8 @@
 - `idea_0154` - La virtuosité distribue l'intention entre un flux incorporé et des décisions de haut niveau.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
+- `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
+- `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
 
 ## Interaction et systèmes réflexifs
 
@@ -174,6 +177,8 @@
 - `idea_0106` - Une similarité culturelle dépend du corpus interrogé, pas d'une vérité terrain unique.
 - `idea_0151` - L'intéressant peut être modélisé comme un compromis entre contraintes antagonistes.
 - `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
+- `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
+- `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
 
 ## Exemples et symptômes
 
@@ -204,6 +209,7 @@
 - `idea_0066` - Une démocratie tient par résistance à la glisse.
 - `idea_0092` - Les réseaux sociaux enseignent à paraître maître en punissant l'hésitation.
 - `idea_0095` - Un modèle trop général de l'intéressant devient difficile à falsifier et inutile pour produire.
+- `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
 
 ## Méthode et réflexivité de la thèse
 

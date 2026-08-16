@@ -109,3 +109,7 @@ La formulation méthodologique pourrait être :
   description génétique.
 - `idea_0093` : la politique de l'attention réintroduit ensuite la question de la
   captation et de ses effets.
+- `idea_0156` : la rareté doit d'abord être décrite dans une distribution située avant
+  de condamner moralement sa faible qualité moyenne.
+- `idea_0157` : l'évaluation distingue ensuite l'échec exploratoire, l'exploitation
+  répétitive et la manipulation causalement établie.
