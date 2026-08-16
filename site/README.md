@@ -55,5 +55,7 @@ push sur `main` régénère `site/dist/`, prépare l'artefact GitHub Pages puis 
 Le workflow peut aussi être lancé manuellement avec `workflow_dispatch`. Il n'est donc
 pas nécessaire de versionner `site/dist/`.
 
-Les fichiers de `input/` sont copiés sous `documents/input/` pendant la génération afin
-que les provenances indiquées sur les cartes soient directement consultables.
+Les fichiers disponibles dans `input/` sont copiés sous `documents/input/` pendant la
+génération. Lorsqu'un fichier local n'est pas versionné, le générateur utilise l'URL
+publique de sa notice bibliographique. Une provenance sans fichier ni URL reste
+affichée comme telle, sans bloquer la publication du site.

@@ -553,13 +553,18 @@ def document_href(source: str, prefix: str) -> str:
     return f"{prefix}documents/{quote(normalized_source_path(source), safe='/')}"
 
 
-def resolve_repository_path(source: str) -> Path:
+def resolve_repository_path(source: str) -> Path | None:
+    parsed = urlsplit(source)
+    if parsed.scheme or parsed.netloc:
+        return None
     current = ROOT
     for part in Path(source).parts:
         exact = current / part
         if exact.exists():
             current = exact
             continue
+        if not current.is_dir():
+            return None
         normalized_part = unicodedata.normalize("NFC", part)
         matches = [
             child
@@ -567,9 +572,37 @@ def resolve_repository_path(source: str) -> Path:
             if unicodedata.normalize("NFC", child.name) == normalized_part
         ]
         if len(matches) != 1:
-            raise ValueError(f"Document public introuvable : {source}")
+            return None
         current = matches[0]
     return current
+
+
+def bibliography_url_for_source(
+    source: str, bibliography: dict[str, BibliographyEntry]
+) -> str | None:
+    normalized_source = normalized_source_path(source)
+    for entry in bibliography.values():
+        local_file = entry.fields.get("file")
+        public_url = entry.fields.get("url")
+        if (
+            local_file
+            and public_url
+            and normalized_source_path(local_file) == normalized_source
+        ):
+            return public_url
+    return None
+
+
+def document_access(
+    source: str,
+    prefix: str,
+    bibliography: dict[str, BibliographyEntry],
+) -> tuple[str | None, bool]:
+    local_path = resolve_repository_path(source)
+    if local_path is not None and local_path.is_file():
+        return document_href(source, prefix), False
+    public_url = bibliography_url_for_source(source, bibliography)
+    return public_url, bool(public_url)
 
 
 def local_card_link_paths(cards: dict[str, Card]) -> set[Path]:
@@ -659,10 +692,21 @@ def format_reference(entry: BibliographyEntry) -> str:
     return ". ".join(part.rstrip(".") for part in parts if part) + "."
 
 
-def source_link(source: str, prefix: str) -> str:
+def source_link(
+    source: str,
+    prefix: str,
+    bibliography: dict[str, BibliographyEntry],
+) -> str:
     name = Path(source).name
-    return f"""<a class="source-link" href="{document_href(source, prefix)}">
-      <strong>{html.escape(name)}</strong><small>{html.escape(source)}</small><span>Consulter le document →</span>
+    access_url, external = document_access(source, prefix, bibliography)
+    if access_url is None:
+        return f"""<div class="source-link source-link--unavailable">
+      <strong>{html.escape(name)}</strong><small>{html.escape(source)}</small><span>Document non publié</span>
+    </div>"""
+    external_attributes = ' target="_blank" rel="noopener"' if external else ""
+    label = "Consulter en ligne →" if external else "Consulter le document →"
+    return f"""<a class="source-link" href="{html.escape(access_url, quote=True)}"{external_attributes}>
+      <strong>{html.escape(name)}</strong><small>{html.escape(source)}</small><span>{label}</span>
     </a>"""
 
 
@@ -1082,7 +1126,10 @@ def card_page(
         incoming_html = "".join(relation_item(relation, "in") for relation in incoming)
         relation_html = f"""<section class="card-relations"><div class="section-heading"><p class="eyebrow">Graphe argumentatif</p><h2>Relations fortes</h2></div><div class="relation-columns">{f'<div><h3>Cette carte…</h3><ul>{outgoing_html}</ul></div>' if outgoing else ''}{f'<div><h3>D’autres cartes…</h3><ul>{incoming_html}</ul></div>' if incoming else ''}</div></section>"""
 
-    sources_html = "".join(f"<li>{source_link(source, '../../')}</li>" for source in card.sources)
+    sources_html = "".join(
+        f"<li>{source_link(source, '../../', bibliography)}</li>"
+        for source in card.sources
+    )
     refs_html = "".join(
         f'<li><a class="card-reference-link" href="{bibliography_href(reference, "../../")}"><span>{html.escape(reference)}</span><strong>{html.escape(short_reference(bibliography[reference]))}</strong></a></li>'
         for reference in card.references
@@ -1199,8 +1246,18 @@ def bibliography_page(
     )
 
 
-def reference_page(entry: BibliographyEntry, linked_cards: list[Card]) -> str:
+def reference_page(
+    entry: BibliographyEntry,
+    linked_cards: list[Card],
+    bibliography: dict[str, BibliographyEntry],
+) -> str:
     fields = entry.fields
+    file_access_url: str | None = None
+    file_access_external = False
+    if fields.get("file"):
+        file_access_url, file_access_external = document_access(
+            fields["file"], "../../", bibliography
+        )
     metadata_parts = []
     for name, value in fields.items():
         rendered_value = html.escape(value)
@@ -1208,22 +1265,33 @@ def reference_page(entry: BibliographyEntry, linked_cards: list[Card]) -> str:
             rendered_value = f'<a href="https://doi.org/{html.escape(value, quote=True)}">{html.escape(value)}</a>'
         elif name == "url":
             rendered_value = f'<a href="{html.escape(value, quote=True)}">{html.escape(value)}</a>'
-        elif name == "file":
-            rendered_value = f'<a href="{document_href(value, "../../")}">{html.escape(value)}</a>'
+        elif name == "file" and file_access_url:
+            external_attributes = (
+                ' target="_blank" rel="noopener"' if file_access_external else ""
+            )
+            rendered_value = (
+                f'<a href="{html.escape(file_access_url, quote=True)}"'
+                f'{external_attributes}>{html.escape(value)}</a>'
+            )
         metadata_parts.append(
             f"<dt>{html.escape(BIBLIOGRAPHY_FIELD_LABELS.get(name, name.title()))}</dt><dd>{rendered_value}</dd>"
         )
     metadata_rows = "".join(metadata_parts)
     actions = []
-    if fields.get("file"):
+    if file_access_url:
+        external_attributes = (
+            ' target="_blank" rel="noopener"' if file_access_external else ""
+        )
+        label = "Ouvrir le document en ligne" if file_access_external else "Ouvrir le document"
         actions.append(
-            f'<a class="button button--primary" href="{document_href(fields["file"], "../../")}">Ouvrir le document</a>'
+            f'<a class="button button--primary" href="{html.escape(file_access_url, quote=True)}"'
+            f'{external_attributes}>{label}</a>'
         )
     if fields.get("doi"):
         actions.append(
             f'<a class="button" href="https://doi.org/{html.escape(fields["doi"], quote=True)}">Consulter via le DOI</a>'
         )
-    if fields.get("url"):
+    if fields.get("url") and fields["url"] != file_access_url:
         actions.append(
             f'<a class="button" href="{html.escape(fields["url"], quote=True)}">Consulter la page officielle</a>'
         )
@@ -1534,8 +1602,8 @@ def build(output: Path) -> None:
     )
     for source in source_paths:
         origin = resolve_repository_path(source)
-        if not origin.is_file():
-            raise ValueError(f"Document public introuvable : {source}")
+        if origin is None or not origin.is_file():
+            continue
         destination = output / "documents" / normalized_source_path(source)
         destination.parent.mkdir(parents=True, exist_ok=True)
         if not destination.exists():
@@ -1586,7 +1654,7 @@ def build(output: Path) -> None:
     for entry in bibliography.values():
         write_page(
             output / "bibliographie" / entry.key / "index.html",
-            reference_page(entry, cards_by_reference.get(entry.key, [])),
+            reference_page(entry, cards_by_reference.get(entry.key, []), bibliography),
         )
 
     public_documents = {source for card in cards.values() for source in card.sources}

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import runpy
 import subprocess
 import sys
 import unicodedata
@@ -41,19 +42,19 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 136
+    assert manifest["cards"] == 154
     assert manifest["families"] == 8
-    assert manifest["relations"] == 173
-    assert manifest["references"] == 84
-    assert manifest["referenced_cards"] == 49
+    assert manifest["relations"] == 243
+    assert manifest["references"] == 133
+    assert manifest["referenced_cards"] == 90
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 136
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 84
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 154
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 133
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
     assert "Thèse centrale actuelle" in homepage
-    assert "L&#x27;intéressant est ce qui déclenche et soutient une construction" in homepage
-    assert "136 propositions" in homepage
+    assert "Est intéressant ce qui, pour un sujet situé" in homepage
+    assert "154 propositions" in homepage
     assert (output / "these" / "index.html").is_file()
     assert (output / "lectures" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
@@ -104,6 +105,32 @@ def test_bibliography_links_cards_references_and_documents(tmp_path: Path) -> No
     assert "Histoire d&#x27;une oreille" in reference
     assert (output / "documents" / "input" / "PACHET_HISTOIRE_OREILLE_BAT.pdf").is_file()
     assert (output / "documents" / accented_source).is_file()
+
+
+def test_missing_local_document_uses_bibliography_url(tmp_path: Path) -> None:
+    generator = runpy.run_path(ROOT / "scripts" / "generate_thesis_site.py")
+    entry_class = generator["BibliographyEntry"]
+    source = "input/publications-francois-pachet/example.pdf"
+    public_url = "https://www.francoispachet.fr/publications/example.pdf"
+    bibliography = {
+        "example": entry_class(
+            key="example",
+            entry_type="article",
+            fields={"title": "Example", "file": source, "url": public_url},
+            raw="",
+        )
+    }
+    generator["document_access"].__globals__["ROOT"] = tmp_path
+
+    access_url, external = generator["document_access"](
+        source, "../../", bibliography
+    )
+    rendered_link = generator["source_link"](source, "../../", bibliography)
+
+    assert access_url == public_url
+    assert external is True
+    assert f'href="{public_url}"' in rendered_link
+    assert "Consulter en ligne" in rendered_link
 
 
 def test_generated_internal_links_resolve(tmp_path: Path) -> None:
