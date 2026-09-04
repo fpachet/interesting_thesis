@@ -9,7 +9,7 @@ Attending », *The Philosophical Quarterly*, publication anticipée, 1er avril
 
 Le texte intégral HTML de l'éditeur a été lu le 23 août 2026. L'article est
 publié en accès ouvert sous licence CC BY-NC-ND 4.0. La numérotation des pages
-n'étant pas encore stabilisée dans la publication anticipée, les renvois
+n'étant pas encore définitive dans la publication anticipée, les renvois
 ci-dessous utilisent les sections.
 
 ## Thèse principale

@@ -40,6 +40,6 @@ maintient celui-ci à distance, intact, et repousse la construction.
 Le rapprochement ajoute une issue distincte de l'épuisement et de l'abandon : la
 clôture décidée. Un processus créatif peut encore produire des variantes lorsque
 le créateur lui impose une fin. De même, l'épluchage d'un objet intéressant peut
-rester potentiellement fécond tout en étant arrêté, stabilisé ou transformé en
+rester potentiellement fécond tout en étant arrêté, fixé ou transformé en
 un tout transmissible. La fin ne constate donc pas toujours que l'objet a été
 épuisé ; elle peut être une construction qui rétroagit sur le sens du parcours.

@@ -25,7 +25,7 @@ references:
   - russell1995awardlecture
   - pachet1997representation
 source_notes:
-  - "Le mot « échec » désigne ici la non-canonisation d'un programme philosophique, non la réfutation de l'essai de Garve. Les causes proposées sont de statuts inégaux et forment un programme historique à tester."
+  - "Le mot « échec » signifie ici qu'un programme philosophique a été peu repris ; il ne signifie pas que l'essai de Garve a été réfuté. Les causes proposées sont de statuts inégaux et forment un programme historique à tester."
   - "Thompson documente le déclassement des valeurs publiques, rhétoriques et humanistes de Garve ; Bachmann-Medick décrit la Popularphilosophie longtemps laissée dans l'ombre de la philosophie transcendantale kantienne."
   - "Nannini documente la reconfiguration esthétique de l'intéressant entre Garve, Kant et Schlegel ; le passage de la capture esthétique à l'oubli du mécanisme cognitif est une inférence de la présente carte."
   - "Russell, IJCAI-95, p. 950, met en garde contre la « premature mathematization ». La formule « the interesting parts have been defined away » appartient à la conférence orale retranscrite par Pachet (1997, p. 10), et non à l'article publié. Le rapprochement avec Garve est analogique, non une filiation historique."
@@ -43,7 +43,7 @@ tags:
   - motivation
   - maslow
   - formalisation
-  - canonisation
+  - reception
   - dispersion
 ---
 ## Idée
@@ -100,10 +100,10 @@ au rang de psychologie littéraire dès lors que la philosophie reconnue se mesu
 à la construction d'un système, à la fondation transcendantale de ses concepts ou
 à leur nécessité architectonique. L'intéressant, relation mouvante entre un objet,
 une histoire mentale et une activité en train de naître, résiste précisément à
-cette stabilisation.
+cette mise en forme définitive.
 
-Garve a pu perdre non parce que son objet était vide, mais parce que **le régime de
-preuve et d'écriture qui permettait de le voir a perdu la bataille du canon**.
+Garve a pu perdre non parce que son objet était vide, mais parce que **la manière
+de prouver et d'écrire qui permettait de le voir a cessé de dominer le débat**.
 
 ## 2. Russell : le risque d'une formalisation prématurée
 
@@ -208,7 +208,7 @@ donc la prépotence dynamique, non l'empilement scolaire de cinq cases.
 ## 6. Dispersion, ambiguïté et difficulté interne de l'objet
 
 Même sans la victoire de Kant ou du romantisme, l'intéressant avait trois raisons
-internes de mal se canoniser.
+internes d'être difficilement repris.
 
 **Il est relationnel.** Une même chose peut devenir intéressante pour un sujet et
 rester indifférente pour un autre, ou perdre son intérêt après compréhension. Il

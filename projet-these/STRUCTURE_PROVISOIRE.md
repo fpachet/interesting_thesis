@@ -74,7 +74,7 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
 - la zone intermédiaire entre ennui et anxiété, ainsi que l'évolution temporelle
   de la relation ;
 - la frange du presque-apprenable, le progrès de compression et le rôle du
-  langage dans la stabilisation des constructions ;
+  langage dans la fixation des constructions acquises ;
 - la récursivité par laquelle une construction transforme les conditions de
   l'intérêt futur et le concept de l'intéressant peut devenir lui-même un objet
   intéressant ;
@@ -246,7 +246,7 @@ vocabulaires existants confondent, par exemple :
 - Jusqu'où le deuxième mouvement doit-il proposer un modèle unifié plutôt qu'un
   faisceau de propriétés compatibles ?
 - Quels desiderata et quels verdicts de la matrice différentielle peuvent être
-  stabilisés avant toute nouvelle version du manuscrit ?
+  réglés avant toute nouvelle version du manuscrit ?
 - L'hypothèse statistique sur la rareté de l'intéressant doit-elle rester une extension
   spéculative, ou peut-elle être étayée assez fortement pour entrer dans la démonstration ?
 
@@ -254,6 +254,6 @@ Cette note a guidé le rattrapage documentaire de la V7. La V8 en réalise une p
 refonte argumentative en distinguant, avec Vazard, l'attention exploratoire antérieure à
 la question et la construction orientée vers une prise. La V9 ajoute la distinction
 catégoriale entre les états du sujet et l'intéressant comme relation motrice, sans
-modifier les versions historiques déjà stabilisées. La V10 ajoute l'analyse
+modifier les versions historiques déjà archivées. La V10 ajoute l'analyse
 intérescentielle de la littérature et fait de Job le cas négatif qui sépare motivation
 morale, intérescence interne et intérescence externe du lecteur.

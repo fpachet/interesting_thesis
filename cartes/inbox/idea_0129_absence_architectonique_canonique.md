@@ -1,6 +1,6 @@
 ---
 id: idea_0129
-title: "L'absence de l'intéressant est architectonique et canonique, non lexicale"
+title: "La philosophie parle de l'intéressant sans lui donner une place durable"
 kind: distinction
 level: conceptual
 status: inbox
@@ -19,13 +19,13 @@ references:
   - grimm2011interesting
   - nannini2018interesting
 source_notes:
-  - "Le document distingue quatre sens de l'absence : lexicale, doctrinale, architectonique et canonique."
+  - "Le document distingue quatre sens de l'absence : absence du mot, absence de théorie, absence de place reconnue et absence de tradition continue."
   - "L'essai de Garve constitue le contre-exemple historique le plus substantiel à une absence doctrinale : première publication dans les volumes 12 et 13 de la Neue Bibliothek (1771-1772), puis reprise augmentée dans le recueil de 1779, p. 253-439."
   - "Les références en ligne attestent l'existence d'une tradition discontinue ; leur interprétation détaillée exige encore une lecture directe, sauf pour la notice ouverte de Nannini."
 tags:
   - interessant
   - histoire-philosophie
-  - canonisation
+  - reception
   - esthetique
   - etat-art
 ---
@@ -38,10 +38,10 @@ consacrés. L'absence pertinente pour la thèse doit donc être décomposée :
 1. l'absence **lexicale**, où le mot lui-même manquerait, n'est pas établie ;
 2. l'absence **doctrinale** apparaît lorsque le terme est employé sans définition
    ni théorie ;
-3. l'absence **architectonique** tient à ce que l'intéressant ne reçoit pas de
-   place reconnue à côté du vrai, du bien, du beau ou du sublime ;
-4. l'absence **canonique** désigne l'absence d'une tradition cumulative,
-   enseignée et commentée comme telle.
+3. l'absence de **place reconnue** tient à ce que l'intéressant n'est pas étudié
+   à côté du vrai, du bien, du beau ou du sublime ;
+4. l'absence de **tradition continue** désigne le manque de travaux enseignés,
+   commentés et repris les uns à partir des autres.
 
 La thèse doit principalement défendre les deux derniers diagnostics. Les articles
 de Stace, Kolnai, Ngai, Epstein et Grimm, ainsi que la généalogie de Nannini,
@@ -55,7 +55,7 @@ conditions générales sous lesquelles un objet, un récit ou une pensée attire
 l'attention, met les représentations en mouvement et suscite le désir de poursuivre.
 La question historique n'est donc plus de savoir si la philosophie a jamais
 constitué l'intéressant en objet, mais pourquoi cette tentative précoce et
-substantielle n'a pas fondé une tradition cumulative et canonique.
+substantielle n'a pas fondé une tradition de recherches suivies.
 
 ## Intérêt pour la thèse
 
@@ -66,12 +66,12 @@ acquis un statut comparable aux grandes catégories de la valeur.
 
 Les contre-exemples historiques deviennent alors des données centrales. Plus les
 textes consacrés à l'intéressant sont substantiels, plus il faut expliquer leur
-faible intégration réciproque et leur faible pouvoir de canonisation.
+faible intégration réciproque et le peu de recherches qu'ils ont suscitées.
 
 Garve peut ainsi devenir le personnage historique central de ce premier mouvement :
 non l'exception gênante qu'une thèse d'absence devrait minimiser, mais le cas qui
-oblige à redéfinir l'angle mort comme oubli, interruption et non-canonisation d'une
-enquête philosophique déjà engagée.
+oblige à redéfinir l'angle mort comme oubli et interruption d'une enquête
+philosophique déjà engagée.
 
 ## Ressources en ligne
 
@@ -92,5 +92,5 @@ enquête philosophique déjà engagée.
   lexical et densité théorique.
 - Est expliquée en partie par `idea_0131`, qui décrit la dispersion fonctionnelle
   entre concepts voisins.
-- Doit rester distincte de `idea_0128` : non-canonisation historique et réduction
+- Doit rester distincte de `idea_0128` : faible reprise historique et réduction
   par formalisation scientifique ne sont pas le même mécanisme.

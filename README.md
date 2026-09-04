@@ -98,7 +98,7 @@ constituent la version 1 du projet. Ils sont conservés dans
 `projet-these/versions/`. Les deux fichiers de travail bilingues portent
 actuellement la version 13 et partagent la bibliographie canonique.
 
-Lorsqu'une nouvelle étape intellectuelle est stabilisée :
+Lorsqu'une nouvelle étape intellectuelle est prête à être archivée :
 
 1. mettre à jour les deux fichiers courants en maintenant leurs sections
    synchronisées ;

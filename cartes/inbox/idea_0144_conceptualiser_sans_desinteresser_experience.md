@@ -106,7 +106,7 @@ puissent encore corriger.
 
 La maxime transforme l'échec historique de Garve en discipline positive. Il ne faut ni
 renoncer au concept parce que l'intéressant est relationnel et instable, ni compenser
-son ancien défaut de canonisation par une architectonique prématurée. Les cartes
+son ancien défaut de transmission par un grand système prématuré. Les cartes
 deviennent alors une méthode de variation conceptuelle : chacune formule une
 proposition contestable, et leur graphe conserve les soutiens, limites, contrastes et
 révisions qui empêchent le concept de se fermer trop tôt.

@@ -8,7 +8,7 @@ documentaires et les vues calculées, tout en maintenant une décision éditoria
 une carte et son entrée dans les synthèses ou le manuscrit.
 
 La règle générale est donc : **synchronisation mécanique immédiate, synchronisation
-conceptuelle par lots, versionnement du projet par états intellectuels stabilisés**.
+conceptuelle par lots, versionnement du projet par états intellectuels archivés**.
 
 ## Sources canoniques et produits dérivés
 
@@ -23,7 +23,7 @@ conceptuelle par lots, versionnement du projet par états intellectuels stabilis
 | `projet-these/BUT_DE_LA_THESE.md` | Synthèse conceptuelle vivante | Propager les changements du noyau et les distinctions qui modifient la contribution. |
 | `projet-these/STRUCTURE_PROVISOIRE.md` | Architecture éditoriale vivante | Propager les changements de fonction des parties, laboratoires et cas. |
 | `projet-these/PLAN_ACTION_DEMONSTRATION.md` | Plan de travail vivant | Propager les nouveaux tests, objections et décisions encore nécessaires. |
-| `projet-these/projet-these-fr.tex` et `projet-these-en.tex` | Projet bilingue courant | Mettre à jour ensemble lors d'un lot stabilisé, jamais par copie automatique d'une carte. |
+| `projet-these/projet-these-fr.tex` et `projet-these-en.tex` | Projet bilingue courant | Mettre à jour ensemble lorsqu'un lot est prêt, jamais par copie automatique d'une carte. |
 | `projet-these/versions/*` | Instantanés immuables | Créer à la fin d'un cycle ; ne pas corriger rétrospectivement sans note explicite. |
 | `cartes/catalogue-idees.tex` | Produit généré | Ne pas éditer directement ; régénérer depuis les cartes et l'index argumentatif. |
 | `output/pdf/catalogue-idees.pdf` | Produit compilé | Régénérer après le catalogue ; ne pas traiter comme source. |
@@ -31,7 +31,7 @@ conceptuelle par lots, versionnement du projet par états intellectuels stabilis
 
 ## Déclencheur : ajout ou modification d'une carte
 
-### 1. Stabiliser la carte
+### 1. Préparer la carte
 
 Vérifier :
 
@@ -108,7 +108,7 @@ La propagation éditoriale suit cet ordre :
 1. `BUT_DE_LA_THESE.md` — ce que la thèse veut établir, avec quelles limites ;
 2. `STRUCTURE_PROVISOIRE.md` — où et dans quelle fonction le nouvel élément intervient ;
 3. `PLAN_ACTION_DEMONSTRATION.md` — ce qui doit encore être prouvé, comparé ou testé ;
-4. projets FR/EN — rédaction publique d'un état stabilisé.
+4. projets FR/EN — rédaction publique d'un état prêt à être archivé.
 
 Une carte d'architecture `case` doit entrer dans une synthèse par sa fonction
 argumentative, non par la richesse de son domaine. Une carte `speculative` reste
@@ -118,7 +118,7 @@ qui explicite et limite le passage.
 
 ## Cycle d'une nouvelle version bilingue
 
-Une fois le lot conceptuel stabilisé :
+Une fois le lot conceptuel achevé :
 
 1. choisir le nouveau numéro de version avant les modifications de fond ;
 2. modifier la version française puis produire et relire la version anglaise homologue ;

@@ -16,7 +16,7 @@ l'intérescence. L'objection décisive est la suivante : Job souffre, proteste e
 justice, mais le texte ne dit jamais ce qui l'intéresse. La révision devait donc être
 propagée avant toute intégration éditoriale.
 
-## Distinction stabilisée
+## Distinction retenue
 
 - **motivation interne** : ce qui pousse le personnage à agir ou à demander réparation ;
 - **principe moral** : la règle ou l'exigence au nom de laquelle il juge la situation ;

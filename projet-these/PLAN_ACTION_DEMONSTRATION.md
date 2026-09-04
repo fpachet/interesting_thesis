@@ -130,7 +130,7 @@ chacun doit pouvoir confirmer, limiter ou réviser une proposition précise.
 
 ## Ordre de réalisation
 
-1. Stabiliser D1-D10 et les 17 cartes `CORE`.
+1. Arrêter D1-D10 et les 17 cartes `CORE`.
 2. Construire la matrice des rivaux.
 3. Réviser la définition et la typologie de la prise.
 4. Rédiger les neuf objections avant les réponses.
@@ -149,4 +149,4 @@ chacun doit pouvoir confirmer, limiter ou réviser une proposition précise.
 - [`../docs/lectures/theses-comparaison-preuve-philosophique.md`](../docs/lectures/theses-comparaison-preuve-philosophique.md) :
   justification méthodologique ;
 - `projet-these-fr.tex` et `projet-these-en.tex` : nouvelle version seulement après
-  stabilisation des chantiers 1 à 4.
+  achèvement des chantiers 1 à 4.

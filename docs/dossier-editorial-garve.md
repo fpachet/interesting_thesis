@@ -31,7 +31,7 @@ Enfin, l’essai ne réduit pas l’intéressant à la cognition abstraite. Il a
 
 ### Une place singulière dans l’histoire de la philosophie
 
-La recherche doctorale en cours conduit à traiter Garve non comme une curiosité marginale, mais comme l’antécédent direct d’un programme philosophique resté sans tradition cumulative. Plusieurs facteurs peuvent expliquer cette faible canonisation : le déclassement de la *Popularphilosophie*, le prestige acquis par les constructions critiques et idéalistes, la reconfiguration kantienne de l’intérêt à partir du désintéressement esthétique, la capture romantique de l’intéressant comme caractère de la poésie moderne, puis la dispersion du problème entre psychologie, sciences cognitives, esthétique, épistémologie et sciences de l’éducation.
+La recherche doctorale en cours conduit à traiter Garve non comme une curiosité marginale, mais comme l’antécédent direct d’un programme philosophique resté sans tradition cumulative. Plusieurs facteurs peuvent expliquer pourquoi il a été si peu repris : le déclassement de la *Popularphilosophie*, le prestige acquis par les constructions critiques et idéalistes, la reconfiguration kantienne de l’intérêt à partir du désintéressement esthétique, la reprise romantique de l’intéressant comme caractère de la poésie moderne, puis la dispersion du problème entre psychologie, sciences cognitives, esthétique, épistémologie et sciences de l’éducation.
 
 Cette hypothèse historique reste à établir dans tous ses détails. Elle fournit néanmoins un motif éditorial fort : rendre de nouveau accessible un texte qui permet de voir l’unité antérieure de phénomènes aujourd’hui étudiés séparément.
 
@@ -101,7 +101,7 @@ Distinction entre la description du phénomène, sa modulation par les normes et
 
 ### 6. Postérité, dispersion et actualité
 
-Reconfiguration chez Kant et Schlegel, déplacement vers l’esthétique moderne, faible canonisation du texte et distribution ultérieure de ses fonctions entre attention, curiosité, apprentissage, suspense, motivation et créativité. Cette dernière section introduirait l’appareil de notes contemporaines sans faire de Garve un précurseur universel.
+Reconfiguration chez Kant et Schlegel, déplacement vers l’esthétique moderne, faible reprise du texte et distribution ultérieure de ses fonctions entre attention, curiosité, apprentissage, suspense, motivation et créativité. Cette dernière section introduirait l’appareil de notes contemporaines sans faire de Garve un précurseur universel.
 
 ## 4. Principes d’annotation
 

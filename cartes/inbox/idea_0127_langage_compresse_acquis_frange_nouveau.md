@@ -41,10 +41,10 @@ Le langage pourrait être l'un des principaux mécanismes qui produisent ces cou
 mot, un concept ou une notation compacte un ensemble de distinctions, de relations et
 parfois d'opérations en une unité réutilisable. Une construction qui exigeait auparavant
 un effort devient alors un élément disponible pour d'autres constructions. En libérant
-de l'attention et de la mémoire de travail, cette stabilisation rend exprimables et
+de l'attention et de la mémoire de travail, cette mise en mots rend exprimables et
 manipulables des nouveautés qui seraient restées trop coûteuses à saisir.
 
-La dynamique est récursive. Une construction intéressante se stabilise en concept ;
+La dynamique est récursive. Une construction intéressante devient un concept ;
 le concept devient une unité langagière compacte ; cette unité rend ensuite accessible
 une nouvelle frange de constructions.
 
@@ -92,7 +92,7 @@ correspondant dans les distinctions ou les opérations.
 ## Liens
 
 - Donne à la frontière mouvante de `idea_0107` un mécanisme de déplacement symbolique.
-- Prolonge `idea_0123` : une construction stabilisée devient une prise pour la construction suivante.
+- Prolonge `idea_0123` : une construction acquise devient une prise pour la construction suivante.
 - Articule la compression de `idea_0027` avec la formation de concepts et leur expression.
 - Est limitée par `idea_0079`, où un concept hypertrophié cache les mécanismes qu'il prétend résumer.
 - Fournit un critère pour distinguer la compréhension de sa promesse dans `idea_0124`.

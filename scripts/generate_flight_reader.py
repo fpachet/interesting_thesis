@@ -541,7 +541,7 @@ CORE_DOSSIERS = [
             "Reconstituer la chronologie des textes primaires et noter les absences du corpus actuel.",
             "Distinguer passage du beau à l'intéressant et simple opposition polémique entre les deux.",
         ],
-        "question": "La faible canonisation est-elle un fait historique ou un effet de notre reconstruction ?",
+        "question": "Le peu de reprises est-il un fait historique ou un effet de notre reconstruction ?",
         "cards": "idea_0129, idea_0131",
     },
     {
@@ -747,7 +747,7 @@ def build_story():
     story.extend([SectionMarker("Parcours en dix séances"), heading("Parcours en dix séances", 1)])
     sessions = [
         ("1", "Nannini + Garve", "Une histoire discontinue mais réelle ?"),
-        ("2", "Garve", "L'objet stabilise-t-il l'attention sans contrainte ?"),
+        ("2", "Garve", "L'objet retient-il l'attention sans contrainte ?"),
         ("3", "Schlegel", "Valeur, symptôme moderne ou étape à dépasser ?"),
         ("4", "Schopenhauer", "Pourquoi l'intrigue s'épuise-t-elle ?"),
         ("5", "Kierkegaard", "Changer d'objet ou changer la manière de cultiver ?"),
@@ -781,7 +781,7 @@ def build_story():
     garve = CORE_DOSSIERS[0]
     story.append(callout(
         "Orientation donnée par Nannini",
-        "Lire Garve comme une théorie relationnelle de l'attention : l'objet ne contraint pas le sujet et le sujet ne s'impose pas arbitrairement un but. Une douce traction stabilise l'attention, ouvre une série et fait éprouver une lacune dont la résolution est désirée. Les passages ci-dessous sont le texte primaire de Garve, et non une synthèse de Nannini.",
+        "Lire Garve comme une théorie relationnelle de l'attention : l'objet ne contraint pas le sujet et le sujet ne s'impose pas arbitrairement un but. Une douce traction retient l'attention, ouvre une série et fait éprouver une lacune dont la résolution est désirée. Les passages ci-dessous sont le texte primaire de Garve, et non une synthèse de Nannini.",
     ))
     for title, paras in GARVE_FR:
         story.append(heading(title, 2))

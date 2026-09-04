@@ -78,7 +78,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Survie déplacée du particulier | [`idea_0143`](inbox/idea_0143_pachet_survie_philosophie_particulier.md) | Pierre Pachet rend plausible la survie, dans l'essai, d'une philosophie attentive à la naissance singulière des idées sans établir de filiation historique avec Garve. |
 | Médiation énigmatique | [`idea_0138`](inbox/idea_0138_enigme_declencheur_resolution.md) | Avant la formulation du problème, une opacité structurée promet une prise désirable et accessible ; sa résolution éteint l'énigme locale ou en ouvre une autre. |
 | Dynamique interne | [`idea_0137`](inbox/idea_0137_epluchage_interessant_contemplation.md) | Après le déclenchement, les prises se succèdent par épluchage jusqu'à épuisement, abandon, clôture décidée ou relance par une résistance productive. |
-| Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage stabilise une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
+| Médiation symbolique | [`idea_0127`](inbox/idea_0127_langage_compresse_acquis_frange_nouveau.md) | Le langage transforme une construction acquise en unité réutilisable et déplace la frange du presque-apprenable. |
 | Boucle récursive | [`idea_0133`](inbox/idea_0133_interessant_recursif_auto_application.md) | La construction transforme les conditions de l'intérêt futur et le concept peut déclencher le processus qu'il décrit. |
 | Garde-fou aléthique | [`idea_0134`](inbox/idea_0134_interessant_selectionne_enquete_pas_verite.md) | L'intéressant sélectionne ce qui mérite examen, mais seule une évaluation distincte permet d'en valider les conclusions. |
 | Garde-fou méthodologique | [`idea_0128`](inbox/idea_0128_formalisation_supprime_partie_interessante.md) | Toute formalisation risque de substituer un indicateur stable à la cible relationnelle qu'elle devait rendre testable. |
@@ -163,7 +163,7 @@ usage fréquent mais faible densité théorique (0130)
   -> constitution éventuelle de l'objet en énigme désirable et accessible (0138)
   -> ouverture puis construction éventuelle d'une prise (0123)
   -> épluchage et production d'une fin (0137, 0082)
-  -> stabilisation langagière et nouvelle frange (0127)
+  -> mise en mots et nouvelle frange (0127)
   -> auto-application et déplacement récursif du concept (0133)
   -> compréhension de soi comme construction réflexive (0126)
   -> reconstruction du problème depuis sa solution (0085)
@@ -241,7 +241,7 @@ Ces groupes sont proches mais ne doivent pas encore être fusionnés :
 - `idea_0049` et `idea_0107` : crédibilité de la difficulté et accessibilité d'un
   apprentissage ;
 - `idea_0027`, `idea_0107` et `idea_0127` : progrès de compression, frontière du
-  presque-apprenable et stabilisation langagière de l'acquis ;
+  presque-apprenable et mise en mots de l'acquis ;
 - `idea_0005` et `idea_0115` : insuffisance de la surprise et faux positif produit
   par l'attention.
 - `idea_0074`, `idea_0156` et `idea_0157` : surabondance homogénéisante, coût

@@ -43,7 +43,7 @@ avant les lectures intégrales.
 
 À l'issue de ce parcours, produire un tableau à quatre colonnes :
 `auteur`, `porteur de la valeur`, `fonction de l'intéressant`,
-`raison de sa non-canonisation`.
+`raison pour laquelle il a été peu repris`.
 
 ## I. Généalogie historique
 
@@ -85,7 +85,7 @@ dans une histoire plus large de l'esthétique de l'intéressant.
 | 78–80 | Autonomie esthétique | Examiner comment la valeur intrinsèque de l'œuvre et l'autonomie esthétique contribuent à rejeter l'effet intéressant du côté du marché ou de la distraction. |
 
 **Thèse à tester.** L'intéressant n'est pas absent avant le romantisme : il
-existe comme concept relationnel de réception. Sa faible canonisation viendrait
+existe comme concept relationnel de réception. Sa faible reprise viendrait
 en partie de sa bifurcation entre médiation cognitive et stimulation subjective.
 
 **Attention.** Les propositions conceptuelles centrales ci-dessus ont été
@@ -495,7 +495,7 @@ Fonction : attention / cognition / narration / esthétique / existence / autre :
 Temporalité : saisie / attente / reprise / transformation :
 Normativité : effet constaté / valeur / recommandation / obligation :
 Concepts voisins ou substituts :
-Raison possible de la non-canonisation :
+Raison possible de sa faible reprise :
 Citation courte à vérifier dans l'original :
 Carte(s) à modifier :
 Question non résolue :
@@ -521,4 +521,4 @@ doit permettre d'établir au moins l'une des propositions suivantes :
 
 Le résultat attendu n'est donc pas la preuve d'un silence absolu, mais une
 explication documentée de l'écart entre l'omniprésence du prédicat et sa faible
-stabilisation théorique.
+mise en théorie.

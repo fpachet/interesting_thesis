@@ -54,7 +54,7 @@ construction peut aussi modifier la définition avec laquelle l'enquête avait c
 
 ## Une source d'insaisissabilité
 
-Cette récursivité explique une partie de la difficulté à stabiliser le concept. L'enquête
+Cette récursivité explique une partie de la difficulté à fixer le concept. L'enquête
 ne porte pas sur un objet extérieur laissé intact par sa description. En apprenant à
 reconnaître de nouvelles formes d'intérêt, le chercheur transforme son répertoire
 d'exemples, ses capacités de discrimination et la frontière de ce qu'il tient pour
@@ -93,7 +93,7 @@ contribuent également.
 Cette proposition relie la définition centrale de `idea_0123` à la méthode réflexive de
 la thèse. Elle explique pourquoi le concept ne peut être constitué une fois pour toutes
 sans que sa constitution transforme son domaine d'application. Elle donne également une
-forme forte à la dynamique de `idea_0127` : les constructions stabilisées deviennent des
+forme forte à la dynamique de `idea_0127` : les constructions acquises deviennent des
 prises pour de nouvelles constructions, y compris lorsque la construction précédente
 portait sur l'intéressant lui-même.
 

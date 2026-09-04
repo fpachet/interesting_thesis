@@ -407,7 +407,7 @@ cas, limitation de portée, concession ou révision — dont le coût reste visi
    l'écoute ou de la perception ne sont pas toujours verbalement disponibles. Les
    indices comportementaux et opératoires doivent compléter le rapport.
 4. **Le style de la philosophie de l'esprit analytique.** Le projet doit conserver
-   Garve, la généalogie de la non-canonisation, Pierre Pachet, la musique, la pratique
+   Garve, l'histoire de sa faible reprise, Pierre Pachet, la musique, la pratique
    de l'IA, la dépendance au chemin et la réflexivité de la formalisation.
 5. **L'espoir d'un mécanisme unique.** Le projet peut articuler description
    phénoménologique, schème conceptuel et opérationnalisations locales sans supposer

@@ -26,7 +26,7 @@ tags:
   - particulier
   - experience
   - essai
-  - canonisation
+  - reception
   - attention
   - emotion
 ---

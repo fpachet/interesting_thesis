@@ -9,7 +9,7 @@ Statut : appliqué aux synthèses et au projet bilingue V7 le 23 août 2026.
 Cet audit détermine ce qui a changé dans les cartes depuis le dernier état éditorial
 du projet de thèse et ce qui doit être répercuté dans les documents de synthèse. Il ne
 suppose pas que chaque carte doive entrer dans le manuscrit : le rôle architectural de
-la proposition, son degré de stabilisation et sa fonction dans la démonstration restent
+la proposition, son degré de maturité et sa fonction dans la démonstration restent
 décisifs.
 
 Le point de comparaison retenu est le commit `302cfa2` du 8 août 2026,
@@ -27,7 +27,7 @@ servir seuls de référence complète pour reconstruire la V6 effectivement déc
 le changelog.
 
 Décision : ne pas réécrire silencieusement ces instantanés historiques. Pour le présent
-audit, `302cfa2` est l'ancre de synchronisation. La prochaine version stabilisée devra
+audit, `302cfa2` est l'ancre de synchronisation. La prochaine version archivée devra
 repartir des sources courantes, porter un nouveau numéro et produire simultanément ses
 deux instantanés et sa bibliographie archivée.
 

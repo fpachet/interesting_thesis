@@ -5,14 +5,14 @@ par thème et par niveau : une carte peut avoir plusieurs thèmes, mais elle ne
 figure ici qu'une fois afin que la couverture reste vérifiable. Cette affectation
 est un outil de travail réversible, pas encore un plan de thèse.
 
-## 1. Constitution de l'angle mort : histoire, canonisation et substitutions (11)
+## 1. Constitution de l'angle mort : histoire, faible reprise et substitutions (11)
 
 ### Diagnostic historique
 
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
-- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0131` - L'intéressant a été peu repris parce que ses fonctions ont été dispersées entre des concepts concurrents.
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 - `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 - `idea_0155` - Les ambiguïtés du mot « intéressant ».

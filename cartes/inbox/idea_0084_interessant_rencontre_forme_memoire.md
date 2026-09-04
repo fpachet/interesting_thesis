@@ -75,7 +75,7 @@ indexé par un horizon collectif et par un moment : `I(F, S | H, t)`. Le milieu 
 n'est pas nécessairement un troisième sommet indépendant, car il façonne déjà les
 attentes du sujet, les catégories disponibles et les formes qui peuvent lui parvenir. Il
 devient un troisième terme explicite lorsqu'on étudie non plus l'expérience d'un sujet,
-mais la circulation, la stabilisation ou la disparition collective d'un intérêt. La
+mais la circulation, l'installation ou la disparition collective d'un intérêt. La
 thèse doit donc distinguer la structure relationnelle minimale de son explication
 sociale complète.
 

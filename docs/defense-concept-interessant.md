@@ -137,7 +137,7 @@ des indices suivants est présent :
 
 1. **Ancrage antérieur.** Le sujet possède des catégories, exemples ou savoir-faire qui
    permettent de commencer l'enquête.
-2. **Progrès local.** Une première tentative réduit une erreur, stabilise une
+2. **Progrès local.** Une première tentative réduit une erreur, fixe une
    distinction ou transforme la question.
 3. **Résistance structurée.** Les échecs ne sont pas arbitraires : ils donnent une
    information sur les contraintes de l'objet ou du problème.
@@ -384,7 +384,7 @@ explicatif différentiel.
 
 ## 7. Conditions de révision ou d'abandon
 
-La théorie doit être révisée si l'un des résultats suivants se stabilise :
+La théorie doit être révisée si l'un des résultats suivants se confirme :
 
 1. **Intérêt sans transformation.** Des sujets compétents décrivent durablement des
    expériences comme intéressantes sans qu'aucune modification perceptive, affective,

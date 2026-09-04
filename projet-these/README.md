@@ -14,7 +14,7 @@ que leurs instantanés historiques.
 - `PLAN_ACTION_DEMONSTRATION.md` : chantiers destinés à transformer la définition
   candidate en position philosophiquement défendue avant une nouvelle version ;
 - `versions/projet-these-vN-fr.tex` et `versions/projet-these-vN-en.tex` :
-  versions stabilisées et immuables ;
+  versions archivées et immuables ;
 - `CHANGELOG.md` : différences intellectuelles et documentaires entre versions ;
 - `Makefile` : compilation et nettoyage des deux rendus.
 

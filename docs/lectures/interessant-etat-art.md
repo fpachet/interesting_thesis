@@ -12,7 +12,7 @@ Elle empêche de confondre :
 4. une source suffisamment travaillée pour être citée dans le manuscrit.
 
 Le programme sert au premier mouvement de la thèse : établir non une absence
-lexicale de l'intéressant, mais sa faible canonisation, sa dispersion entre
+lexicale de l'intéressant, mais le peu de place qui lui a été accordé, sa dispersion entre
 concepts concurrents et les tentatives discontinues de lui donner une théorie.
 
 Les pages et sections déjà localisées sont réunies dans le
@@ -48,7 +48,7 @@ la thèse doivent toujours être contrôlées dans l'édition effectivement cit�
 | Séance | Lecture centrale | Question de travail | Trace à produire |
 | --- | --- | --- | --- |
 | 1 | Nannini, « Interesting » et introduction de *Christian Garve e l'estetica dell'interessante* | Existe-t-il une histoire discontinue mais réelle de la catégorie ? | chronologie provisoire et liste des textes primaires |
-| 2 | Garve, « Einige Gedanken über das Interessirende » | Comment l'objet stabilise-t-il l'attention sans contrainte ni effort volontaire ? | schéma sujet–objet–attention–désir |
+| 2 | Garve, « Einige Gedanken über das Interessirende » | Comment l'objet retient-il l'attention sans contrainte ni effort volontaire ? | schéma sujet–objet–attention–désir |
 | 3 | Schlegel, *Über das Studium der griechischen Poesie* | L'intéressant est-il une valeur, un symptôme de la modernité ou une étape à dépasser ? | tableau beau / intéressant / moderne |
 | 4 | Schopenhauer, « Ueber das Interessante » | Pourquoi la stimulation intéressante conduit-elle à l'insatisfaction ou à l'ennui ? | modèle de la surenchère et de l'épuisement |
 | 5 | Kierkegaard, « Vexel-Driften » / « The Rotation of Crops » | Changer l'objet ou changer la manière de le cultiver : où réside l'intéressant ? | note sur variation, ennui et réflexivité |
@@ -245,7 +245,7 @@ Questions :
 
 - Comment Pikulik reconstruit-il le passage du beau à l'intéressant ?
 - Quelle fonction donne-t-il au subjectivisme, à l'ennui et à la stimulation ?
-- Sa généalogie confirme-t-elle une non-canonisation ou constitue-t-elle déjà
+- Sa généalogie confirme-t-elle une faible reprise ou constitue-t-elle déjà
   une tradition cumulative ?
 
 Cartes cibles : `idea_0129`, `idea_0131`.

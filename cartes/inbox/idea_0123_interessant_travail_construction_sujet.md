@@ -117,7 +117,7 @@ répondre.
 ## Trois niveaux de construction
 
 **Construction perceptive et conceptuelle.** Le sujet extrait des invariants,
-discrimine, catégorise et stabilise des concepts. Le triangle jaune peut devenir une
+discrimine, catégorise et précise des concepts. Le triangle jaune peut devenir une
 occasion de construire les catégories de couleur, de contour ou de forme.
 
 **Construction explicative.** Le sujet agence des relations en modèle, formule une

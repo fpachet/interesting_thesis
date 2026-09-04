@@ -1,6 +1,6 @@
 # Journal du projet de thèse
 
-Ce fichier décrit les changements de fond entre les versions stabilisées. Les
+Ce fichier décrit les changements de fond entre les versions archivées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
@@ -169,7 +169,7 @@ explicitation de la méthode qui articule expérience singulière et concept.
 Explication pluricausale de l'échec historique du programme garvien et
 déplacement explicite de l'intéressant hors du seul domaine esthétique.
 
-- distinction entre stérilité théorique et non-canonisation historique ;
+- distinction entre stérilité théorique et faible reprise historique ;
 - défaite de la *Popularphilosophie* comme forme publique, empirique et
   essayistique de philosophie, documentée par Thompson et Bachmann-Medick ;
 - analyse des captures kantienne par le désintéressement, romantique par la
@@ -201,7 +201,7 @@ de Christian Garve.
   prises contrôlables, les distinctions lacune--énigme--problème--contrainte,
   l'épluchage, l'épuisement ou la relance, la généralisation créative et la
   récursivité ;
-- transformation de l'angle mort en problème de faible canonisation et d'absence
+- transformation de l'angle mort en problème de faible reprise et d'absence
   de tradition cumulative à partir de Garve ;
 - intégration de la difficultuosité comme difficulté ressentie et calibrée dans
   une zone de plausibilité incarnée ;

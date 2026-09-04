@@ -74,7 +74,7 @@ plus de construction. L'intéressant se consume.
 soutenir le travail. La construction s'interrompt sans avoir épuisé l'objet.
 
 **Clôture.** Le sujet décide que la construction est suffisamment formée et lui impose
-une fin, alors même que des variations resteraient possibles. L'arrêt stabilise un
+une fin, alors même que des variations resteraient possibles. L'arrêt fixe un
 parcours et le rend saisissable comme un tout.
 
 **Relance.** Une prise révèle une résistance, un niveau ou un objet nouveaux. Ce qui
@@ -98,7 +98,7 @@ devient donc interne à la théorie de l'intéressant.
 La fin ne se réduit pas à l'épuisement. Dans la création, achever exige souvent
 d'imposer une limite à un processus qui pourrait continuer ; cette décision rétroagit
 sur tout ce qui précède et transforme une suite d'essais en forme. De même, interrompre
-un épluchage intéressant peut stabiliser les prises acquises, sélectionner ce qui
+un épluchage intéressant peut conserver les prises acquises, sélectionner ce qui
 comptera comme résultat et donner une unité rétrospective au parcours.
 
 Il faut ainsi distinguer la **mort de l'intérêt**, lorsque plus aucune construction

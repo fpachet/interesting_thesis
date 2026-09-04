@@ -16,7 +16,7 @@ tags:
 ---
 ## Idée
 
-Nommer et stabiliser une abstraction permet de la décrire, la comparer et opérer sur
+Nommer et fixer une abstraction permet de la décrire, la comparer et opérer sur
 elle comme sur une chose. Cette réification ouvre des opérations auparavant impensables
 : transformer les problèmes eux-mêmes en objets a par exemple rendu concevables des
 machines visant des classes de problèmes.

@@ -41,7 +41,7 @@ transformation rendue possible par l'interaction.
 Cette émergence ne suppose pas que l'utilisateur possède déjà une intention bien
 formée. Le système réflexif l'aide précisément à exprimer une idée encore mal définie
 en lui renvoyant une image imparfaite, continuellement révisée. L'objet intéressant est
-alors moins l'exécution d'un projet préalable qu'une stabilisation provisoire produite
+alors moins l'exécution d'un projet préalable qu'une forme provisoire produite
 par la boucle.
 
 ## Intérêt pour la thèse

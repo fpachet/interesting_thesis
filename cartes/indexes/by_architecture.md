@@ -31,7 +31,7 @@ classification encore à faire en résultat acquis.
 
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
-- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0131` - L'intéressant a été peu repris parce que ses fonctions ont été dispersées entre des concepts concurrents.
 - `idea_0142` - L'« échec » de Garve vient d'une défaite philosophique, puis de la capture et de la dispersion de l'intéressant.
 
 ### Définir la relation et sa portée

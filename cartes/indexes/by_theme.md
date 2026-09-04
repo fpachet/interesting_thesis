@@ -1,13 +1,13 @@
 # Index thématique provisoire
 
-## Histoire, canonisation et concepts concurrents
+## Histoire, faible reprise et concepts concurrents
 
 - `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
 - `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
 - `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
-- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0131` - L'intéressant a été peu repris parce que ses fonctions ont été dispersées entre des concepts concurrents.
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0116` - L'intéressant occupe un angle mort entre intelligibilité et valeur.
@@ -252,7 +252,7 @@
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
-- `idea_0131` - La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents.
+- `idea_0131` - L'intéressant a été peu repris parce que ses fonctions ont été dispersées entre des concepts concurrents.
 - `idea_0133` - L'intéressant est récursif : son concept peut déclencher le processus qu'il décrit.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.

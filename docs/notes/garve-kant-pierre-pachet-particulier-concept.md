@@ -39,7 +39,7 @@ la philosophie, tandis que Pachet privilégie le particulier et l'essai sans fai
 la popularité son programme.
 
 Kant ne doit pas être transformé en adversaire caricatural. Il représente ici deux
-fonctions distinctes. Historiquement, la canonisation de la philosophie critique puis
+fonctions distinctes. Historiquement, la domination de la philosophie critique puis
 postkantienne a contribué à diminuer le prestige d'une philosophie empirique et
 essayistique. Méthodologiquement, l'exigence de structure et de validité empêche en
 revanche la thèse de se contenter d'une collection d'impressions personnelles.

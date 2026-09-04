@@ -33,7 +33,7 @@ produire des possibilités, mais de leur imposer une forme en sachant s'arrêter
 La vie de l'intéressant rencontre le même problème. L'épluchage constructif d'un objet
 peut continuer à produire des prises sans indiquer de lui-même lesquelles suffisent ni
 quand l'enquête doit finir. Il faut distinguer l'épuisement de l'intérêt et la clôture
-décidée d'une construction encore féconde : la seconde stabilise un résultat et
+décidée d'une construction encore féconde : la seconde arrête un résultat et
 rétroagit sur le parcours sans prétendre avoir épuisé l'objet.
 
 ## Intérêt pour la thèse

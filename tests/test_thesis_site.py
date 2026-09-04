@@ -87,6 +87,12 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert "motivation morale et affective très forte" in thesis_page
     assert "sans intérescence interne identifiable" in thesis_page
 
+    public_html = "\n".join(
+        path.read_text(encoding="utf-8") for path in output.rglob("*.html")
+    ).lower()
+    assert "canonisation" not in public_html
+    assert "stabilis" not in public_html
+
     status_page = (output / "suivi" / "index.html").read_text(encoding="utf-8")
     assert "Version 13" in status_page
     assert "8 familles de travail" in status_page

@@ -26,7 +26,7 @@ cette œuvre transforme. L'importance, au contraire, se reconnait aux bifurcatio
 filiations et changements de langage qu'une œuvre produit dans le temps.
 
 Une IA entraînée sur les clics et les usages apprend donc principalement la popularité.
-Elle risque de stabiliser les dominances accidentelles du présent au lieu de reconnaître
+Elle risque de figer les dominances accidentelles du présent au lieu de reconnaître
 ce qui pourrait réorganiser durablement le paysage.
 
 Le chapitre *Hit Song Science* donne à ce diagnostic une base expérimentale et

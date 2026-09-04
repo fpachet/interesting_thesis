@@ -195,7 +195,7 @@ reprend une discipline argumentative, pas leurs conclusions.
 
 L'ordre d'écriture peut différer de l'ordre final :
 
-1. stabiliser les chapitres 4–6 à partir de la défense et de la matrice ;
+1. arrêter les chapitres 4–6 à partir de la défense et de la matrice ;
 2. écrire le chapitre 7 sur la musique, où les cas sont déjà les plus développés ;
 3. utiliser ses résultats pour réviser la définition ;
 4. rédiger les chapitres 8–9 comme vrais stress tests ;

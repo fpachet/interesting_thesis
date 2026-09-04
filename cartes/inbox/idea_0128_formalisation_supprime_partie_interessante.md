@@ -38,7 +38,7 @@ tags:
 
 Il faut prendre au sérieux le **risque structurel de substitution de cible**. Ce risque
 n'est ni une intention des chercheurs, ni une impossibilité de principe. Pour rendre un
-problème testable et cumulatif, la science doit le traduire en objets stabilisés,
+problème testable et cumulatif, la science doit le traduire en objets définis,
 variables contrôlables et critères calculables. La difficulté apparaît lorsque cette
 traduction est traitée comme la définition complète du phénomène : l'indicateur peut
 alors remplacer la cible et éliminer son caractère relationnel, historique, singulier et
@@ -71,7 +71,7 @@ publiable semble ainsi filtrer précisément la dimension que cette parole cherc
 protéger.
 
 Cet écart ne prouve ni une autocensure de Russell, ni une intervention éditoriale
-déterminée. Il constitue un objet d'analyse : les exigences de stabilisation, de
+déterminée. Il constitue un objet d'analyse : les exigences de définition, de
 précision et de recevabilité propres au genre scientifique peuvent neutraliser une
 formulation sans réfuter ce qu'elle désignait. La rédaction de cette thèse devra
 elle-même surveiller ce risque.
@@ -107,7 +107,7 @@ même que chacun de ses instruments est légitime et fécond dans d'autres enqu�
 
 Appliquée à l'intéressant, cette panoplie ne produit pas seulement une approximation
 imparfaite. Elle exerce une pression convergente pour rabattre le phénomène sur ce qui
-est déjà stabilisé, comparable et optimisable. Autrement dit, elle risque de rendre
+est déjà défini, comparable et optimisable. Autrement dit, elle risque de rendre
 scientifique le substitut précisément en expulsant l'intéressant. Ce risque n'est pas
 une propriété de toute formalisation : il naît de la clôture prématurée de la cible.
 

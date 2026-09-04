@@ -1,6 +1,6 @@
 ---
 id: idea_0131
-title: "La non-canonisation de l'intéressant vient de la dispersion de ses fonctions entre des concepts concurrents"
+title: "L'intéressant a été peu repris parce que ses fonctions ont été dispersées entre des concepts concurrents"
 kind: hypothesis
 level: conceptual
 status: inbox
@@ -20,14 +20,14 @@ references:
   - vazard2026inquiry
 source_notes:
   - "Le document nomme dispersion fonctionnelle la répartition des dimensions de l'intéressant entre beauté, sublime, nouveauté, surprise, curiosité, attention, pertinence, préférence et ennui."
-  - "Garve fournit un cas historique à tester : l'intéressant reçoit chez lui une élaboration autonome en 1771-1772, sans devenir ensuite une catégorie canonique cumulative."
+  - "Garve fournit un cas historique à tester : l'intéressant reçoit chez lui une élaboration autonome en 1771-1772, sans susciter ensuite une suite continue de commentaires et de recherches."
   - "La notice de Nannini est directement accessible ; les autres références servent ici de programme de lecture à vérifier dans les textes."
   - "Vazard, 2026, sections III-V : distinction directe entre curiosité orientée vers une question et intérêt orienté vers un objet par une attention soutenue."
 tags:
   - interessant
   - concepts-concurrents
   - dispersion
-  - canonisation
+  - reception
   - beaute
   - curiosite
   - attention
@@ -109,7 +109,7 @@ l'intéressant.
 
 ## Liens
 
-- Soutient `idea_0129` en proposant un mécanisme de non-canonisation.
+- Soutient `idea_0129` en expliquant pourquoi cette théorie a été peu reprise.
 - Généralise les distinctions particulières de `idea_0005`, `idea_0108` et
   `idea_0118`.
 - Situe `idea_0128` comme un cas scientifique de substitution, et non comme la

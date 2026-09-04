@@ -1557,7 +1557,7 @@ def suivi_page(
 </section>
 <section class="section">
   <div class="shell follow-grid">
-    <div><p class="eyebrow">Journal de recherche</p><h2>Dernières transformations.</h2><p class="section-intro">L'historique Git rend visibles les changements intellectuels et documentaires, au-delà des seules versions stabilisées.</p></div>
+    <div><p class="eyebrow">Journal de recherche</p><h2>Dernières transformations.</h2><p class="section-intro">L'historique Git rend visibles les changements intellectuels et documentaires, au-delà des seules versions archivées.</p></div>
     <ol class="change-list">{changes_html}</ol>
   </div>
 </section>

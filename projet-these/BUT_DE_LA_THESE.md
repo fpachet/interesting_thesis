@@ -16,7 +16,7 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
    du sujet et la possibilité de l'ennui.
 3. **Établir sa place philosophique.** Partir de Garve, qui formule déjà explicitement
    le rapport entre attention, lacune et construction, puis reconstruire la faible
-   canonisation de ce noyau et sa dispersion ultérieure entre le vrai, le beau, le bien,
+   faible place de ce noyau dans la tradition et sa dispersion ultérieure entre le vrai, le beau, le bien,
    le sens, le jugement, l'invention et l'attention. Le projet comprend une traduction
    française intégrale de l'essai de Garve, menée avec Christian Berner pour les
    éditions Vrin.
@@ -30,7 +30,7 @@ Une discussion avec Olivia Chevallier, co-directrice de la thèse, fait apparaî
 structure possible qui ne constitue pas encore un plan arrêté :
 
 1. **Constituer l'angle mort.** Établir comment une formulation explicite chez Garve a
-   pu rester faiblement canonisée, puis comment l'intéressant échappe aux découpages
+   suscité si peu de reprises, puis comment l'intéressant échappe aux découpages
    philosophiques et scientifiques disponibles, en prenant notamment au sérieux
    le risque structurel qu'une formalisation substitue son indicateur à la cible.
 2. **Construire et défendre le concept.** Fixer des desiderata, comparer les rivaux,
@@ -80,7 +80,7 @@ ce niveau de sélection et de transformation.
 Le modèle de départ est donc un binôme indexé plutôt qu'un triangle rigide :
 `I(F, S | H, t)`, où `F` désigne la forme, `S` le sujet, `H` l'horizon collectif et
 `t` le moment de la rencontre. Le collectif devient un troisième terme autonome lorsque
-la recherche porte sur la circulation ou la stabilisation sociale de l'intérêt ; dans
+la recherche porte sur la manière dont l'intérêt circule ou s'installe dans un groupe ; dans
 l'expérience individuelle, il agit déjà à l'intérieur des deux pôles en formant les
 attentes du sujet et le répertoire des formes disponibles.
 
@@ -446,10 +446,10 @@ soulignent plus généralement que la quantité et la largeur du savoir préalab
 conditionnent ce qu'un système peut apprendre.
 
 La thèse examinera une hypothèse supplémentaire : le langage déplace cette frange en
-stabilisant les constructions acquises. Un mot, un concept ou une notation compacte des
+fixant les constructions acquises. Un mot, un concept ou une notation compacte des
 distinctions et parfois des opérations en une unité réutilisable. Ce qui exigeait un
 travail devient une prise disponible pour une construction nouvelle. La dynamique serait
-donc récursive : construction intéressante, stabilisation conceptuelle, unité
+donc récursive : construction intéressante, mise en mots, unité
 langagière, puis nouvelle frange de problèmes exprimables.
 
 Cette compression ne doit pas être confondue avec le simple fait de nommer. Un terme
