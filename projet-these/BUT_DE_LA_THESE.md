@@ -36,7 +36,7 @@ structure possible qui ne constitue pas encore un plan arrêté :
 2. **Construire et défendre le concept.** Fixer des desiderata, comparer les rivaux,
    proposer une définition relationnelle, spécifier la prise, puis traiter les objections
    avant d'en dégager les propriétés et les modèles partiels.
-3. **Mettre le concept au travail.** L'étudier d'abord dans la musique et
+3. **Le concept au travail.** L'étudier d'abord dans la musique et
    l'intelligence artificielle/création, puis dans des cas plus courts et plus ciblés,
    courts, afin de montrer les distinctions qu'il rend possibles et ce qu'il apporte aux
    problèmes considérés.

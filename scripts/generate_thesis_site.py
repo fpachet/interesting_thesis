@@ -989,7 +989,7 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ),
         (
             "03",
-            "Mettre le concept au travail",
+            "Le concept au travail",
             "L'étudier d'abord dans la musique et l'IA, puis dans quelques cas bien choisis.",
         ),
     ]

@@ -20,7 +20,7 @@ La thèse pourrait être organisée en trois mouvements :
    l'intéressant est tenue d'expliquer, comparer les analyses rivales, proposer
    une définition relationnelle, puis l'attaquer par des objections et des cas
    discriminants avant d'en dégager les propriétés et la dynamique.
-3. **Mettre le concept au travail.** L'étudier dans des situations suffisamment
+3. **Le concept au travail.** L'étudier dans des situations suffisamment
    différentes pour déterminer ce qu'il permet
    réellement de voir, d'expliquer et de distinguer.
 
@@ -124,7 +124,7 @@ lui donne naissance. »** Pachet sert ici d'antidote interne à la conceptualisa
 Garve de précédent empirique à une généralisation, et l'exigence kantienne de
 garde-fou contre la chronique subjective.
 
-## Troisième mouvement : mettre le concept au travail
+## Troisième mouvement : le concept au travail
 
 Les terrains ne sont pas de simples illustrations ajoutées après la théorie.
 La musique et l'intelligence artificielle/création fourniront les deux principaux
