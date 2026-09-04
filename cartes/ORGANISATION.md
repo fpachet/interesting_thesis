@@ -28,23 +28,21 @@ L'organisation du corpus est guidée par une thèse centrale, mais ne doit pas l
 présenter comme un résultat déjà acquis. Sa formulation reste un candidat à défendre,
 préciser et éventuellement réfuter au cours du travail :
 
-> **Est intéressant ce qui, pour un sujet situé et relativement à un horizon donné,
-> ouvre et soutient une activité dont l'exploration paraît valoir la peine et dont une
-> prise nouvelle peut devenir une issue crédible.**
+> **Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de
+> construction.**
 
-Cette proposition ne définit pas l'intéressant comme une propriété intrinsèque de
-l'objet ni comme une préférence privée. Elle décrit une relation dynamique entre une
-forme et un sujet doté d'une mémoire, d'attentes et de capacités acquises, relation
-elle-même située dans un horizon collectif et à un moment donné. Son modèle minimal est
-`I(F, S | H, t)`, où `F` désigne la forme, `S` le sujet, `H` l'horizon collectif et `t`
-le moment de la rencontre.
+Construire signifie modifier sa manière de percevoir, de questionner, de comprendre ou
+d'agir : distinguer, relier, modéliser, essayer, produire ou inventer une opération. La
+proposition ne définit pas l'intéressant comme une propriété intrinsèque de l'objet ni
+comme une préférence privée. Elle décrit un pouvoir relationnel dont le modèle minimal
+est `I(F, S | H, t)`, où `F` désigne la forme, `S` le sujet, `H` l'horizon collectif et
+`t` le moment de la rencontre.
 
-L'intéressant n'est donc pas un état mental ajouté à l'attention, à la curiosité ou
-aux émotions. Ces phénomènes sont des actualisations dans le sujet ; l'intéressant est
-le régime relationnel qui rompt l'indifférence, organise leurs passages et transforme
-ce que le sujet peut ensuite percevoir, demander ou faire. Il peut ainsi être appelé le
-**moteur transversal de la vie psychique exploratoire et auto-transformatrice**, à
-condition de ne pas en faire la cause universelle de tout état mental.
+L'intéressant qualifie le pouvoir déclencheur de la rencontre. Le néologisme
+**intérescence** désigne le processus qu'elle met en mouvement : rupture de
+l'indifférence, construction, transformations, épuisement, reprise ou transmission.
+Attention, curiosité et émotions peuvent manifester cette dynamique sans lui être
+identiques.
 
 L'**attention exploratoire** nomme sa phase encore faiblement orientée, dans laquelle la
 question pertinente peut ne pas être disponible. La **construction** nomme sa

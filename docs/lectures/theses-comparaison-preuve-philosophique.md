@@ -76,13 +76,12 @@ une source, jamais par un simple symbole.
 La définition candidate ne doit pas rendre le succès rétrospectif constitutif de
 l'intérêt. Une formulation plus résistante est :
 
-> Est intéressant ce qui, pour un sujet situé et relativement à un horizon donné,
-> ouvre et soutient une activité dont l'exploration paraît valoir la peine et dont une
-> prise nouvelle peut devenir une issue crédible.
+> Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de
+> construction.
 
 Elle permet de distinguer :
 
-- **intérêt** : ouverture et maintien d'une exploration jugée digne d'être poursuivie ;
+- **intérêt** : déclenchement d'un processus de construction ;
 - **intérêt orienté** : apparition d'une issue crédible ;
 - **intérêt fécond** : une prise nouvelle est effectivement acquise ;
 - **fascination promissive** : la crédibilité est entretenue sans prise contrôlable ;

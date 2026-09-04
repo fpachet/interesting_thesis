@@ -2,7 +2,8 @@
 
 ## Projet de traduction française, avec introduction et annotations
 
-**François Pachet — dossier de travail, 26 août 2026**
+**François Pachet et Christian Berner — projet destiné aux éditions Vrin, dossier de
+travail mis à jour le 4 septembre 2026**
 
 **Texte source :** Christian Garve, « Einige Gedanken über das Interessirende », d’abord publié dans les volumes 12 et 13 de la *Neue Bibliothek der schönen Wissenschaften und der freyen Künste* (1771-1772), puis repris avec une annexe dans la *Sammlung einiger Abhandlungen*, Leipzig, 1779, p. 253-439.
 

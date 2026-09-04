@@ -123,13 +123,12 @@ Vazard fournit un concurrent contemporain direct, et non une simple source sur
 la curiosité. Son apport conduit à reformuler l'hypothèse centrale en distinguant
 l'ouverture attentionnelle de la construction déjà orientée :
 
-> Est intéressant ce qui, pour un sujet situé et relativement à un horizon
-> donné, mérite et soutient une attention exploratoire parce qu'une différence,
-> une question ou une prise nouvelle y demeure crédible sans être encore
-> épuisée.
+> Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de
+> construction.
 
-Cette formulation reste à tester. Elle a l'avantage d'accueillir les expériences
-pré-problématiques sans réduire l'intéressant à la durée d'attention.
+Cette formulation reste à tester. Elle accueille les expériences pré-problématiques :
+la première construction peut précisément consister à faire apparaître une question.
+Elle ne réduit donc pas l'intéressant à la durée d'attention.
 
 ## Cartes concernées
 

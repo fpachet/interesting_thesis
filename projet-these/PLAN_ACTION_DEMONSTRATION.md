@@ -55,12 +55,13 @@ et la conception constructive doit pouvoir perdre sur certains critères.
 
 Définition candidate :
 
-> Est intéressant ce qui, pour un sujet situé et relativement à un horizon donné,
-> ouvre et soutient une activité dont l'exploration paraît valoir la peine et dont une
-> prise nouvelle peut devenir une issue crédible.
+> Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de
+> construction.
 
-La typologie doit traiter au minimum : discrimination, anticipation, variation
-contrefactuelle, transfert, intervention/artefact et reconstruction du problème.
+La définition doit être suivie d'une caractérisation explicite de la construction et du
+néologisme *intérescence*. La typologie doit traiter au minimum : discrimination,
+anticipation, variation contrefactuelle, transfert, intervention/artefact et
+reconstruction du problème.
 
 **Critère de sortie :** distinguer sans ambiguïté intérêt, intérêt fécond, fascination
 promissive et épuisement, mais aussi l'intéressant relationnel de l'intérêt éprouvé

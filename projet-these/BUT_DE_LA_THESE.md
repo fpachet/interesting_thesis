@@ -17,9 +17,9 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
 3. **Établir sa place philosophique.** Partir de Garve, qui formule déjà explicitement
    le rapport entre attention, lacune et construction, puis reconstruire la faible
    canonisation de ce noyau et sa dispersion ultérieure entre le vrai, le beau, le bien,
-   le sens, le jugement, l'invention et l'attention. Examiner avec Pierre Pachet la
-   survie possible d'une philosophie du particulier dans l'essai, sans transformer ce
-   rapprochement en filiation historique.
+   le sens, le jugement, l'invention et l'attention. Le projet comprend une traduction
+   française intégrale de l'essai de Garve, menée avec Christian Berner pour les
+   éditions Vrin.
 4. **Mettre les hypothèses à l'épreuve.** Utiliser la musique, les pratiques de création
    et les systèmes d'intelligence artificielle comme terrains de variation et de
    comparaison, sans prendre leurs résultats pour des preuves ontologiques directes.
@@ -59,11 +59,10 @@ distinctions et des contre-exemples, puis formule des invariants révisables. Le
 doit ensuite retourner aux cas afin qu'ils puissent révéler ses faux positifs, ses
 résidus et ses conditions de correction.
 
-Dans cette triangulation méthodologique, Pachet protège la naissance singulière de la
-pensée contre l'abstraction prématurée ; Garve montre qu'une enquête partie de
-l'expérience peut chercher des conditions générales ; l'exigence kantienne empêche la
-thèse de se réduire à une chronique personnelle. Il s'agit de fonctions reconstruites
-par la thèse, non d'une synthèse doctrinale entre les trois auteurs.
+Garve montre qu'une enquête partie de l'expérience peut chercher des conditions
+générales ; l'exigence kantienne empêche la thèse de se réduire à une chronique
+personnelle. Cette articulation méthodologique ne constitue ni une synthèse doctrinale
+ni une filiation.
 
 La note
 [`STRUCTURE_PROVISOIRE.md`](STRUCTURE_PROVISOIRE.md)
@@ -94,7 +93,7 @@ relation, non ses synonymes. L'intéressant peut être dit **moteur de la vie ps
 en ce sens précis : il organise les passages entre états dans l'activité exploratoire et
 auto-transformatrice. Il n'est ni une faculté cachée ni la cause de tout état mental.
 
-## Hypothèse centrale : l'intéressant comme promesse crédible de prise
+## Hypothèse centrale : l'intéressant comme déclencheur d'une construction
 
 Cette hypothèse n'est plus présentée comme une découverte sans antécédent. Dans
 *Einige Gedanken über das Interessirende* (1779), Garve relie déjà l'intéressant à une
@@ -112,19 +111,25 @@ identifiable peut émerger de cette fréquentation au lieu d'en constituer néce
 le point de départ. La thèse conserve donc la construction, mais refuse de lui attribuer
 rétrospectivement un but déjà représenté dès le premier instant de l'intérêt.
 
-Le candidat actuel pour le cœur de la thèse devient : **est intéressant ce qui, pour un
-sujet situé et relativement à un horizon donné, ouvre et soutient une activité dont
-l'exploration paraît valoir la peine et dont une prise nouvelle sur un objet, un problème
-ou un espace de possibilités peut devenir une issue crédible**. Le flow décrit certaines
-conditions dans lesquelles cette activité reste possible ; l'attention exploratoire en
-décrit la phase encore faiblement orientée ; la construction décrit sa détermination
-progressive ; la compréhension, le modèle ou l'artefact en sont des résultats possibles.
+Le cœur de la thèse est désormais formulé directement : **est intéressant, pour un
+sujet, ce qui déclenche chez lui un processus de construction**. Construire signifie ici
+modifier sa manière de percevoir, de questionner, de comprendre ou d'agir : faire une
+distinction, formuler une question, relier des éléments, élaborer une hypothèse ou un
+modèle, essayer une variation, produire une forme ou inventer une opération. La simple
+exécution d'une procédure déjà maîtrisée ne suffit pas.
 
-Une formulation ontologique complémentaire précise ce que cette définition qualifie :
-**l'intéressant est la relation par laquelle une différence rencontrée devient, pour un
-sujet situé, un principe de continuation et de transformation de son activité**. La
-première formule décrit la trajectoire et son enjeu prospectif ; la seconde distingue la
-relation de ses manifestations psychiques.
+Cette définition porte sur le déclenchement et non sur la réussite. La construction peut
+échouer, s'égarer, épuiser son objet ou conduire à une prise nouvelle. Elle reste
+relationnelle et indexée par `I(F, S | H, t)` : le pouvoir déclencheur dépend de la forme,
+du sujet, de son horizon et du moment de la rencontre.
+
+Le néologisme **intérescence** désigne la dynamique ainsi déclenchée : rupture de
+l'indifférence, premières distinctions, construction, transformations, puis épuisement,
+reprise ou transmission. L'intéressant qualifie donc le pouvoir déclencheur de la
+rencontre ; l'intérescence nomme le processus qu'elle met en mouvement. L'adjectif
+**intérescentiel** concerne l'analyse de ces processus. Ces termes restent des outils
+proposés et devront prouver qu'ils distinguent mieux le déclenchement, la trajectoire et
+les transferts que le vocabulaire ordinaire de l'intérêt.
 
 La formulation sépare l'intérêt de sa réussite rétrospective. **L'intérêt** maintient une
 exploration jugée digne d'être poursuivie ; **l'intérêt orienté** fait apparaître une

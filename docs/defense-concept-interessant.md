@@ -8,31 +8,25 @@
 
 La proposition centrale est la suivante :
 
-> **Définition D (`CORE`).** Est intéressant ce qui, pour un sujet situé et
-> relativement à un horizon donné, ouvre et soutient une activité dont l'exploration
-> paraît valoir la peine et dont une prise nouvelle sur un objet, un problème ou un
-> espace de possibilités peut devenir une issue crédible.
+> **Définition D (`CORE`).** Est intéressant, pour un sujet, ce qui déclenche chez lui
+> un processus de construction.
 
-Cette définition est relationnelle, temporelle et prospective. Elle ne dit pas que
-l'objet contient l'intérêt, ni que tout état d'intérêt est une préférence privée. Elle
-ne fait pas non plus de la réussite finale une condition rétrospective : une enquête
-peut avoir été réellement intéressante et échouer.
+Cette définition est relationnelle et temporelle. Construire signifie modifier sa
+manière de percevoir, de questionner, de comprendre ou d'agir : distinguer, relier,
+modéliser, essayer, produire ou inventer une opération. La définition ne dit pas que
+l'objet contient l'intérêt et ne fait pas de la réussite finale une condition
+rétrospective : une construction déclenchée peut échouer.
 
 Elle distingue désormais, à la suite de Juliette Vazard, une orientation faible et une
 orientation forte. L'intérêt peut d'abord maintenir une attention large sur un objet
 avant que la question pertinente soit disponible ; la construction devient orientée
 lorsqu'une différence, une résistance ou une opération rend une prise déterminable.
 
-Elle reçoit maintenant une caractérisation ontologique complémentaire :
-
-> **Statut R (`CORE`).** L'intéressant est la relation par laquelle une différence
-> rencontrée devient, pour un sujet situé, un principe de continuation et de
-> transformation de son activité.
-
-R interdit de classer l'intéressant comme un état mental supplémentaire. L'intérêt
-éprouvé peut être un sentiment ou une disposition ; l'attention, la curiosité et les
-émotions sont des actualisations dans le sujet. L'intéressant qualifie le couplage avec
-l'objet qui peut les déclencher et organiser leurs transitions.
+Le néologisme **intérescence** désigne le processus déclenché : rupture de
+l'indifférence, construction, transformations, épuisement, reprise ou transmission.
+L'intéressant qualifie le pouvoir déclencheur de la rencontre ; l'intérescence nomme la
+dynamique qu'elle met en mouvement. L'intérêt éprouvé, l'attention, la curiosité et les
+émotions en sont des manifestations possibles dans le sujet.
 
 La justification recherchée est **différentielle et abductive**. D sera préférable si
 elle satisfait des contraintes fixées indépendamment, distingue des cas que ses rivales
@@ -129,17 +123,17 @@ formation, la pratique, le corpus connu, la langue, les consignes ou les normes 
 groupe. Si `H` n'est ajouté qu'après coup pour sauver la prédiction, il ne joue aucun
 rôle explicatif.
 
-## 3. Définir la crédibilité sans circularité
+## 3. Attester une construction sans circularité
 
-La formule « issue crédible » ne peut pas signifier seulement « issue que le sujet
-trouve intéressante ». Sa crédibilité est une attribution faillible, soutenue par des
-indices indépendants.
+Le mot « construction » ne peut pas désigner toute interprétation produite après coup.
+Le déclenchement doit modifier l'activité du sujet et laisser des traces qui puissent
+être décrites indépendamment du verdict « c'était intéressant ».
 
-Une promesse de prise est **crédible pour `S` à `t`** lorsqu'au moins un faisceau des
-indices suivants est présent :
+Un processus de construction est **engagé pour `S` à `t`** lorsqu'au moins un faisceau
+des indices suivants est présent :
 
-> **Statut (`MODEL`).** Cette liste est un premier modèle opératoire de la crédibilité,
-> non une analyse conceptuelle tenue pour acquise.
+> **Statut (`MODEL`).** Cette liste est un premier modèle opératoire des traces de
+> construction, non une analyse conceptuelle tenue pour acquise.
 
 1. **Ancrage antérieur.** Le sujet possède des catégories, exemples ou savoir-faire qui
    permettent de commencer l'enquête.
@@ -230,12 +224,14 @@ pertinence comme relation à une question et plaisir comme effet possible.
 idiosyncratique ; la théorie rend donc tout intéressant.
 
 **Réponse provisoire.** La relation n'est pas attribuée à tout ce qui peut recevoir une
-interprétation. Il faut une activité soutenue par une promesse crédible, puis, pour
-l'intérêt fécond, une capacité nouvelle contrainte et robuste. La singularité du sujet
-n'est pas une objection si les conditions sont spécifiées avant le verdict.
+interprétation. Il faut qu'une rencontre modifie effectivement l'activité : nouvelle
+distinction, question, liaison, hypothèse, variation ou opération. Pour l'intérêt
+fécond, cette construction doit en outre produire une capacité contrainte et robuste.
+La singularité du sujet n'est pas une objection si les conditions sont spécifiées avant
+le verdict.
 
-**Révision imposée.** Ajouter à D l'exigence que la crédibilité soit justifiable par des
-indices indépendants. Refuser d'expliquer après coup chaque cas par `H`.
+**Révision imposée.** Définir des traces de construction observables indépendamment du
+jugement d'intérêt. Refuser d'expliquer après coup chaque cas par `H`.
 
 **Statut :** partiellement résolue. La disposition à l'intérêt reste très large et
 demande un protocole prédictif.

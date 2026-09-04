@@ -774,7 +774,7 @@ def base_page(
 
 def thesis_statement() -> str:
     text = (ROOT / "projet-these" / "BUT_DE_LA_THESE.md").read_text(encoding="utf-8")
-    central = section(text, "Hypothèse centrale : l'intéressant comme promesse crédible de prise")
+    central = section(text, "Hypothèse centrale : l'intéressant comme déclencheur d'une construction")
     match = re.search(r"\*\*([^*]+)\*\*", central, re.DOTALL)
     if not match:
         raise ValueError("Impossible d'extraire la thèse centrale")

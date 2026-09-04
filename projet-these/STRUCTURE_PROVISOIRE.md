@@ -40,9 +40,6 @@ jamais parlé de l'intéressant. Il devra établir un diagnostic plus précis :
 - comment Garve a-t-il pu formuler dès 1779 le rapport entre attention, lacune,
   difficulté éprouvée et construction sans devenir le point de départ d'une
   tradition cumulative ?
-- la préférence de Pierre Pachet pour le particulier et pour la pensée située hors
-  du nom de « philosophie » indique-t-elle une survie déplacée de ce régime
-  d'enquête dans l'essai ?
 - sous quels autres noms le phénomène a-t-il été approché ?
 - quelles dimensions sont saisies par le vrai, le beau, le plaisir, la
   préférence, la surprise, la curiosité ou l'attention ?
@@ -211,13 +208,9 @@ ou l'émergence du sens.
 Garve occupe désormais une fonction plus précise : il fournit l'antécédent
 historique direct du mécanisme constructif. Les autres textes doivent permettre
 de suivre son déclassement, sa dispersion ou ses transformations, puis de mesurer
-ce que la thèse ajoute réellement à ce noyau.
-
-Pierre Pachet fournit un cas métaphilosophique distinct : non une postérité de
-Garve, mais la possibilité qu'une philosophie attentive à la naissance concrète
-des idées ait survécu dans l'essai en cessant de se reconnaître sous le nom de
-philosophie. Ses « aguets » caractérisent la disponibilité du sujet à une prise
-encore sans concept.
+ce que la thèse ajoute réellement à ce noyau. La traduction française intégrale
+de son essai, menée avec Christian Berner pour les éditions Vrin, fait partie de
+ce travail historique et conceptuel.
 
 Ces textes ne doivent pas servir d'habillage destiné à faire reconnaître le
 travail comme philosophique. Ils doivent contraindre le concept, révéler ses

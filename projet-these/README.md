@@ -93,6 +93,13 @@ l'élève doit accomplir. L'anecdote de Gilles de La Ménardière sur le droit a
 sert de cas, non de preuve universelle. L'autonomie acquise permet de distinguer cet
 accompagnement d'une simple séduction par le médiateur.
 
+La V12 resserre le cœur conceptuel : « Est intéressant, pour un sujet, ce qui déclenche
+chez lui un processus de construction. » Elle définit concrètement la construction et
+présente *intérescence* comme le nom proposé pour la dynamique déclenchée. Elle mentionne
+la traduction intégrale de Garve menée avec Christian Berner pour les éditions Vrin. Le
+développement sur Pierre Pachet ainsi que la section sur l'intéressant, le vrai et
+l'anecdote de Heinz Wismann sont retirés du projet courant.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
@@ -125,7 +132,8 @@ La V8 conserve cette correspondance et ajoute son propre triplet d'instantanés
 `projet-these-v8-{fr,en}.tex` et `references-v8.bib`. La V9 fait de même avec
 `projet-these-v9-{fr,en}.tex` et `references-v9.bib`. La V10 est archivée dans
 `projet-these-v10-{fr,en}.tex` et `references-v10.bib`. La V11 est archivée dans
-`projet-these-v11-{fr,en}.tex` et `references-v11.bib`.
+`projet-these-v11-{fr,en}.tex` et `references-v11.bib`. La V12 est archivée dans
+`projet-these-v12-{fr,en}.tex` et `references-v12.bib`.
 
 ## Compilation
 

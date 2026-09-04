@@ -4,6 +4,22 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 12 - 4 septembre 2026
+
+- remplacement de la définition trop chargée par la proposition directe : « Est
+  intéressant, pour un sujet, ce qui déclenche chez lui un processus de construction » ;
+- définition concrète de la construction comme transformation de la manière de
+  percevoir, questionner, comprendre ou agir, sans faire de la réussite une condition ;
+- présentation explicite du néologisme *intérescence* comme nom du processus déclenché,
+  et d'*intérescentiel* comme adjectif méthodologique provisoire ;
+- mention du projet de traduction française intégrale de Garve, mené avec Christian
+  Berner pour les éditions Vrin ;
+- suppression du développement sur Pierre Pachet ;
+- suppression de la section sur l'intéressant et le vrai, de l'anecdote de Heinz
+  Wismann et de leurs reprises dans le plan ;
+- synchronisation des versions française et anglaise, du site et des documents de
+  travail, puis archivage des sources et de la bibliographie de la version 12.
+
 ## Version 11 - 4 septembre 2026
 
 - création de `idea_0164`, « Peut-on rendre tout intéressant ? » ;
