@@ -80,6 +80,10 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert "Trois mouvements provisoires" in thesis_page
     assert "Constituer l&#x27;angle mort" in thesis_page
     assert "discussion avec Olivia Chevallier" in thesis_page
+    assert "Le terme décisif est <em>construction</em>" in thesis_page
+    assert "<em>L'intérescence</em> est le nom proposé" in thesis_page
+    assert "Christian Berner" in thesis_page
+    assert "éditions Vrin" in thesis_page
     assert "motivation morale et affective extrêmement forte" in thesis_page
     assert "sans intérescence interne identifiable" in thesis_page
 
