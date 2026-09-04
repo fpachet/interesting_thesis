@@ -106,13 +106,20 @@ travail de l'élève ; elle ne démontre pas que toute matière pourrait l'être
 oblige donc la thèse à distinguer accompagnement durable, séduction momentanée et échec
 de la construction.
 
-## Extensions littéraire et généalogique spéculatives
+## Extensions spéculatives
 
 - `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.
 - `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
+- `idea_0165` - L'intéressant peut être à la racine de la réification.
 
 Ces cartes restent `SPECULATIVE`. `idea_0162` propose une méthode comparative, mais
 aucune analyse suivie de Proust, de *Bartleby* ou de Job n'a encore établi son pouvoir
 explicatif différentiel. `idea_0163` propose une succession fonctionnelle entre morale
 et intérescence, mais doit encore distinguer antériorité psychologique, héritage
 historique et simple récit de sécularisation.
+
+`idea_0165` propose que l'intéressant participe à la constitution d'un objet pour un
+sujet, puis que la réification commence lorsque cette naissance relationnelle est
+oubliée. Elle reste `SPECULATIVE` tant que les cas de réification issue d'une
+intérescence n'ont pas été comparés aux réifications administratives ou automatiques qui
+peuvent s'imposer sans intérêt préalable.

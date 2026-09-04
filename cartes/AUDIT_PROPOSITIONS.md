@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 161 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 105 `conceptual`, 20 `scientific` et 36
+Les 162 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 106 `conceptual`, 20 `scientific` et 36
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -158,6 +158,14 @@ une évolution biologique ou un remplacement de la normativité. Kant sert de ch
 par son concept d'intérêt moral comme mobile réservé aux êtres finis. Après révision,
 Job ne sert plus de contre-exemple supposé : la carte distingue motivation morale
 intense, intérescence interne non attestée et intérescence externe du lecteur.
+
+`idea_0165` ajoute une troisième extension `SPECULATIVE` : l'intéressant peut contribuer
+à détacher quelque chose du fond et à le constituer comme objet pour un sujet. La
+réification commence lorsque cette naissance relationnelle est oubliée. La carte
+distingue cette hypothèse sur la réification vécue des réifications administratives,
+marchandes ou automatiques qui peuvent s'imposer sans intérêt préalable. Elle prolonge
+`idea_0076` sans la dupliquer : cette dernière décrit les effets de la réification d'une
+idée, tandis que `idea_0165` propose un rôle possible de l'intéressant en amont.
 
 La version anglaise `input/Project philosophy thesis.pdf` a ensuite été comparée
 intégralement au PDF français du projet. Elle confirme les mêmes propositions et

@@ -20,6 +20,18 @@ utilisables par la thèse.
 
 ## Sources externes intégrées
 
+### Note sur l'intéressant et la réification
+
+Statut actuel : `note_conceptuelle_speculative` (5 septembre 2026).
+
+La note `docs/notes/interessant-racine-reification.md` consigne une hypothèse issue de la
+discussion de travail : l'intéressant peut contribuer à la constitution d'un objet pour
+un sujet, avant qu'une réification éventuelle n'en efface l'origine relationnelle. Les
+étymologies d'*objet* et de *problème* ont été vérifiées dans le CNRTL : elles partagent
+une image spatiale, mais pas une racine commune. La carte `idea_0165` distingue
+objectivation et réification et enregistre les cas administratifs ou automatiques comme
+limite de la proposition.
+
 ### Immanuel Kant, intérêt moral et volonté divine
 
 Statut actuel : `lecture_directe_ciblee` (24 août 2026).

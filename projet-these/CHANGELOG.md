@@ -4,6 +4,20 @@ Ce fichier décrit les changements de fond entre les versions archivées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 14 - 5 septembre 2026
+
+- création de `idea_0165`, « L'intéressant peut être à la racine de la réification » ;
+- distinction entre l'objectivation, qui constitue quelque chose comme objet pour un
+  sujet, et la réification, qui fait oublier cette naissance relationnelle ;
+- rapprochement précis entre *objet* et *problème* : deux étymologies distinctes qui
+  partagent l'image de ce qui est placé ou jeté devant ;
+- ajout de la programmation par objets comme analogie issue de la pratique, sans en faire
+  une filiation historique ;
+- limitation de l'hypothèse à une racine possible de la réification vécue et ajout de
+  contre-exemples administratifs, marchands ou automatiques ;
+- mise à jour des projets français et anglais, des documents de travail, des cartes, du
+  catalogue et du site public.
+
 ## Version 13 - 4 septembre 2026
 
 - réécriture générale dans une langue plus simple et plus directe ;

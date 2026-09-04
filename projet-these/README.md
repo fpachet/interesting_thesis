@@ -104,6 +104,12 @@ La V13 reprend l'ensemble dans une langue plus simple et plus directe. Elle remp
 les formules abstraites qui masquaient l'argument, parle de terrains d'étude plutôt
 que de laboratoires et présente positivement le rôle des textes philosophiques.
 
+La V14 ajoute l'hypothèse selon laquelle l'intéressant peut être à la racine de la
+réification. Ce qui devient intéressant se détache du fond et devient un objet pour un
+sujet ; la réification commence lorsque cette naissance relationnelle est oubliée. La
+version distingue ce cas vécu des réifications administratives, marchandes ou
+automatiques qui peuvent s'imposer sans intérêt préalable.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
@@ -138,7 +144,8 @@ La V8 conserve cette correspondance et ajoute son propre triplet d'instantanés
 `projet-these-v10-{fr,en}.tex` et `references-v10.bib`. La V11 est archivée dans
 `projet-these-v11-{fr,en}.tex` et `references-v11.bib`. La V12 est archivée dans
 `projet-these-v12-{fr,en}.tex` et `references-v12.bib`. La V13 est archivée dans
-`projet-these-v13-{fr,en}.tex` et `references-v13.bib`.
+`projet-these-v13-{fr,en}.tex` et `references-v13.bib`. La V14 est archivée dans
+`projet-these-v14-{fr,en}.tex` et `references-v14.bib`.
 
 ## Compilation
 

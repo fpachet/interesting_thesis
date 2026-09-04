@@ -69,7 +69,7 @@ comme état ou disposition du sujet.
 
 ## Chantier 4 - Dossier d'objections
 
-**Livrable :** huit fiches d'objection de deux pages maximum, chacune composée de la
+**Livrable :** onze fiches d'objection de deux pages maximum, chacune composée de la
 forme la plus forte de l'objection, d'un cas, d'une réponse et d'une révision éventuelle.
 
 1. sur-extension ;
@@ -89,6 +89,12 @@ Une dixième fiche devra éprouver la généalogie morale : l'intérescence repr
 historiquement une fonction d'orientation devenue vacante, ou la capacité de faire
 compter précède-t-elle et traverse-t-elle déjà les systèmes moraux ? Cette fiche devra
 séparer succession culturelle, antériorité psychologique et justification normative.
+
+Une onzième fiche portera sur la réification. L'intéressant est-il nécessaire pour qu'une
+chose devienne un objet pour un sujet, ou accompagne-t-il seulement une objectivation qui
+peut naître autrement ? La fiche comparera une réification issue d'une intérescence, une
+réification administrative ou automatique sans intérêt préalable, et une intérescence
+qui ne produit aucun objet durable.
 
 La fiche sur la sur-extension devra traiter explicitement la question « Peut-on rendre
 tout intéressant ? ». Elle distinguera l'accompagnement d'une construction durable de
@@ -133,7 +139,7 @@ chacun doit pouvoir confirmer, limiter ou réviser une proposition précise.
 1. Arrêter D1-D10 et les 17 cartes `CORE`.
 2. Construire la matrice des rivaux.
 3. Réviser la définition et la typologie de la prise.
-4. Rédiger les neuf objections avant les réponses.
+4. Rédiger les onze objections avant les réponses.
 5. Réorganiser le plan détaillé du deuxième mouvement.
 6. Affecter une fonction différentielle à chaque étude de cas.
 7. Utiliser la V8 comme première refonte argumentative après Vazard, la V9 comme

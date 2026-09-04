@@ -24,7 +24,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
-## 2. Définition et émergence de l'intéressant (26)
+## 2. Définition et émergence de l'intéressant (27)
 
 ### Pivots
 
@@ -46,6 +46,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0138` - L'énigme soutient l'intérêt tant que sa résolution reste désirable, accessible et inachevée.
 - `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 - `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
+- `idea_0165` - L'intéressant peut être à la racine de la réification.
 
 ### Distinctions et objections
 
@@ -253,6 +254,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 11, 26, 28, 33, 11, 20, 12 et 20
-cartes, soit les 161 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 11, 27, 28, 33, 11, 20, 12 et 20
+cartes, soit les 162 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

@@ -42,20 +42,20 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 161
+    assert manifest["cards"] == 162
     assert manifest["families"] == 8
-    assert manifest["relations"] == 278
+    assert manifest["relations"] == 282
     assert manifest["references"] == 139
-    assert manifest["referenced_cards"] == 96
+    assert manifest["referenced_cards"] == 97
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 161
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 162
     assert len(list((output / "bibliographie").glob("*/index.html"))) == 139
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
-    assert "version 13" in homepage
+    assert "version 14" in homepage
     assert "Thèse centrale actuelle" in homepage
     assert "Est intéressant, pour un sujet, ce qui déclenche" in homepage
-    assert "161 propositions" in homepage
+    assert "162 propositions" in homepage
     assert (output / "these" / "index.html").is_file()
     assert (output / "lectures" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
@@ -67,10 +67,13 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "cartes" / "idea_0134" / "index.html").is_file()
     assert (output / "cartes" / "idea_0138" / "index.html").is_file()
     assert (output / "cartes" / "idea_0164" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0165" / "index.html").is_file()
 
     thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")
     assert "Test pédagogique" in thesis_page
     assert "../cartes/idea_0164/index.html" in thesis_page
+    assert "Objet et réification" in thesis_page
+    assert "../cartes/idea_0165/index.html" in thesis_page
     assert (output / "cartes" / "idea_0139" / "index.html").is_file()
     assert (output / "cartes" / "idea_0162" / "index.html").is_file()
     assert (output / "cartes" / "idea_0163" / "index.html").is_file()
@@ -94,7 +97,7 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert "stabilis" not in public_html
 
     status_page = (output / "suivi" / "index.html").read_text(encoding="utf-8")
-    assert "Version 13" in status_page
+    assert "Version 14" in status_page
     assert "8 familles de travail" in status_page
 
     job_card = (output / "cartes" / "idea_0162" / "index.html").read_text(

@@ -63,9 +63,10 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
   pertinence et valeur ;
 - la distinction entre difficulté intrinsèque, difficultuosité ressentie et
   chalépodoxie comme réputation sociale de difficulté ;
-- l'hypothèse de l'intéressant comme ouverture et soutien d'une activité dont
-  l'exploration paraît valoir la peine et dont une prise nouvelle peut devenir une
-  issue crédible ;
+- la définition directe : est intéressant, pour un sujet, ce qui déclenche chez lui un
+  processus de construction ;
+- l'hypothèse selon laquelle ce processus peut constituer un objet pour le sujet, puis
+  conduire à une réification lorsque cette naissance relationnelle est oubliée ;
 - la distinction entre attention exploratoire antérieure à la question et construction
   déjà orientée vers une prise ;
 - la comparaison avec l'attention, la curiosité naturelle et artificielle, et les
@@ -104,7 +105,8 @@ Thalabard :
    transférer, intervenir et reconstruire un problème.
 5. **Objections et réponses.** Traiter la sur-extension, la sous-extension, la
    circularité, l'échec de la promesse, la contemplation, la curiosité, la
-   normativité, la métaphore du moteur et l'irréfutabilité possible de l'horizon `H`.
+   normativité, la métaphore du moteur, l'irréfutabilité possible de l'horizon `H` et
+   les cas de réification sans intérêt préalable.
    La question « Peut-on rendre tout intéressant ? » éprouvera directement la
    sur-extension en distinguant l'accompagnement qui rend autonome de la séduction qui
    reste dépendante du médiateur.
@@ -249,6 +251,8 @@ vocabulaires existants confondent, par exemple :
   réglés avant toute nouvelle version du manuscrit ?
 - L'hypothèse statistique sur la rareté de l'intéressant doit-elle rester une extension
   spéculative, ou peut-elle être étayée assez fortement pour entrer dans la démonstration ?
+- L'intéressant est-il nécessaire à la constitution vécue d'un objet, ou certaines
+  objectivations apparaissent-elles sans intérêt préalable ?
 
 Cette note a guidé le rattrapage documentaire de la V7. La V8 en réalise une première
 refonte argumentative en distinguant, avec Vazard, l'attention exploratoire antérieure à

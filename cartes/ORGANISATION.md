@@ -11,7 +11,7 @@ de choisir un ordre de chapitres.
 1. `indexes/by_level.md` indique le statut épistémique : proposition
    conceptuelle, résultat scientifique ou articulation entre les deux.
 2. `indexes/by_argument.md` indique la fonction principale dans l'enquête. Les
-   161 cartes y sont affectées une seule fois à huit familles.
+   162 cartes y sont affectées une seule fois à huit familles.
 3. `indexes/by_architecture.md` hiérarchise provisoirement les propositions selon
    leur rôle dans la démonstration ; sa première passe retient dix-sept cartes `CORE`.
 4. `relations.tsv` décrit un premier ensemble de relations directionnelles et
@@ -57,7 +57,7 @@ promissive. Cette distinction empêche de juger rétrospectivement que toute enq
 infructueuse n'avait jamais été intéressante.
 
 La formulation développée et son statut dans le projet se trouvent dans
-[`BUT_DE_LA_THESE.md`](../projet-these/BUT_DE_LA_THESE.md#hypothèse-centrale--lintéressant-comme-promesse-crédible-de-prise).
+[`BUT_DE_LA_THESE.md`](../projet-these/BUT_DE_LA_THESE.md#hypothèse-centrale--lintéressant-comme-déclencheur-dune-construction).
 La carte [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) en est
 la proposition canonique dans le corpus manipulable. Les deux documents ont des rôles
 différents : le premier expose l'objet, les tâches et le résultat attendu de la thèse ;
@@ -69,6 +69,7 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | --- | --- | --- |
 | Cadre relationnel | [`idea_0084`](inbox/idea_0084_interessant_rencontre_forme_memoire.md) | L'intéressant naît de la rencontre entre une forme et une mémoire, indexée par un horizon et un moment. |
 | Statut dynamique | [`idea_0161`](inbox/idea_0161_interessant_operateur_transitions_psychiques.md) | L'intéressant n'est pas un état psychique supplémentaire, mais l'opérateur relationnel qui actualise et enchaîne attention, curiosité, émotions et activité. |
+| Constitution de l'objet | [`idea_0165`](inbox/idea_0165_interessant_racine_reification.md) | Ce qui devient intéressant peut se détacher du fond, devenir un objet pour le sujet, puis être réifié si cette naissance relationnelle est oubliée. |
 | Programme de naturalisation | [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md) | L'intéressant devient un phénomène psychique explicable sans être assigné comme propriété intrinsèque à l'objet. |
 | Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
 | Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Une prise perceptive, explicative ou opératoire constitue d'abord une issue crédible ; son obtention caractérise l'intérêt fécond. |
@@ -158,6 +159,7 @@ usage fréquent mais faible densité théorique (0130)
 émergence d'une forme (0083)
   -> relation forme-mémoire (0084)
   -> actualisations en attention, curiosité, émotions et activité (0161)
+  -> constitution possible d'un objet et risque de réification (0165)
   -> flow comme régime partiel de maintien (0121)
   -> attention ouverte et apparition possible de la question (0160)
   -> constitution éventuelle de l'objet en énigme désirable et accessible (0138)
@@ -216,7 +218,7 @@ combinatoire d'une intuition philosophique plus large.
 Les cartes les plus structurantes à ce stade sont :
 
 - `idea_0116`, `idea_0129`, `idea_0130`, `idea_0131`, `idea_0132` et `idea_0134` pour la constitution historique et positive de l'angle mort ;
-- `idea_0083`, `idea_0084`, `idea_0121`, `idea_0123`, `idea_0133`, `idea_0160` et `idea_0161` pour l'objet philosophique central ;
+- `idea_0083`, `idea_0084`, `idea_0121`, `idea_0123`, `idea_0133`, `idea_0160`, `idea_0161` et `idea_0165` pour l'objet philosophique central ;
 - `idea_0001`, `idea_0071`, `idea_0107`, `idea_0122` et `idea_0127` pour sa dynamique temporelle et son déplacement symbolique ;
 - `idea_0085`, `idea_0096` et `idea_0109` pour problème, rareté et contraintes ;
 - `idea_0086`, `idea_0112` et `idea_0113` pour la théorie de l'attention musicale ;
@@ -281,6 +283,8 @@ Ces groupes sont proches mais ne doivent pas encore être fusionnés :
 - Peut-on rendre tout intéressant (`idea_0164`) ? L'accompagnement d'un professeur
   peut-il toujours faire naître une construction autonome, ou certaines matières,
   certains sujets et certains moments résistent-ils à toute médiation ?
+- L'intéressant est-il vraiment à la racine de la réification vécue (`idea_0165`), ou
+  accompagne-t-il seulement une objectivation qui peut naître autrement ?
 
 ## Règle de maintenance
 

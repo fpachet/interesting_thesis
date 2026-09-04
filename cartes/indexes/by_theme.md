@@ -25,6 +25,7 @@
 
 ## Définition de l'intéressant
 
+- `idea_0165` - L'intéressant peut être à la racine de la réification.
 - `idea_0164` - Peut-on rendre tout intéressant ?
 - `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
 - `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.
@@ -170,6 +171,7 @@
 
 ## Exploration, similarité, parcours
 
+- `idea_0165` - L'intéressant peut être à la racine de la réification.
 - `idea_0164` - Peut-on rendre tout intéressant ?
 - `idea_0161` - L'intéressant est un opérateur relationnel de transitions psychiques, non un état mental.
 - `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.

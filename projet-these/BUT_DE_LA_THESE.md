@@ -16,7 +16,7 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
    du sujet et la possibilité de l'ennui.
 3. **Établir sa place philosophique.** Partir de Garve, qui formule déjà explicitement
    le rapport entre attention, lacune et construction, puis reconstruire la faible
-   faible place de ce noyau dans la tradition et sa dispersion ultérieure entre le vrai, le beau, le bien,
+   place de ce noyau dans la tradition et sa dispersion ultérieure entre le vrai, le beau, le bien,
    le sens, le jugement, l'invention et l'attention. Le projet comprend une traduction
    française intégrale de l'essai de Garve, menée avec Christian Berner pour les
    éditions Vrin.
@@ -33,12 +33,12 @@ structure possible qui ne constitue pas encore un plan arrêté :
    suscité si peu de reprises, puis comment l'intéressant échappe aux découpages
    philosophiques et scientifiques disponibles, en prenant notamment au sérieux
    le risque structurel qu'une formalisation substitue son indicateur à la cible.
-2. **Construire et défendre le concept.** Fixer des desiderata, comparer les rivaux,
-   proposer une définition relationnelle, spécifier la prise, puis traiter les objections
-   avant d'en dégager les propriétés et les modèles partiels.
+2. **Construire et défendre le concept.** Dire ce que le concept doit expliquer,
+   comparer les explications possibles, proposer une définition relationnelle, préciser
+   ce que le sujet construit, puis traiter les objections.
 3. **Le concept au travail.** L'étudier d'abord dans la musique et
    l'intelligence artificielle/création, puis dans des cas plus courts et plus ciblés,
-   courts, afin de montrer les distinctions qu'il rend possibles et ce qu'il apporte aux
+   afin de montrer les distinctions qu'il rend possibles et ce qu'il apporte aux
    problèmes considérés.
 
 Le troisième mouvement ne doit pas juxtaposer des exemples décoratifs ni rendre cinq
@@ -122,6 +122,27 @@ Cette définition porte sur le déclenchement et non sur la réussite. La constr
 échouer, s'égarer, épuiser son objet ou conduire à une prise nouvelle. Elle reste
 relationnelle et indexée par `I(F, S | H, t)` : le pouvoir déclencheur dépend de la forme,
 du sujet, de son horizon et du moment de la rencontre.
+
+### De l'objet à la réification
+
+La construction ne porte pas toujours sur un objet déjà constitué. Ce qui devient
+intéressant se détache du fond : le sujet le remarque, y revient, lui attribue des
+propriétés et commence à travailler avec lui. Quelque chose devient ainsi un objet pour
+ce sujet.
+
+Une nouvelle hypothèse en découle : **l'intéressant peut être à la racine de la
+réification**. L'objectivation rend une chose identifiable et manipulable ; la
+réification commence lorsque l'on oublie que cet objet est né d'une relation et d'un
+travail. Cette hypothèse vise d'abord la réification vécue. Elle ne prétend pas que toute
+réification administrative, marchande ou automatique commence par un intérêt subjectif.
+
+Les mots *objet* et *problème* éclairent ce passage. Le premier vient du latin
+*objectum*, « ce qui est placé devant » ; le second du grec *problēma*, « ce qu'on a
+devant soi », lié à l'action de « jeter devant ». Ils n'ont pas la même racine, mais ils
+partagent cette image. Un objet intéressant peut devenir un problème lorsqu'il appelle
+des questions, des distinctions et des opérations. La programmation par objets fournit
+une analogie tirée de la pratique de construction des systèmes, non une filiation
+historique.
 
 Le néologisme **intérescence** désigne la dynamique ainsi déclenchée : rupture de
 l'indifférence, premières distinctions, construction, transformations, puis épuisement,
