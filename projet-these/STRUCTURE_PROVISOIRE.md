@@ -38,8 +38,7 @@ Le premier mouvement ne devra pas affirmer trop vite que la philosophie n'a
 jamais parlé de l'intéressant. Il devra établir un diagnostic plus précis :
 
 - comment Garve a-t-il pu formuler dès 1779 le rapport entre attention, lacune,
-  difficulté éprouvée et construction sans devenir le point de départ d'une
-  tradition cumulative ?
+  difficulté éprouvée et construction sans faire école ?
 - sous quels autres noms le phénomène a-t-il été approché ?
 - quelles dimensions sont saisies par le vrai, le beau, le plaisir, la
   préférence, la surprise, la curiosité ou l'attention ?
