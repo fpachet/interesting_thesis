@@ -86,6 +86,13 @@ que l'énigme produit une intérescence externe chez le lecteur. Cette différen
 une hypothèse généalogique prudente sur le déplacement d'un moteur moral ou religieux
 vers des relations immanentes d'intérescence.
 
+La V11 demande si l'on peut rendre tout intéressant. Elle décrit l'enseignement comme
+l'accompagnement du travail mental par lequel une matière devient intéressante, et
+l'ingéniosité pédagogique comme construction des conditions d'une construction que
+l'élève doit accomplir. L'anecdote de Gilles de La Ménardière sur le droit administratif
+sert de cas, non de preuve universelle. L'autonomie acquise permet de distinguer cet
+accompagnement d'une simple séduction par le médiateur.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
@@ -117,7 +124,8 @@ stricte entre numéro, sources courantes, instantanés, bibliographie et changel
 La V8 conserve cette correspondance et ajoute son propre triplet d'instantanés
 `projet-these-v8-{fr,en}.tex` et `references-v8.bib`. La V9 fait de même avec
 `projet-these-v9-{fr,en}.tex` et `references-v9.bib`. La V10 est archivée dans
-`projet-these-v10-{fr,en}.tex` et `references-v10.bib`.
+`projet-these-v10-{fr,en}.tex` et `references-v10.bib`. La V11 est archivée dans
+`projet-these-v11-{fr,en}.tex` et `references-v11.bib`.
 
 ## Compilation
 

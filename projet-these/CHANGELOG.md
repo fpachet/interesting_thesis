@@ -4,7 +4,7 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
-## Évolutions après la version 10 - 4 septembre 2026
+## Version 11 - 4 septembre 2026
 
 - création de `idea_0164`, « Peut-on rendre tout intéressant ? » ;
 - formulation de l'accompagnement pédagogique comme construction des conditions du
@@ -15,6 +15,8 @@ nouvelle version.
   médiateur ;
 - ajout de la question au dossier de sur-extension, aux index, au graphe, au catalogue
   et au site public, qui compte désormais 161 cartes.
+- intégration dans les projets français et anglais, compilation des deux PDF et
+  archivage des sources et de la bibliographie de la version 11.
 
 ## Version 10 - 24 août 2026
 

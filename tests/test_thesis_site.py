@@ -52,7 +52,7 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert len(list((output / "bibliographie").glob("*/index.html"))) == 139
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
-    assert "version 10" in homepage
+    assert "version 11" in homepage
     assert "Thèse centrale actuelle" in homepage
     assert "Est intéressant ce qui, pour un sujet situé" in homepage
     assert "161 propositions" in homepage
@@ -84,7 +84,7 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert "sans intérescence interne identifiable" in thesis_page
 
     status_page = (output / "suivi" / "index.html").read_text(encoding="utf-8")
-    assert "Version 10" in status_page
+    assert "Version 11" in status_page
     assert "8 familles de travail" in status_page
 
     job_card = (output / "cartes" / "idea_0162" / "index.html").read_text(
