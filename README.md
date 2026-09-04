@@ -6,9 +6,10 @@ compréhension et singularité des formes.
 
 **[Consulter le site public de suivi de la thèse](https://fpachet.github.io/interesting_thesis/)**
 
-La question directrice est : **sous quelles conditions quelque chose apparaît-il
-à un sujet comme intéressant ?** Le projet cherche à comprendre ensemble des
-phénomènes habituellement séparés : le surgissement d'une idée, l'impression de
+La question directrice est : **dans quelles conditions un objet déclenche-t-il
+chez un sujet un processus de construction ? Comment ce processus se poursuit-il,
+s'épuise-t-il ou se transforme-t-il ?** Le projet cherche à comprendre ensemble
+des phénomènes habituellement séparés : le surgissement d'une idée, l'impression de
 comprendre, l'attention soutenue par une œuvre et la nécessité rétrospective de
 certaines formes.
 
