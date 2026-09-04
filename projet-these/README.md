@@ -100,6 +100,10 @@ la traduction intégrale de Garve menée avec Christian Berner pour les édition
 développement sur Pierre Pachet ainsi que la section sur l'intéressant, le vrai et
 l'anecdote de Heinz Wismann sont retirés du projet courant.
 
+La V13 reprend l'ensemble dans une langue plus simple et plus directe. Elle remplace
+les formules abstraites qui masquaient l'argument, parle de terrains d'étude plutôt
+que de laboratoires et présente positivement le rôle des textes philosophiques.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
@@ -133,7 +137,8 @@ La V8 conserve cette correspondance et ajoute son propre triplet d'instantanés
 `projet-these-v9-{fr,en}.tex` et `references-v9.bib`. La V10 est archivée dans
 `projet-these-v10-{fr,en}.tex` et `references-v10.bib`. La V11 est archivée dans
 `projet-these-v11-{fr,en}.tex` et `references-v11.bib`. La V12 est archivée dans
-`projet-these-v12-{fr,en}.tex` et `references-v12.bib`.
+`projet-these-v12-{fr,en}.tex` et `references-v12.bib`. La V13 est archivée dans
+`projet-these-v13-{fr,en}.tex` et `references-v13.bib`.
 
 ## Compilation
 

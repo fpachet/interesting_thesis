@@ -4,6 +4,15 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 13 - 4 septembre 2026
+
+- réécriture générale dans une langue plus simple et plus directe ;
+- remplacement des tournures abstraites autour du « cadre », du « geste », du
+  « schème », de la « causalité de la rencontre » et des « laboratoires » ;
+- présentation positive du rôle des textes philosophiques ;
+- simplification parallèle de la version anglaise, du site et des documents de travail ;
+- archivage des sources et de la bibliographie de la version 13.
+
 ## Version 12 - 4 septembre 2026
 
 - remplacement de la définition trop chargée par la proposition directe : « Est

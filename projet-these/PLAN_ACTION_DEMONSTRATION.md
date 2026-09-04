@@ -2,7 +2,7 @@
 
 > **Décision de travail :** ne pas ajouter de nouveau terrain avant d'avoir rendu la
 > définition attaquable et comparativement défendable. Les cartes restent le
-> laboratoire ; elles ne deviennent pas le plan de la thèse.
+> lieu d'essai ; elles ne deviennent pas le plan de la thèse.
 
 Ce plan traduit la comparaison avec les thèses de Gautier Anselin et d'Émile
 Thalabard en livrables concrets. Il complète la structure en trois mouvements sans
@@ -98,7 +98,7 @@ comme preuve d'une possibilité universelle.
 **Critère de sortie :** chaque objection doit pouvoir modifier le texte central ; une
 réponse qui se contente d'ajouter une condition dans `H` est insuffisante.
 
-## Chantier 5 - Deux laboratoires et des épreuves courtes
+## Chantier 5 - Deux terrains principaux et des épreuves courtes
 
 **Livrable :** un protocole propre à chaque terrain, indiquant la proposition mise à
 l'épreuve et le résultat possible.

@@ -20,8 +20,8 @@ La thèse pourrait être organisée en trois mouvements :
    l'intéressant est tenue d'expliquer, comparer les analyses rivales, proposer
    une définition relationnelle, puis l'attaquer par des objections et des cas
    discriminants avant d'en dégager les propriétés et la dynamique.
-3. **Mettre le concept au travail.** Instancier et éprouver ce cadre dans des
-   situations suffisamment différentes pour déterminer ce qu'il permet
+3. **Mettre le concept au travail.** L'étudier dans des situations suffisamment
+   différentes pour déterminer ce qu'il permet
    réellement de voir, d'expliquer et de distinguer.
 
 Cette progression peut se résumer ainsi :
@@ -81,10 +81,9 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
 - les propriétés logiques ou modales candidates et les limites de toute
   axiomatisation.
 
-Le terme « modèle » doit rester pluriel à ce stade. La thèse pourra articuler un
-schème conceptuel, des descriptions phénoménologiques et des
-opérationnalisations locales sans supposer qu'une seule formalisation épuise
-l'objet.
+Le terme « modèle » doit rester pluriel à ce stade. La thèse pourra comparer un
+cadre conceptuel, des descriptions de l'expérience et des mesures locales, sans
+supposer qu'une seule formalisation épuise l'objet.
 
 ### Passage obligatoire : défendre la conception constructive
 
@@ -128,14 +127,13 @@ garde-fou contre la chronique subjective.
 ## Troisième mouvement : mettre le concept au travail
 
 Les terrains ne sont pas de simples illustrations ajoutées après la théorie.
-Ils n'ont pas non plus à former cinq laboratoires symétriques. La musique et
-l'intelligence artificielle/création constituent les deux laboratoires principaux ;
-les autres domaines fournissent des épreuves différentielles plus courtes. Chacun doit
+La musique et l'intelligence artificielle/création fourniront les deux principaux
+terrains d'étude ; les autres domaines donneront des épreuves plus courtes. Chacun doit
 exercer une fonction argumentative distincte :
 
 ### Musique
 
-La musique fournit un laboratoire temporel de l'attente, de la mémoire, de la
+La musique permet d'étudier dans le temps l'attente, la mémoire, la
 surprise, de l'apprentissage et de l'épuisement. Les micro-émotions musicales et
 les analyses de morceaux permettent d'observer comment une forme devient
 intéressante, cesse de l'être ou le redevient autrement.
@@ -155,7 +153,7 @@ de modèles et sélection. Ils servent aussi de cas réflexif pour le risque de
 substitution de cible : un système peut résoudre le problème formel tout en éliminant
 sa partie intéressante.
 
-Deux tests structureront ce laboratoire. Le premier distinguera la distribution
+Deux tests structureront ce travail. Le premier distinguera la distribution
 conditionnelle visée de la distribution effectivement produite par une procédure
 tractable, en examinant distorsion des poids et perte de support. Le second comparera un
 transformer seul, un solveur seul et une boucle hybride : le modèle propose candidats,
@@ -167,8 +165,8 @@ difficulté pratique du problème.
 ### Épreuves différentielles
 
 Les mots croisés, l'énigme, la littérature, la contemplation, la pseudo-profondeur et
-certains textes philosophiques ne forment pas des terrains égaux aux deux laboratoires.
-Ils sont choisis pour mettre sous pression une distinction précise : surprise sans
+certains textes philosophiques serviront de cas ciblés. Ils permettront de tester une
+distinction précise : surprise sans
 intérêt, intérêt sans plaisir, promesse sans prise, vérité sans fécondité, explication
 qui relance ou éteint l'intérêt.
 
@@ -179,8 +177,8 @@ fait travailler comparativement les grandes œuvres pour dégager une structure 
 Proust, *Bartleby* et le *Livre de Job* pourraient révéler des régimes divergents de
 l'intérescence. Job ajouterait une épreuve négative : distinguer une motivation morale
 intense, une intérescence interne non attestée et l'intérescence externe du lecteur. Cette
-piste ne deviendra un laboratoire
-principal que si elle explique plus que désir, focalisation, affects et réception.
+piste ne prendra une place centrale que si elle explique plus que le désir, la
+focalisation, les affects et la réception.
 
 Une extension généalogique plus risquée sera testée à partir de cette épreuve :
 l'intérescence pourrait être la relève immanente de la fonction motrice de la morale.
@@ -212,9 +210,8 @@ ce que la thèse ajoute réellement à ce noyau. La traduction française intég
 de son essai, menée avec Christian Berner pour les éditions Vrin, fait partie de
 ce travail historique et conceptuel.
 
-Ces textes ne doivent pas servir d'habillage destiné à faire reconnaître le
-travail comme philosophique. Ils doivent contraindre le concept, révéler ses
-présupposés, fournir des objections et montrer ce qu'il reformule réellement.
+Ces textes aideront à préciser le concept, à révéler ses présupposés, à formuler
+des objections et à montrer ce qu'il reformule réellement.
 
 ### Littérature
 
@@ -242,7 +239,7 @@ vocabulaires existants confondent, par exemple :
   chaque distinction conceptuelle ?
 - Les textes philosophiques doivent-ils constituer un terrain du troisième
   mouvement ou être distribués dans les trois mouvements ?
-- La musique et l'intelligence artificielle/création deviennent les deux laboratoires
+- La musique et l'intelligence artificielle/création deviennent les deux terrains
   principaux, sans obligation de symétrie quantitative.
 - Le troisième mouvement sera organisé par fonctions argumentatives ; les domaines
   n'y seront conservés que lorsqu'ils exercent une épreuve distincte.

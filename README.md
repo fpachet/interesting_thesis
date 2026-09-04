@@ -96,7 +96,7 @@ Les PDF initiaux français et anglais, respectivement
 [`input/Project philosophy thesis.pdf`](input/Project%20philosophy%20thesis.pdf),
 constituent la version 1 du projet. Ils sont conservés dans
 `projet-these/versions/`. Les deux fichiers de travail bilingues portent
-actuellement la version 12 et partagent la bibliographie canonique.
+actuellement la version 13 et partagent la bibliographie canonique.
 
 Lorsqu'une nouvelle étape intellectuelle est stabilisée :
 

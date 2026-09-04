@@ -24,7 +24,7 @@ Cette relation minimale est toujours située dans un horizon social et historiqu
    et les systèmes d'intelligence artificielle comme terrains de variation et de
    comparaison, sans prendre leurs résultats pour des preuves ontologiques directes.
 
-## Architecture provisoire en trois mouvements
+## Plan provisoire en trois parties
 
 Une discussion avec Olivia Chevallier, co-directrice de la thèse, fait apparaître une
 structure possible qui ne constitue pas encore un plan arrêté :
@@ -36,16 +36,16 @@ structure possible qui ne constitue pas encore un plan arrêté :
 2. **Construire et défendre le concept.** Fixer des desiderata, comparer les rivaux,
    proposer une définition relationnelle, spécifier la prise, puis traiter les objections
    avant d'en dégager les propriétés et les modèles partiels.
-3. **Mettre le concept au travail.** L'éprouver dans deux laboratoires principaux, la
-   musique et l'intelligence artificielle/création, puis dans des cas différentiels plus
+3. **Mettre le concept au travail.** L'étudier d'abord dans la musique et
+   l'intelligence artificielle/création, puis dans des cas plus courts et plus ciblés,
    courts, afin de montrer les distinctions qu'il rend possibles et ce qu'il apporte aux
    problèmes considérés.
 
 Le troisième mouvement ne doit pas juxtaposer des exemples décoratifs ni rendre cinq
 domaines artificiellement symétriques. Chaque terrain doit contraindre le concept,
 révéler une limite ou produire une distinction éclairante.
-Les textes philosophiques ne constituent donc pas un habillage disciplinaire, mais des
-interlocuteurs capables de reformuler ou d'objecter au modèle proposé.
+Les textes philosophiques aideront à reformuler le modèle, à préciser ses limites et à
+lui opposer des objections.
 
 ## Maxime méthodologique
 
@@ -61,8 +61,8 @@ résidus et ses conditions de correction.
 
 Garve montre qu'une enquête partie de l'expérience peut chercher des conditions
 générales ; l'exigence kantienne empêche la thèse de se réduire à une chronique
-personnelle. Cette articulation méthodologique ne constitue ni une synthèse doctrinale
-ni une filiation.
+personnelle. Ces deux repères donnent une méthode, sans supposer une filiation ni
+fusionner leurs doctrines.
 
 La note
 [`STRUCTURE_PROVISOIRE.md`](STRUCTURE_PROVISOIRE.md)
@@ -382,7 +382,7 @@ expulsé : il indique où l'objectif doit être enrichi. La formalisation réfle
 renonce donc ni au calcul ni à l'optimisation ; elle conserve les cas où leur réussite
 locale cesse de préserver la différence pertinente.
 
-Le laboratoire IA prolongera cette méthode par une hypothèse testable : articuler
+Le travail sur l'IA prolongera cette méthode par une hypothèse testable : combiner
 l'exploration en largeur d'un modèle génératif et la résolution en profondeur d'un
 solveur, puis utiliser conflits, contre-exemples et coûts de recherche pour réviser la
 représentation du problème. Cette boucle n'est pas posée comme modèle psychologique de
@@ -457,7 +457,7 @@ n'est une prise que s'il peut être au moins partiellement déplié en distincti
 prédictions, comparaisons, opérations ou exemples contrôlables. Sinon, le langage produit
 une illusion de maîtrise et rejoint les faux positifs de la compréhension.
 
-## Programme de naturalisation : un geste spinoziste
+## Expliquer naturellement l'intéressant : l'exemple de Spinoza
 
 L'étude de l'intéressant peut être comprise comme l'objectivation d'un phénomène central
 de la vie psychique : quelque chose nous arrête, mobilise notre attention, nous fait
@@ -472,25 +472,24 @@ porte d'abord sur ce principe de causalité : un objet ne devient pas intéressa
 raisons, même lorsque le sujet ne sait pas encore les formuler. Ces raisons ne sont pas
 pour autant contenues dans l'objet seul. Lorsque Spinoza écrit que les idées des
 affections enveloppent à la fois « la nature de notre corps et la nature présente du
-corps extérieur » (partie III, proposition XXVII, démonstration), il fournit un schème
-pour penser la causalité de la rencontre. La structure de la forme, l'histoire et l'état
-du sujet, ainsi que les circonstances de leur rencontre, concourent à produire l'intérêt.
+corps extérieur » (partie III, proposition XXVII, démonstration), il rappelle que
+l'effet d'une rencontre dépend de la forme, de l'histoire et de l'état du sujet, ainsi
+que des circonstances.
 
-La thèse reprend ce geste sans confondre deux opérations. **Objectiver le phénomène**,
-c'est rendre comparables ses conditions, ses trajectoires et ses effets. **Objectiver
-l'intéressant dans l'objet**, ce serait en faire à tort une propriété intrinsèque de la
-forme. Le programme consiste donc à naturaliser la relation `I(F, S | H, t)` : expliquer
+La thèse distingue deux opérations. **Rendre le phénomène étudiable**, c'est comparer
+ses conditions, son évolution et ses effets. **Placer l'intéressant dans l'objet**
+reviendrait à en faire, à tort, une propriété de la forme. Il faut donc expliquer la
+relation `I(F, S | H, t)` : comprendre
 comment la structure de la forme, les compétences et l'histoire du sujet, l'horizon
 social et le moment de la rencontre produisent ensemble une transformation de
 l'attention.
 
-Cette filiation ne suppose pas que l'intéressant soit une émotion élémentaire. Il peut
-être décrit plus prudemment comme un **régime affectivo-cognitif de transition** qui
-modifie la puissance du sujet à percevoir, comprendre, anticiper ou agir. L'ennui,
+L'intéressant n'est pas nécessairement une émotion élémentaire. Il change ce que le
+sujet peut percevoir, comprendre, anticiper ou faire. L'ennui,
 l'anxiété, le plaisir, la frustration et l'attachement sont alors des devenirs possibles
-de la relation. Naturaliser ce régime exige de coordonner descriptions à la première
-personne, comportements, apprentissages, structures formelles et modèles
-computationnels, sans postuler qu'un seul de ces niveaux épuisera les autres.
+de la relation. Son étude comparera les récits à la première personne, les comportements,
+les apprentissages, les formes et les modèles informatiques. Aucun de ces points de vue
+ne suffira seul.
 
 Ce programme possède un cas réflexif particulièrement important. Dans les propositions
 III et IV de la partie V de l'*Éthique*, la connaissance plus adéquate d'un affect en

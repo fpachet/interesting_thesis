@@ -52,7 +52,7 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert len(list((output / "bibliographie").glob("*/index.html"))) == 139
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
-    assert "version 12" in homepage
+    assert "version 13" in homepage
     assert "Thèse centrale actuelle" in homepage
     assert "Est intéressant, pour un sujet, ce qui déclenche" in homepage
     assert "161 propositions" in homepage
@@ -77,18 +77,18 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "bibliographie" / "russell1995awardlecture" / "index.html").is_file()
 
     thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")
-    assert "Trois mouvements provisoires" in thesis_page
+    assert "Trois parties provisoires" in thesis_page
     assert "Constituer l&#x27;angle mort" in thesis_page
     assert "discussion avec Olivia Chevallier" in thesis_page
     assert "Le terme décisif est <em>construction</em>" in thesis_page
     assert "<em>L'intérescence</em> est le nom proposé" in thesis_page
     assert "Christian Berner" in thesis_page
     assert "éditions Vrin" in thesis_page
-    assert "motivation morale et affective extrêmement forte" in thesis_page
+    assert "motivation morale et affective très forte" in thesis_page
     assert "sans intérescence interne identifiable" in thesis_page
 
     status_page = (output / "suivi" / "index.html").read_text(encoding="utf-8")
-    assert "Version 12" in status_page
+    assert "Version 13" in status_page
     assert "8 familles de travail" in status_page
 
     job_card = (output / "cartes" / "idea_0162" / "index.html").read_text(
