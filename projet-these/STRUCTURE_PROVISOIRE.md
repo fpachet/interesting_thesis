@@ -60,12 +60,20 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
 
 - la relation minimale `I(F, S | H, t)` entre une forme, un sujet, un horizon
   collectif et un moment ;
+- la distinction catégoriale entre les états ou activités actualisés dans le sujet
+  et l'intéressant comme opérateur relationnel de leurs transitions ;
 - la distinction entre intéressant, préférence, plaisir, surprise, beauté,
   pertinence et valeur ;
 - la distinction entre difficulté intrinsèque, difficultuosité ressentie et
   chalépodoxie comme réputation sociale de difficulté ;
-- l'hypothèse de l'intéressant comme ouverture et soutien d'une activité dont une
-  prise nouvelle constitue une issue crédible ;
+- l'hypothèse de l'intéressant comme ouverture et soutien d'une activité dont
+  l'exploration paraît valoir la peine et dont une prise nouvelle peut devenir une
+  issue crédible ;
+- la distinction entre attention exploratoire antérieure à la question et construction
+  déjà orientée vers une prise ;
+- la comparaison avec l'attention, la curiosité naturelle et artificielle, et les
+  émotions : chacune saisit une actualisation ou un mécanisme partiel, non le régime
+  complet de la relation sujet-objet ;
 - la zone intermédiaire entre ennui et anxiété, ainsi que l'évolution temporelle
   de la relation ;
 - la frange du presque-apprenable, le progrès de compression et le rôle du
@@ -90,8 +98,9 @@ Thalabard :
 
 1. **Desiderata.** Établir D1-D10, c'est-à-dire les variations qu'une théorie de
    l'intéressant doit expliquer indépendamment de la définition proposée.
-2. **Rivaux.** Soumettre plaisir, préférence, surprise, nouveauté, curiosité, flow,
-   compression, pertinence et Garve aux mêmes cas discriminants.
+2. **Rivaux.** Soumettre plaisir, préférence, surprise, nouveauté, attention,
+   curiosité naturelle et artificielle, émotions, flow, compression, pertinence et
+   Garve aux mêmes cas discriminants.
 3. **Proposition.** Distinguer l'ouverture d'une issue crédible de l'obtention
    effective d'une prise : intérêt, intérêt fécond, fascination promissive et
    épuisement.
@@ -99,7 +108,10 @@ Thalabard :
    transférer, intervenir et reconstruire un problème.
 5. **Objections et réponses.** Traiter la sur-extension, la sous-extension, la
    circularité, l'échec de la promesse, la contemplation, la curiosité, la
-   normativité et l'irréfutabilité possible de l'horizon `H`.
+   normativité, la métaphore du moteur et l'irréfutabilité possible de l'horizon `H`.
+   La question « Peut-on rendre tout intéressant ? » éprouvera directement la
+   sur-extension en distinguant l'accompagnement qui rend autonome de la séduction qui
+   reste dépendante du médiateur.
 6. **Portée.** Dire ce que la théorie affirme, ce qu'elle explique mieux et ce
    qu'elle laisse à des modèles partiels.
 
@@ -131,6 +143,13 @@ surprise, de l'apprentissage et de l'épuisement. Les micro-émotions musicales 
 les analyses de morceaux permettent d'observer comment une forme devient
 intéressante, cesse de l'être ou le redevient autrement.
 
+La parcimonie tonale y exercera une fonction discriminante précise. Elle permet de
+comparer continuité locale, compacité globale et progrès temporel de compréhension, puis
+de tester par l'anti-compression si l'unification obtenue conserve les différences
+nécessaires aux anticipations, aux variations et aux interventions musicales. Elle ne
+sera donc pas mobilisée comme métrique de l'intéressant, mais comme cas de prise
+formelle susceptible de liquider une articulation pertinente.
+
 ### Intelligence artificielle et création
 
 Les systèmes génératifs et interactifs rendent explicites des opérations souvent
@@ -139,6 +158,15 @@ de modèles et sélection. Ils servent aussi de cas réflexif pour le risque de
 substitution de cible : un système peut résoudre le problème formel tout en éliminant
 sa partie intéressante.
 
+Deux tests structureront ce laboratoire. Le premier distinguera la distribution
+conditionnelle visée de la distribution effectivement produite par une procédure
+tractable, en examinant distorsion des poids et perte de support. Le second comparera un
+transformer seul, un solveur seul et une boucle hybride : le modèle propose candidats,
+variables ou décompositions ; le solveur renvoie solutions, conflits et
+contre-exemples ; le modèle révise ensuite la représentation. La question n'est pas
+seulement de mieux choisir les branches, mais de découvrir des prises qui changent la
+difficulté pratique du problème.
+
 ### Épreuves différentielles
 
 Les mots croisés, l'énigme, la littérature, la contemplation, la pseudo-profondeur et
@@ -146,6 +174,31 @@ certains textes philosophiques ne forment pas des terrains égaux aux deux labor
 Ils sont choisis pour mettre sous pression une distinction précise : surprise sans
 intérêt, intérêt sans plaisir, promesse sans prise, vérité sans fécondité, explication
 qui relance ou éteint l'intérêt.
+
+La littérature reçoit désormais une hypothèse méthodologique propre, encore
+spéculative : une analyse intérescentielle suivrait ce qui commence, continue ou cesse
+de compter pour les personnages, le narrateur et le lecteur. À la manière dont Girard
+fait travailler comparativement les grandes œuvres pour dégager une structure du désir,
+Proust, *Bartleby* et le *Livre de Job* pourraient révéler des régimes divergents de
+l'intérescence. Job ajouterait une épreuve négative : distinguer une motivation morale
+intense, une intérescence interne non attestée et l'intérescence externe du lecteur. Cette
+piste ne deviendra un laboratoire
+principal que si elle explique plus que désir, focalisation, affects et réception.
+
+Une extension généalogique plus risquée sera testée à partir de cette épreuve :
+l'intérescence pourrait être la relève immanente de la fonction motrice de la morale.
+Le contraste n'opposera pas naïvement des textes religieux du devoir à des œuvres
+modernes de l'intérêt. Il distinguera ce qui doit compter, ce qui vient effectivement à
+compter et l'évaluation de ce qui mérite de continuer à compter. Kant fournira une
+charnière par son analyse de l'intérêt moral comme mobile d'un être fini. Job soutient
+provisoirement l'hypothèse d'une motivation religieuse sans intérescence ; seul un objet
+non prescrit et non nécessaire, ouvrant des prises successives pour un personnage,
+constituerait un véritable cas contraire dans le corpus religieux.
+
+Une épreuve politique optionnelle distinguera enfin volume de production, diversité
+effective des directions et concentration de l'exposition. Elle pourra protéger la
+liberté d'exploration sans faire de toute médiocrité un bien ni inférer une manipulation
+de la seule abondance.
 
 ### Textes philosophiques
 
@@ -204,6 +257,13 @@ vocabulaires existants confondent, par exemple :
   faisceau de propriétés compatibles ?
 - Quels desiderata et quels verdicts de la matrice différentielle peuvent être
   stabilisés avant toute nouvelle version du manuscrit ?
+- L'hypothèse statistique sur la rareté de l'intéressant doit-elle rester une extension
+  spéculative, ou peut-elle être étayée assez fortement pour entrer dans la démonstration ?
 
-Cette note guidera la préparation de la prochaine version du projet de thèse.
-Elle ne modifie pas les versions historiques déjà stabilisées.
+Cette note a guidé le rattrapage documentaire de la V7. La V8 en réalise une première
+refonte argumentative en distinguant, avec Vazard, l'attention exploratoire antérieure à
+la question et la construction orientée vers une prise. La V9 ajoute la distinction
+catégoriale entre les états du sujet et l'intéressant comme relation motrice, sans
+modifier les versions historiques déjà stabilisées. La V10 ajoute l'analyse
+intérescentielle de la littérature et fait de Job le cas négatif qui sépare motivation
+morale, intérescence interne et intérescence externe du lecteur.

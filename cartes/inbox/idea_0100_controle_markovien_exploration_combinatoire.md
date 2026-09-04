@@ -11,6 +11,7 @@ sources:
 references:
   - pachet2026biases
 source_notes:
+  - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "PDF p. 6"
   - "Projet SenseOfDirection, corrélations longues et contraintes globales, rendu PDF p. 3-5"
   - "Hidden Biases, opposition entre état borne et contexte autoregressif général, PDF p. 3 et 10-14"

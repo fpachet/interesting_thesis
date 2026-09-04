@@ -22,6 +22,7 @@ references:
   - papadopoulos2016flowcomposer
   - pachet2012virtuosity
 source_notes:
+  - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "Hidden Biases, insuffisance du sampling local pour les propriétés globales, PDF p. 1-3 et 10-14"
   - "Notes thèse, doodling comme échantillonnage peu contraint, PDF p. 1"
   - "ERC Grant, objet comme solution rare, harmonisations légales et exploration combinatoire, PDF p. 4-6"

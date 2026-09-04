@@ -65,6 +65,11 @@ Cette rencontre conjugue trois conditions : une intelligibilité suffisante pour
 rester confuse, une singularité qui résiste au déjà-vu, et une fécondité qui ouvre des
 reprises, variations ou pensées nouvelles.
 
+Cette relation n'est pas un état mental supplémentaire. Elle peut s'actualiser dans le
+sujet comme attention, curiosité, émotion, désir de reprise ou activité constructive,
+mais elle désigne le couplage qui rend ces passages possibles. L'objet contribue par ses
+différences et ses prises ; le sujet par ce qu'il peut en éprouver et en faire.
+
 La relation minimale est un binôme entre une forme et un sujet, mais ce binôme est
 indexé par un horizon collectif et par un moment : `I(F, S | H, t)`. Le milieu social
 n'est pas nécessairement un troisième sommet indépendant, car il façonne déjà les
@@ -106,3 +111,4 @@ le subjectivisme qui rendrait toute explication impossible.
 - Compatible avec le caractère relatif et temporel de `idea_0071`.
 - Le cas Jotney de `idea_0111` en donne une spécification musicale.
 - Le diagnostic de `idea_0116` explique pourquoi cette relation reste difficile à isoler.
+- Reçoit dans `idea_0161` son statut d'opérateur relationnel des transitions psychiques.

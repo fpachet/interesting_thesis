@@ -1,0 +1,24 @@
+{
+  "question": {
+    "title": "Question de départ",
+    "text": "Pourquoi certaines formes intelligibles, correctes ou vraies transforment-elles l'activité d'un sujet tandis que d'autres le laissent indifférent ? L'intéressant peut-il constituer un objet philosophique distinct de la préférence, de la nouveauté, du plaisir et de la beauté ?"
+  },
+  "conclusion": {
+    "title": "Conclusion visée",
+    "text": "L'intéressant est une relation située entre une forme, un sujet, un horizon collectif et un moment : il ouvre et soutient une activité dont une prise nouvelle constitue une issue crédible, sans garantir la vérité ni la fécondité de son résultat."
+  },
+  "distance_weights": {
+    "lexical": 0.5,
+    "tags": 0.15,
+    "family": 0.05,
+    "graph": 0.3
+  },
+  "transition_bonuses": {
+    "typed_relation": 0.2,
+    "local_link": 0.1,
+    "preferred_direction": 0.04,
+    "same_primary_anchor": 0.08
+  },
+  "secondary_anchor_count": 3,
+  "exact_core_limit": 20
+}

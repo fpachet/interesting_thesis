@@ -7,6 +7,7 @@ status: inbox
 architecture: core
 sources:
   - "docs/L_interessant_histoire_philosophique_et_programme_de_recherche.docx"
+  - "docs/lectures/vazard-interet-attention.md"
 references:
   - garve1779interessirende
   - nannini2018garve
@@ -16,10 +17,12 @@ references:
   - ngai2012categories
   - nannini2018interesting
   - goodman1976languages
+  - vazard2026inquiry
 source_notes:
   - "Le document nomme dispersion fonctionnelle la répartition des dimensions de l'intéressant entre beauté, sublime, nouveauté, surprise, curiosité, attention, pertinence, préférence et ennui."
   - "Garve fournit un cas historique à tester : l'intéressant reçoit chez lui une élaboration autonome en 1771-1772, sans devenir ensuite une catégorie canonique cumulative."
   - "La notice de Nannini est directement accessible ; les autres références servent ici de programme de lecture à vérifier dans les textes."
+  - "Vazard, 2026, sections III-V : distinction directe entre curiosité orientée vers une question et intérêt orienté vers un objet par une attention soutenue."
 tags:
   - interessant
   - concepts-concurrents
@@ -62,6 +65,21 @@ La dispersion n'est pas une simple synonymie. Elle doit être étudiée par les
 reprise, ce que la surprise ne dit pas de la durée, ce que la curiosité ne dit pas
 de la forme, ou ce que la pertinence ne dit pas de la transformation du sujet.
 
+Vazard fournit désormais un contrôle contemporain direct de ce dernier contraste.
+La curiosité prend une question comme objet et oriente une recherche vers sa réponse ;
+l'intérêt peut porter sur un objet avant que les questions pertinentes soient
+disponibles et soutenir une attention exploratoire plus large. L'attention ne remplace
+donc pas davantage l'intérêt : elle décrit l'activité soutenue, tandis que l'intérêt
+évalue son objet comme méritant cette continuation. La dispersion peut ainsi être
+analysée comme une séparation entre objet, forme d'activité et valeur attentionnelle.
+
+Une distinction plus générale apparaît alors. Attention, curiosité et émotions sont
+des activités, motivations ou états actualisés dans le sujet ; l'intéressant qualifie
+la relation sujet-objet qui les met en mouvement et organise leurs passages. Sa
+dispersion historique pourrait donc tenir à une erreur de catégorie : on a distribué
+les effets psychiques d'une relation transversale entre plusieurs facultés ou états,
+puis cherché l'intéressant parmi eux comme s'il devait être un état supplémentaire.
+
 ## Intérêt pour la thèse
 
 Le premier mouvement peut ainsi devenir comparatif plutôt que négatif. Il ne
@@ -84,6 +102,7 @@ l'intéressant.
 - [Guide des passages prioritaires de l'état de l'art](../../docs/lectures/passages-interessant-etat-art.md)
 - [Garve, transcription du texte dans le Deutsches Textarchiv](https://www.deutschestextarchiv.de/book/show/garve_sammlung_1779)
 - [Nannini, « Interesting » — généalogie et bibliographie ouvertes](https://lexicon.mimesisjournals.com/archive/2018/autumn/Interesting.pdf)
+- [Vazard, « Inquiry beyond Curiosity » — texte intégral Oxford](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqag014/8571347)
 - [Kolnai, « On the Concept of the Interesting » — notice Oxford](https://academic.oup.com/bjaesthetics/article/4/1/22/16793)
 - [Ngai, « Merely Interesting » — numéro de *Critical Inquiry*](https://criticalinquiry.uchicago.edu/past_issues/issue/summer_2008_v34_n4/)
 - [Ngai, *Our Aesthetic Categories* — notice Google Books](https://books.google.com/books?id=Lyz3ugAACAAJ)
@@ -97,3 +116,6 @@ l'intéressant.
   cause unique de la dispersion.
 - Motive la comparaison différentielle qui doit précéder la définition positive de
   `idea_0123`.
+- Est précisée par `idea_0160`, qui fait de l'antériorité possible sur la question une
+  différence positive entre intérêt, curiosité et pertinence.
+- Est expliquée ontologiquement par `idea_0161` : les concepts concurrents décrivent des actualisations subjectives d'une relation qui ne se réduit à aucune d'elles.

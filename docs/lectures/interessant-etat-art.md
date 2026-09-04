@@ -56,7 +56,7 @@ la thèse doivent toujours être contrôlées dans l'édition effectivement cit�
 | 7 | Kolnai | Quelles propriétés phénoménologiques distinguent l'intéressant du beau, du plaisant et de l'important ? | tableau des propriétés candidates |
 | 8 | Epstein puis Grimm | L'intéressant porte-t-il sur les objets, les questions ou le rapport improbabilité–démontrabilité ? | confrontation avec l'hypothèse de l'énigme |
 | 9 | Ngai, « Merely Interesting » | Pourquoi ce jugement faible appelle-t-il des raisons, une circulation et une reprise ? | note sur récursivité et temporalité future |
-| 10 | Freivogel, puis contrôle par Pikulik, Eagan, Erion, Thomas ou Xu selon le besoin | Que reste-t-il propre à l'intéressant après comparaison avec curiosité, attention, beauté, nouveauté et importance ? | matrice finale, cartes corrigées et section d'état de l'art |
+| 10 | Vazard, puis Freivogel et contrôle par Pikulik, Eagan, Erion, Thomas ou Xu selon le besoin | Que reste-t-il propre à l'intéressant après comparaison avec curiosité, attention, beauté, nouveauté et importance ? | matrice finale, cartes corrigées et section d'état de l'art |
 
 À l'issue de chaque séance, remplir au minimum : **définition**, **objet
 qualifié**, **mécanisme déclenché**, **temporalité**, **mode de disparition**,
@@ -80,6 +80,7 @@ qualifié**, **mécanisme déclenché**, **temporalité**, **mode de disparition
 | Alessandro Nannini, « Interesting » (2018) | [PDF intégral, *International Lexicon of Aesthetics*](https://lexicon.mimesisjournals.com/archive/2018/autumn/Interesting.pdf) | **OA** — synthèse généalogique et bibliographie de contrôle |
 | Stephan Freivogel, *L'intérêt et l'intéressant dans les valeurs épistémiques et les valeurs esthétiques* (2018) | [notice et PDF, Archive ouverte UNIGE](https://archive-ouverte.unige.ch/unige%3A157535) | **OA** — mémoire utile comme cartographie contemporaine |
 | Liang Xu, « How Does the Interesting Become an Aesthetic Category » (2023) | [notice et téléchargement, Research Commons](https://tsla.researchcommons.org/journal/vol43/iss3/3/) | **OA** — lecture en chinois ou traduction de travail |
+| Juliette Vazard, « Inquiry beyond Curiosity: Interest and the Value of Attending » (2026) | [texte intégral HTML, Oxford Academic](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqag014/8571347) | **OA** — lu intégralement ; concurrent contemporain direct distinguant attention exploratoire et enquête dirigée |
 
 Les ouvrages de Pikulik (2014), Eagan (2024) et le chapitre d'Erion (2014)
 n'ont pas, à ce jour, de texte intégral public légitime identifié. Ils restent
@@ -309,6 +310,32 @@ Comparaison transversale à produire après les six lectures restantes :
 | Pathologie | Comment distinguer exploration féconde, stimulation et fascination vide ? |
 
 ## Priorité C — consolider l'état de l'art contemporain
+
+### C0. Juliette Vazard
+
+- [x] Lire Juliette Vazard, « Inquiry beyond Curiosity: Interest and the Value
+  of Attending », *The Philosophical Quarterly*, 2026, article `pqag014`.
+- [x] Distinguer l'objet intentionnel de l'intérêt de celui de la curiosité.
+- [x] Confronter l'attention exploratoire ouverte à la prise constructive.
+- [x] Intégrer la distinction entre intérêt ajusté et mal ajusté sans reprendre
+  automatiquement la valence positive.
+
+Accès :
+
+- [texte intégral HTML de l'éditeur](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqag014/8571347) ;
+- [fiche de lecture et confrontation](vazard-interet-attention.md).
+
+Résultat : l'intérêt peut précéder la question qu'il rend possible. La définition
+constructive distingue désormais une orientation faible, encore ouverte, et une
+orientation forte vers une prise déterminable. L'intérêt mal ajusté fournit un
+comparant normatif à la fascination promissive sans résoudre à lui seul son
+diagnostic prospectif.
+
+Cartes cibles : `idea_0123`, `idea_0131`, `idea_0132`, `idea_0138` ; nouvelle
+carte `idea_0160`.
+
+Statut : **texte intégral lu et intégré le 23 août 2026 ; bibliographie, fiche,
+carte et projet bilingue mis à jour**.
 
 ### C1. Stephan Freivogel
 

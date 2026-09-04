@@ -824,6 +824,16 @@ def registry_stats() -> tuple[int, Counter[str]]:
     return total, statuses
 
 
+def current_project_version() -> str:
+    source = (ROOT / "projet-these" / "projet-these-fr.tex").read_text(
+        encoding="utf-8"
+    )
+    match = re.search(r"\\newcommand\{\\projectversion\}\{([^}]+)\}", source)
+    if not match:
+        raise ValueError("Numéro de version introuvable dans projet-these-fr.tex")
+    return match.group(1)
+
+
 def home_page(
     cards: dict[str, Card],
     families: list[tuple[str, list[str]]],
@@ -832,6 +842,7 @@ def home_page(
     question: str,
     questions: list[str],
     last_date: str,
+    project_version: str,
 ) -> str:
     central_steps = [
         ("01", "La rencontre", "Une forme rencontre un sujet façonné par sa mémoire et son histoire.", "idea_0084"),
@@ -867,7 +878,7 @@ def home_page(
 <section class="hero hero--home">
   <div class="shell hero__grid">
     <div class="hero__copy">
-      <p class="eyebrow">Projet de thèse en philosophie · version 6</p>
+      <p class="eyebrow">Projet de thèse en philosophie · version {html.escape(project_version)}</p>
       <h1>L'émergence<br><em>de l'intéressant</em></h1>
       <p class="hero__lead">Naissance des idées, compréhension et singularité des formes.</p>
       <p class="hero__question"><span>Question directrice</span>{html.escape(question)}</p>
@@ -906,7 +917,7 @@ def home_page(
   <div class="shell two-column">
     <div>
       <p class="eyebrow eyebrow--light">Architecture argumentative</p>
-      <h2>Sept familles, aucune boîte définitive.</h2>
+      <h2>{len(families)} familles, aucune boîte définitive.</h2>
       <p class="section-intro">Les familles donnent une orientation au lecteur. Elles restent réversibles et ne constituent pas encore le plan de la thèse.</p>
       <a class="text-link text-link--light" href="graphe/index.html">Explorer les relations entre les cartes <span>→</span></a>
     </div>
@@ -948,12 +959,16 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ("Cadre relationnel", "idea_0084", "Une forme, un sujet, une mémoire et un horizon historique."),
         ("Régime partiel", "idea_0121", "Le flow décrit certaines conditions de maintien, non la définition générale."),
         ("Mécanisme", "idea_0123", "Une activité orientée vers une prise perceptive, explicative ou opératoire crédible."),
+        ("Test pédagogique", "idea_0164", "Peut-on rendre tout intéressant en accompagnant le travail mental d'autrui ?"),
         ("Médiation symbolique", "idea_0127", "Le langage compacte l'acquis et déplace la frange du presque-apprenable."),
         ("Garde-fou méthodologique", "idea_0128", "Un indicateur peut se substituer à la cible qu'il devait rendre testable."),
         ("Réflexivité", "idea_0126", "Comprendre ses affects en reconstruisant le système de leurs causes."),
         ("Dynamique", "idea_0122", "Une relation métastable qui dérive vers l'ennui ou l'anxiété."),
         ("Mesure candidate", "idea_0071", "Le progrès local plutôt que la surprise ou l'erreur brute."),
         ("Cas limite", "idea_0124", "Une promesse de compréhension sans transformation vérifiable."),
+        ("Transitions psychiques", "idea_0161", "Une relation qui organise les passages entre attention, curiosité, émotions et activité."),
+        ("Épreuve littéraire", "idea_0162", "Distinguer intérescence du personnage, du narrateur et du lecteur."),
+        ("Hypothèse généalogique", "idea_0163", "Éprouver un déplacement possible du moteur moral vers une orientation immanente."),
     ]
     roles_html = "".join(
         f"""<a class="argument-card" href="{card_href(card_id, '../')}">
@@ -997,7 +1012,7 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
       <section id="hypothese"><p class="eyebrow">Hypothèse centrale actuelle</p><blockquote>{html.escape(statement)}</blockquote><p>Le terme décisif est <em>prise crédible</em>. L'objet intéressant ne se contente pas de capter l'attention : il ouvre une activité susceptible de modifier les distinctions, les anticipations ou les capacités du sujet.</p><p>Cette hypothèse reste un candidat. Sa force dépendra de sa capacité à distinguer intérêt, intérêt fécond et fascination promissive, puis à résister aux cas limites.</p></section>
       <section id="plan"><p class="eyebrow">Note d'architecture</p><h2>Trois mouvements provisoires.</h2><p>À la suite d'une discussion avec Olivia Chevallier, co-directrice de la thèse, une composition en trois mouvements sert désormais d'hypothèse de travail. Elle ne constitue pas encore un plan arrêté.</p><div class="method-list">{plan_html}</div><p>Les textes philosophiques ne doivent pas être un habillage disciplinaire : ils doivent contraindre le concept, fournir des objections et montrer ce qu'il reformule réellement.</p></section>
       <section id="architecture"><p class="eyebrow">Architecture argumentative</p><h2>Le dossier de propositions.</h2><p>Cette organisation logique reste distincte du plan de rédaction : elle indique les fonctions que les propositions devront remplir, quel que soit leur futur ordre de chapitre.</p><div class="argument-grid">{roles_html}</div></section>
-      <section id="methode"><p class="eyebrow">Mise à l'épreuve</p><h2>Défendre puis instancier.</h2><p>La preuve recherchée est différentielle : desiderata indépendants, rivaux soumis aux mêmes cas, objections explicites et révisions possibles. La musique et l'intelligence artificielle/création servent ensuite de laboratoires principaux, sans transformer automatiquement un résultat scientifique en preuve ontologique.</p><div class="method-list"><div><strong>Musique</strong><span>Attente, mémoire et micro-transformations de l'attention.</span></div><div><strong>IA et création</strong><span>Construction d'artefacts, génération/jugement et substitution de cible.</span></div><div><strong>Cas différentiels</strong><span>Énigme, contemplation, littérature et pseudo-profondeur.</span></div></div></section>
+      <section id="methode"><p class="eyebrow">Mise à l'épreuve</p><h2>Défendre puis instancier.</h2><p>La preuve recherchée est différentielle : desiderata indépendants, rivaux soumis aux mêmes cas, objections explicites et révisions possibles. La musique et l'intelligence artificielle/création servent ensuite de laboratoires principaux, sans transformer automatiquement un résultat scientifique en preuve ontologique.</p><div class="method-list"><div><strong>Musique</strong><span>Attente, mémoire et micro-transformations de l'attention.</span></div><div><strong>IA et création</strong><span>Construction d'artefacts, génération/jugement et substitution de cible.</span></div><div><strong>Analyse intérescentielle</strong><span>Proust pour la trajectoire longue, <em>Bartleby</em> pour la raréfaction et Job pour la motivation sans intérescence interne identifiable.</span></div></div><p>Le cas de Job impose la distinction décisive : une motivation morale et affective extrêmement forte ne prouve pas qu'un objet devienne intéressant pour le personnage. La souffrance, la demande de justice et l'orientation vers Dieu peuvent mouvoir Job sans ouvrir pour lui un champ de prises nouvelles ; l'énigme devient alors intéressante pour le lecteur. Un véritable contre-cas religieux devrait montrer un objet non prescrit ouvrant des prises successives et transformatrices.</p></section>
     </article>
   </div>
 </section>
@@ -1479,6 +1494,7 @@ def suivi_page(
     questions: list[str],
     last_date: str,
     git_changes: list[tuple[str, str, str]],
+    project_version: str,
 ) -> str:
     levels = Counter(card.level for card in cards.values())
     source_total, source_statuses = registry_stats()
@@ -1510,7 +1526,7 @@ def suivi_page(
 </section>
 <section class="section section--compact">
   <div class="shell status-strip">
-    <div><span>Version du projet</span><strong>Version 6</strong><small>Texte français et anglais synchronisé</small></div>
+    <div><span>Version du projet</span><strong>Version {html.escape(project_version)}</strong><small>Texte français et anglais synchronisé</small></div>
     <div><span>Dernière évolution</span><strong>{datetime.strptime(last_date, '%Y-%m-%d').strftime('%d.%m.%Y') if last_date else '—'}</strong><small>D'après l'historique Git</small></div>
     <div><span>Corpus traité</span><strong>{covered}/{source_total}</strong><small>Documents à couverture complète ou intégrée</small></div>
     <div><span>Couverture bibliographique</span><strong>{len(referenced_cards)}/{len(cards)}</strong><small>Cartes reliées à une notice canonique</small></div>
@@ -1523,7 +1539,7 @@ def suivi_page(
       <ul class="check-list"><li><strong>{len(cards)} propositions</strong><span>Chaque carte possède un niveau, une famille principale et une provenance lorsque celle-ci est connue.</span></li><li><strong>{len(relations)} relations fortes</strong><span>Neuf types directionnels distinguent soutien, précision, objection, limite et opérationnalisation.</span></li><li><strong>Une thèse centrale explicite</strong><span><code>idea_0123</code> sert de proposition canonique et relie le cadre relationnel aux terrains scientifiques.</span></li><li><strong>Trois niveaux épistémiques</strong><span>{levels['conceptual']} cartes conceptuelles, {levels['scientific']} scientifiques et {levels['articulation']} articulations.</span></li></ul>
     </article>
     <article>
-      <p class="eyebrow">Répartition actuelle</p><h2>Sept familles de travail.</h2><div class="progress-list">{family_progress}</div><p class="caption">La longueur indique le nombre de propositions, pas leur importance ni leur degré d'achèvement.</p>
+      <p class="eyebrow">Répartition actuelle</p><h2>{len(families)} familles de travail.</h2><div class="progress-list">{family_progress}</div><p class="caption">La longueur indique le nombre de propositions, pas leur importance ni leur degré d'achèvement.</p>
     </article>
   </div>
 </section>
@@ -1582,6 +1598,7 @@ def build(output: Path) -> None:
     question = direct_question()
     questions = open_questions()
     last_date, git_changes = git_metadata()
+    project_version = current_project_version()
 
     if output.exists():
         shutil.rmtree(output)
@@ -1620,7 +1637,16 @@ def build(output: Path) -> None:
         shutil.copy2(origin, destination)
     write_page(
         output / "index.html",
-        home_page(cards, families, relations, statement, question, questions, last_date),
+        home_page(
+            cards,
+            families,
+            relations,
+            statement,
+            question,
+            questions,
+            last_date,
+            project_version,
+        ),
     )
     write_page(output / "these" / "index.html", thesis_page(cards, statement, question))
     write_page(output / "lectures" / "index.html", reading_program_page())
@@ -1643,6 +1669,7 @@ def build(output: Path) -> None:
             questions,
             last_date,
             git_changes,
+            project_version,
         ),
     )
     family_ids = {name: ids for name, ids in families}

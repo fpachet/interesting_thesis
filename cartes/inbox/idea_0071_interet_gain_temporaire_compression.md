@@ -8,17 +8,20 @@ sources:
   - "input/old_docs/interestingness.pdf"
   - "input/The Mystery of Jotney Songs.pdf"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
+  - "input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf"
 references:
   - schmidhuber1997interesting
   - schmidhuber2009compression
   - oudeyer2007intrinsic
   - oudeyer2007typology
   - pachet2018oreille
+  - pachet2026tonalparsimony
 source_notes:
   - "Schmidhuber, What's Interesting?, PDF p. 1-2 et 18-20"
   - "Kaplan, Oudeyer et Hafner, progrès d'apprentissage, niches de progrès et développement autonome, IEEE 2007, p. 265-286"
   - "Jotney, variation de la surprise avec la formation de l'oreille, PDF p. 3"
   - "Histoire d'une oreille, fascination, saturation puis usage parcimonieux de la neuveclamine, PDF p. 23-24 ; solutions devenues évidentes après réécoute, p. 285."
+  - "Tonal Parsimony, arXiv:2606.03459v1, sections 2, 10-11 : K mesure la taille minimale du vocabulaire tonal d'une analyse et peut servir de descripteur de complexité ; cette compacité globale ne mesure pas le progrès temporel de l'observateur."
 tags:
   - schmidhuber
   - compression
@@ -68,6 +71,14 @@ la surprise brute. Les deux familles de travaux convergent donc sur une dérivé
 temporelle de l'apprentissage, même si leurs architectures et leurs mesures ne sont pas
 identiques.
 
+La parcimonie tonale oblige à distinguer cette dérivée d'une autre notion de
+compression. Minimiser le nombre de tonalités distinctes produit une interprétation
+globalement compacte d'une progression, mais ne mesure aucune transformation de
+l'auditeur. Cette analyse peut devenir la prise acquise au terme d'un apprentissage ; sa
+valeur `K` ne dit pas si le sujet vient de la construire, la possédait déjà ou ne
+l'entendra jamais. L'anti-compression montre en outre que réduire encore le vocabulaire
+peut effacer une différence fonctionnelle plutôt qu'améliorer le modèle.
+
 La neuveclamine en donne une micro-histoire concrète : découverte fascinante,
 reproduction intensive, saturation, puis réapprentissage d'un usage rare et presque
 indétectable. L'effet ne disparaît pas simplement ; sa valeur dépend de la manière dont
@@ -90,3 +101,4 @@ qu'une seule surprise rapidement épuisée.
 - Le cas Jotney montre aussi que certaines formes survivent à l'épuisement de leur première surprise.
 - Dynamise la zone de flow de `idea_0121` en y distinguant les régions où le sujet progresse réellement.
 - Opérationnalise une partie du travail constructif de `idea_0123` sans réduire toute construction à la prédiction.
+- Se distingue de `idea_0159` : le progrès de compression suit l'apprentissage d'un observateur, tandis que la parcimonie tonale mesure la compacité d'une analyse.

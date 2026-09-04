@@ -357,7 +357,29 @@ Cartes : `idea_0129`, `idea_0130`, `idea_0131`, `idea_0132`.
 
 ## III. Contrôles contemporains spécialisés
 
-### 15. Stephan Freivogel, *L'intérêt et l'intéressant…* — **V**
+### 15. Juliette Vazard, « Inquiry beyond Curiosity » — **E**
+
+Accès :
+[texte intégral HTML Oxford Academic](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqag014/8571347).
+
+L'article est publié en ligne avant pagination définitive. Utiliser les sections :
+
+| Section | Passage ou problème | Extraction attendue |
+| --- | --- | --- |
+| II–III | Limites de la curiosité et caractérisation de l'intérêt | Distinguer désir de réponse, disposition et épisode occurrent d'intérêt. |
+| IV | Objets intentionnels | Établir la différence entre question visée par la curiosité et objet exploré par l'intérêt ; relever l'antériorité possible de l'intérêt sur la question. |
+| V | Intérêt comme sentiment de valeur | Examiner l'évaluation de l'objet comme méritant une attention soutenue, large et ouverte. |
+| VI–VII | Intérêt mal ajusté et économie de l'attention | Comparer erreur d'allocation attentionnelle, captation et fascination promissive. |
+
+**Thèse intégrée.** L'intérêt peut faire apparaître la question qui orientera
+ensuite la curiosité. Cette antériorité limite une définition constructive qui
+supposerait dès l'origine une prise ou une issue déjà représentée.
+
+Fiche développée : [`vazard-interet-attention.md`](vazard-interet-attention.md).
+
+Cartes : `idea_0123`, `idea_0131`, `idea_0132`, nouvelle `idea_0160`.
+
+### 16. Stephan Freivogel, *L'intérêt et l'intéressant…* — **V**
 
 Accès :
 [notice et texte intégral UNIGE](https://archive-ouverte.unige.ch/unige%3A157535).
@@ -381,7 +403,7 @@ l'intéressant à une seule émotion ni à une propriété purement objective.
 
 Cartes : `idea_0116`, `idea_0123`, `idea_0131`, `idea_0132`.
 
-### 16. Gerald J. Erion, « Kolnai and the Interesting » — **P/I**
+### 17. Gerald J. Erion, « Kolnai and the Interesting » — **P/I**
 
 Accès :
 [notice du chapitre](https://philpapers.org/rec/ERIKAT) ;
@@ -399,7 +421,7 @@ Les sous-bornes sont provisoires et doivent être contrôlées dans le chapitre.
 
 Carte : `idea_0132`.
 
-### 17. R. S. D. Thomas, « Beauty Is Not All There Is… » — **P**
+### 18. R. S. D. Thomas, « Beauty Is Not All There Is… » — **P**
 
 Accès :
 [notice, résumé et structure de l'article](https://academic.oup.com/philmat/article/25/1/116/2669619).
@@ -416,7 +438,7 @@ contrôler sur le PDF.
 
 Cartes : `idea_0028`, `idea_0116`, `idea_0132`.
 
-### 18. Liang Xu, « How Does the Interesting Become an Aesthetic Category? » — **V**
+### 19. Liang Xu, « How Does the Interesting Become an Aesthetic Category? » — **V**
 
 Accès :
 [notice et PDF intégral](https://tsla.researchcommons.org/journal/vol43/iss3/3/).

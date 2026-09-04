@@ -95,9 +95,10 @@ Cette grappe produit une ligne argumentative continue mais non une doctrine uniq
 Une probabilité stylistique ne donne ni direction, ni non-plagiat, ni intérêt. Les
 contraintes peuvent garantir une forme, une métrique ou l'absence de fragments copiés,
 mais chaque garantie reste locale à la cible qu'elle formalise. Le cas Flow Machines
-confirme donc à la fois la puissance et l'hostilité de la formalisation : rendre une
-propriété calculable permet de la contrôler, sans autoriser à la substituer au jugement
-relationnel d'intéressant.
+confirme donc à la fois la puissance de la formalisation et le risque de substitution de
+cible : rendre une propriété calculable permet de la contrôler, sans autoriser à
+substituer son indicateur ou sa procédure effective au jugement relationnel
+d'intéressant.
 
 ## Décision validée dans la cinquième grappe
 
@@ -169,6 +170,16 @@ La deuxième grappe donne en outre un précédent explicite au choix relationnel
 et intéressant » comme expérience située. Elle montre aussi pourquoi le paramètre
 d'horizon ne peut pas être éliminé par une moyenne : dans l'expérience sur les lead
 sheets, les préférences croisent le niveau d'expérience des producteurs et des juges.
+
+## Addendum du 23 août 2026
+
+Deux prépublications postérieures à la campagne ont été traitées à la demande de
+l'auteur, sans rouvrir le tri général des 208 PDF restants.
+
+| Publication | Décision | Apport précis | Intégration |
+|---|---|---|---|
+| Pachet et Roy, *Hidden Biases in Conditioning Autoregressive Models* (2026), version longue de 16 p. soumise à NeurIPS | **fort, scientifique** | Distingue la distribution conditionnelle exacte de la loi produite par une procédure tractable ; établit des résultats de difficulté et documente distorsion des poids et perte de support. | `idea_0016`, `idea_0017`, `idea_0100`, `idea_0109`, `idea_0128`, `idea_0158` ; clé `pachet2026biases`. |
+| Pachet, *Tonal Parsimony in Chord-Sequence Analysis* (2026) | **fort, articulation** | Ordonne continuité locale et compacité globale ; les cas d'anti-compression distinguent prise explicative, compression statique et progrès temporel d'un observateur. | `idea_0071`, `idea_0086`, `idea_0128`, `idea_0151`, nouvelle `idea_0159` ; clé `pachet2026tonalparsimony`. |
 
 ## Clôture de la campagne
 

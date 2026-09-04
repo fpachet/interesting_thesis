@@ -8,6 +8,10 @@ questions ouvertes et registre de traitement.
 Il ne constitue donc pas une seconde source éditoriale. Toute modification d'une carte
 ou de l'organisation apparaît au prochain build.
 
+La place du site dans la chaîne complète, depuis une carte jusqu'aux synthèses et au
+projet bilingue, est décrite dans le
+[`pipeline de synchronisation`](../docs/pipeline-synchronisation-cartes-documents.md).
+
 ## Génération
 
 Depuis la racine du dépôt :
@@ -36,7 +40,7 @@ python3 scripts/generate_thesis_site.py --output /tmp/interesting-thesis-site
 - une présentation de l'objet, de l'hypothèse centrale et de sa méthode ;
 - un programme de lecture en dix séances avec questions de travail, statut des
   sources et liens d'accès public vérifiés ;
-- un catalogue des 154 cartes avec recherche et filtres ;
+- un catalogue des 161 cartes avec recherche et filtres ;
 - une fiche complète pour chaque carte, avec provenance et relations ;
 - une bibliographie recherchable, avec notices détaillées, documents publics et
   navigation bidirectionnelle entre références et propositions ;

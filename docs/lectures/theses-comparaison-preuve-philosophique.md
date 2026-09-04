@@ -77,11 +77,13 @@ La définition candidate ne doit pas rendre le succès rétrospectif constitutif
 l'intérêt. Une formulation plus résistante est :
 
 > Est intéressant ce qui, pour un sujet situé et relativement à un horizon donné,
-> ouvre et soutient une activité dont une prise nouvelle constitue une issue crédible.
+> ouvre et soutient une activité dont l'exploration paraît valoir la peine et dont une
+> prise nouvelle peut devenir une issue crédible.
 
 Elle permet de distinguer :
 
-- **intérêt** : ouverture et maintien d'une issue crédible ;
+- **intérêt** : ouverture et maintien d'une exploration jugée digne d'être poursuivie ;
+- **intérêt orienté** : apparition d'une issue crédible ;
 - **intérêt fécond** : une prise nouvelle est effectivement acquise ;
 - **fascination promissive** : la crédibilité est entretenue sans prise contrôlable ;
 - **épuisement** : aucune nouvelle prise ne paraît désormais crédible dans cet horizon.

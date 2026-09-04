@@ -56,6 +56,36 @@ la méthode de la thèse comme boucle entre fidélité au phénomène et extract
 structure, sous la maxime : « Conceptualiser l'intéressant sans désintéresser le
 concept de l'expérience qui lui donne naissance. »
 
+La V7 remplace l'idée trop globale d'une hostilité de la formalisation par le
+risque plus précis de substitution de cible. Elle distingue cible, indicateur et
+procédure effective à partir de *Hidden Biases in Conditioning Autoregressive
+Models*, puis utilise la parcimonie tonale et ses cas d'anti-compression comme
+exemple positif de formalisation réflexive. Elle ajoute au laboratoire IA le test
+d'une boucle entre exploration en largeur, résolution en profondeur et révision de
+la représentation, tout en maintenant l'hypothèse statistique sur la rareté de
+l'intéressant dans la réserve spéculative.
+
+La V8 intègre l'article de Juliette Vazard sur l'intérêt comme valeur d'une
+attention soutenue. Elle distingue la curiosité dirigée vers une question de
+l'intérêt dirigé vers un objet avant que les questions pertinentes soient
+disponibles. La définition constructive est corrigée en conséquence : une phase
+d'attention exploratoire ouverte peut précéder la construction orientée vers une
+prise, et faire apparaître la question peut constituer la première prise.
+
+La V9 précise le statut ontologique de ce mécanisme. L'intéressant n'est pas un état
+mental placé à côté de l'attention, de la curiosité ou des émotions, mais la relation
+sujet-objet qui peut les actualiser, organiser leurs transitions et transformer les
+possibilités ultérieures du sujet. La formule de « moteur de la vie psychique » est
+retenue au sens limité de moteur de l'activité exploratoire et auto-transformatrice.
+
+La V10 introduit l'analyse intérescentielle de la littérature. Elle distingue ce qui
+motive un personnage de ce qui devient pour lui une source de prises nouvelles, puis
+compare Proust, *Bartleby* et le *Livre de Job*. Job devient le cas négatif d'une
+motivation morale et affective extrême sans intérescence interne identifiable, tandis
+que l'énigme produit une intérescence externe chez le lecteur. Cette différence ouvre
+une hypothèse généalogique prudente sur le déplacement d'un moteur moral ou religieux
+vers des relations immanentes d'intérescence.
+
 ## Cycle d'une nouvelle version
 
 1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
@@ -70,6 +100,24 @@ concept de l'expérience qui lui donne naissance. »
 
 Une version est un état intellectuel identifiable, pas chaque correction
 typographique. Git conserve l'historique fin entre deux versions nommées.
+
+## Synchronisation avec les cartes
+
+Le passage des cartes aux documents de synthèse, aux deux projets et au site est décrit
+dans [`../docs/pipeline-synchronisation-cartes-documents.md`](../docs/pipeline-synchronisation-cartes-documents.md).
+L'[`audit du 23 août 2026`](../docs/audit-rattrapage-v6-cartes-2026-08-23.md)
+prend le commit `302cfa2` comme état éditorial terminal de fait de la V6.
+L'[`audit V10 du 24 août 2026`](../docs/audit-interescence-litterature-v10-2026-08-24.md)
+consigne la séparation entre motivation, morale et intérescence dans le cas de Job.
+
+Les instantanés `versions/projet-these-v6-{fr,en}.tex` ont été créés avant les derniers
+enrichissements demeurés sous le numéro 6. Ils sont conservés comme traces historiques
+et ne doivent pas être corrigés silencieusement. La V7 rétablit la correspondance
+stricte entre numéro, sources courantes, instantanés, bibliographie et changelog.
+La V8 conserve cette correspondance et ajoute son propre triplet d'instantanés
+`projet-these-v8-{fr,en}.tex` et `references-v8.bib`. La V9 fait de même avec
+`projet-these-v9-{fr,en}.tex` et `references-v9.bib`. La V10 est archivée dans
+`projet-these-v10-{fr,en}.tex` et `references-v10.bib`.
 
 ## Compilation
 

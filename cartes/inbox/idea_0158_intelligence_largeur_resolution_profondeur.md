@@ -4,6 +4,7 @@ title: "Une intelligence inventive doit articuler exploration en largeur et rés
 kind: hypothesis
 level: articulation
 status: inbox
+architecture: test
 sources:
   - "input/publications-francois-pachet/pachet-09c.pdf"
   - "input/publications-francois-pachet/barbieri-12a.pdf"
@@ -16,11 +17,12 @@ references:
   - papadopoulos2016flowcomposer
   - pachet2026biases
 source_notes:
+  - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "Kahneman fournit l'opposition métaphorique entre pensée rapide et pensée lente ; largeur et profondeur sont une transposition computationnelle proposée par la carte, non ses catégories."
   - "Markov Constraints, PDF p. 1-8 et 21-23 : couplage entre probabilités locales et recherche globale sous contraintes arbitraires."
   - "Markov Constraints for Lyrics, PDF p. 1-5 : comparaison entre modèle probabiliste seul, contraintes seules et processus markovien contraint."
   - "Assisted Lead Sheet Composition, PDF p. 1-8 et 13-15 : réalisation du couplage dans un outil de composition assistée."
-  - "Hidden Biases, arXiv:2604.07855, PDF p. 1-9 : MAP exact NP-difficile et normalisation conditionnelle exacte #P-difficile pour les modèles autorégressifs généraux ; persistance de la difficulté sous certaines contraintes unaires, métriques ou régulières."
+  - "Hidden Biases, version longue soumise à NeurIPS, PDF p. 1-9 : MAP exact NP-difficile et normalisation conditionnelle exacte #P-difficile pour les modèles autorégressifs généraux ; persistance de la difficulté sous certaines contraintes unaires, métriques ou régulières."
 tags:
   - intelligence_artificielle
   - transformers
@@ -62,8 +64,9 @@ Les travaux sur les contraintes de Markov constituent un antécédent personnel 
 Ils couplent un modèle probabiliste, qui ordonne ou échantillonne des continuations
 stylistiquement plausibles, avec une recherche globale qui garantit des propriétés de
 forme. Les expériences sur les paroles et FlowComposer montrent l'intérêt de cette
-division du travail. L'article *Hidden Biases in Conditioning Autoregressive Models*,
-soumis à NeurIPS et disponible sur arXiv, en établit la nécessité computationnelle : le
+division du travail. La version longue de l'article *Hidden Biases in Conditioning
+Autoregressive Models*, soumise à NeurIPS, dont une version courte est disponible sur
+arXiv, en établit la nécessité computationnelle : le
 MAP exact est NP-difficile et la normalisation conditionnelle exacte est #P-difficile
 pour les modèles autorégressifs généraux, alors que la génération locale reste facile.
 Il montre également qu'une heuristique locale peut déformer la distribution visée.

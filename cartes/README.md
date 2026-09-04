@@ -43,11 +43,11 @@ L'organisation actuelle ne repose pas sur une taxonomie unique :
 
 - `indexes/by_theme.md` rassemble les cartes par objet ou vocabulaire ;
 - `indexes/by_level.md` distingue leur statut épistémique ;
-- `indexes/by_argument.md` affecte chacune des 155 cartes à une famille
+- `indexes/by_argument.md` affecte chacune des 161 cartes à une famille
   argumentative principale, de manière exhaustive et réversible.
 - `indexes/by_architecture.md` distingue leur rôle dans la démonstration
   (`CORE`, `DERIVED`, `TEST`, `CASE`, `OBJECTION`, `SPECULATIVE`). Cette vue
-  commence volontairement par le noyau de quinze cartes avant de classer le reste.
+  commence volontairement par le noyau de dix-sept cartes avant de classer le reste.
 
 Le document `ORGANISATION.md` présente les pivots, les recouvrements et les
 questions ouvertes. Le registre `relations.tsv` conserve un graphe plus restreint
@@ -56,7 +56,7 @@ complète les liens associatifs inscrits dans chaque carte sans les remplacer.
 
 ## Catalogue partageable
 
-`catalogue-idees.tex` rassemble le texte des 155 cartes dans l'ordre de
+`catalogue-idees.tex` rassemble le texte des 161 cartes dans l'ordre de
 `indexes/by_argument.md`, avec leurs statuts, provenances et références. Il est
 régénéré depuis les cartes, puis compile en PDF avec :
 
@@ -90,6 +90,8 @@ seule proposition. On sépare deux cartes seulement lorsque les propositions peu
 7. Si elle soutient, limite ou précise une proposition pivot, ajouter une relation
    expliquée dans `relations.tsv`.
 8. Ne pas forcer trop tôt un plan linéaire : laisser les familles émerger.
+9. Qualifier l'impact documentaire et éditorial de la modification, puis appliquer le
+   [`pipeline de synchronisation`](../docs/pipeline-synchronisation-cartes-documents.md).
 
 ## Format d'une carte
 

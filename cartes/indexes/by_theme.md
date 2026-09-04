@@ -2,6 +2,8 @@
 
 ## Histoire, canonisation et concepts concurrents
 
+- `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
+- `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
 - `idea_0139` - Garve : une idée devient intéressante quand elle répond à une difficulté déjà rencontrée.
 - `idea_0129` - L'absence de l'intéressant est architectonique et canonique, non lexicale.
 - `idea_0130` - L'intéressant est un prédicat omniprésent mais théoriquement opaque dans le discours philosophique.
@@ -23,6 +25,11 @@
 
 ## Définition de l'intéressant
 
+- `idea_0164` - Peut-on rendre tout intéressant ?
+- `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
+- `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.
+- `idea_0161` - L'intéressant est un opérateur relationnel de transitions psychiques, non un état mental.
+- `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
 - `idea_0001` - Pour les objets temporels, l'intérêt appartient à l'agencement plus qu'à l'item isolé.
 - `idea_0002` - Le goût n'est pas un dictionnaire statique.
 - `idea_0003` - Syntaxe et sens ne suffisent pas à expliquer ce qui retient l'attention.
@@ -55,6 +62,7 @@
 - `idea_0119` - L'intérêt du tout ne se déduit pas de l'intérêt de ses parties.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 - `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
+- `idea_0159` - La parcimonie tonale construit une prise compacte dont l'anti-compression révèle la limite.
 - `idea_0121` - Le flow décrit un régime de maintien de l'intérêt, non sa définition.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
 - `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
@@ -136,6 +144,7 @@
 - `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
 - `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
 - `idea_0158` - Une intelligence inventive doit articuler exploration en largeur et résolution en profondeur.
+- `idea_0159` - La parcimonie tonale construit une prise compacte dont l'anti-compression révèle la limite.
 
 ## Interaction et systèmes réflexifs
 
@@ -161,6 +170,9 @@
 
 ## Exploration, similarité, parcours
 
+- `idea_0164` - Peut-on rendre tout intéressant ?
+- `idea_0161` - L'intéressant est un opérateur relationnel de transitions psychiques, non un état mental.
+- `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
 - `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
@@ -181,6 +193,7 @@
 - `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 - `idea_0156` - La rareté de l'intéressant rend la médiocrité inévitable dans une exploration libre.
 - `idea_0157` - La médiocrité exploratoire ne se confond pas avec la médiocrité d'exploitation.
+- `idea_0159` - La parcimonie tonale construit une prise compacte dont l'anti-compression révèle la limite.
 
 ## Exemples et symptômes
 
@@ -215,6 +228,8 @@
 
 ## Méthode et réflexivité de la thèse
 
+- `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
+- `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 - `idea_0143` - Pierre Pachet montre qu'une philosophie du particulier peut survivre hors du nom de philosophie.
 

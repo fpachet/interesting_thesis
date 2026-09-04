@@ -42,19 +42,20 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 154
+    assert manifest["cards"] == 161
     assert manifest["families"] == 8
-    assert manifest["relations"] == 243
-    assert manifest["references"] == 133
-    assert manifest["referenced_cards"] == 90
+    assert manifest["relations"] == 278
+    assert manifest["references"] == 139
+    assert manifest["referenced_cards"] == 96
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 154
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 133
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 161
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == 139
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
+    assert "version 10" in homepage
     assert "Thèse centrale actuelle" in homepage
     assert "Est intéressant ce qui, pour un sujet situé" in homepage
-    assert "154 propositions" in homepage
+    assert "161 propositions" in homepage
     assert (output / "these" / "index.html").is_file()
     assert (output / "lectures" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
@@ -65,13 +66,32 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert (output / "cartes" / "idea_0133" / "index.html").is_file()
     assert (output / "cartes" / "idea_0134" / "index.html").is_file()
     assert (output / "cartes" / "idea_0138" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0164" / "index.html").is_file()
+
+    thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")
+    assert "Test pédagogique" in thesis_page
+    assert "../cartes/idea_0164/index.html" in thesis_page
     assert (output / "cartes" / "idea_0139" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0162" / "index.html").is_file()
+    assert (output / "cartes" / "idea_0163" / "index.html").is_file()
     assert (output / "bibliographie" / "russell1995awardlecture" / "index.html").is_file()
 
     thesis_page = (output / "these" / "index.html").read_text(encoding="utf-8")
     assert "Trois mouvements provisoires" in thesis_page
     assert "Constituer l&#x27;angle mort" in thesis_page
     assert "discussion avec Olivia Chevallier" in thesis_page
+    assert "motivation morale et affective extrêmement forte" in thesis_page
+    assert "sans intérescence interne identifiable" in thesis_page
+
+    status_page = (output / "suivi" / "index.html").read_text(encoding="utf-8")
+    assert "Version 10" in status_page
+    assert "8 familles de travail" in status_page
+
+    job_card = (output / "cartes" / "idea_0162" / "index.html").read_text(
+        encoding="utf-8"
+    )
+    assert "motivation sans intérescence interne identifiable" in job_card
+    assert "L'intense intérescence du lecteur" in job_card
 
     reading_page = (output / "lectures" / "index.html").read_text(encoding="utf-8")
     assert "Parcours exécutable en dix séances" in reading_page

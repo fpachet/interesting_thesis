@@ -27,6 +27,7 @@ remplacer le calendrier doctoral général.
 - choisir des variations indépendantes de la définition candidate ;
 - inclure des faux positifs et des faux négatifs ;
 - distinguer captation causale, jugement prospectif et fécondité effective ;
+- inclure la variation catégoriale entre état du sujet et relation sujet-objet ;
 - formuler pour chaque desideratum ce qui compterait comme échec explicatif.
 
 **Critère de sortie :** les desiderata pourraient être acceptés par un adversaire de la
@@ -35,11 +36,14 @@ théorie constructive.
 ## Chantier 2 - Matrice différentielle des rivaux
 
 **Livrable :** une matrice argumentée comparant plaisir, préférence, surprise,
-nouveauté, curiosité, flow, compression, pertinence, Garve et théorie constructive.
+nouveauté, attention, curiosité naturelle, curiosité artificielle, émotions,
+attention exploratoire chez Vazard, flow, compression, pertinence, Garve et théorie
+constructive.
 
 - éviter les croix non justifiées ;
 - distinguer « explique », « accommode » et « laisse comme résidu » ;
 - traiter Garve comme prédécesseur à prolonger, non comme rival à éliminer ;
+- tester Vazard comme concurrent direct sur la phase antérieure à la question ;
 - identifier ce que chaque modèle partiel conserve dans la théorie finale.
 
 **Critère de sortie :** au moins trois cas doivent réellement discriminer les théories,
@@ -52,13 +56,15 @@ et la conception constructive doit pouvoir perdre sur certains critères.
 Définition candidate :
 
 > Est intéressant ce qui, pour un sujet situé et relativement à un horizon donné,
-> ouvre et soutient une activité dont une prise nouvelle constitue une issue crédible.
+> ouvre et soutient une activité dont l'exploration paraît valoir la peine et dont une
+> prise nouvelle peut devenir une issue crédible.
 
 La typologie doit traiter au minimum : discrimination, anticipation, variation
 contrefactuelle, transfert, intervention/artefact et reconstruction du problème.
 
 **Critère de sortie :** distinguer sans ambiguïté intérêt, intérêt fécond, fascination
-promissive et épuisement.
+promissive et épuisement, mais aussi l'intéressant relationnel de l'intérêt éprouvé
+comme état ou disposition du sujet.
 
 ## Chantier 4 - Dossier d'objections
 
@@ -74,6 +80,20 @@ forme la plus forte de l'objection, d'un cas, d'une réponse et d'une révision 
 7. causalité contre normativité ;
 8. horizon `H` absorbant et irréfutabilité.
 
+Une neuvième fiche devra éprouver la formule de « moteur de la vie psychique » : est-ce
+un mécanisme de transition spécifiable ou une métaphore qui redécrit seulement la
+succession de l'attention, de la curiosité et des émotions ?
+
+Une dixième fiche devra éprouver la généalogie morale : l'intérescence reprend-elle
+historiquement une fonction d'orientation devenue vacante, ou la capacité de faire
+compter précède-t-elle et traverse-t-elle déjà les systèmes moraux ? Cette fiche devra
+séparer succession culturelle, antériorité psychologique et justification normative.
+
+La fiche sur la sur-extension devra traiter explicitement la question « Peut-on rendre
+tout intéressant ? ». Elle distinguera l'accompagnement d'une construction durable de
+la simple séduction et prendra l'anecdote du droit administratif comme cas positif, non
+comme preuve d'une possibilité universelle.
+
 **Critère de sortie :** chaque objection doit pouvoir modifier le texte central ; une
 réponse qui se contente d'ajouter une condition dans `H` est insuffisante.
 
@@ -83,24 +103,41 @@ réponse qui se contente d'ajouter une condition dans `H` est insuffisante.
 l'épreuve et le résultat possible.
 
 - **Musique :** dépendance au chemin, attentes, optale/pseudoptale, extinction et
-  relance de la prise.
-- **IA et création :** distinction cible/indicateur, génération/jugement,
-  construction d'artefacts et substitution de problème.
+  relance de la prise ; utiliser la parcimonie tonale pour comparer compacité statique,
+  progrès de compression et échecs d'anti-compression.
+- **IA et création :** distinguer cible conditionnelle, distribution effectivement
+  générée, distorsion des poids et perte de support ; comparer transformer seul,
+  solveur seul et boucle hybride de reformulation.
 - **Épreuves différentielles :** énigme et mots croisés ; texte littéraire ;
-  contemplation ; pseudo-profondeur ; texte philosophique vrai mais peu fécond.
+  contemplation ; pseudo-profondeur ; texte philosophique vrai mais peu fécond ;
+  distinguer, comme épreuve politique optionnelle, volume de production, diversité
+  effective des directions et concentration de l'exposition.
+- **Épreuve intérescentielle :** comparer une trajectoire longue de transformation
+  chez Proust, une panne interne transférée au lecteur dans *Bartleby* et une motivation
+  morale intense sans intérescence interne identifiable dans Job ; distinguer dans ce
+  dernier cas souffrance, demande de justice, orientation vers Dieu et intérescence
+  externe du lecteur, puis confronter les résultats
+  aux analyses du désir, de la focalisation, des affects et de la réception.
+- **Épreuve morale et généalogique :** comparer, dans Job puis dans un texte moderne,
+  commandement moral, motif d'agir et prise effective ; ne reconnaître un cas religieux
+  d'intérescence que si un objet non prescrit et non nécessaire ouvre une exploration
+  transformatrice pour le personnage. Utiliser Kant sur l'intérêt moral comme charnière et non
+  comme preuve de la succession historique.
 
 **Critère de sortie :** aucun cas n'est conservé pour la seule richesse de son domaine ;
 chacun doit pouvoir confirmer, limiter ou réviser une proposition précise.
 
 ## Ordre de réalisation
 
-1. Stabiliser D1-D10 et les 15 cartes `CORE`.
+1. Stabiliser D1-D10 et les 17 cartes `CORE`.
 2. Construire la matrice des rivaux.
 3. Réviser la définition et la typologie de la prise.
-4. Rédiger les huit objections avant les réponses.
+4. Rédiger les neuf objections avant les réponses.
 5. Réorganiser le plan détaillé du deuxième mouvement.
 6. Affecter une fonction différentielle à chaque étude de cas.
-7. Seulement ensuite, produire une nouvelle version bilingue du projet de thèse.
+7. Utiliser la V8 comme première refonte argumentative après Vazard, la V9 comme
+   clarification ontologique du caractère relationnel et moteur de l'intéressant, puis
+   la V10 comme introduction de l'épreuve littéraire et généalogique Proust–*Bartleby*–Job.
 
 ## Documents concernés
 

@@ -19,7 +19,8 @@ tags:
 ---
 ## Idée
 
-Si l'intéressant est ce qui déclenche et soutient une construction, le concept de
+Si l'intéressant est ce qui ouvre une exploration jugée digne d'être poursuivie puis
+peut orienter une construction, le concept de
 l'intéressant peut lui-même entrer dans son domaine d'application. Chercher ce qui rend
 une chose intéressante conduit à comparer des expériences, construire des distinctions,
 réviser des modèles et reformuler le problème initial. Le concept accomplit alors, dans

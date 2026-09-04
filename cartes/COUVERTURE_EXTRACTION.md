@@ -18,6 +18,55 @@ mécanismes, appuis et limites. Les thèmes généraux et les détails technique
 deviennent pas des cartes autonomes s'ils ne constituent pas des propositions
 utilisables par la thèse.
 
+## Sources externes intégrées
+
+### Immanuel Kant, intérêt moral et volonté divine
+
+Statut actuel : `lecture_directe_ciblee` (24 août 2026).
+
+Le passage de la *Critique de la raison pratique* sur le respect comme mobile,
+l'intérêt moral et leur limitation aux êtres finis a été contrôlé dans le texte
+allemand, Ak. 5:79-80, ainsi que dans l'édition française Barni de 1848. Kant sert de
+charnière à `idea_0163` : il montre que la morale rencontre un problème de motricité,
+mais ne défend ni la naturalisation relationnelle proposée par la thèse ni une succession
+historique de la morale par l'intérescence. Une lecture plus large des deux œuvres
+morales reste nécessaire avant toute reconstruction doctrinale générale.
+
+### René Girard, *Mensonge romantique et vérité romanesque* (1961)
+
+Statut actuel : `notice_editoriale_verifiee_ouvrage_a_lire` (24 août 2026).
+
+La notice de l'éditeur confirme le projet comparatif de l'ouvrage et la médiation
+du désir par un tiers. Seule cette analogie de méthode est mobilisée dans
+`idea_0162` : lire de grands textes comme des instruments de découverte d'une
+structure relationnelle. Aucune extraction doctrinale complète n'est revendiquée ;
+une lecture intégrale reste nécessaire avant une comparaison serrée entre désir
+mimétique et intérescence.
+
+### *Livre de Job*, passages ciblés
+
+Statut actuel : `lecture_directe_ciblee` (24 août 2026).
+
+Le texte hébreu et les traductions de Job 1,8-9, 13,3, 23,3-5, 40,4-5 et 42,1-6 ont été
+contrôlés directement. Ces passages ne suffisent pas à établir une intérescence de Job :
+chercher Dieu vise explicitement à exposer sa cause et obtenir une réponse, tandis que
+les discours divins conduisent au silence et à la rétractation. Les chapitres 38 à 41
+restent à lire intégralement avec commentaires. Jonas 4,10-11 et *Bava Metzia* 59b sont
+seulement enregistrés comme contrepoints futurs. La carte `idea_0162` distingue
+désormais motivation interne, principe moral, intérescence interne non attestée et
+intérescence externe du lecteur.
+
+### Juliette Vazard, « Inquiry beyond Curiosity » (2026)
+
+Statut actuel : `couverture_propositionnelle_complete` (23 août 2026).
+
+Le texte intégral HTML publié par *The Philosophical Quarterly* a été lu section
+par section. La distinction entre intérêt et curiosité, l'objet intentionnel,
+l'attention exploratoire, l'intérêt ajusté ou mal ajusté et l'économie de
+l'attention sont couverts par `idea_0160` et par les révisions de `idea_0123`,
+`idea_0131` et `idea_0132`. La fiche détaillée se trouve dans
+`docs/lectures/vazard-interet-attention.md`.
+
 ## Priorité haute
 
 ### `input/De l'impossibilité de créer.pdf`
@@ -122,12 +171,29 @@ sections, les hypothèses, les projets et la bibliographie sont identiques ; seu
 les retours de ligne, certaines espaces typographiques et le rendu des puces
 différent. Le DOCX a donc été supprimé comme doublon, sans carte supplémentaire.
 
+### `input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf`
+
+Statut actuel : `couverture_propositionnelle_complete` (23 août 2026).
+
+Les 20 pages de la prépublication `arXiv:2606.03459v1` ont été relues
+intégralement. L'objectif lexicographique `(C,K)`, les résultats de corpus et la
+validation sur des annotations professionnelles sont distingués de la reprise
+philosophique proposée par la thèse.
+
+| Sections | Noyaux examinés | Cartes | Statut |
+| --- | --- | --- | --- |
+| 1-4 | Continuité locale, vocabulaire tonal global et objectif lexicographique | `idea_0151`, `idea_0159` | traité |
+| 5-7 | Résultats de corpus et comparaison aux annotations | `idea_0159` | traité ; résultats conservés comme appui scientifique |
+| 8.3 | Deux cas d'anti-compression | `idea_0128`, `idea_0159` | traité comme limite informative de la fonction objectif |
+| 10-11 | Portée, descripteur de complexité et limites | `idea_0071`, `idea_0086`, `idea_0159` | traité ; `K` n'est pas identifié à une mesure de l'intéressant |
+
 ### `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf`
 
 Statut actuel : `couverture_propositionnelle_complete` (12 juillet 2026).
 
-Les 16 pages ont été relues intégralement et contrôlées sur le rendu. Le document
-est conservé comme ancrage technique : ses résultats concernent l'inférence d'un
+Il s'agit de la version longue de 16 pages soumise à NeurIPS ; la version publique
+`arXiv:2604.07855v1` compte 9 pages. Les 16 pages ont été relues intégralement et
+contrôlées sur le rendu. Le document est conservé comme ancrage technique : ses résultats concernent l'inférence d'un
 modèle fixe dans le pire cas, non la valeur esthétique directe des productions.
 
 | Pages | Noyaux examinés | Cartes | Statut |

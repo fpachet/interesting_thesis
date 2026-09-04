@@ -29,7 +29,8 @@ jugement absolu sur la valeur intellectuelle des textes.
 | Rang | Document | Pourquoi il est important | Travail attendu |
 | ---: | --- | --- | --- |
 | 10 | `input/old_docs/interestingness.pdf` | Schmidhuber fournit une théorie computationnelle centrale : régularités apprenables, curiosité et progrès de compression. | Couverture propositionnelle complète ; 23 pages vérifiées et formulations précisées. |
-| 11 | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | Ancrage technique précis sur les contraintes globales et les biais de génération. | Couverture propositionnelle complète ; résultats, hypothèses et limites vérifiés sur 16 pages. |
+| 11 | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | Ancrage technique précis sur les contraintes globales et les biais de génération. | Version longue soumise à NeurIPS ; couverture propositionnelle complète, résultats, hypothèses et limites vérifiés sur 16 pages. |
+| 11 bis | `input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf` | Cas formel réflexif reliant analyse harmonique, compacité et différences fonctionnelles. | Couverture propositionnelle complète ; 20 pages et deux cas d'anti-compression vérifiés. |
 | 12 | `input/The Mystery of Jotney Songs.pdf` et `input/The Mystery of Jotney Songs -full.pdf` | Développent une hypothèse musicale originale sur la surprise nécessaire et la complexité invisible ; la version longue conserve les étapes exploratoires et le programme empirique. | Couverture propositionnelle complète ; essai court de 4 pages et dossier composite de 38 pages vérifiés. |
 | 13 | `input/Notes thèse.pdf` | Notes courtes mais proches de la pensée actuelle de la thèse. | Couverture propositionnelle complète ; page unique vérifiée et raccordée à trois cartes existantes. |
 | 14 | `input/old_docs/ERCGrantPachetInterestingness (1).docx` | Variante supposée du grant canonique. | Comparaison différentielle complète : même contenu que le PDF du rang 4 ; copie Word supprimée comme doublon. |
@@ -103,6 +104,7 @@ de quelques formulations alternatives de ses propositions centrales.
 | 9 | `input/old_docs/TBKLullyNOTES.doc` | couverture propositionnelle complète | 12 juillet 2026 |
 | 10 | `input/old_docs/interestingness.pdf` | couverture propositionnelle complète | 12 juillet 2026 |
 | 11 | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | couverture propositionnelle complète | 12 juillet 2026 |
+| 11 bis | `input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf` | couverture propositionnelle complète | 23 août 2026 |
 | 12 | `input/The Mystery of Jotney Songs.pdf` et `input/The Mystery of Jotney Songs -full.pdf` | couverture propositionnelle complète | 12 juillet 2026 |
 | 13 | `input/Notes thèse.pdf` | couverture propositionnelle complète | 12 juillet 2026 |
 | 14 | `input/old_docs/ERCGrantPachetInterestingness (1).docx` | doublon vérifié et supprimé | 12 juillet 2026 |

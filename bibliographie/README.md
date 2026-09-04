@@ -1,5 +1,17 @@
 # Bibliographie
 
+- `kant1848moralepratique` — Immanuel Kant, *Fondements de la métaphysique des
+  mœurs et Critique de la raison pratique*, trad. Jules Barni (Ladrange, 1848) ;
+  édition ancienne vérifiée pour le problème de l'intérêt moral, avec contrôle du
+  texte allemand en Ak. 5:79-80.
+- `jps1985tanakh` — *Tanakh: The Holy Scriptures* (Jewish Publication Society,
+  1985) ; Job 1,8-9, 13,3, 23,3-5, 40,4-5 et 42,1-6 contrôlés pour distinguer
+  motivation morale, intérescence interne du personnage et intérescence externe
+  du lecteur.
+- `girard1961mensonge` — René Girard, *Mensonge romantique et vérité romanesque*
+  (Grasset, 1961) ; notice d'éditeur vérifiée, ouvrage à relire intégralement avant
+  toute attribution doctrinale détaillée.
+
 `references.bib` est la source canonique des références bibliographiques de la
 thèse. Les chemins locaux restent dans les cartes pour garantir la traçabilité ;
 le champ YAML optionnel `references` relie une proposition aux clés BibTeX.
@@ -126,6 +138,7 @@ son rendu bibliographique reste reproductible.
 | `ngai2012categories` | notice Harvard University Press/Google Books | monographie comprenant l'intéressant parmi trois catégories esthétiques contemporaines ; lecture directe à faire |
 | `epstein2009interesting` | Project MUSE et DOI | article transdisciplinaire directement consacré à l'intéressant ; métadonnées vérifiées, lecture directe à faire |
 | `grimm2011interesting` | site ouvert de *Logos & Episteme* | article d'épistémologie sur ce qui mérite l'attention intellectuelle ; texte intégral disponible, lecture directe à faire |
+| `vazard2026inquiry` | texte intégral HTML sur Oxford Academic ; fiche `docs/lectures/vazard-interet-attention.md` | article lu intégralement ; distingue intérêt dirigé vers un objet et curiosité dirigée vers une question, attention exploratoire et enquête orientée, intérêt ajusté et mal ajusté |
 | `nannini2018interesting` | texte intégral de l'*International Lexicon of Aesthetics* | notice généalogique ouverte, lue pour vérifier la tradition et les références prioritaires |
 | `oudeyer2007intrinsic` | pas encore dans le corpus | article IEEE sur la curiosité adaptative et les niches de progrès |
 | `oudeyer2007typology` | pas encore dans le corpus | typologie computationnelle des motivations intrinsèques |
@@ -138,7 +151,8 @@ son rendu bibliographique reste reproductible.
 | `goldman1999netneg` | `input/old_docs/interestingness/.../Dan Gang/netneg.pdf` | article de revue |
 | `berger1999expectations` | `input/old_docs/interestingness/.../Dan Gang/Expectationfinal-paper.pdf` | manuscrit, support éditorial à compléter |
 | `kelly2002music` | `input/old_docs/interestingness/.../WhereMusicWillBeComingFromNYTArticle.txt` | article de presse |
-| `pachet2026biases` | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | prépublication arXiv:2604.07855, soumise à NeurIPS ; MAP exact NP-difficile et normalisation conditionnelle exacte #P-difficile pour les modèles autorégressifs généraux |
+| `pachet2026biases` | `input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` | version longue de 16 pages soumise à NeurIPS, distincte de la v1 arXiv de 9 pages ; MAP exact NP-difficile, normalisation conditionnelle exacte #P-difficile et pertes possibles de support |
+| `pachet2026tonalparsimony` | `input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf` | prépublication arXiv:2606.03459v1 de 20 pages relue intégralement ; continuité locale, vocabulaire tonal global et cas d'anti-compression mobilisés comme formalisation réflexive, non comme mesure de l'intéressant |
 | `norton2012ikea` | notice de l'éditeur et DOI | étude primaire de l'effet IKEA ; l'effet porte sur la valorisation après une construction réussie et ne démontre pas un gain d'apprentissage ou de compréhension |
 | `pachet2026generation` | `input/publications-francois-pachet/pachet-2026-generation-musicale-ia.pdf` | article publié ; lecture ciblée des p. 152-154 sur l'effet IKEA, l'appropriation créative et le déplacement de la qualité du résultat vers celle de l'interaction |
 | `montecchio2020skipping` | `input/Montecchio_Roy_Pachet_2020_skipping_behavior.pdf` | article PLOS ONE relu intégralement ; résultat scientifique et cas réflexif reliant les recherches menées à Spotify à l'enquête philosophique sur l'intéressant |

@@ -43,6 +43,11 @@ des objections ou comparer plusieurs architectures argumentatives.
   immuables ;
 - [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : évolution explicite
   du projet ;
+- [`docs/pipeline-synchronisation-cartes-documents.md`](docs/pipeline-synchronisation-cartes-documents.md) :
+  propagation d'un ajout ou d'une modification de carte vers les synthèses, le
+  projet bilingue, le catalogue et le site ;
+- [`docs/audit-rattrapage-v6-cartes-2026-08-23.md`](docs/audit-rattrapage-v6-cartes-2026-08-23.md) :
+  premier audit de rattrapage entre le projet courant et les cartes ;
 - [`projet-these/BUT_DE_LA_THESE.md`](projet-these/BUT_DE_LA_THESE.md) : objet,
   tâches philosophiques et résultat attendu de la thèse ;
 - [`cartes/inbox/`](cartes/inbox/) : propositions extraites du corpus ;
@@ -91,7 +96,7 @@ Les PDF initiaux français et anglais, respectivement
 [`input/Project philosophy thesis.pdf`](input/Project%20philosophy%20thesis.pdf),
 constituent la version 1 du projet. Ils sont conservés dans
 `projet-these/versions/`. Les deux fichiers de travail bilingues portent
-actuellement la version 6 et partagent la bibliographie canonique.
+actuellement la version 10 et partagent la bibliographie canonique.
 
 Lorsqu'une nouvelle étape intellectuelle est stabilisée :
 
@@ -99,7 +104,8 @@ Lorsqu'une nouvelle étape intellectuelle est stabilisée :
    synchronisées ;
 2. compiler et relire les deux rendus ;
 3. décrire les changements dans `projet-these/CHANGELOG.md` ;
-4. copier l'état valide dans `projet-these/versions/projet-these-vN.tex`.
+4. copier l'état valide dans les deux instantanés
+   `projet-these/versions/projet-these-vN-{fr,en}.tex` et archiver la bibliographie.
 
 Le dossier contient les commandes exactes de compilation et les règles de
 versionnement.

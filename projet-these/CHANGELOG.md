@@ -4,7 +4,114 @@ Ce fichier décrit les changements de fond entre les versions stabilisées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Évolutions après la version 10 - 4 septembre 2026
+
+- création de `idea_0164`, « Peut-on rendre tout intéressant ? » ;
+- formulation de l'accompagnement pédagogique comme construction des conditions du
+  travail mental qu'un autre devra accomplir ;
+- conservation de l'anecdote de Gilles de La Ménardière sur le droit administratif,
+  avec mention explicite que son contexte doit être précisé avant citation publique ;
+- distinction entre intérêt devenu autonome et séduction momentanément dépendante du
+  médiateur ;
+- ajout de la question au dossier de sur-extension, aux index, au graphe, au catalogue
+  et au site public, qui compte désormais 161 cartes.
+
+## Version 10 - 24 août 2026
+
+Introduction de l'analyse intérescentielle de la littérature et séparation stricte
+entre motivation, principe moral, intérescence interne du personnage et intérescence
+externe du lecteur.
+
+- comparaison programmatique de Proust, *Bartleby* et du *Livre de Job* comme trois
+  régimes divergents : trajectoire longue, raréfaction et transfert, motivation intense
+  sans intérescence interne identifiable ;
+- correction du cas de Job : la souffrance, le deuil, la demande de justice,
+  l'orientation vers Dieu et l'attention divine ne prouvent aucune intérescence ;
+- formulation d'un critère positif : un objet doit ouvrir pour le personnage des prises
+  successives et transformatrices, sans se réduire au manque, à l'obligation ou à la
+  réparation ;
+- distinction entre intérescence représentée dans le personnage et intérescence produite
+  chez le narrateur ou le lecteur ;
+- hypothèse généalogique prudente d'un déplacement du moteur moral ou religieux vers des
+  relations immanentes d'intérescence, avec Kant comme charnière et non comme preuve ;
+- création et intégration des cartes `idea_0162` et `idea_0163`, mise à jour des
+  synthèses, du projet bilingue, de la bibliographie, du catalogue et du site.
+
+## Version 9 - 23 août 2026
+
+Clarification du statut ontologique de l'intéressant et articulation avec
+l'attention, les curiosités naturelle et artificielle, et les émotions.
+
+- distinction entre l'intéressant, relation sujet-objet, et l'intérêt éprouvé,
+  susceptible d'être décrit comme sentiment, épisode ou disposition du sujet ;
+- refus de classer l'intéressant comme un état mental supplémentaire : attention,
+  curiosité, émotions et activité constructive en sont des actualisations possibles ;
+- caractérisation positive comme relation par laquelle une différence rencontrée
+  devient un principe de continuation et de transformation de l'activité ;
+- explicitation de la formule « moteur de la vie psychique » comme opérateur des
+  transitions, limitée à l'activité exploratoire et auto-transformatrice ;
+- distinction entre curiosité naturelle dirigée vers une lacune et curiosité
+  artificielle opérant dans un espace d'états, d'erreurs et d'actions déjà défini ;
+- création de `idea_0161`, ajout de la propriété de transitionalité et d'une objection
+  contre la métaphore éventuellement vide du moteur ;
+- mise à jour bilingue de la définition, de la défense différentielle, de la matrice
+  de tests et des documents d'architecture.
+
+## Version 8 - 23 août 2026
+
+Intégration de Juliette Vazard et révision de l'hypothèse constructive afin de ne
+pas attribuer rétrospectivement une question ou une issue déjà déterminée au
+premier moment de l'intérêt.
+
+- lecture intégrale de « Inquiry beyond Curiosity: Interest and the Value of
+  Attending » et ajout de la référence canonique `vazard2026inquiry` ;
+- distinction entre curiosité dirigée vers une question et intérêt dirigé vers
+  un objet par une attention soutenue, large et exploratoire ;
+- reconnaissance de l'antériorité possible de l'intérêt sur la question qu'il
+  contribue à faire émerger ;
+- distinction entre orientation faible de l'attention et orientation forte vers
+  une prise déterminable ;
+- reformulation bilingue de la définition centrale : l'exploration peut d'abord
+  paraître valoir la peine avant qu'une prise devienne une issue crédible ;
+- confrontation entre intérêt ajusté ou mal ajusté chez Vazard et fascination
+  promissive, sans reprendre automatiquement la valence positive ni limiter la
+  thèse au domaine épistémique ;
+- création de `idea_0160`, mise à jour des cartes `idea_0123`, `idea_0131` et
+  `idea_0132`, de la défense, de la matrice comparative et des index.
+
+## Version 7 - 23 août 2026
+
+Rattrapage entre les cartes et le projet bilingue, et précision de la méthode de
+formalisation réflexive dans les deux laboratoires principaux.
+
+- remplacement de « l'hostilité de la formalisation » par le risque plus précis de
+  substitution de cible ;
+- distinction entre cible, indicateur et procédure effective : une cible conditionnelle
+  peut rester bien définie alors que l'approximation tractable déforme les poids ou perd
+  du support ;
+- intégration de la version longue de *Hidden Biases in Conditioning Autoregressive
+  Models*, soumise à NeurIPS, en la distinguant de la version publique courte sur arXiv ;
+- intégration de la parcimonie tonale comme prise explicative locale et de
+  l'anti-compression comme test de ses limites ;
+- distinction entre compacité statique d'une analyse et progrès temporel de compression
+  chez un observateur ;
+- ajout au laboratoire IA d'un test comparant transformer seul, solveur seul et boucle
+  hybride de révision de la représentation ;
+- distinction entre médiocrité exploratoire et exploitation répétitive, tandis que
+  l'hypothèse statistique forte sur la rareté reste une extension spéculative ;
+- création d'un audit de rattrapage et d'un pipeline explicite reliant cartes,
+  bibliographie, index, synthèses, projet bilingue, catalogue et site ;
+- restauration de la correspondance stricte entre les deux sources V7, leurs
+  instantanés, la bibliographie archivée et le changelog.
+
 ## Version 6 - 8 août 2026
+
+> **Note de synchronisation du 23 août 2026.** Les instantanés V6 avaient été créés le
+> 7 août, avant les derniers enrichissements conservés sous le même numéro dans les
+> sources courantes. Le commit `302cfa2` constitue l'état éditorial terminal de fait de
+> cette version. Les instantanés historiques ne sont pas réécrits ; la V7 rétablit la
+> correspondance stricte entre sources, traductions, bibliographie et archives. Voir
+> l'[`audit de rattrapage`](../docs/audit-rattrapage-v6-cartes-2026-08-23.md).
 
 Intégration de Pierre Pachet dans l'histoire métaphilosophique de l'intéressant et
 explicitation de la méthode qui articule expérience singulière et concept.

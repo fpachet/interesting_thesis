@@ -306,12 +306,12 @@ résolution n’a pas été tentée.
 | FP-100 | 1992 | Important Journals | Pachet, F. From Object-Oriented Design to Visual Programming. European Journal of Engineering and Education, Vol. 17, n. 2, 1992, pp. 195-201 | aucun lien |
 | FP-101 | 2026 | Important conferences | and Régin, J.-C., Constraining Generative Models:A Survey from the Constraint Programming Perspective, 35th International Joint Conference on Artificial Intelligence (IJCAI 2026), Bremen (Germany), August 2026 | aucun lien |
 | FP-102 | 2017 | Important conferences | DeepBach: a Steerable Model for Bach Chorales Generation | lien indirect à résoudre |
-| FP-144 |  | Arxiv | arxiv:2606.03459 | lien indirect à résoudre |
+| FP-144 | 2026 | Arxiv | *Tonal Parsimony in Chord-Sequence Analysis* | PDF local ajouté ; couverture propositionnelle complète |
 | FP-145 |  | Arxiv | Régin. Balanced Exact Population Synthesis via Maximum Entropy Repair, in progress | aucun lien |
 | FP-146 |  | Arxiv | arxiv:2606.24911 | lien indirect à résoudre |
 | FP-147 |  | Arxiv | François Pachet, Indirect Access, Model-Level Substitution, and Copyright’s Work-Level Gap, in progress | aucun lien |
 | FP-148 |  | Arxiv | arXiv:2605.07839 | lien indirect à résoudre |
-| FP-149 | 2026 | Arxiv | arXiv:2604.07855 | déjà présent |
+| FP-149 | 2026 | Arxiv | *Hidden Biases in Conditioning Autoregressive Models* | version longue locale ; couverture propositionnelle complète |
 | FP-150 | 2026 | Arxiv | arXiv:2603.22558 | lien indirect à résoudre |
 | FP-151 | 2022 | Arxiv | arXiv:2206.03224 | lien indirect à résoudre |
 | FP-152 | 2006 | Arxiv | arXiv:2006.09232 | lien indirect à résoudre |

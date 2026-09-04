@@ -85,6 +85,15 @@ la recherche porte sur la circulation ou la stabilisation sociale de l'intérêt
 l'expérience individuelle, il agit déjà à l'intérieur des deux pôles en formant les
 attentes du sujet et le répertoire des formes disponibles.
 
+Ce statut relationnel interdit de ranger l'intéressant parmi les états mentaux. Il faut
+distinguer l'intérêt éprouvé, qui peut être un sentiment ou une disposition du sujet,
+de l'intéressant, qui qualifie le couplage par lequel une différence offerte par une
+forme rompt l'indifférence et devient un principe de continuation et de transformation.
+Attention, curiosité et émotions sont alors des actualisations possibles de cette
+relation, non ses synonymes. L'intéressant peut être dit **moteur de la vie psychique**
+en ce sens précis : il organise les passages entre états dans l'activité exploratoire et
+auto-transformatrice. Il n'est ni une faculté cachée ni la cause de tout état mental.
+
 ## Hypothèse centrale : l'intéressant comme promesse crédible de prise
 
 Cette hypothèse n'est plus présentée comme une découverte sans antécédent. Dans
@@ -96,15 +105,30 @@ contribution propre de la thèse consiste à systématiser ce mécanisme, à dé
 prises qu'il produit et à en développer la temporalité, les extensions créatives, les
 limites et la récursivité.
 
-Le candidat actuel pour le cœur de la thèse est le suivant : **est intéressant ce qui,
-pour un sujet situé et relativement à un horizon donné, ouvre et soutient une activité
-dont une prise nouvelle sur un objet, un problème ou un espace de possibilités constitue
-une issue crédible**. Le flow décrit certaines conditions dans lesquelles cette activité
-reste possible ; la construction décrit l'activité proprement dite ; la compréhension,
-le modèle ou l'artefact en sont des résultats possibles.
+Juliette Vazard oblige à distinguer deux degrés dans ce mécanisme. La curiosité vise une
+question déterminée ; l'intérêt peut d'abord viser un objet et soutenir une attention
+exploratoire avant que le sujet sache quels aspects examiner. Une question ou une prise
+identifiable peut émerger de cette fréquentation au lieu d'en constituer nécessairement
+le point de départ. La thèse conserve donc la construction, mais refuse de lui attribuer
+rétrospectivement un but déjà représenté dès le premier instant de l'intérêt.
 
-La formulation sépare l'intérêt de sa réussite rétrospective. **L'intérêt** ouvre une
-issue crédible ; **l'intérêt fécond** produit effectivement une prise ; la **fascination
+Le candidat actuel pour le cœur de la thèse devient : **est intéressant ce qui, pour un
+sujet situé et relativement à un horizon donné, ouvre et soutient une activité dont
+l'exploration paraît valoir la peine et dont une prise nouvelle sur un objet, un problème
+ou un espace de possibilités peut devenir une issue crédible**. Le flow décrit certaines
+conditions dans lesquelles cette activité reste possible ; l'attention exploratoire en
+décrit la phase encore faiblement orientée ; la construction décrit sa détermination
+progressive ; la compréhension, le modèle ou l'artefact en sont des résultats possibles.
+
+Une formulation ontologique complémentaire précise ce que cette définition qualifie :
+**l'intéressant est la relation par laquelle une différence rencontrée devient, pour un
+sujet situé, un principe de continuation et de transformation de son activité**. La
+première formule décrit la trajectoire et son enjeu prospectif ; la seconde distingue la
+relation de ses manifestations psychiques.
+
+La formulation sépare l'intérêt de sa réussite rétrospective. **L'intérêt** maintient une
+exploration jugée digne d'être poursuivie ; **l'intérêt orienté** fait apparaître une
+prise crédible ; **l'intérêt fécond** produit effectivement une prise ; la **fascination
 promissive** entretient cette crédibilité sans livrer de prise contrôlable ;
 l'**épuisement** survient lorsqu'aucune prise nouvelle ne paraît encore crédible dans
 l'horizon présent. Cette distinction permet de reconnaître qu'une chose a réellement
@@ -137,6 +161,18 @@ reconstruction d'un problème dont les réussites et les échecs peuvent être e
 Cette exigence relie le cœur conceptuel de la thèse à quarante ans de
 pratique scientifique sans confondre un système construit avec une ontologie complète de
 l'intéressant.
+
+Cette distinction entre attention ouverte et enquête dirigée fournit également une
+limite aux modèles de curiosité artificielle. Ceux-ci supposent généralement une erreur,
+une récompense ou un espace d'actions déjà définis. Ils peuvent mesurer une phase de
+construction orientée sans épuiser le moment où le sujet découvre encore ce qui mérite
+d'être traité comme différence ou comme question.
+
+La curiosité naturelle ne se confond pas davantage avec l'intéressant : elle peut être
+un état motivationnel dirigé vers une lacune ou une question. L'attention décrit la
+sélection et le maintien ; les émotions, les manières déterminées dont le sujet est
+affecté. L'intéressant désigne le principe relationnel qui peut faire passer de l'une à
+l'autre, les combiner et modifier les conditions de leurs occurrences futures.
 
 Les travaux de Kaplan, Oudeyer et Schmidhuber sur la curiosité artificielle fournissent
 une première mesure temporelle de cette construction. Si `E_t(o, S)` désigne l'erreur du
@@ -233,6 +269,22 @@ de difficulté.
     l'objet. On peut en revanche préparer chez autrui les conditions de son apparition :
     fournir des prises, installer une attente ou rendre visible une tension.
 
+Cette propriété ouvre une question simple : **peut-on rendre tout intéressant ?** La
+carte `idea_0164` la traite comme un test de portée, non comme une conclusion acquise.
+Rendre une matière intéressante consisterait à accompagner chez autrui le même travail
+de construction qui soutient l'intéressant. Le professeur fait apparaître des
+problèmes, ordonne des exemples et rend sensibles des différences ; mais c'est l'élève
+qui doit accomplir la construction. L'ingéniosité pédagogique est ainsi une ingéniosité
+au sens de l'ingénieur : elle construit les conditions d'une construction accomplie par
+un autre.
+
+L'anecdote de Gilles de La Ménardière sur le professeur qui lui rendit le droit
+administratif intéressant fournit un cas positif. Devenu conseiller d'État, il parvint
+à son tour à faire partager l'intérêt du problème du respect de la loi. Ce cas ne prouve
+pas que tout puisse être rendu intéressant. Il suggère un critère plus exigeant que la
+captation momentanée : l'accompagnement réussit lorsque l'intérêt survit au professeur
+et peut être poursuivi, puis transmis, de manière autonome.
+
 ### Récursivité : « l'intéressant est intéressant »
 
 15. **Auto-application.** Le concept de l'intéressant peut lui-même déclencher les
@@ -307,6 +359,31 @@ montrer ce qu'elle a préservé de la question qui motivait sa construction. Une
 programme consiste ainsi à concevoir une formalisation réflexive qui conserve ses
 résidus au lieu de les déclarer extérieurs au problème.
 
+La substitution peut toutefois survenir **après** que la cible a été correctement
+formalisée. Dans *Hidden Biases in Conditioning Autoregressive Models*, la distribution
+conditionnelle exacte reste explicite, mais son calcul général est difficile ; une
+procédure locale ou heuristique peut alors produire une autre distribution, attribuer de
+mauvais poids aux solutions valides ou perdre une partie de leur support. Il faut donc
+distinguer trois termes : la cible, l'indicateur qui la représente et la procédure
+effective qui tente de la réaliser. La chaîne critique devient : cible formelle,
+pression de tractabilité, approximation opératoire, puis oubli éventuel de la
+divergence.
+
+La parcimonie tonale fournit le cas positif complémentaire. Elle minimise une trajectoire
+de tonalités selon la continuité locale puis la taille du vocabulaire global. Ses cas
+d'anti-compression montrent pourtant qu'une analyse plus compacte peut effacer une
+excursion mineure ou des centres intentionnellement distincts. Le résidu n'est pas
+expulsé : il indique où l'objectif doit être enrichi. La formalisation réflexive ne
+renonce donc ni au calcul ni à l'optimisation ; elle conserve les cas où leur réussite
+locale cesse de préserver la différence pertinente.
+
+Le laboratoire IA prolongera cette méthode par une hypothèse testable : articuler
+l'exploration en largeur d'un modèle génératif et la résolution en profondeur d'un
+solveur, puis utiliser conflits, contre-exemples et coûts de recherche pour réviser la
+représentation du problème. Cette boucle n'est pas posée comme modèle psychologique de
+l'intelligence ; elle sert à examiner si l'invention peut porter sur les prises et les
+langages intermédiaires qui rendent une recherche effective.
+
 ## Modalité de validation : une preuve différentielle et abductive
 
 La solidité du concept ne reposera ni sur une preuve mathématique unique ni sur une
@@ -325,6 +402,25 @@ Les mêmes cas seront confrontés au plaisir, à la préférence, à la surprise
 nouveauté, à la curiosité, au flow, au progrès de compression, à la pertinence, à Garve
 et à la conception constructive révisée. La matrice obtenue ne sera probante que si
 chaque verdict est argumenté et si la théorie proposée peut échouer sur certains tests.
+
+La littérature fournit ici une épreuve différentielle propre. Une analyse
+**intérescentielle** ne confondra pas ce qui pousse un personnage à agir avec ce qui
+devient pour lui une source de prises nouvelles. Proust permettra d'observer des
+intérescences longues et transformatrices ; *Bartleby*, leur raréfaction apparente et
+leur transfert vers le narrateur ou le lecteur ; *Job*, une motivation morale et
+affective extrêmement forte sans intérescence interne identifiable. Dans ce dernier
+cas, la souffrance, la demande de justice et l'orientation vers Dieu ne suffisent pas à
+établir qu'un objet devienne intéressant pour Job : l'énigme peut mobiliser le lecteur
+sans devenir pour le personnage un champ d'exploration.
+
+Ce contraste ouvre une hypothèse généalogique, mais ne la démontre pas. Certains textes
+religieux pourraient représenter une vie psychique principalement mue par l'épreuve, la
+loi ou l'obligation, là où le roman moderne rendrait plus visibles les relations
+singulières par lesquelles quelque chose se met à compter. Il ne s'agirait pas d'une
+substitution normative de l'intérescence à la morale, mais d'un déplacement possible du
+principe narratif et psychique d'orientation. Un véritable contre-cas religieux devrait
+montrer un objet non prescrit ouvrant pour un personnage des prises successives et
+transformatrices ; la seule intensité d'une motivation ne suffit pas.
 
 Huit objections formeront un dossier autonome : sur-extension, sous-extension,
 circularité de la construction, échec de la prise promise, contemplation, réduction à
@@ -427,6 +523,16 @@ pouvoir qui les organisent. Elle impose aussi de ne pas confondre usage intensif
 attachement et addiction clinique : l'intérêt peut conduire à l'habitude sans produire
 une addiction, tandis qu'une conduite compulsive peut persister après l'épuisement de
 l'intérêt.
+
+Elle impose également de distinguer deux médiocrités. Des essais infructueux peuvent
+être le coût normal d'une exploration ouverte lorsque les réussites intéressantes sont
+rares et imparfaitement prévisibles. Une répétition optimisée peut au contraire réduire
+la diversité effective, concentrer l'exposition ou exploiter une position de
+distribution. La première ne justifie pas la seconde. Quant au terme « manipulation »,
+il exige un dispositif identifiable, un effet causal contrefactuel et une asymétrie
+normative ; il ne se déduit ni de l'abondance ni de la faible qualité supposée des
+contenus. L'hypothèse statistique forte sur la rareté reste une extension spéculative à
+tester, non un résultat central de la thèse.
 
 Il ne faut toutefois pas présenter les disciplines comme les étapes d'une progression
 linéaire. La thèse devra établir historiquement ce diagnostic, rechercher ses

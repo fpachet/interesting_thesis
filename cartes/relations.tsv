@@ -247,3 +247,34 @@ idea_0157	limits	idea_0156	Le coût normal de l'exploration ne justifie pas la r
 idea_0157	specifies	idea_0074	Distingue la quantité de sorties de la diversité effective des directions explorées.
 idea_0157	specifies	idea_0093	Réserve le terme manipulation aux effets causalement établis qui exploitent une asymétrie pertinente.
 idea_0023	illustrates	idea_0157	Un contenu sans valeur peut devenir saillant par son agencement sans que sa médiocrité établisse une manipulation.
+idea_0159	illustrates	idea_0123	L'analyse tonale compacte fournit une prise explicative et opératoire contrôlable sur une progression harmonique.
+idea_0159	supports	idea_0128	Les cas d'anti-compression documentent la divergence entre l'optimum formel et les différences musicales que l'analyse devait préserver.
+idea_0159	contrasts_with	idea_0071	Distingue la compacité globale d'une analyse du progrès temporel de compression chez un observateur.
+idea_0159	specifies	idea_0086	L'analyse harmonique rend calculable une reconstruction séquentielle informée par un horizon musical.
+idea_0159	bridges	idea_0151	Ordonne lexicographiquement continuité locale et cardinalité globale au lieu de les réduire à un compromis scalaire.
+idea_0017	specifies	idea_0128	Montre qu'une procédure tractable peut substituer sa distribution effective à une cible conditionnelle pourtant correctement formalisée.
+idea_0160	limits	idea_0123	L'intérêt peut soutenir une attention ouverte avant qu'une prise ou une question déterminée ne soit représentée ; la première prise peut être leur constitution.
+idea_0160	specifies	idea_0132	La recommandation de poursuivre peut porter sur une fréquentation exploratoire de l'objet plutôt que sur une enquête déjà formulée.
+idea_0160	supports	idea_0131	La distinction entre objet d'intérêt et question de curiosité montre que les fonctions voisines ne sont pas synonymes.
+idea_0160	bridges	idea_0138	L'attention exploratoire fournit un moment pré-problématique dans lequel un aspect peut devenir énigme puis question.
+idea_0160	contrasts_with	idea_0124	L'intérêt mal ajusté qualifie une erreur normative d'allocation attentionnelle ; la fascination promissive qualifie une trajectoire sans prise contrôlable.
+idea_0161	specifies	idea_0084	La rencontre forme-sujet n'est pas un état privé mais le régime relationnel qui rend possibles des transitions psychiques.
+idea_0161	specifies	idea_0125	Naturaliser l'intéressant revient à expliquer un opérateur relationnel dont les états affectifs et cognitifs sont des actualisations.
+idea_0161	supports	idea_0131	La dispersion s'explique en partie par la redistribution des effets d'une relation entre plusieurs facultés et états subjectifs.
+idea_0161	bridges	idea_0160	L'attention ouverte et la curiosité dirigée sont deux actualisations successives possibles d'une même relation intéressante.
+idea_0161	limits	idea_0071	Le progrès d'apprentissage formalise une politique de transition dans un espace déjà défini, non la constitution relationnelle de l'objet intéressant.
+idea_0112	illustrates	idea_0161	Les micro-émotions musicales sont des transformations locales produites dans une trajectoire d'intérêt qui ne se réduit à aucune d'elles.
+idea_0162	operationalizes	idea_0161	L'analyse intérescentielle suit dans les textes les passages entre indifférence, attention, curiosité, émotion, activité et transformation.
+idea_0162	bridges	idea_0084	Le cadre forme–mémoire est déployé entre personnage et monde, personnages entre eux, narrateur et histoire, texte et lecteur.
+idea_0162	specifies	idea_0133	Un texte peut représenter les intérescences de ses personnages tout en produisant et transformant celle de son lecteur.
+idea_0162	limits	idea_0060	L'intérescence peut inclure des médiations mimétiques sans réduire toute mobilisation à un désir triangulaire.
+idea_0162	illustrates	idea_0160	La mémoire involontaire proustienne fournit un terrain où une mobilisation par la sensation peut précéder la formulation de la question.
+idea_0163	specifies	idea_0141	La morale peut transmettre à l'intérescence une fonction motrice sans définir sa nature ni garantir la valeur de ce qu'elle mobilise.
+idea_0163	contrasts_with	idea_0117	L'héritage fonctionnel proposé ne supprime pas la séparation méthodologique entre description de la prise et jugement moral.
+idea_0163	bridges	idea_0162	Job distingue motivation morale intense, intérescence interne non attestée et intérescence externe du lecteur ; un véritable contre-cas religieux exigerait une prise autonome et transformatrice.
+idea_0163	specifies	idea_0161	L'opérateur relationnel peut reprendre une fonction d'orientation autrefois attribuée à la loi sans devenir lui-même un commandement.
+idea_0163	specifies	idea_0125	La naturalisation porte sur la genèse relationnelle du mobile, non sur une évolution biologique linéaire de la morale.
+idea_0163	bridges	idea_0140	La formule distingue ce qui doit compter, ce qui vient à compter et l'évaluation ultérieure de ce qui mérite de continuer à compter.
+idea_0164	specifies	idea_0123	Étend la construction de l'intéressant au cas où une autre personne accompagne le travail du sujet.
+idea_0164	supports	idea_0084	La médiation transforme la relation entre une matière et l'histoire du sujet sans faire de l'intérêt une propriété de la matière.
+idea_0164	contrasts_with	idea_0115	Distingue l'accompagnement qui rend l'élève autonome de l'attention qui fabrique une profondeur dépendante de l'interprète.

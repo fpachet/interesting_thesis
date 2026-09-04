@@ -11,6 +11,7 @@ references:
   - pachet2026biases
   - papadopoulos2016nonplagiaristic
 source_notes:
+  - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "Hidden Biases, distinction entre génération pratique et conditionnement exact, PDF p. 1-3"
   - "Hidden Biases, dureté du conditionnement et de l'approximation, PDF p. 4-9"
   - "Hidden Biases, perte de support, inpainting et limites des résultats, PDF p. 9-14"
@@ -64,3 +65,4 @@ conditionné.
 - Complète `idea_0016` : une direction globale exige d'anticiper les continuations.
 - à distinguer de `idea_0098` : être valide ne garantit ni fidélité distributionnelle ni intérêt.
 - Fournit la limite technique du pôle sampling dans la synthèse `idea_0109`.
+- Précise `idea_0128` : la cible peut rester formellement explicite tandis que la procédure tractable lui substitue en pratique une autre distribution.

@@ -4,7 +4,7 @@ Cet index distingue ce que les sources et les cartes mettent encore trop facilem
 sur un même plan. Le champ YAML `level` de chaque carte constitue la classification
 canonique ; les listes ci-dessous servent de vue de travail.
 
-## Conceptual (100)
+## Conceptual (105)
 
 Propositions sur l'intéressant, la création, la compréhension, la virtuosité, la
 valeur ou l'attention. Elles peuvent être inspirées par des sciences, mais leur
@@ -26,7 +26,8 @@ portée ne se réduit pas à un résultat scientifique.
 `idea_0123`, `idea_0124`, `idea_0125`, `idea_0126`, `idea_0129`, `idea_0131`,
 `idea_0132`, `idea_0133`, `idea_0134`, `idea_0135`, `idea_0136`, `idea_0137`,
 `idea_0138`, `idea_0139`, `idea_0140`, `idea_0141`, `idea_0142`, `idea_0143`,
-`idea_0144`, `idea_0155`, `idea_0156`, `idea_0157`.
+`idea_0144`, `idea_0155`, `idea_0156`, `idea_0157`, `idea_0160`, `idea_0161`,
+`idea_0162`, `idea_0163`, `idea_0164`.
 
 ## Scientific (20)
 
@@ -39,7 +40,7 @@ qui définit leurs données, hypothèses et limites.
 `idea_0069`, `idea_0070`, `idea_0072`, `idea_0097`, `idea_0100`, `idea_0106`,
 `idea_0130`, `idea_0150`.
 
-## Articulation (35)
+## Articulation (36)
 
 Propositions de second niveau reliant la pratique scientifique à l'enquête
 philosophique. Elles explicitent une conséquence, une limite, un présupposé ou une
@@ -51,7 +52,7 @@ faire de ceux-ci une preuve directe d'une ontologie de l'intéressant.
 `idea_0086`, `idea_0088`, `idea_0094`, `idea_0095`, `idea_0096`, `idea_0098`,
 `idea_0099`, `idea_0102`, `idea_0104`, `idea_0109`, `idea_0110`, `idea_0127`,
 `idea_0128`, `idea_0145`, `idea_0146`, `idea_0147`, `idea_0148`, `idea_0149`,
-`idea_0151`, `idea_0152`, `idea_0153`, `idea_0154`, `idea_0158`.
+`idea_0151`, `idea_0152`, `idea_0153`, `idea_0154`, `idea_0158`, `idea_0159`.
 
 Les cartes pivots de ce niveau sont `idea_0018`, `idea_0088`, `idea_0109` et
 `idea_0110`. La classification reste révisable : une carte doit changer de niveau

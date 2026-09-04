@@ -60,8 +60,8 @@ est intrinsèquement mauvaise, techniquement incompétente ou moralement indigne
 forts exigeraient des critères et une démonstration indépendants.
 
 Il faut aussi définir le seuil par la thèse centrale : une rencontre forte ne se réduit
-pas à une préférence ou à un clic ; elle ouvre et soutient une activité dont une prise
-nouvelle constitue une issue crédible. La rareté porte donc sur un effet relationnel et
+pas à une préférence ou à un clic ; elle ouvre et soutient une exploration qui paraît
+valoir la peine et dans laquelle une prise nouvelle peut devenir crédible. La rareté porte donc sur un effet relationnel et
 temporel, non sur une étiquette sociale de prestige.
 
 ## Argument statistique du filtre imparfait

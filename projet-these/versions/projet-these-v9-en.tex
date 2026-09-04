@@ -1,0 +1,1262 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[a4paper,margin=2.4cm]{geometry}
+\usepackage{enumitem}
+\usepackage[autostyle]{csquotes}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=12,pagetracker=false]{biblatex}
+\addbibresource{../bibliographie/references.bib}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.65em}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.35em,topsep=0.35em}
+\setlist[enumerate]{leftmargin=1.8em,itemsep=0.5em,topsep=0.4em}
+
+\newcommand{\projectversion}{9}
+\newcommand{\projectdate}{23 August 2026}
+
+\title{The Emergence of the Interesting\\
+\large Birth of Ideas, Understanding, and Singularity of Forms}
+\author{François Pachet}
+\date{Thesis project -- version \projectversion\\\small \projectdate}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This project aims to establish the interesting as a philosophical object. It
+starts from an ordinary yet elusive experience: an idea emerges, a form becomes
+intelligible, a passage holds our attention and calls for renewed engagement.
+The central hypothesis is that what is interesting, for a situated subject and
+relative to a given horizon, opens an exploration that appears worth pursuing
+and within which a new grip on an object, a problem, or a space of possibilities
+can become credible. The interesting
+is thus neither an intrinsic quality of a form nor a private preference, but a
+dispositional, historical, and temporal relation. It is not a mental state
+placed alongside attention, curiosity, or emotions, but the relational regime
+that can actualise them, organise their transitions, and transform the subject's
+activity. The thesis will reconstruct
+its genealogy, identify its properties, and test the concept in five
+laboratories: music, artificial intelligence, creativity, philosophy, and
+literature. Its constructive core will be situated as a direct continuation of
+Christian Garve, without attributing to him the extensions provided by the
+enigma, controllable grips, constructive peeling, recursion, and the social
+regimes of difficulty. Its weak canonisation will be investigated as the joint
+effect of the demotion of \emph{Popularphilosophie}, aesthetic, Romantic, and
+moral captures, and a subsequent dispersion among the sciences of the psyche.
+Its reflexive dimension will be decisive: the concept of the interesting can
+itself become interesting and transform the subject attempting to grasp it.
+\end{abstract}
+
+\section{Origin, Question, and Aim}
+
+This work emerges from a constructivist and empirical practice of artificial
+intelligence research. I have spent forty years building systems that generate,
+transform, or accompany music and text. The doctoral project is not intended to
+summarise this work or retrospectively impose an artificial philosophical unity
+on it. It starts from a more demanding question: \emph{what am I doing} when I
+build a system, recognise a solution, reject an output that is correct but
+uninteresting, or stop before a form that seems to impose itself?
+
+The guiding question is:
+
+\begin{quote}
+Under what conditions does something appear interesting to a subject, sustain
+the subject's activity, and then lose or transform this power?
+\end{quote}
+
+A song, a proof, a sentence, or an idea may hold attention disproportionately
+and provoke comparisons, repetitions, and variations. This effect cannot be
+reduced to raw novelty, because randomness surprises without necessarily being
+interesting; nor to beauty, because a familiar form may remain beautiful while
+becoming predictable; nor to popularity; nor to subjective preference
+understood as a datum without a history.
+
+The aim is threefold. The thesis must first establish the philosophical place of
+the interesting among competing notions. It must then construct a concept
+sufficiently determinate to produce distinctions and counterexamples. Finally,
+it must show what the concept makes intelligible in actual practices, without
+automatically turning a scientific result or a personal experience into
+philosophical proof.
+
+\part{Establishing the Interesting as a Philosophical Problem}
+
+\section{A Word Already Divided}
+
+The adjective \emph{interesting} belongs to a lexical family whose ambivalence
+precedes any philosophical elaboration. From the thirteenth century onwards,
+French \emph{intérêt} adapted the Latin \emph{interest}, an impersonal form of
+\emph{interesse}: ``it matters,'' but also, more literally, ``there is a
+difference.'' The medieval substantivisation of \emph{interesse} notably
+designated compensation due for harm or breach of contract; this history leads
+to the financial sense of the return on money lent
+\parencite{academie2026interet,cnrtl2026interet}. \emph{Intéresser} and
+\emph{intéressant} therefore do not derive from a pure vocabulary of curiosity:
+they also inherit the senses of what matters to someone, concerns them, or
+engages their advantage.
+
+Everyday French keeps these regimes together. A French speaker may \emph{porter
+intérêt} to a question, \emph{avoir intérêt} in acting, defend \emph{ses
+intérêts}, lend money \emph{à intérêt}, or call someone \emph{intéressée}, a
+word that hesitates between attentive engagement and the pursuit of personal gain.
+Conversely, \emph{désintéressé} is morphologically negative but often morally
+laudatory. These are not accidental homonyms: in each case, something counts
+for a subject, but this ``counting'' may designate an attentional grip, a
+practical stake, an advantage, or a monetary value. A theory of the interesting
+must consequently specify which kind of interest it mobilises instead of
+allowing these meanings to circulate silently.
+
+English \emph{interesting} adds a pragmatic ambiguity to this polysemy. Taken
+literally, the word attributes to its object the power to hold attention. In an
+exchange, however, \emph{That's interesting} may, depending on prosody and
+context, mark surprise or perplexity, suspend assent, mitigate disagreement, or
+even politely close a conversation that has become boring. The Anglophone
+tradition of understatement, particularly associated with British English,
+thus allows an apparently positive utterance to communicate reservation or
+indirect denial \parencite[29--30]{wierzbicka2006english}. This use does not
+constitute one more stable lexical meaning: it shows precisely that calling
+something \emph{interesting} does not prove that the activity characteristic of
+interest has actually begun.
+
+\section{A Blind Spot Rather Than an Absence}
+
+Philosophy has not simply ignored the interesting. It has addressed several of
+its dimensions under other names: access to the intelligible in Plato and
+Aristotle
+\parencite{platon2016republique,platon1995theetete,aristote1991metaphysique,aristote2005seconds};
+intuition and evidence in Descartes and Spinoza
+\parencite{descartes2002regles,descartes1992meditations,spinoza1966ethique};
+judgement in Kant \parencite{kant2001raison,kant1993juger}; invention and the
+reconfiguration of problems in Peirce, Poincaré, Hadamard, Bachelard, and Valéry
+\parencite{peirce1955writings,poincare1908science,hadamard1959invention,bachelard1999formation,valery1973cahiers};
+memory, duration, and the temporal constitution of meaning in Bergson, Husserl,
+and Merleau-Ponty
+\parencite{bergson2013evolution,bergson2013pensee,husserl1970experience,husserl1957logique,merleau1945phenomenologie};
+aspect change in Wittgenstein \parencite{wittgenstein2004recherches}; and
+symbolisation, difference, and repetition in Goodman and Deleuze
+\parencite{goodman1976languages,deleuze1968difference}.
+
+The proposed diagnosis is therefore not one of lexical absence but of
+\emph{functional dispersion}. Truth evaluates the validity of a proposition;
+beauty, a particular regime of aesthetic judgement; pleasure, a tone of
+experience; surprise, a departure from expectation; curiosity, an orientation
+towards answering a determinate question; relevance, a relation to a question or goal; and
+preference, an ordering of choices. Each concept captures a genuine dimension.
+None explains by itself why a correct, intelligible, true, or pleasant form
+triggers an activity in a subject that transforms their representations and
+possibilities for action.
+
+This last formulation must not erase a decisive historical counterexample.
+Garve does not merely approach the interesting under another name: in 1779 he
+offers an explicit theory of attention, gaps, and the activity of
+representations. The blind spot therefore concerns less the existence of the
+mechanism than its weak canonisation and the absence of a cumulative tradition
+that would have developed its consequences.
+
+The interesting may name this level of selection and transformation. It does
+not replace neighbouring notions: it allows us to examine their articulations
+and divergences. One can like a piece of music without finding it interesting,
+be surprised without gaining a new grip, recognise a proposition as true
+without judging it worth pursuing, or be mobilised by an object that is painful
+and morally objectionable.
+
+\section{State of the Art and Reading Programme}
+
+\subsection{Garve: A Direct Antecedent of the Constructive Hypothesis}
+
+A direct reading of Christian Garve's essay \emph{Einige Gedanken über das
+Interessirende} establishes a first result of the genealogy
+\parencite[253--274, 313--317]{garve1779interessirende}. The interesting names
+the way an object fixes attention without voluntary effort, through a gentle
+attraction connected with pleasure and with the relation between the object and
+the subject's prior state. This attention is prospective: it is already
+directed towards the continuation of the series and remains active while its
+outcome retains some obscurity.
+
+Garve goes beyond an economy of attention. An explanation becomes interesting
+only if the subject has previously experienced, however obscurely, the
+difficulty it resolves. The new idea illuminates thoughts already possessed but
+still incomplete, repairs a lack encountered in an operation, or is constructed
+from materials previously present. When the outcome becomes certain, activity
+diminishes. A perceived gap, dependence on the subject's history, desired
+continuation, construction, and local self-extinction thus form a core strikingly
+close to the central hypothesis of this thesis.
+
+The historical reconstruction by \textcite{nannini2018garve} and the lexicon by
+\textcite{nannini2018interesting} guided this return to the primary text without
+replacing it. The constructive definition will therefore not be presented as a
+discovery \emph{ex nihilo}. Its contribution must lie in systematising the
+mechanism, defining controllable grips, distinguishing gap, enigma, problem, and
+constraint, analysing exhaustion and renewal, generalising from reception to
+creation, and making its recursion explicit.
+
+\subsection{Why Did Garve Fail to Found a Tradition?}
+
+The relative neglect of Garve's essay does not demonstrate the philosophical
+sterility of its object. It instead calls for the study of a failed programme:
+the empirical, public, and essayistic philosophy that had made the question
+formulable lost its authority, while the functions of the interesting were
+captured and redistributed. The object may have survived without a common
+concept, and the word without preserving the unity of its object.
+
+A first mechanism is the defeat of \emph{Popularphilosophie}. Garve regarded
+communication with the public and philosophy's usefulness as intellectual
+requirements; these values were progressively excluded by a culture that
+opposed serious philosophical work to public accessibility
+\parencite{thompson2018garve}. His descriptive approach to life and action thus
+remained in the shadow of Kantian transcendental philosophy
+\parencite{bachmannmedick2008anziehungskraft}. An unstable relation between an
+object, a subject's history, and an emerging activity lends itself less readily
+to architectonic foundation than to inquiry through essays, cases, and local
+distinctions.
+
+A second mechanism is a double aesthetic capture. The Kantian problematic draws
+the vocabulary of interest towards disinterestedness and the purity of the
+judgement of taste \parencite{kant1993juger}. Schlegel then promotes the
+interesting as a feature of modern, individual, unfinished, and perfectible
+poetry, in contrast to the objective beauty of ancient poetry
+\parencite{schlegel2001study,nannini2018interesting}. These shifts preserve
+genuine dimensions --- the subject's participation, expectation, the desire for
+continuation, and historicity --- but tend to cover over Garve's more general
+question: how does a representation cease to be indifferent and set the subject
+in motion? Aesthetics is here a privileged laboratory, not the proper domain of
+the interesting.
+
+A third capture is moral. Garve considers which passions it would be useful to
+arouse and poetry's formative power, yet his 1779 appendix explicitly separates
+this question from the inquiry into the nature of the interesting. The thesis
+must therefore distinguish the descriptive genesis of attention, its modulation
+by approval and sympathy, and the normative destination a society wishes to give
+it. This separation permits an agnostic observation of the phenomenon without
+neutralising the responsibility of the devices that organise attention.
+
+Moving beyond aesthetics leads to a more fundamental function of the psyche.
+The hierarchy of relative prepotency in \textcite{maslow1943motivation} shows
+that a dominant need can reorganise perception, memory, and intelligence until
+other interests disappear, and that its satisfaction releases new motivations.
+The interesting will not be added as another level of a pyramid: it will be
+considered a transversal regime of mobilisation through which something
+temporarily acquires priority and promises an activity worth pursuing. Boredom
+symmetrically signals the psyche's difficulty in finding a grip that warrants
+continuation. Maslow did not, moreover, draw the pyramid commonly attributed to
+him; that later visualisation rigidifies a theory that allowed overlaps,
+exceptions, and reversals \parencite{bridgman2019maslow}.
+
+Finally, disciplinary progress may have dispersed the mechanism among attention,
+curiosity, motivation, learning, boredom, suspense, preference, and engagement.
+This specialisation is not in itself an impoverishment; it becomes a problem
+when each division obscures the complete temporal relation. The analogy with
+the premature mathematisation described by \textcite{russell1995rationality} is
+methodological: increased precision can lead results away from the original
+problem. The oral formulation according to which the interesting parts were
+``defined away,'' transcribed by \textcite{pachet1997representation}, does not
+appear in the published paper and establishes no historical lineage between
+Russell and Garve. It warns the present thesis against a theory that succeeds in
+stabilising a magnitude only after removing the phenomenon it sought to explain.
+
+These mechanisms form a pluricausal hypothesis, not an already demonstrated
+narrative. The research must reconstruct Garve's reception, follow the shift
+from \emph{das Interessierende} to \emph{das Interessante}, compare histories of
+aesthetics, and map the migration of the problem into the sciences of the
+psyche. For each proposed cause, evidence of reception must be distinguished
+from the thesis's retrospective reconstructions.
+
+\subsection{Pierre Pachet: The Survival of the Particular Outside the Name of Philosophy}
+
+Pierre Pachet cannot be presented as a late \emph{Popularphilosoph}: no
+historical lineage has been established, and his work adopts neither Garve's
+educational programme nor his claim to popularity. Yet two centuries later it
+makes visible a comparable gesture: beginning with a singular experience,
+difficulty, or emotion, then following the birth of a thought before
+subordinating it to already constituted general forms.
+
+In his interview with \textcite{salgas1991pachet}, Pachet explicitly contrasts
+the search for general forms with his attention to the particular. He says that
+he is interested in thought rather than in ``philosophy'' considered as a
+separate activity, and requires its work to include inhibition, forgetting,
+torpor, and time. Books, friends, journeys, and lived episodes count as occasions
+for relaunching a problem. The particular is therefore not a self-contained
+anecdote: it is the circumstance from which a question acquires present
+necessity.
+
+The reading proposed by \textcite{rueff2016promontoire} confirms this orientation
+in \emph{L'Œuvre des jours} and \emph{Aux aguets}
+\parencite{pachet1999oeuvre,pachet2002aguets}. Pachet follows the birth of ideas
+in emotions and cultivates a readiness for what arrives. Being ``on the watch''
+may thus characterise the subjective side of the interesting: a non-sovereign
+vigilance capable of receiving a detail, an affect, or a difficulty before
+knowing under which concept to place it.
+
+This comparison extends the hypothesis of Garve's failure into one of displaced
+survival. A philosophy of the particular may have continued in the essay and in
+literature after losing part of its philosophical prestige. The
+Garve--Kant--Pachet line nevertheless remains a metaphilosophical reconstruction
+to be tested, not a genealogy. Kant plays an ambivalent role within it: the
+canonisation of the critical and systematic model may have contributed to
+Garve's demotion, yet the demand for structure and justification also prevents
+the present inquiry from becoming a personal chronicle.
+
+\subsection{A Discontinuous and Weakly Canonised Tradition}
+
+The genealogy must still examine the opposition between the interesting and
+beauty and its relation to modernity in Friedrich Schlegel; Schopenhauer's essay
+\emph{Ueber das Interessante}; the relation between boredom, variation, and
+\emph{det Interessante} in Kierkegaard; and the articulation of the interesting
+and truth in Whitehead.
+
+In the twentieth and twenty-first centuries, a small number of works have
+directly attempted to conceptualise the interesting. Stace, Kolnai, and Ngai
+have analysed its aesthetic value, apparent weakness, and discursive circulation
+\parencite{stace1944interestingness,kolnai1964concept,ngai2008merely,ngai2012categories}.
+\textcite{epstein2009interesting} stresses its transdisciplinary structure, and
+\textcite{grimm2011interesting} its epistemic value in selecting questions.
+These works prevent any premature claim to have discovered an untouched
+continent. They suggest instead a weak canonisation: the interesting is present,
+but without a common architectonic comparable to those of truth or beauty.
+
+A contemporary article now provides a more direct interlocutor.
+\textcite{vazard2026inquiry} distinguishes curiosity, directed at a question
+whose answer structures inquiry, from interest, directed at an object, fact, or
+domain through sustained, capacious, exploratory attention. Interest can thus
+precede the questions it helps bring forth. Vazard further analyses it as a
+feeling of value: the object is experienced, fittingly or unfittingly, as
+meriting such attention. This proposal confirms the prospective function of the
+interesting while correcting an overly goal-directed constructive definition:
+at the outset, the subject may not yet know which aspect to explore or which
+grip to seek.
+
+This state of the art will remain methodologically stratified. A verified
+bibliographic record, an identified passage, a work actually read, and an
+interpretation integrated into the argument represent different levels of
+acquisition. Sources already read may support the text; the others form an
+explicit programme of reading and verification. This distinction prevents a
+bibliographic suggestion from being treated as an established authority.
+
+\section{The Interesting and the True}
+
+The interesting cannot become a relativistic substitute for truth. A
+recollection of a discussion with Heinz Wismann states the difficulty bluntly:
+
+\begin{quote}
+Deleuze et consorts étaient stimulants mais faux. Mais que la philosophie se
+devait d'être vraie meme si ennuyeuse
+\end{quote}
+
+The quotation distinguishes two values. What is interesting or stimulating
+recommends that a construction or inquiry be pursued; truth warrants retaining
+a proposition as valid. A false proposition may be heuristically productive
+without this productivity making it true. Conversely, a true proposition may
+be boring without ceasing to be true.
+
+This distinction does not make the interesting philosophically superfluous.
+Among possible truths, many are trivial or irrelevant to a given inquiry. Truth
+alone does not select the problems to which attention should be devoted. The
+interesting operates prospectively in the choice of questions, hypotheses, and
+constructions; truth operates in their validation. Philosophy may begin from a
+stimulating error, but it cannot turn the fertility of that error into
+permission to remain in falsehood.
+
+\section{The Risk of Target Substitution}
+
+Science has powerful instruments for making a problem tractable: operational
+definition, decomposition, control of variables, repeatability, normalisation,
+averaging, benchmarking, and optimisation. Yet these instruments also tend
+silently to replace the original problem with a more stable substitute.
+``Producing something interesting'' then becomes producing something
+syntactically correct, semantically coherent, probable in a corpus, surprising,
+or compliant with constraints.
+
+In this sense there is a \emph{structural risk of target substitution}. This is
+neither a hostile intention on the part of researchers nor an anti-scientific
+argument. The difficulty follows from the relational, historical, and
+transformative nature of the phenomenon: making it measurable may neutralise
+the relation, history, and transformation that constitute it when the indicator
+is treated as a complete definition of the target. The warning against premature
+mathematisation
+\parencite{russell1995rationality,russell1995awardlecture} is a guiding case.
+
+Each measure must therefore be treated as a local hypothesis. A successful
+formalisation must not merely make the problem solvable; it must state what it
+preserves from the question and what it abandons. The thesis will thus seek a
+reflexive formalisation capable of retaining its residuals instead of declaring
+them unimportant.
+
+Substitution may also occur after the target has been correctly formalised.
+\emph{Hidden Biases in Conditioning Autoregressive Models} distinguishes the
+exact conditional distribution from the distribution actually produced by a
+tractable procedure \parencite{pachet2026biases}. In the general class studied,
+exact MAP inference is NP-hard and exact conditional normalisation is
+\#P-hard; greedy, top-k, top-p, and beam search may also lose valid solutions.
+Target, indicator, and procedure must therefore be kept separate: pressure for
+tractability and operational approximation may change weights or support even
+before this divergence is forgotten.
+
+Tonal parsimony provides a complementary positive case
+\parencite{pachet2026tonalparsimony}. It first minimises changes of key, then the
+number of distinct centres, yet retains two anti-compression cases in which a
+more compact analysis erases a minor excursion or intentionally distinct local
+tonics. The residual is not declared external to the problem: it indicates
+where the objective or local model must be enriched. Reflexive formalisation
+does not abandon computation; it keeps visible the point where local success
+ceases to preserve the relevant difference.
+
+\part{Constructing the Concept}
+
+\section{A Relational and Constructive Definition}
+
+The core of this definition explicitly extends Garve. The thesis does not claim
+to discover the relation between an experienced gap, prior materials, and the
+activity of the mind. It asks under what conditions that activity produces a
+new grip, can be checked, becomes exhausted, or is renewed. Construction thereby
+receives a broader scope than the reception of an explanation or the
+continuation of a series of representations.
+The distinction proposed by \textcite{vazard2026inquiry} adds a constraint:
+interest may sustain an open acquaintance with the object before its guiding
+question or outcome is represented. Construction must therefore not be
+projected retrospectively as an already available plan.
+
+The current candidate for the core of the thesis is:
+
+\begin{quote}
+What is interesting is that which, for a situated subject and relative to a
+given horizon, opens and sustains an activity whose exploration appears worth
+pursuing and within which a new grip on an object, a problem, or a space of
+possibilities can become a credible outcome.
+\end{quote}
+
+The minimal relation may be written
+\[
+  I(F,S\mid H,t),
+\]
+where \(F\) is the form encountered, \(S\) the subject, \(H\) the social,
+cultural, and technical horizon, and \(t\) the moment of encounter. The
+collective horizon is not added externally to the two poles: it shapes the
+subject's expectations and abilities as well as the repertoire of available
+forms. It becomes an autonomous third term when the inquiry concerns the social
+circulation or stabilisation of interest.
+
+This notation does not locate the interesting in the subject as an additional
+mental state. It distinguishes three levels: the object offers differences,
+resistances, and grips; experienced interest may constitute a feeling,
+disposition, or episode of the subject; the interesting qualifies the regime of
+their coupling. Attention, curiosity, emotion, and constructive activity are
+possible actualisations of this relation, not its synonyms. Attention says
+where activity is directed; natural curiosity typically targets a gap or
+question; artificial curiosity rewards a policy of exploration within an
+already defined space; an emotion qualifies a determinate way of being affected.
+The interesting names what can trigger and connect them and alter the conditions
+of their future occurrences.
+
+A complementary ontological formulation can therefore be proposed:
+
+\begin{quote}
+The interesting is the relation through which an encountered difference becomes,
+for a situated subject, a principle for continuing and transforming activity.
+\end{quote}
+
+In this precise sense, the interesting may be called an \emph{engine of psychic
+life}: it is not one node among others in a succession of states, but an operator
+of their transitions. This claim is restricted to exploratory and
+self-transforming psychic life. It makes the interesting neither a hidden
+faculty nor the universal cause of reflex pain, automatisms, or every thought
+without an identifiable object.
+
+Two degrees of orientation must then be distinguished. In open interest, the
+subject sustains exploratory attention without yet knowing which question to ask
+or which aspect to isolate. In directed interest, a difference, resistance, or
+operation makes a determinable grip credible. Bringing forth the right question
+may constitute the first grip; its effective acquisition then characterises
+fruitful interest.
+
+The term \emph{construction} refers here to an activity, sometimes implicit, and
+not necessarily to the fabrication of a material object. It may be:
+
+\begin{itemize}
+  \item perceptual and conceptual, when the subject discriminates invariants,
+        forms a category, or changes a partition;
+  \item explanatory, when the subject arranges relations into a model or
+        reconstructs the problem of which the object appears as a solution;
+  \item operational, when the subject produces a comparison, prediction,
+        intervention, algorithm, or artefact.
+\end{itemize}
+
+An arbitrary construction is not enough. The new grip must be manifestable
+through a distinction, transfer, anticipation, controlled variation,
+intervention, or artefact whose successes and failures can be examined. The
+interesting nevertheless guarantees neither the truth of this grip nor its
+moral value: it describes its power to initiate and transform.
+
+\section{Candidate Properties}
+
+The constructive definition does not yet constitute an axiomatics. It identifies
+a cluster of candidate properties, neither all independent nor necessary in
+every case. Their function is to produce variations, objections, and
+comparisons.
+
+These properties do not all have the same historical status. Relational
+indexicality, path dependence, representational productivity, structured
+incompleteness, prospective orientation, and weakening through certainty have a
+direct antecedent in Garve. The specification of controllable grips,
+constructive peeling, the distinction between consumable and generative
+enigmas, creative generalisation, and self-application are the extensions tested
+by the thesis. The possible priority of interest over the question has its
+direct contemporary antecedent in Vazard.
+
+\subsection{Relational and Dispositional Status}
+
+\begin{enumerate}
+  \item \textbf{Relational indexicality.} The interesting is neither contained
+        in the form alone nor reducible to a private state. It varies with
+        \(F\), \(S\), \(H\), and \(t\).
+  \item \textbf{Transitionality.} The interesting does not name a mental state,
+        but the relational principle through which indifference can become
+        attention, and attention can become curiosity or emotion, then activity and
+        transformation. The states produced manifest the relation without
+        exhausting it.
+  \item \textbf{Dispositionality.} A form may be capable of triggering a
+        construction without actually doing so, for lack of attention, time, or
+        competence. The disposition is actualised only under certain conditions
+        of encounter.
+  \item \textbf{Path dependence.} The order of experiences matters. A form
+        encountered too early may remain opaque; after a new grip has been
+        acquired, it may become interesting.
+  \item \textbf{Possible priority over the question.} Interest may sustain
+        open attention before the subject knows under which aspect to describe
+        the object. The question and direction of inquiry can be products of
+        interest rather than its prior conditions.
+\end{enumerate}
+
+\subsection{Dynamics of Construction}
+
+\begin{enumerate}[resume]
+  \item \textbf{Assimilable gap.} There must be enough difference to call for a
+        construction and enough grip for it to begin. The familiar tends
+        towards triviality; the absolutely foreign towards noise or
+        abandonment.
+  \item \textbf{Representational productivity.} An interesting form generates
+        more comparisons, hypotheses, questions, scenarios, or distinctions
+        than it explicitly states.
+  \item \textbf{Structured incompleteness.} A gap is interesting only if it
+        calls for a directed continuation. The object provides clues for
+        constructing what is missing or reformulating the question.
+  \item \textbf{Transformation of the space of possibilities.} A strong
+        construction does not merely add a representation: it changes the
+        questions that can be asked, the distinctions available, or the actions
+        that can be conceived.
+  \item \textbf{Constructive peeling.} The trigger opens a succession of
+        grips: each dispels an opacity, reveals a layer, or reformulates the
+        problem, then becomes an instrument for the next operation. The process
+        ends through exhaustion of the object, exhaustion of the subject,
+        abandonment before a resistance that affords no grip, the deliberate
+        closure of a still-generative construction, or renewal through
+        productive resistance.
+  \item \textbf{Non-monotonicity.} More information, surprise, or attention does
+        not imply more interest. An explanation may renew the construction or
+        close too quickly the indeterminacy that sustained it.
+  \item \textbf{Self-extinction or renewal.} Some relations are consumable:
+        resolution removes their interest. Others are generative: each new grip
+        reveals a resistance or a further question.
+\end{enumerate}
+
+\subsection{Difficultuosity and Chalepodoxy}
+
+The manuscript of \emph{La virtuosité à la portée des caniches}, forthcoming
+from Hermann in 2027, distinguishes three regimes that must be kept separate
+\parencite[manuscript, 13--16]{pachet2027virtuosite}. So-called intrinsic
+difficulty attributes resistance to the task itself. \emph{Difficultuosity}, by
+contrast, designates felt difficulty: a mobile relation between a subject,
+their abilities, and a performance. It does not increase indefinitely with
+complexity. In virtuosity, it culminates in a narrow zone in which an
+achievement appears extreme yet still humanly credible; beyond that threshold,
+the performance becomes an artefact and no longer elicits admiration in the
+same way.
+
+Transposed to the interesting, this notion specifies the practicable resistance
+of an enigma. A difficulty that is too weak has already been resolved; a
+difficulty that affords no grip promises no construction. This transposition
+remains a hypothesis: difficultuosity first qualifies the reception of a
+performance and must not become a general synonym for the interesting.
+
+\emph{Chalepodoxy} constitutes a third regime, not a higher degree of
+difficultuosity. It relates a reputedly difficult domain, a subject who has not
+overcome its resistance, and a third party whom that subject wishes to impress.
+Difficulty then becomes symbolic capital: fluency, jargon, or confidence may
+simulate mastery and depth without producing a new grip. It therefore provides
+a diagnosis of a false positive:
+\[
+  \text{worked-through difficulty}
+  \neq \text{felt difficulty}
+  \neq \text{the social reputation of difficulty}.
+\]
+One cannot therefore infer a genuine construction from the duration of
+attention, the opacity of a discourse, or the prestige attached to its
+difficulty.
+
+This dynamic opposes the interesting to contemplation in the strong sense used
+here. The distinction is not between bodily activity and immobility: listening,
+reading, or looking may involve intense constructive work. Contemplation names
+the regime that suspends transformative operations in order to keep the object
+intact or at a distance; it thereby forbids or postpones construction. As soon
+as it produces a reusable distinction, variation, or new grip, it has already
+shifted into the regime of the interesting.
+
+This life of the interesting meets the creative process and its problem of
+ending \parencite{pachet2026impossibilite}. Local decisions do not necessarily
+contain their own stopping criterion. Completion may therefore require imposing
+a limit on a construction that could continue. This closure acts back on the
+process and constitutes it as a whole: the end of the construction does not
+necessarily mean the death of interest or the exhaustion of the object.
+
+\subsection{Value, Transfer, and Circulation}
+
+\begin{enumerate}[resume]
+  \item \textbf{Relative affective neutrality.} The interesting may be
+        pleasant, painful, disturbing, or repellent. It does not in itself
+        constitute moral or aesthetic approval.
+  \item \textbf{Cross-domain resonance.} A construction gains scope when it
+        becomes a schema, model, or controlled metaphor for other domains.
+  \item \textbf{Generative compression.} Some forms retrospectively condense
+        several phenomena while prospectively opening new derivations.
+  \item \textbf{Mediated contagion.} Interest is not transmitted as a property
+        attached to an object. Yet one may prepare the conditions for its
+        appearance in others by establishing an expectation or providing
+        grips.
+\end{enumerate}
+
+This neutrality also requires distinguishing the cost of exploration from the
+repetitive exploitation of already profitable forms. If interesting encounters
+are rare and imperfectly predictable, open production may expose many
+unsuccessful attempts; this justifies neither a reduction in effective diversity
+nor a concentration of exposure. Manipulation further requires an identifiable
+device, a counterfactual causal effect, and a normative asymmetry. The strong
+statistical hypothesis about rarity remains a speculative extension here, not a
+premise of the core.
+
+\subsection{Reflexive Property}
+
+\begin{enumerate}[resume]
+  \item \textbf{Self-application.} The concept of the interesting may itself
+        trigger the comparisons, distinctions, models, and revisions it
+        describes. ``The interesting is interesting'' claims that the concept
+        may, under certain conditions, enter its own domain of application.
+\end{enumerate}
+
+\section{Temporality, Learning, and the Almost Learnable}
+
+Interest moves with learning. A pattern that is initially opaque may become
+accessible, produce a gain in understanding, and then lose its force once
+acquired. Theories of compression progress and intrinsic motivation formalise
+one version of this dynamic
+\parencite{schmidhuber1997interesting,schmidhuber2009compression,oudeyer2007intrinsic,oudeyer2007typology}.
+If \(E_t(o,S)\) is the error of the model held by subject \(S\) when facing
+object \(o\), local progress may be written
+\[
+  P_t(o,S)=E_{t-\Delta}(o,S)-E_t(o,S).
+\]
+Situations already mastered and situations that cannot be learned both have
+progress close to zero. Progress niches are those in which improvement is
+possible.
+
+This temporal derivative must be distinguished from static compression of a
+representation. Tonal parsimony may produce a globally compact analysis by
+reducing its vocabulary of centres without measuring whether a subject has just
+constructed that analysis, already possessed it, or will never hear it
+\parencite{pachet2026tonalparsimony}. A low compactness value may be the grip
+acquired through learning; it is neither the progress of that learning nor a
+measure of the interesting.
+
+This hypothesis connects with, but is not reducible to, the intermediate zone
+between boredom and anxiety. With fixed skills, increasing difficulty yields
+the sequence
+\[
+  \text{boredom}\longrightarrow\text{interesting/flow}
+  \longrightarrow\text{anxiety}.
+\]
+For a fixed task, learning may reverse the path. The flow zone refers here to a
+structural adjustment between competence and difficulty, not only to the
+psychological state of absorption. Hesitation or rupture can remain interesting
+as long as the subject retains a grip and can reorganise expectations.
+
+Language shifts this frontier. A word, concept, or notation compresses
+distinctions and sometimes operations into a reusable unit. What once required
+work becomes a grip for a new construction. The zone of the almost learnable is
+therefore historically mobile and symbolically mediated
+\parencite{vygotsky1978mind,lenat1991thresholds,lenat2008turtle,koestler1989act,steels2005coordinating,steels2015talkingheads}.
+Naming alone is insufficient: a term is a grip only if it can be unfolded into
+distinctions, comparisons, predictions, operations, or controlled examples.
+
+\section{Recursion: ``The Interesting Is Interesting''}
+
+The relation first possesses a diachronic recursion:
+\[
+  I(F,S\mid H,t)\longrightarrow
+  \text{construction}\longrightarrow S'
+  \longrightarrow I(F,S'\mid H,t+1).
+\]
+Construction modifies the subject and therefore the conditions of later
+evaluations. The object is no longer encountered by the same subject in the
+relevant sense: their categories, expectations, and space of possibilities
+have changed.
+
+It also possesses a metaconceptual recursion. It may become interesting to
+understand why something is interesting, and then to understand what this first
+explanation still leaves unexplained. The inquiry then takes as its new object
+the relation that triggered it. The formula \emph{the interesting is
+interesting} is therefore not a universal tautology, but a claim of possible
+self-application.
+
+This loop partly explains why the concept is elusive. Every acquired grip
+changes the repertoire of examples, capacities for discrimination, and frontier
+of the problem; a productive definition thus brings forth the cases that will
+require its revision. Neither paradox nor ineffability follows. Local and
+controllable properties can still be formulated, but their theory must be
+reflexive, historical, and revisable.
+
+Finally, self-application is not a criterion of truth. An interesting theory of
+the interesting may be false; a boring theory may be accurate. Recursion
+describes what the inquiry does to its object and its subject, not what validates
+its propositions.
+
+\section{Theoretical Framework and Programme of Naturalisation}
+
+The theoretical framework will articulate three requirements. The first comes
+from a philosophy of the subject: experience depends on conditions of reception
+and judgement without being reducible to an objective feature. The second comes
+from a phenomenology of temporality: retention, protention, bodily memory, and
+aspect change describe the temporal constitution of a form. The third comes
+from morphodynamic theories and complex systems: a global organisation has
+properties that cannot be read from its isolated elements
+\parencite{petitot1993phenomenologie,petitot2002naturaliser}.
+
+The preface to Part III of the \emph{Ethics} provides a precedent for this
+programme of naturalisation \parencite{spinoza1966ethique}. Spinoza refuses to
+treat human affects as an ``empire within an empire'' exempt from the common
+laws of nature. Studying the interesting takes up this gesture: a subjective
+and situated experience can be explained through its causes without being
+reduced to an intrinsic property of the object. Objectifying the phenomenon,
+which makes its conditions and trajectories comparable, must be distinguished
+from an objectivism that would locate interest in the form alone.
+
+Ideas of affections involve both ``the nature of our body and the present nature
+of the external body''
+\parencite[III, prop. XXVII, dem.]{spinoza1861oeuvres}. This schema makes it
+possible to think about a causality of encounter: the structure of the form, the
+history and present state of the subject, the collective horizon, and the
+circumstances jointly produce interest. The latter can be described as an
+affective-cognitive regime of transition that changes the subject's power to
+perceive, understand, anticipate, or act.
+
+Naturalising this relation requires coordination between first-person
+descriptions, behaviours, learning processes, formal structures, and
+computational models, without assuming that any one level will exhaust the
+others. The pleasures of discovery and construction
+\parencite{feynman1999pleasure,florman1996existential} may accompany the
+interesting without defining it: painful understanding may remain interesting,
+whereas a pleasing explanation with no discriminating power may be only an
+impression of clarity.
+
+\part{Putting the Concept to Work}
+
+\section{Music: Temporality and Micro-emotions}
+
+Music is the principal laboratory of the inquiry because it makes relations
+between memory, expectation, surprise, resolution, repetition, and exhaustion
+especially visible. Meyer and later Narmour showed that musical affect and
+meaning depend on learned expectations that are fulfilled, delayed, or thwarted
+\parencite{meyer1956emotion,narmour1990basic,narmour1992complexity}.
+Information-dynamic and neuro-symbolic models specify some of these processes
+\parencite{abdallah2009information,berger1999expectations,gang1999unified}.
+
+Explaining why a track is interesting cannot, however, amount to locating an
+average quantity of surprise. The inquiry will examine trajectories of
+attention at several scales: local micro-emotions, relations between melody and
+harmony, global form, listening history, and the listener's own activity.
+Jotney songs will provide a guiding case: they may be heard as solutions to the
+problem of sustaining an autonomous, singable melody while moving the harmony
+without displaying the procedure.
+
+\emph{Histoire d'une oreille} provides a phenomenological vocabulary and a
+method \parencite{pachet2018oreille}. \emph{Superimposed listening} submits
+music to internal variations. An \emph{optale} is the feeling that a form is a
+local optimum because nearby variants fail; a \emph{pseudoptale} warns that
+familiarity may simulate this necessity. \emph{False evidence} and
+\emph{overattentive listening} make it possible to examine false positives
+produced by listeners themselves. Music will thus test the temporality, path
+dependence, assimilable gap, non-monotonicity, and self-extinction of interest.
+
+Tonal parsimony adds a controllable operation of reconstruction
+\parencite{pachet2026tonalparsimony}. A chord sequence admits several paths of
+tonal centres: the analysis first chooses the most continuous transitions and
+then the most compact global vocabulary. This economy becomes a grip when it
+supports anticipation, variation, or intervention. Anti-compression cases then
+act as counter-tests: a gain in representational unity no longer counts as
+progress when it erases a functional difference for the ear or expert practice.
+
+The good crossword clue described by Perec provides a linguistic analogue of
+the optale \parencite{perec1999motscroises}. Its answer appears obvious once it
+has been found, however insoluble the problem seemed before: the clue--answer pair then
+appears as a local optimum that a more explicit formulation or another answer
+would weaken. The case is crucial---even ``cruciverbal''---because it makes the
+transformation from a plurality of readings to retrospective necessity
+especially brief and observable.
+
+\section{Artificial Intelligence: Explication and Loss of the Target}
+
+Artificial-intelligence systems constitute a second laboratory. Work on Flow
+Machines, reflexive interactions, Markov generation under constraints, and
+computational interestingness has produced objects, protocols, successes, and
+failures
+\parencite{pachet1999surprising,pachet1999active,pachet1999programs,pachet2000melodie,
+pachet2002continuatorinteraction,pachet2004flowmachines,pachet2004reification,
+pachet2004cybernetic,pachet2004childrenreflect,addessi2005experiments,
+pachet2006clefs,pachet2006creativity,pachet2006reflective,pachet2008machines,
+jones2009stimulating,pachet2006interactionsreflexives,addessi2006flowmachine,
+aucouturier2002similarity,pachetroy2008hitsong,pachet2011hitsong,
+lerch2011closedloop,
+milipachet1995regularity,pachet2012virtuosity,martin2016creativeprocess,
+pachet2021assisted,pachet2026markov}.
+It makes explicit operations that are often left implicit: sampling,
+constraint, evaluation, model construction, selection, and direction.
+
+Their sequence is itself instructive. The initial programme isolates properties
+of form and learned expectations; active listening introduces the subject's
+path; flow machines construct a reflexive loop; and the analysis of reification
+recalls that each model remains indexed to its nourishing examples and uses. The
+thesis therefore does not retrospectively discover a unified doctrine in this
+work; it reconstructs the relation that its differences left distributed.
+
+An earlier antecedent already formulates a topology of the interesting within a
+precise computational setting. To select what deserves paraphrase in a Cyc proof
+trace, \textcite{milipachet1995regularity} distinguish three regimes: perfect
+regularity, which is often tautological; arbitrary irregularity, which offers no
+grip; and irregularity structured by the rules of the knowledge base, which may
+reveal an important property of the world or a missing concept. This local
+criterion for document generation is not yet a general psychological or
+aesthetic theory. It nevertheless anticipates the central notion of an
+explainable deviation, located between unsurprising order and unintelligible
+novelty.
+
+Two results sharpen this reconstruction directly. Studies of musical creativity
+take the subject--system pair as their unit of analysis, comparing both its output
+and the subject's experience with a condition without the system. The peer-feedback
+composition experiment further shows that aesthetic agreement depends on the judges'
+experience: aggregating ratings therefore does not remove the horizon from which they
+are produced.
+
+Reflexive systems add a distinction between imitation and interest. In
+\emph{Des machines à sortir de soi}, interesting objects are described as
+side-effects of interacting with an imperfect and continuously revised image of
+the subject. Continuator sessions that best passed an immediate imitation test
+were not necessarily those whose recordings later seemed most interesting
+\parencite{pachet2008machines}. A local performance measure can therefore miss
+the retrospective fertility of a trajectory.
+
+Earlier work on similarity states an analogous limit even more directly. A
+timbre measure can be valid while returning trivial associations; the Aha effect
+appears when this proximity contradicts an expectation constructed from textual
+metadata \parencite{aucouturier2002similarity}. An evaluation with ten users and
+hand-set confidence levels prevent this from constituting a general theory. The
+case nevertheless anticipates the relational thesis: the interesting is not
+located in an isolated measure, but in what its discrepancy from another
+expectation enables a subject to understand.
+
+Work on \emph{Hit Song Science} provides an instructive negative result. Across
+32,978 titles, audio descriptors and hundreds of human labels fail to classify
+popularity above chance, while other subjective properties are learnable from
+the same data \parencite{pachetroy2008hitsong}. The synthesis chapter explains
+why the target is unstable: repeated exposure, social information, and broadcast
+decisions help produce the success they are then used to predict
+\parencite{pachet2011hitsong}. This does not prove that properties of form have
+no effect; it prevents popularity from being treated as an intrinsic property
+independent of its history.
+
+Two canary experiments finally separate virtuosity from interaction. The
+preceding chapter reports a study in which females prefer artificial trills that
+combine bandwidth and rate beyond ordinary production limits: this supports a
+sensitivity to gestural difficulty without demonstrating the motor resonance
+hypothesised by \emph{difficultuosity}. \emph{De l'impossibilité de créer}
+develops precisely this personal interpretation: because females possess a latent
+vocal competence, they might evaluate the song relative to a possible body rather
+than through an isolated acoustic measure \parencite{pachet2026impossibilite}.
+This conceptual hypothesis must remain distinct from the experimental result. In
+another study, females vocalise more
+when the computer response is contingent than during playback of the same calls
+(8.9 versus 3.13 vocalisations per minute among seven responding subjects)
+\parencite{pachet2011hitsong,lerch2011closedloop}. The second result concerns the
+active relation, not virtuosity; bringing them together shows two complementary
+ways of experimentally constructing a situation in which preference or
+engagement becomes observable.
+
+An earlier milestone already formalises the interesting as a tension rather than a
+scalar maximum. \textcite{pachet1999programs} reduce music selection to two
+contradictory desires, repetition and surprise, then constructs programmes in which
+similarity provides local continuity while difference and cardinality produce global
+variety. The relevant value thus belongs to the trajectory: a title can become the
+right piece at the right time without being preferred in isolation. The paper does not,
+however, define a general measure of the interesting or an explicit constraint of
+rupture. The thesis interprets variety as the possibility of breaking a continuity
+that has become predictable and adds the subject's history, for whom the same sequence
+may be too repetitive or too discontinuous.
+
+The Flow Machines sequence provides another internal lesson. A probability of style
+does not by itself produce long-range form; constraints make it possible to impose
+metre, direction, variation, or the absence of copied fragments
+\parencite{pachet2011markov,barbieri2012lyrics,papadopoulos2014avoiding,
+papadopoulos2016nonplagiaristic,papadopoulos2016flowcomposer,
+pachet2017variations}. Yet each guarantee remains relative to the property that has
+been formalised. FlowComposer can thus produce a reharmonisation that is new, valid,
+and stylistically recognisable, while still being described as less interesting than
+the original. The difference between an admissible output and an interesting one is
+therefore not an external objection: it appears within the construction of the systems
+themselves.
+
+The long version of \emph{Hidden Biases in Conditioning Autoregressive Models},
+submitted to NeurIPS, radicalises this distinction
+\parencite{pachet2026biases}. Satisfying the constraint guarantees neither the
+correct weights among valid solutions nor preservation of their full support.
+The paper does not provide a theory of the interesting; it provides technical
+evidence that the stated formal problem and the generator's effective behaviour
+may diverge under pressure for tractability.
+
+This difficulty motivates an architectural test. A transformer can explore
+hypotheses, reformulations, and decompositions in breadth; a SAT, SMT, or
+constraint solver can pursue their consequences in depth and return solutions,
+conflicts, or counterexamples. A hybrid loop would use this feedback to revise
+the representation itself. The test will compare a transformer alone, a solver
+alone, and the hybrid loop to determine whether cooperation merely learns to
+choose better branches or invents grips that change the practical difficulty of
+the problem. This architecture is a laboratory hypothesis, not an
+identification of a software component with a regime of human psychology.
+
+Experiments with the Continuator and young children add a temporal qualification.
+Sustained interaction need not progress linearly: some dead moments readjust the
+dialogue, and a system error may be abandoned or reused as musical material depending
+on the grip it leaves the subject. Attention duration is therefore insufficient; the
+sequence of anticipations, ruptures, and resumptions must be reconstructed
+\parencite{addessi2005experiments,addessi2006flowmachine}.
+
+AI is also the privileged reflexive case of target substitution. A
+system may solve the formal problem while removing its interesting part.
+Metrics of novelty, surprise, diversity, preference, or popularity are local
+indicators; they must not be confused with the relational target
+\(I(F,S\mid H,t)\). Relevant experimental success will therefore not merely be
+the generation of objects judged interesting, but the capacity of a model to
+predict or explain transformations of attention, learning, and construction.
+
+\section{Creativity: Producing, Judging, and Reconstructing a Problem}
+
+Creativity makes it possible to distinguish the production of novelty from the
+production of the interesting. An output may be unprecedented yet arbitrary; a
+solution may use familiar materials while reconfiguring the space of
+possibilities. Some forms appear necessary after they emerge even though they
+could not have been deduced beforehand. They reveal their own constraints and
+create an impression of surface simplicity that conceals an improbable genesis
+\parencite{pachet2026impossibilite,pachet2027virtuosite}.
+
+An interesting object may thus be encountered before its problem is known. The
+subject reconstructs backwards the constraints satisfied by the solution, the
+alternatives it excludes, and the question it makes visible. This reconstruction
+must not become ad hoc: it should support variations, predictions, or
+comparisons that could have failed. Creativity will particularly test
+representational productivity, structured incompleteness, transformation of the
+space of possibilities, and generative compression.
+
+\section{Philosophy: Fertility, Truth, and Self-application}
+
+Philosophical texts will not serve as disciplinary decoration. They will
+constrain the concept, reveal its presuppositions, and provide counterexamples.
+The historical corpus will show how the phenomenon has been distributed among
+judgement, aesthetics, curiosity, attention, invention, truth, and boredom.
+Heinz Wismann's remark will in particular prevent us from confusing a text's
+capacity to set thought in motion with the validity of its propositions.
+
+Philosophy is also the field of self-application. A theory of the interesting
+must explain why it itself triggers distinctions and renewals, while accepting
+that this productivity does not validate it. Its evaluation will therefore
+require two sets of criteria: conceptual yield, production of problems, and
+transfers on one hand; coherence, historical accuracy, and resistance to
+objections on the other.
+
+The \emph{Snarky} project provides a personal and testable case. Formalising the
+whole of Part III of the \emph{Ethics} as second-order inference rules does not
+in itself establish a new interpretation or guarantee a better understanding of
+Spinoza. It does, however, require the dependencies among definitions, axioms,
+and propositions to be reconstructed explicitly, thereby exposing choices of
+representation that usually remain implicit. In this sense, it is a device for
+the cognitive appropriation of the text. This participatory appropriation may be
+compared with the IKEA effect, but as an analogy rather than empirical proof:
+the established effect concerns the increased valuation of an object after
+successful participation in its construction, not learning or interpretive
+accuracy \parencite{norton2012ikea}. Its transposition to creative systems
+similarly shifts the issue from the intrinsic quality of the result to the
+quality of the interaction and the subject's ability to recognise their own
+contribution in the object \parencite[152--153]{pachet2026generation}.
+
+\section{Literature: Incompleteness, Style, and Interpretation}
+
+Literature provides a field distinct from music because construction is
+mediated by language, narrative, voices, and semantic expectations. It will
+allow us to study how a sentence or narrative supplies enough grips to orient
+interpretation without exhausting it. Interest may arise from structured
+incompleteness, narrative expectation, formal constraint, a ruse with language,
+or a displacement of ordinary categories.
+
+This field must also distinguish fertility from pseudo-depth. Opacity may
+generate interpretations because it is structured; it may also sustain only the
+indefinite promise that a key will eventually arrive. Stylistic variations,
+paraphrases, competing continuations, and comparisons between readings will
+help determine whether a text produces transferable grips or merely
+fascination. Literature will thus test structured incompleteness, mediated
+contagion, dependence on the cultural horizon, and interpretive recursion.
+
+\section{Comparative Method and Criteria of Testing}
+
+The general discipline of the inquiry can be condensed into a maxim:
+
+\begin{quote}
+\textbf{Conceptualise the interesting without making the concept indifferent to
+the experience that gives rise to it.}
+\end{quote}
+
+This maxim organises two reversible moments. \emph{Fidelity to the phenomenon}
+begins with encounters that have actually been experienced and describes the
+break with indifference, the orientation of attention, resistance, grip, the
+activity triggered, and then exhaustion or renewal. \emph{Extraction of
+structure} compares the cases, produces distinctions and counterexamples, and
+formulates revisable invariants. The concept must finally return to the cases
+that motivated it in order to encounter its false positives, residues, and
+conditions of revision.
+
+Pachet thus protects the actual birth of a thought against premature
+abstraction; Garve shows that an inquiry beginning from effective psychology can
+nevertheless seek general conditions; the Kantian demand prevents it from
+stopping at private impressions. This triangulation distributes three
+methodological functions without constituting either a doctrinal synthesis or a
+lineage.
+
+The five fields are not intended to illustrate after the event an already
+completed theory. Each must constrain the concept, reveal a limit, or produce a
+distinction. The research will combine:
+
+\begin{itemize}
+  \item conceptual analysis of the interesting and its neighbours;
+  \item historical reconstruction and direct reading of sources;
+  \item a situated phenomenology of musical, literary, mathematical,
+        scientific, and philosophical cases;
+  \item counterfactual comparisons: internal variations, merely competent
+        continuations, repetitions, and failed imitations;
+  \item reflexive analysis of constructed systems and, where relevant,
+        experiments on repetition, abandonment, learning, and changing
+        judgements;
+  \item confrontation with models of expectation, compression, curiosity,
+        flow, and constrained generation.
+\end{itemize}
+
+Three levels will remain distinct: scientific results and effective properties
+of systems; philosophical propositions; and argued articulations explaining
+what the construction of a system or analysis of a case makes thinkable without
+claiming that it proves it.
+
+A hypothesis will gain strength if it can describe a trajectory, identify the
+conditions under which interest varies, distinguish phenomena previously
+confused, anticipate a change, or produce a counterexample. The thesis will also
+accept negative results: some properties may hold only in one field, and no
+single model will be assumed capable of exhausting the object.
+
+\section{Corpus}
+
+The main corpus will bring together \emph{Histoire d'une oreille}, Jotney songs,
+the essays on the impossibility of creation and on virtuosity
+\parencite{pachet2018oreille,pachet2026impossibilite,pachet2027virtuosite}, work
+on generative systems and computational interestingness, and the philosophical
+and scientific sources actually used.
+
+The corpus will be organised in three circles: sources directly argued with in
+the manuscript; cases for comparison and objection; and a programme of readings
+still to be consolidated. The literary corpus will be narrowed according to the
+properties to be tested rather than expanded in pursuit of historical
+exhaustiveness. This organisation must maintain an explicit link between each
+source, the proposition it supports, and the actual status of its reading.
+
+\section{Expected Contributions}
+
+The thesis aims to make six contributions:
+
+\begin{enumerate}
+  \item a problematised history that restores Garve as a direct antecedent of
+        the constructive hypothesis and explains the weak canonisation of this
+        core through demotion, aesthetic and moral captures, and disciplinary
+        dispersion;
+  \item a relational, dispositional, and constructive definition, expressed by
+        \(I(F,S\mid H,t)\);
+  \item an organised cluster of properties for comparing the appearance,
+        maintenance, circulation, exhaustion, and renewal of interest;
+  \item a reflexive theory explaining both the concept's self-application and
+        part of its elusiveness;
+  \item a series of differential tests in music, AI, creativity, philosophy,
+        and literature;
+  \item a method of local formalisation that explicitly distinguishes target,
+        indicator, effective procedure, scientific result, and philosophical
+        scope.
+\end{enumerate}
+
+The outcome will not necessarily be a closed definition. It may take the form
+of an articulated system of properties, distinctions, and criteria of
+variation. A formal extension will examine, in particular,
+non-compositionality, non-monotonicity, dynamic modalities, and the conditions
+of a minimal axiomatics.
+
+\section{Current Thesis Plan}
+
+\begin{enumerate}
+  \item \textbf{Part One --- Establishing the problem}
+    \begin{enumerate}
+      \item The blind spot and competing concepts.
+      \item Garve: attention, gaps, and construction from prior materials.
+      \item Garve's failure: the defeat of \emph{Popularphilosophie}, aesthetic
+            and moral captures, and the shift towards the fundamental psyche.
+      \item From Schlegel to contemporary returns: demotion, dispersion, and
+            weak canonisation of the interesting.
+      \item The interesting and the true.
+      \item The risk of target substitution: indicator, procedure, and residuals.
+    \end{enumerate}
+  \item \textbf{Part Two --- Constructing the concept}
+    \begin{enumerate}
+      \item The relation \(I(F,S\mid H,t)\) and the construction of a grip.
+      \item Relational, dynamic, and transmissive properties.
+      \item Learning, flow, the almost learnable, and language.
+      \item Recursion and self-application: ``the interesting is interesting.''
+      \item Naturalisation, limits, and local models.
+    \end{enumerate}
+  \item \textbf{Part Three --- Putting the concept to work}
+    \begin{enumerate}
+      \item Music: expectations, micro-emotions, and variations.
+      \item Artificial intelligence: generation, evaluation, and loss of the
+            target.
+      \item Creativity: invented necessity and implicit problem.
+      \item Philosophy: fertility, truth, and reflexivity.
+      \item Literature: incompleteness, style, and interpretation.
+      \item Comparison of the fields and revision of the concept.
+    \end{enumerate}
+\end{enumerate}
+
+\clearpage
+\section{Directly Related Personal Work}
+
+\begin{itemize}
+  \item \textcite{pachet2026generation} shifts the evaluation of music
+        generators from the intrinsic quality of the result to the quality of
+        interaction and creative appropriation; the IKEA effect is used to
+        conceptualise systems that create with rather than for their users.
+  \item \textcite{pachet2027virtuosite}, forthcoming from Hermann, analyses
+        forms of virtuosity and introduces difficultuosity and chalepodoxy.
+  \item \textcite{pachet2026impossibilite} examines scientific and conceptual
+        obstacles to the idea of creating novelty; the canary case is used to
+        formulate difficultuosity as a relation between a perceived gesture,
+        latent bodily competence, and the presumed cost of production.
+  \item \textcite{pachet2026markov} synthesises work on Markov modelling and
+        constraint-based controlled generation.
+  \item The long version of \textcite{pachet2026biases}, submitted to NeurIPS,
+        distinguishes exact conditioning from the distribution produced by
+        tractable procedures and establishes hardness results for MAP,
+        normalisation, and selected approximations.
+  \item \textcite{pachet2026tonalparsimony} lexicographically orders local
+        continuity and global compactness in harmonic analysis; its
+        anti-compression cases make it a reflexive case of divergence between a
+        formal objective and a musically relevant difference.
+  \item \textcite{pachet2011markov}, \textcite{barbieri2012lyrics}, and
+        \textcite{papadopoulos2016flowcomposer} progressively construct the
+        coupling of stylistic probabilities, global constraints, and composer
+        control.
+  \item \textcite{papadopoulos2014avoiding} and
+        \textcite{papadopoulos2016nonplagiaristic} establish that Markov order
+        does not bound the length actually copied and make non-copying explicitly
+        controllable.
+  \item \textcite{ghedini2015flowmachines} and
+        \textcite{pachet2017variations} oppose statistical texture to imposed
+        structure and reveal both the power and the limit of \emph{templagiarism}.
+  \item \textcite{pachet2021assisted} draws new categories of novelty from the
+        Flow Machines projects.
+  \item \textcite{pachet2018oreille} describes the ontogenesis of a musical ear
+        and provides the attentional concepts used here.
+  \item \textcite{montecchio2020skipping} relates temporal skipping profiles
+        to musical structure; this research conducted at Spotify provides a
+        privileged reflexive case for examining the continuation and abandonment
+        of attention.
+  \item \textcite{milipachet1995regularity} distinguishes, for the
+        textualisation of Cyc proof traces, tautological regularity, arbitrary
+        irregularity, and structured irregularity that reveals a property or a
+        missing concept. This local criterion is an antecedent of the
+        explainable deviation defended in the thesis.
+  \item \textcite{pachet2012virtuosity} distributes virtuosity between an
+        embodied Markov texture and an intentional score of decisions made at
+        the level of musical beats. ``Markovian boredom'' and the transformations
+        that break it connect continuity and rupture, without making the
+        computational model a cognitive proof in itself.
+  \item \textcite{martin2016creativeprocess} distinguishes self-judgment from
+        consensus, measures the selective effect of feedback, and shows that judges
+        prefer compositions produced at an experience level close to their own.
+  \item \textcite{jones2009stimulating} describes computational feedback as a
+        controlled distortion between repetition and estrangement, capable of opening
+        new directions of exploration.
+  \item \textcite{pachet2008machines} presents reflexive systems as machines
+        favouring departure from oneself, and interesting objects as side-effects
+        of interaction with an imperfect image of the subject.\par
+  \item \textcite{aucouturier2002similarity} distinguishes the validity of a
+        measure from its usefulness and locates an Aha effect in the contradiction
+        between timbral similarity and textual expectation.
+  \item \textcite{pachetroy2008hitsong} and \textcite{pachet2011hitsong}
+        establish the limits of popularity prediction and reconstruct the target
+        as a joint product of form, exposure, and social influence; the chapter
+        also discusses artificially difficult canary trills.
+  \item \textcite{lerch2011closedloop} shows, in a distinct protocol on female
+        canary calls, that contingent interaction elicits more vocalisations than
+        playback of the same stimuli.
+  \item \textcite{pachet2006creativity} defines creativity as the situated feeling
+        of producing something new and interesting, and shifts the unit of analysis
+        to the human--machine pair.
+  \item \textcite{pachet2006reflective} specifies scaffolding of complexity, the
+        shift of attention toward the subject, and sustained interest in reflexive
+        musical systems.
+  \item \textcite{pachet2004cybernetic} and
+        \textcite{pachet2006interactionsreflexives} explicitly shift the criterion
+        from coherent material to an interesting or enjoyable interaction, whose
+        quality may matter more than its product.
+  \item \textcite{pachet2004childrenreflect} and
+        \textcite{addessi2005experiments} observe young children learning implicit
+        rules, negotiating mismatches and dead moments, and creatively reusing errors
+        in dialogue with the Continuator.
+  \item \textcite{addessi2006flowmachine} proposes a behavioural observation grid
+        for flow and compares conditions with and without the system, within the
+        limits of a small exploratory sample.
+  \item \textcite{pachet2004flowmachines} describes attention, flow, and the
+        dynamic mirror in interactions with the Continuator.
+  \item \textcite{pachet2004reification} makes nourishing examples and the
+        resistance of uses a condition for the fertility of models.
+  \item \textcite{pachet2002continuatorinteraction} reports the Aha effect,
+        intimate control, and the retention of musical regions judged interesting
+        during interaction.
+  \item \textcite{pachet2000melodie}, later republished in editorial form as
+        \textcite{pachet2006clefs}, offers an initial objective model of
+        interesting melodies whose relational limits the thesis examines.
+  \item \textcite{pachet1999active} shifts musical access from isolated items to
+        paths and variations that preserve semantic invariants.
+  \item \textcite{pachet1999programs} constructs music programmes as a constrained
+        compromise between repetition and surprise, local continuity and global
+        variety.
+  \item \textcite{pachet1999surprising} distinguishes raw unexpectedness from a
+        surprise that listeners can reconstruct from acquired expectations and
+        rules.
+\end{itemize}
+
+\printbibliography[keyword={francois-pachet},title={Works by François Pachet}]
+\printbibliography[notkeyword={francois-pachet},title={Other references}]
+
+\end{document}

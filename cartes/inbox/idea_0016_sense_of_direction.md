@@ -14,6 +14,7 @@ references:
   - papadopoulos2016flowcomposer
   - pachet2017variations
 source_notes:
+  - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "Projet SenseOfDirection, résumé et challenge, rendu PDF p. 1-3"
   - "Projet SenseOfDirection, corrélations longues et synthèse, rendu PDF p. 5-6"
   - "Hidden Biases, contraintes de forme globales et dépendance aux continuations futures, PDF p. 1-3 et 12-14"

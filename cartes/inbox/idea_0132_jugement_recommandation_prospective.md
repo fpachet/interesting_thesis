@@ -7,6 +7,7 @@ status: inbox
 architecture: core
 sources:
   - "docs/L_interessant_histoire_philosophique_et_programme_de_recherche.docx"
+  - "docs/lectures/vazard-interet-attention.md"
 references:
   - stace1944interestingness
   - kolnai1964concept
@@ -14,9 +15,11 @@ references:
   - epstein2009interesting
   - grimm2011interesting
   - nannini2018interesting
+  - vazard2026inquiry
 source_notes:
   - "Le document propose l'intéressant comme valeur prospective, valeur de second ordre et recommandation faiblement normative de poursuivre l'examen."
   - "Nannini relie explicitement le jugement à une référence temporelle vers l'avant ; les autres textes constituent le corpus direct à lire pour confronter cette reconstruction."
+  - "Vazard, 2026, sections IV-VI : intérêt comme évaluation de ce qui mérite une attention soutenue, avec possibilité d'un intérêt mal ajusté."
 tags:
   - interessant
   - normativite
@@ -47,6 +50,14 @@ Cette fonction évaluative ne doit pas être confondue avec l'effet causal de l'
 peut en outre avancer que la poursuite est justifiée, pour moi ou pour autrui. Les deux
 dimensions se recouvrent souvent, mais peuvent diverger : une captation peut être creuse,
 et une enquête jugée digne d'être poursuivie peut rester pénible et peu mobilisatrice.
+
+Vazard précise cette normativité en analysant l'intérêt comme le sentiment que
+l'attention soutenue portée à un objet a de la valeur. L'apport ne consiste pas
+seulement à recommander une enquête déjà constituée : l'attention peut rester large et
+exploratoire avant que le sujet sache quelles questions valent d'être posées. Le
+jugement d'intéressant recommande alors d'abord de ne pas clore la rencontre. Il peut
+être mal ajusté si l'objet ou le dispositif entretient cette allocation sans livrer la
+valeur attendue.
 
 ## Distinctions
 
@@ -79,6 +90,7 @@ supplémentaire produira une prise nouvelle.
 - [Epstein, « The Interesting » — Project MUSE](https://muse.jhu.edu/article/364012)
 - [Grimm, « What Is Interesting? » — revue et texte intégral](https://logos-and-episteme.acadiasi.ro/volume-ii-issue-4-december-2011/)
 - [Nannini, « Interesting » — texte intégral](https://lexicon.mimesisjournals.com/archive/2018/autumn/Interesting.pdf)
+- [Vazard, « Inquiry beyond Curiosity » — texte intégral Oxford](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqag014/8571347)
 
 ## Liens
 
@@ -89,3 +101,5 @@ supplémentaire produira une prise nouvelle.
   `idea_0123`.
 - Est limitée par `idea_0124`, puisqu'une promesse peut soutenir l'attention sans
   produire de compréhension.
+- Est précisée par `idea_0160` : l'attention recommandée peut précéder toute question
+  ou prise déterminée.

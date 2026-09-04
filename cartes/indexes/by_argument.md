@@ -24,13 +24,15 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0128` - Toute formalisation risque de substituer son indicateur à la cible.
 - `idea_0144` - Conceptualiser l'intéressant sans désintéresser le concept de l'expérience qui lui donne naissance.
 
-## 2. Définition et émergence de l'intéressant (23)
+## 2. Définition et émergence de l'intéressant (26)
 
 ### Pivots
 
 - `idea_0083` - Naissance d'une idée, compréhension et fascination sont trois faces de l'émergence d'une forme.
 - `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
 - `idea_0121` - Le flow décrit un régime de maintien de l'intérêt, non sa définition.
+- `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
+- `idea_0161` - L'intéressant est un opérateur relationnel de transitions psychiques, non un état mental.
 
 ### Mécanismes et précisions
 
@@ -57,8 +59,9 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
 - `idea_0140` - Décrire comment quelque chose devient intéressant avant de juger s'il mérite de l'être.
 - `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
+- `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
 
-## 3. Temporalité, attention et apprentissage (27)
+## 3. Temporalité, attention et apprentissage (28)
 
 ### Pivots
 
@@ -82,6 +85,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ### Trajectoires, cas et limites
 
+- `idea_0164` - Peut-on rendre tout intéressant ?
 - `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.
 - `idea_0022` - Un objet raté peut soutenir l'attention en transformant le spectateur en diagnosticien.
 - `idea_0023` - Une relation temporelle minimale peut rendre saillant un contenu sans valeur.
@@ -143,7 +147,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0136` - Les mots croisés intéressent par des déclencheurs d'attente distincts, non par une difficulté sociale unique.
 - `idea_0044` - Les théories de la créativité sont souvent sans théorèmes.
 
-## 5. Musique et micro-transformations de l'attention (10)
+## 5. Musique et micro-transformations de l'attention (11)
 
 ### Pivots
 
@@ -163,8 +167,9 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0034` - Les hooks harmoniques comme micro-solutions intéressantes.
 - `idea_0040` - Quand la musique devient liquide, l'attention devient rare.
 - `idea_0115` - L'écoute surattentive peut fabriquer l'intérêt qu'elle prétend découvrir.
+- `idea_0159` - La parcimonie tonale construit une prise compacte dont l'anti-compression révèle la limite.
 
-## 6. IA, interaction et méthode réflexive (19)
+## 6. IA, interaction et méthode réflexive (20)
 
 ### Pivots
 
@@ -194,6 +199,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ### Cadre philosophique et limite épistémologique
 
+- `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.
 - `idea_0125` - Naturaliser l'intéressant, c'est expliquer une relation psychique sans l'assigner à l'objet.
 - `idea_0088` - Un modèle computationnel peut mettre une hypothèse philosophique à l'épreuve sans épuiser son objet.
 
@@ -247,6 +253,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 11, 23, 27, 33, 10, 19, 12 et 20
-cartes, soit les 155 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 11, 26, 28, 33, 11, 20, 12 et 20
+cartes, soit les 161 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

@@ -78,13 +78,13 @@ class CardMetadataTests(unittest.TestCase):
             project_root / "cartes" / "indexes" / "by_architecture.md"
         ).read_text(encoding="utf-8")
         core_section = architecture_index.split(
-            "## Première passe : les 15 propositions `CORE`", 1
+            "## Première passe : les 17 propositions `CORE`", 1
         )[1].split("## Règle de la prochaine passe", 1)[0]
         indexed_core = set(
             re.findall(r"^- `(idea_\d{4})` - ", core_section, re.MULTILINE)
         )
 
-        self.assertEqual(len(metadata_core), 15)
+        self.assertEqual(len(metadata_core), 17)
         self.assertEqual(indexed_core, metadata_core)
 
     def test_card_reference_keys_exist_in_bibliography(self) -> None:

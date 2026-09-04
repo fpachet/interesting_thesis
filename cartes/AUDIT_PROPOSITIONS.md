@@ -99,7 +99,7 @@ récompense à somme nulle et le Success-Story Algorithm restent des mécanismes
 des preuves, pas des propositions autonomes sur l'intéressant.
 
 La lecture complète de
-`input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` n'a d'abord crée
+`input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf` n'a d'abord créé
 aucune proposition interne au papier. `idea_0017` a été développée en une proposition précise sur la
 distorsion des poids et la perte de support ; `idea_0100` a été corrigée pour
 distinguer les couples modèle-contrainte à état borné, calculables exactement, des
@@ -117,8 +117,8 @@ pas lui-même cette théorie de l'intéressant.
 
 ## Niveaux de proposition
 
-Les 155 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
-du genre de leur document source : 100 `conceptual`, 20 `scientific` et 34
+Les 161 cartes actives ont été classées selon leur rôle argumentatif, indépendamment
+du genre de leur document source : 105 `conceptual`, 20 `scientific` et 36
 `articulation`. Le classement complet est maintenu dans `indexes/by_level.md` et
 dans le champ YAML `level` de chaque carte.
 
@@ -127,6 +127,37 @@ dans le champ YAML `level` de chaque carte.
 les résultats scientifiques constituent un premier niveau ; les propositions sur
 l'intéressant un second ; les passages argumentes entre les deux forment le niveau
 `articulation` et peuvent constituer une contribution propre de la thèse.
+
+`idea_0160` a été créée après lecture intégrale de Juliette Vazard, « Inquiry
+beyond Curiosity: Interest and the Value of Attending » (2026). Elle isole une
+proposition autonome absente de la définition précédente : l'intérêt peut viser
+un objet et soutenir une attention exploratoire avant que la question pertinente
+soit disponible. `idea_0123`, `idea_0131` et `idea_0132` ont été révisées pour
+distinguer cette orientation faible de la construction déjà orientée vers une
+prise déterminable.
+
+`idea_0161` explicite ensuite une différence de catégorie devenue centrale :
+l'intéressant n'est pas un état mental placé à côté de l'attention, de la curiosité
+ou des émotions, mais la relation sujet-objet qui peut les actualiser, organiser
+leurs passages et transformer le répertoire du sujet. La formule de « moteur de la
+vie psychique » est conservée sous une forme testable et limitée : moteur transversal
+de l'activité exploratoire et auto-transformatrice, non cause universelle de tout état
+mental.
+
+`idea_0162` ouvre une extension littéraire classée `SPECULATIVE`. Elle propose
+l'analyse intérescentielle comme reconstruction de ce qui commence, continue ou cesse
+de compter pour les personnages, le narrateur et le lecteur. L'analogie avec Girard
+porte sur l'usage des grands textes comme instruments de découverte ; Proust,
+*Bartleby* et Job devront montrer si cette méthode révèle une
+structure différentielle ou renomme seulement désir, focalisation et réception.
+
+`idea_0163` isolé une seconde extension `SPECULATIVE` : l'intérescence pourrait être la
+relève immanente de la fonction motrice de la morale, en passant de ce qui doit compter
+à ce qui vient effectivement à compter pour un sujet situé. La carte refuse d'en faire
+une évolution biologique ou un remplacement de la normativité. Kant sert de charnière
+par son concept d'intérêt moral comme mobile réservé aux êtres finis. Après révision,
+Job ne sert plus de contre-exemple supposé : la carte distingue motivation morale
+intense, intérescence interne non attestée et intérescence externe du lecteur.
 
 La version anglaise `input/Project philosophy thesis.pdf` a ensuite été comparée
 intégralement au PDF français du projet. Elle confirme les mêmes propositions et
@@ -309,13 +340,16 @@ de Pachet conserve une formulation plus radicale de l'allocution : le problème 
 peut remplacer le problème informel et définir ses parties intéressantes hors du champ.
 La carte transpose cette alerte aux systèmes génératifs, où correction, cohérence,
 probabilité et satisfaction de contraintes deviennent facilement des substituts de
-l'intéressant. Elle formule désormais l'hypothèse plus forte d'une hostilité structurelle
-de la formalisation : la panoplie scientifique de l'opérationnalisation, du contrôle, de
-la répétabilité, de la normalisation et de l'optimisation tend à éliminer les dimensions
-relationnelles et historiques du phénomène. L'écart entre l'allocution orale de Russell
-et l'article publié devient un exemple réflexif : la mise en garde subsiste dans l'écrit,
-mais les termes « intéressant » et « inintéressant » qui en faisaient la force
-disparaissent.
+l'intéressant. Elle formule désormais le risque plus précis d'une substitution de cible :
+la panoplie scientifique de l'opérationnalisation, du contrôle, de la répétabilité, de la
+normalisation et de l'optimisation peut éliminer les dimensions relationnelles et
+historiques du phénomène lorsque l'indicateur est traité comme sa définition complète.
+*Hidden Biases* montre en outre que la substitution peut survenir après une formalisation
+correcte, lorsqu'une procédure tractable déforme la distribution visée ; la parcimonie
+tonale fournit le cas positif d'une optimisation qui conserve ses propres échecs
+d'anti-compression. L'écart entre l'allocution orale de Russell et l'article publié
+devient un autre exemple réflexif : la mise en garde subsiste dans l'écrit, mais les
+termes « intéressant » et « inintéressant » qui en faisaient la force disparaissent.
 
 `idea_0135` a été ajoutée à partir de deux passages ciblés de *L'Œuvre des jours*.
 Elle distingue deux directions : l'idée qui prend forme peut produire une excitation,
@@ -398,7 +432,7 @@ limites.
 
 `idea_0152` a été ajoutée après lecture de *Music Similarity Measures: What's the
 Use?*. Elle conserve la faiblesse de la validation initiale et les paramètres définis
-à la main, mais isole une articulation réflexive précise : une mesure peut être valide
+à la main, mais en dégage une articulation réflexive précise : une mesure peut être valide
 et triviale, puis devenir féconde par la contradiction intelligible qu'elle produit
 avec une autre attente. L'effet Aha publié devient ainsi un antécédent du modèle
 relationnel, non sa validation générale.

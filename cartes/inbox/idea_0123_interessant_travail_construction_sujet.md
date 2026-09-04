@@ -10,6 +10,7 @@ sources:
   - "input/old_docs/interestingness.pdf"
   - "docs/Bachimont.pdf"
   - "docs/lectures/theses-comparaison-preuve-philosophique.md"
+  - "docs/lectures/vazard-interet-attention.md"
 references:
   - pachet2018oreille
   - schmidhuber1997interesting
@@ -18,12 +19,14 @@ references:
   - bachimont1996hermeneutique
   - anselin2021attention
   - thalabard2012attention
+  - vazard2026inquiry
 source_notes:
   - "Histoire d'une oreille, apprentissages perceptifs et construction progressive d'une écoute, PDF p. 27-34 et 281-295"
   - "Schmidhuber, apprentissage de régularités et progrès de compression, PDF p. 1-3 et 20"
   - "Le rapprochement avec les language games de Steels est une articulation proposée par la thèse"
   - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : comprendre comme reconstruction et réactualisation de la question à laquelle la chose transmise répond."
   - "Anselin et Thalabard sont mobilisés comme comparants méthodologiques pour séparer exposition du modèle, objections et défense ; la définition révisée reste une proposition propre à cette thèse."
+  - "Vazard, 2026, sections III-IV : l'intérêt peut soutenir une attention exploratoire avant qu'une question ou une issue déterminée ne soit représentée."
 tags:
   - interessant
   - flow
@@ -44,14 +47,25 @@ dans laquelle une transformation devient crédible pour le sujet.
 
 Cette proposition fournit un candidat révisé pour le cœur de la thèse : **est
 intéressant ce qui, pour un sujet situé et relativement à un horizon donné, ouvre et
-soutient une activité dont une prise nouvelle sur un objet, un problème ou un espace de
-possibilités constitue une issue crédible**. La construction est le terme médiateur
+soutient une activité dont l'exploration paraît valoir la peine et dont une prise
+nouvelle sur un objet, un problème ou un espace de possibilités peut devenir une issue
+crédible**. La construction est le terme médiateur
 entre l'attention initiale et la compréhension. Elle explique ce que l'intéressant met
 en mouvement, sans définir rétrospectivement l'intérêt par la réussite de cette activité.
 
+Cette formulation distingue désormais deux degrés d'orientation. Dans une phase
+ouverte, décrite par Juliette Vazard, le sujet maintient une attention exploratoire sur
+un objet sans savoir encore quelle question poser ni quel aspect isoler. Dans une phase
+plus déterminée, une différence, une résistance ou une opération rend une prise
+identifiable crédible. La première prise peut donc être la constitution de la question
+elle-même. Cette correction empêche d'attribuer après coup à toute rencontre
+intéressante un but qu'elle ne possédait pas encore.
+
 Quatre états doivent alors être distingués :
 
-- **intérêt** : une prise nouvelle constitue une issue crédible de l'activité ;
+- **intérêt** : l'attention exploratoire paraît valoir la peine, même si sa question
+  directrice n'est pas encore disponible ;
+- **intérêt orienté** : une prise nouvelle constitue une issue crédible de l'activité ;
 - **intérêt fécond** : une prise nouvelle est effectivement acquise ;
 - **fascination promissive** : la crédibilité est entretenue sans prise contrôlable ;
 - **épuisement** : aucune prise nouvelle ne paraît encore crédible dans cet horizon.
@@ -161,6 +175,8 @@ devient effectivement capable de produire.
 - Trouve dans `idea_0085` une construction particulière : reconstruire le problème depuis sa solution.
 - Donne à la construction de systèmes de `idea_0018`, `idea_0088` et `idea_0110` une place dans la définition centrale.
 - Est limitée par `idea_0124`, où la promesse de comprendre ne produit aucune prise vérifiable.
+- Est limitée et précisée par `idea_0160` : l'intérêt peut précéder la question et la
+  prise qu'il contribuera à rendre formulables.
 - Le gradient de progrès de `idea_0071` mesure une dimension de la construction en cours.
 - `idea_0137` déplie cette construction en épluchage successif et distingue ses
   issues : épuisement, abandon ou relance par la résistance.

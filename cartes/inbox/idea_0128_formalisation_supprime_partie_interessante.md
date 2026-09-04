@@ -8,16 +8,22 @@ architecture: core
 sources:
   - "input/Russell_Rationality_and_Intelligence_IJCAI95.pdf"
   - "input/Pachet_Representation_connaissances_langages_objets_1997.pdf"
+  - "input/Hidden_Biases_in_Conditioning_Autoregressive_Models.pdf"
+  - "input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf"
 references:
   - russell1995awardlecture
   - russell1995rationality
   - pachet1997representation
+  - pachet2026biases
+  - pachet2026tonalparsimony
 source_notes:
   - "Russell, Rationality and Intelligence, IJCAI-95, p. 950 : danger de premature mathematization, lorsque des résultats de plus en plus techniques s'éloignent du problème initial."
   - "Russell, allocution Rationality and Intelligence pour le Computers and Thought Award, IJCAI-95 : source intellectuelle de l'avertissement oral sur les parties intéressantes définies hors du problème."
   - "Pachet, Représentation de connaissances et langages à objets, HDR 1997, PDF p. 10 : source écrite qui conserve la transcription de cette allocution."
   - "L'allocution, l'article des actes et le mémoire d'HDR sont cités séparément : la citation longue est attestée par le mémoire et ne figure pas textuellement dans l'article."
   - "L'écart entre la transcription orale et l'article publié est mobilisé comme exemple réflexif de normalisation ; il ne permet pas à lui seul d'établir les intentions de Russell ni l'histoire éditoriale du texte."
+  - "Hidden Biases : version longue de 16 pages soumise à NeurIPS, p. 1-14 ; distinction entre la distribution conditionnelle visée et la distribution effectivement produite par une procédure tractable. La version publique arXiv:2604.07855v1 compte 9 pages."
+  - "Tonal Parsimony, arXiv:2606.03459v1, section 8.3 : deux cas d'anti-compression où la minimisation de C puis K efface une distinction tonale attendue ; le papier identifie explicitement ces échecs comme limites de l'objectif ou du modèle local."
 tags:
   - formalisation
   - ia
@@ -114,6 +120,25 @@ formalisation liquidatrice rebaptise son indicateur comme s'il était la cible e
 puis traite les dimensions restantes comme subjectives, anecdotiques ou extérieures au
 problème.
 
+*Hidden Biases* ajoute une distinction importante : la substitution peut intervenir
+après que la cible a été correctement formalisée. La loi conditionnelle exacte demeure
+explicite, mais son calcul étant difficile, une procédure locale ou heuristique produit
+en pratique une autre loi, parfois même sur un support plus étroit. La chaîne causale
+est alors : cible formelle, pression de tractabilité, procédure approchée, oubli de la
+divergence. Le danger ne vient donc pas de la formalisation seule ; il vient aussi du
+moment où l'approximation opératoire cesse d'être reconnue comme telle.
+
+La parcimonie tonale fournit un contrepoint positif précis. Elle minimise d'abord les
+modulations, puis le nombre de tonalités distinctes d'une analyse harmonique. Dans la
+majorité des cas où elle change ce second critère, la compression résout utilement une
+indétermination de l'analyse. Mais deux cas d'anti-compression sont conservés comme
+échecs informatifs : l'optimum absorbe une région mineure dans sa relative majeure ou
+fusionne des toniques locales intentionnellement distinctes. La fonction objectif n'est
+donc pas rebaptisée « bonne analyse » ; ses divergences indiquent le besoin de preuves
+fonctionnelles locales ou de pondérations supplémentaires. Cette pratique réalise la
+formalisation réflexive demandée ici : optimiser un indicateur, puis retourner vers les
+résidus où il cesse de préserver la cible.
+
 L'intéressant résiste particulièrement à cette clôture parce qu'il est relationnel,
 historique et transformateur : le sujet, ses compétences et l'espace des possibilités
 changent pendant l'interaction. Fixer une fonction objectif peut donc immobiliser ce que
@@ -157,3 +182,5 @@ peut contenir le phénomène même que la formalisation devait préserver.
 - Soutient la troisième couche de `idea_0003`, irréductible à la syntaxe et au sens.
 - Complète `idea_0095` : un modèle peut échouer par excès de généralité ou par réduction excessive de sa cible.
 - Fournit une objection interne aux programmes formels de `idea_0119` et `idea_0120`.
+- Trouve dans `idea_0159` un cas positif de formalisation qui documente ses propres échecs d'anti-compression au lieu de les exclure du problème.
+- Est précisée par `idea_0017`, où une procédure de génération tractable peut substituer sa loi effective à une cible conditionnelle pourtant bien définie.

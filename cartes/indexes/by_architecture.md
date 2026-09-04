@@ -25,7 +25,7 @@ L'absence de statut signifie `À CLASSER`, et non `DERIVED` par défaut. La prem
 passe fixe le noyau avant de subordonner les autres cartes ; elle évite de maquiller une
 classification encore à faire en résultat acquis.
 
-## Première passe : les 15 propositions `CORE`
+## Première passe : les 17 propositions `CORE`
 
 ### Constituer le problème
 
@@ -41,6 +41,8 @@ classification encore à faire en résultat acquis.
 - `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
+- `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
+- `idea_0161` - L'intéressant est un opérateur relationnel de transitions psychiques, non un état mental.
 
 ### Déployer la dynamique et les limites
 
@@ -77,8 +79,40 @@ distinction centrale.
 - `idea_0152` - L'intéressant d'une mesure naît de sa confrontation à une autre attente.
 - `idea_0153` - L'intéressant habite l'irrégularité explicable, non l'ordre parfait ni l'arbitraire.
 - `idea_0154` - La virtuosité distribue l'intention entre un flux incorporé et des décisions de haut niveau.
+- `idea_0159` - La parcimonie tonale construit une prise compacte dont l'anti-compression révèle la limite.
 
 Ces cartes reçoivent le statut `CASE` non comme exemples périphériques, mais parce
 qu'elles réalisent sur des travaux scientifiques précis la méthode réflexive formulée
 par `idea_0110`. Leur fonction est de montrer comment un résultat disciplinaire
 devient matériau philosophique sans changer rétroactivement de régime de preuve.
+
+## Test expérimental classé
+
+- `idea_0158` - Une intelligence inventive doit articuler exploration en largeur et résolution en profondeur.
+
+Cette carte reçoit le statut `TEST` parce qu'elle propose une comparaison réfutable
+entre transformer seul, solveur seul et boucle hybride. Son échec limiterait la portée
+du laboratoire computationnel de l'invention sans réfuter à lui seul la définition
+générale de l'intéressant.
+
+## Test conceptuel classé
+
+- `idea_0164` - Peut-on rendre tout intéressant ?
+
+Cette carte reçoit le statut `TEST` parce qu'elle éprouve la portée de la conception
+constructive dans une relation pédagogique. L'anecdote du droit administratif montre
+qu'un domaine réputé aride peut devenir intéressant lorsqu'un professeur accompagne le
+travail de l'élève ; elle ne démontre pas que toute matière pourrait l'être. La carte
+oblige donc la thèse à distinguer accompagnement durable, séduction momentanée et échec
+de la construction.
+
+## Extensions littéraire et généalogique spéculatives
+
+- `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.
+- `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
+
+Ces cartes restent `SPECULATIVE`. `idea_0162` propose une méthode comparative, mais
+aucune analyse suivie de Proust, de *Bartleby* ou de Job n'a encore établi son pouvoir
+explicatif différentiel. `idea_0163` propose une succession fonctionnelle entre morale
+et intérescence, mais doit encore distinguer antériorité psychologique, héritage
+historique et simple récit de sécularisation.

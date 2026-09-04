@@ -7,12 +7,15 @@ status: inbox
 architecture: case
 sources:
   - "input/publications-francois-pachet/pachet-99m.pdf"
+  - "input/Tonal_Parsimony_in_Chord_Sequence_Analysis.pdf"
 references:
   - pachet1999programs
+  - pachet2026tonalparsimony
 source_notes:
   - "Automatic Generation of Music Programs, PDF p. 2 : le choix musical est ramené à deux désirs contradictoires, répétition et surprise, dont il faut trouver le bon compromis."
   - "Automatic Generation of Music Programs, PDF p. 4-5 et 8 : la qualité visée porte sur une séquence ; la continuité stylistique est exprimée par une contrainte de similarité, la variété par des contraintes de différence et de cardinalité."
   - "Automatic Generation of Music Programs, PDF p. 13-14 : un titre inconnu devient acceptable grâce à la continuité du programme ; les résultats qualitatifs annoncés restent préliminaires."
+  - "Tonal Parsimony, arXiv:2606.03459v1, sections 2, 4 et 10 : la continuité locale C et la cardinalité globale K ne sont plus négociées comme un compromis scalaire, mais ordonnées lexicographiquement."
 tags:
   - interessant
   - musique
@@ -32,6 +35,15 @@ n'est pas traité comme l'optimisation d'une préférence unique. Il est formul�
 de deux désirs dits contradictoires : retrouver ce que l'on connaît et aime, mais aussi
 rencontrer ce que l'on ne connaît pas encore. La solution n'est donc ni la répétition
 pure ni la surprise pure, mais un compromis construit à l'échelle d'une séquence.
+
+La parcimonie tonale prolonge cette architecture locale-globale tout en la transformant.
+Le nombre de changements de tonalité `C` porte sur la continuité de la trajectoire ; le
+nombre de tonalités distinctes `K` porte sur la cardinalité de son vocabulaire global.
+Mais les critères ne sont pas additionnés : ils sont ordonnés lexicographiquement, de
+sorte que la compression du vocabulaire ne peut acheter une transition supplémentaire.
+Ce choix montre qu'une tension entre contraintes peut être réglée par priorité autant
+que par compromis, et que cette priorité constitue elle-même une hypothèse musicale à
+soumettre aux cas d'anti-compression.
 
 RecitalComposer donne une forme calculable à ce compromis. Des contraintes de
 similarité assurent une continuité locale entre les styles ; des contraintes de
@@ -69,3 +81,4 @@ de la séquence à intéresser, non une mesure complète de `I(F, S | H, t)`.
 - Donne une source publiée au compromis abstrait de `idea_0103` entre ordre et hasard.
 - Précise `idea_0005` : la continuité rend une surprise assimilable sans suffire à la rendre intéressante.
 - Prolonge `idea_0146` : le programme objectiviste passe ici de la mélodie au programme musical.
+- Trouve dans `idea_0159` un prolongement harmonique et une limite : l'ordre lexicographique produit une prise compacte, mais peut encore effacer une différence fonctionnelle.

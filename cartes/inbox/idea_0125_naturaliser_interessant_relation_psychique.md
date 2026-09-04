@@ -66,14 +66,15 @@ forme ne suffit à expliquer l'intérêt indépendamment des compétences, de la
 corps, de l'histoire et de l'horizon social du sujet. Le modèle `I(F, S | H, t)` permet
 précisément de naturaliser la relation sans la réifier dans l'un de ses termes.
 
-Le rapprochement avec Spinoza n'impose pas de classer immédiatement l'intéressant parmi
-les émotions élémentaires. Dans la définition III de la partie III, l'affect engage une
-modification de la puissance d'agir et l'idée de cette modification. L'intéressant
-pourrait plutôt désigner un **régime affectivo-cognitif de transition** : la rencontre
-avec une forme mobilise l'attention et modifie la puissance de percevoir, de comprendre,
-d'anticiper ou d'agir. L'ennui, l'anxiété, le plaisir, la frustration ou l'attachement
-seraient alors des devenirs possibles de cette relation, et non de simples synonymes de
-l'intérêt.
+Le rapprochement avec Spinoza n'impose pas de classer l'intéressant parmi les émotions
+élémentaires ni, plus généralement, parmi les états mentaux. Dans la définition III de
+la partie III, l'affect engage une modification de la puissance d'agir et l'idée de
+cette modification. L'intéressant pourrait plutôt désigner un **régime relationnel de
+transition affectivo-cognitive** : la rencontre avec une forme mobilise l'attention et
+modifie la puissance de percevoir, de comprendre, d'anticiper ou d'agir. L'intérêt
+éprouvé, l'ennui, l'anxiété, le plaisir, la frustration ou l'attachement seraient alors
+des actualisations ou des devenirs possibles de cette relation, et non des synonymes de
+l'intéressant. Celui-ci se manifeste dans le sujet sans s'y localiser entièrement.
 
 ## Conséquence méthodologique
 
@@ -104,3 +105,4 @@ mécanismes compris plutôt que sur une exception psychique supposée inexplicab
 - Donne un fondement philosophique à la neutralité méthodologique de `idea_0117`.
 - Interprète la construction de `idea_0123` comme une transformation de la puissance de percevoir, comprendre ou agir.
 - Ouvre le cas réflexif de `idea_0126`, où expliquer les causes d'un affect construit une prise du sujet sur lui-même.
+- Est spécifiée par `idea_0161`, qui distingue la relation intéressante des états psychiques qu'elle met en mouvement.
