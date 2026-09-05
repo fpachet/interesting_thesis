@@ -1,6 +1,6 @@
 LATEXMK ?= latexmk
 BUILD := build
-SOURCES := projet-these-fr.tex projet-these-en.tex
+SOURCES := projet-these-fr.tex projet-these-en.tex projet-these-court-fr.tex
 PDFS := $(SOURCES:%.tex=$(BUILD)/%.pdf)
 
 .PHONY: all clean
@@ -16,4 +16,3 @@ clean:
 		$(LATEXMK) -C -output-directory=$(BUILD) $$source; \
 	done
 	@rm -rf $(BUILD)
-

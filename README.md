@@ -40,6 +40,8 @@ des objections ou comparer plusieurs architectures argumentatives.
 - [`projet-these/projet-these-fr.tex`](projet-these/projet-these-fr.tex) et
   [`projet-these/projet-these-en.tex`](projet-these/projet-these-en.tex) :
   versions courantes française et anglaise du projet de thèse ;
+- [`projet-these/projet-these-court-fr.tex`](projet-these/projet-these-court-fr.tex) :
+  version française courte pour les dossiers administratifs ;
 - [`projet-these/versions/`](projet-these/versions/) : instantanés historiques
   immuables ;
 - [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : évolution explicite

@@ -7,6 +7,8 @@ que leurs instantanés historiques.
 
 - `projet-these-fr.tex` : version française courante ;
 - `projet-these-en.tex` : version anglaise courante ;
+- `projet-these-court-fr.tex` : version française courte, destinée aux dossiers
+  administratifs qui demandent une présentation resserrée ;
 - `BUT_DE_LA_THESE.md` : cadrage de l'objet, des tâches philosophiques et du
   résultat attendu avant la sélection des propositions pivots ;
 - `STRUCTURE_PROVISOIRE.md` : note d'architecture issue de la discussion avec
@@ -16,11 +18,12 @@ que leurs instantanés historiques.
 - `versions/projet-these-vN-fr.tex` et `versions/projet-these-vN-en.tex` :
   versions archivées et immuables ;
 - `CHANGELOG.md` : différences intellectuelles et documentaires entre versions ;
-- `Makefile` : compilation et nettoyage des deux rendus.
+- `Makefile` : compilation et nettoyage des trois rendus courants.
 
-Les deux fichiers courants doivent rester homologues : mêmes sections, mêmes
-hypothèses, mêmes citations et même numéro de version. Une modification de fond
-n'est terminée que lorsque sa traduction a été relue.
+Les deux versions longues, française et anglaise, doivent rester homologues :
+mêmes sections, mêmes hypothèses, mêmes citations et même numéro de version. La
+version courte reprend leurs éléments essentiels dans un texte indépendant et
+plus resserré.
 
 ## Versions historiques
 
@@ -157,7 +160,8 @@ make
 Les rendus sont écrits dans `projet-these/build/` :
 
 - `projet-these-fr.pdf` ;
-- `projet-these-en.pdf`.
+- `projet-these-en.pdf` ;
+- `projet-these-court-fr.pdf`.
 
 Pour nettoyer les artefacts :
 

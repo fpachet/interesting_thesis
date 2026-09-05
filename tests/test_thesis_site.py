@@ -87,6 +87,9 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert "<em>L'intérescence</em> est le nom proposé" in thesis_page
     assert "Christian Berner" in thesis_page
     assert "éditions Vrin" in thesis_page
+    assert "Télécharger la version courte (PDF)" in thesis_page
+    assert "../downloads/projet-these-court-fr.pdf" in thesis_page
+    assert (output / "downloads" / "projet-these-court-fr.pdf").is_file()
     assert "motivation morale et affective très forte" in thesis_page
     assert "sans intérescence interne identifiable" in thesis_page
 

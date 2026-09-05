@@ -38,6 +38,7 @@ python3 scripts/generate_thesis_site.py --output /tmp/interesting-thesis-site
 
 - une page d'accueil destinée aux personnes qui suivent la thèse ;
 - une présentation de l'objet, de l'hypothèse centrale et de sa méthode ;
+- un lien vers la version française courte du projet de thèse en PDF ;
 - un programme de lecture en dix séances avec questions de travail, statut des
   sources et liens d'accès public vérifiés ;
 - un catalogue des 162 cartes avec recherche et filtres ;

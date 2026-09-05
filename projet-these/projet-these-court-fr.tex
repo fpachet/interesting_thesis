@@ -1,0 +1,605 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[a4paper,margin=2.4cm]{geometry}
+\usepackage{enumitem}
+\usepackage[autostyle]{csquotes}
+\usepackage{xurl}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath}
+\usepackage[backend=biber,style=authoryear,maxcitenames=2,maxbibnames=12,pagetracker=false]{biblatex}
+\addbibresource{../bibliographie/references.bib}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6em}
+\setlist[itemize]{leftmargin=1.5em,itemsep=0.25em,topsep=0.3em}
+\setlist[enumerate]{leftmargin=1.8em,itemsep=0.35em,topsep=0.3em}
+
+\newcommand{\projectversion}{14}
+\newcommand{\projectdate}{5 septembre 2026}
+
+\title{L'émergence de l'intéressant\\
+\large Naissance des idées, compréhension et singularité des formes}
+\author{François Pachet}
+\date{Projet de thèse -- version courte, V\projectversion\\\small \projectdate}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Ce projet étudie l'intéressant comme objet philosophique. Il part d'une
+expérience ordinaire : une idée surgit, un passage retient l'attention et nous
+pousse à le relire ou à le réécouter pour comprendre ce qui nous a arrêtés.
+L'hypothèse centrale est simple : est intéressant, pour un sujet, ce qui
+déclenche chez lui un processus de construction. Le sujet commence alors à
+distinguer, questionner, relier, modéliser, essayer ou produire autrement.
+L'intéressant désigne le pouvoir de déclenchement qui naît dans la relation
+entre un objet, un sujet, son histoire et une situation. Le mot
+\emph{intérescence} nommera le processus ainsi ouvert, de la rupture avec
+l'indifférence jusqu'à l'abandon, à une nouvelle construction ou à la
+transmission. La thèse partira de Christian Garve, qui a formulé dès 1779 une
+théorie de l'attention, de la lacune et de l'activité des représentations. Elle
+étudiera ensuite les propriétés de l'intéressant dans cinq domaines : musique,
+intelligence artificielle, créativité, philosophie et littérature. Elle
+examinera enfin une hypothèse nouvelle : l'intéressant peut contribuer à faire
+naître un objet pour un sujet ; la réification commence lorsque l'histoire de
+cette relation est oubliée.
+\end{abstract}
+
+\section{Origine et question}
+
+Ce travail est issu d'une pratique constructiviste et empirique de la recherche
+en intelligence artificielle. J'ai passé quarante ans à construire des systèmes
+pour générer, transformer ou accompagner des musiques et des textes. Le projet
+doctoral part d'une question personnelle : \emph{comprendre ce que je fais}
+lorsque je construis un système, reconnais une solution, élimine une production
+correcte mais sans intérêt, ou m'arrête devant une forme qui semble s'imposer.
+
+La question directrice est la suivante :
+
+\begin{quote}
+Dans quelles conditions un objet déclenche-t-il chez un sujet un processus de
+construction ? Comment ce processus se poursuit-il, s'épuise-t-il ou se
+transforme-t-il ?
+\end{quote}
+
+Une chanson, une démonstration, une phrase ou une idée peut provoquer des
+comparaisons, donner envie de la relire ou de la réécouter et susciter des
+variations. Cet effet ne se réduit pas à la nouveauté : l'aléatoire surprend
+sans nécessairement intéresser. Il ne se réduit pas non plus à la beauté, à la
+popularité ou à une préférence donnée une fois pour toutes. Le travail devra
+donc situer l'intéressant parmi ces notions voisines, en donner une définition
+assez précise pour construire des contre-exemples, puis éprouver cette
+définition dans des pratiques effectives.
+
+\section{Un problème philosophique dispersé}
+
+Le mot \emph{intérêt} vient du latin \emph{interest} : « il importe » et « il y
+a une différence ». Le français conserve plusieurs sens : porter intérêt à une
+question, avoir intérêt à agir, défendre ses intérêts ou prêter à intérêt
+\parencite{academie2026interet,cnrtl2026interet}. Dans tous ces cas, quelque
+chose compte pour un sujet, mais ce « compter » peut désigner une attention, un
+enjeu pratique, un avantage ou une valeur monétaire. La thèse porte sur le
+premier sens tout en gardant à l'esprit cette histoire commune.
+
+La philosophie a étudié plusieurs dimensions de l'intéressant sous d'autres
+noms : jugement, invention, mémoire, attente, curiosité, surprise, ennui ou
+changement d'aspect. Chacun de ces concepts apporte une distinction utile. Le
+vrai évalue une proposition ; le beau relève d'un jugement esthétique ; la
+surprise marque un écart à l'attente ; la curiosité vise souvent la réponse à
+une question déjà formulée. Aucun n'explique seul pourquoi une forme met un
+sujet au travail et transforme ses manières de percevoir, de questionner ou
+d'agir.
+
+L'intéressant pourrait nommer cette fonction. On peut aimer un morceau sans le
+trouver intéressant, être surpris sans rien construire, reconnaître une
+proposition vraie sans vouloir la poursuivre, ou être mobilisé par un objet
+pénible et moralement condamnable. Il ne s'agit donc pas d'inventer un domaine
+entièrement neuf, mais de réunir un problème resté dispersé.
+
+\section{Garve : un antécédent direct}
+
+Dans \emph{Einige Gedanken über das Interessirende}, Christian Garve décrit en
+1779 la manière dont un objet fixe l'attention sans effort volontaire
+\parencite[253--274, 313--317]{garve1779interessirende}. L'attraction dépend du
+rapport entre l'objet et l'état antérieur du sujet. Elle se maintient tant que
+la suite conserve une part d'obscurité.
+
+Garve va plus loin. Une explication ne devient intéressante que si le sujet a
+d'abord éprouvé, même confusément, la difficulté qu'elle résout. L'idée nouvelle
+éclaire des pensées déjà présentes mais incomplètes, répare un manque rencontré
+dans une opération ou se construit avec des matériaux antérieurs. Lorsque
+l'issue devient certaine, l'activité diminue. On trouve donc déjà chez Garve la
+lacune aperçue, la dépendance à l'histoire du sujet, le désir de poursuivre, la
+construction et l'épuisement local de l'intérêt.
+
+La définition proposée ici ne sera pas présentée comme une découverte sans
+précédent. Son apport résidera dans une description plus systématique du
+processus, dans la distinction entre lacune, énigme, problème et contrainte,
+dans le passage de la réception à la création et dans l'étude de la
+récursivité. La reconstruction de \textcite{nannini2018garve} et le lexique de
+\textcite{nannini2018interesting} guideront ce retour au texte allemand.
+
+Ce travail donnera aussi lieu à un projet éditorial mené avec Christian Berner
+pour les éditions Vrin : une traduction française intégrale de l'essai de
+Garve, accompagnée d'une introduction et de notes. La traduction fait partie de
+la recherche, car les mots de l'intérêt, de l'attention, de la lacune et de
+l'activité mentale engagent directement l'interprétation du texte.
+
+\subsection{Pourquoi Garve n'a-t-il pas fait école ?}
+
+La réponse demandera une enquête historique. Une première cause possible est le
+déclassement de la \emph{Popularphilosophie}. Garve défendait une philosophie
+empirique, publique et utile, progressivement rejetée au profit de systèmes qui
+ont acquis une plus grande autorité \parencite{thompson2018garve,
+bachmannmedick2008anziehungskraft}. Une deuxième cause est le déplacement de la
+question vers l'esthétique : Kant organise le jugement de goût autour du
+désintéressement, puis Schlegel fait de l'intéressant un caractère de la poésie
+moderne opposé à la beauté antique \parencite{kant1993juger,
+schlegel2001study}. Une troisième cause est la dispersion du problème entre
+psychologie, sciences cognitives, esthétique, épistémologie et sciences de
+l'éducation.
+
+Quelques auteurs ont pourtant étudié directement l'intéressant. Stace, Kolnai,
+Ngai, Epstein et Grimm ont analysé sa valeur esthétique, discursive ou
+épistémique \parencite{stace1944interestingness,kolnai1964concept,
+ngai2008merely,epstein2009interesting,grimm2011interesting}. Plus récemment,
+\textcite{vazard2026inquiry} a distingué la curiosité, dirigée vers une question,
+de l'intérêt, dirigé vers un objet par une attention large et exploratoire.
+L'intérêt peut ainsi précéder la question qu'il contribuera à faire apparaître.
+Ces travaux montrent une histoire discontinue, sans théorie commune comparable
+à celles du vrai ou du beau.
+
+\subsection{Le risque de remplacer la question par une mesure}
+
+La recherche scientifique rend un problème traitable en le définissant, en le
+décomposant et en choisissant des mesures. Cette opération est indispensable,
+mais elle peut déplacer la question sans que ce déplacement soit aperçu.
+« Produire quelque chose d'intéressant » devient alors produire quelque chose
+de correct, de cohérent, de surprenant, de probable dans un corpus ou de
+conforme à des contraintes. Ces propriétés sont mesurables ; aucune ne suffit à
+décrire ce qu'un objet fait construire à un sujet.
+
+La thèse distinguera donc trois éléments : la cible initiale, l'indicateur choisi
+pour l'approcher et la procédure qui calcule ou optimise cet indicateur. Un bon
+score ne prouve pas que la cible a été atteinte. Inversement, un cas qui résiste
+à la mesure ne doit pas être éliminé pour cette seule raison. L'avertissement de
+\textcite{russell1995rationality} contre la mathématisation prématurée guidera
+ce travail : la précision gagnée sur un substitut peut faire perdre le problème
+que l'on voulait comprendre.
+
+La parcimonie tonale offre un exemple positif
+\parencite{pachet2026tonalparsimony}. L'analyse cherche d'abord des transitions
+harmoniques continues, puis un petit nombre de centres tonals. Certains passages
+résistent pourtant à cette compression : une analyse plus courte peut effacer
+une excursion ou deux fonctions volontairement distinctes. Ces cas ne sont pas
+écartés comme des anomalies ; ils montrent où le modèle doit être enrichi. Une
+formalisation utile doit ainsi conserver la trace de ce qu'elle ne saisit pas.
+
+\section{Définition et concepts principaux}
+
+Le noyau de la thèse peut être formulé ainsi :
+
+\begin{quote}
+\textbf{Est intéressant, pour un sujet, ce qui déclenche chez lui un processus
+de construction.}
+\end{quote}
+
+Construire ne signifie pas nécessairement fabriquer une chose. Le sujet
+construit lorsqu'il modifie sa manière de percevoir, de questionner, de
+comprendre ou d'agir : il fait une distinction, formule une question, relie des
+éléments, élabore une hypothèse, essaie une variation ou invente une opération.
+Une \emph{prise} est précisément l'un de ces résultats réutilisables : une
+distinction, une question, une comparaison, un modèle ou une opération qui
+permet de poursuivre. La simple exécution d'une procédure déjà maîtrisée ne
+suffit pas.
+
+La définition porte sur le déclenchement, pas sur la réussite. Le processus peut
+être bref, échouer, s'égarer, épuiser son objet ou produire une capacité
+nouvelle. Elle n'attribue pas non plus l'intéressant à l'objet seul. Une même
+forme peut intéresser un sujet et laisser un autre indifférent ; elle peut aussi
+cesser d'intéresser après apprentissage. Cette relation peut être notée
+\[
+  I(F,S\mid H,t),
+\]
+où \(F\) désigne la forme rencontrée, \(S\) le sujet, \(H\) son horizon social,
+culturel et technique, et \(t\) le moment. La notation rappelle les variables
+dont dépend le déclenchement ; elle ne remplace pas l'expérience par une mesure.
+
+La construction peut commencer avant que le sujet sache où elle mène. Un objet
+retient d'abord l'attention ; une différence se détache ; une question devient
+formulable ; une première réponse modifie ensuite la question. Cette suite ne
+forme pas toujours une progression régulière. Le sujet peut revenir en arrière,
+abandonner une piste ou comprendre que le problème était mal posé. L'enquête
+devra décrire ces parcours au lieu de réduire l'intérêt à la durée de
+l'attention ou au plaisir déclaré.
+
+J'appelle \emph{intérescence} le processus temporel ainsi ouvert : rupture avec
+l'indifférence, premières distinctions, constructions successives, puis
+abandon, nouvelle construction ou transmission. \emph{L'intéressant} qualifie
+le pouvoir de déclenchement ; \emph{l'intérescence} désigne ce qui arrive
+ensuite. Le terme reste une proposition. Il ne sera conservé que s'il aide à
+distinguer le déclenchement, la trajectoire et le passage d'un sujet à un autre.
+
+\subsection{De l'objet à la réification}
+
+Le mot \emph{objet} peut désigner tout ce qui se présente à un sujet et devient
+matière à perception, à question ou à action. Le latin \emph{objectum} signifie
+« ce qui est placé devant » ; le grec \emph{problēma} évoque lui aussi ce qui
+est jeté ou placé devant. Les deux mots n'ont pas la même racine, mais ils
+partagent une image : quelque chose se détache et appelle une réponse.
+
+Cela conduit à une hypothèse nouvelle : l'intéressant peut être à la racine de
+la réification. Ce qui devient intéressant se détache du fond. Le sujet le
+remarque, y revient, lui attribue des propriétés et commence à construire avec
+lui. Quelque chose devient ainsi un objet pour lui. La réification commence
+lorsque cette naissance relationnelle est oubliée et que l'objet paraît exister
+par lui-même. Il faut donc distinguer l'objectivation, qui rend une chose
+identifiable et manipulable, de la réification, qui efface l'histoire de cette
+construction \parencite{pachet2004reification}.
+
+Cette hypothèse concerne d'abord la réification vécue. Des institutions, des
+marchés, des classifications ou des programmes peuvent aussi imposer des objets
+à des personnes qui ne leur portaient aucun intérêt. La programmation par
+objets fournit ici une comparaison issue de la pratique de construction des
+systèmes, pas une filiation historique.
+
+\section{Propriétés à éprouver}
+
+La définition reste une hypothèse de travail. Les propriétés suivantes serviront
+à comparer les cas et à construire des objections :
+
+\begin{enumerate}
+  \item \textbf{Dépendance au sujet et au moment.} L'intéressant varie avec la
+        forme, le sujet, son histoire et la situation de la rencontre.
+  \item \textbf{Passage à l'activité.} Il peut conduire de l'indifférence à
+        l'attention, puis à une question, une émotion ou une action qui modifie
+        le sujet.
+  \item \textbf{Antériorité sur la question.} Un objet peut retenir l'attention
+        avant que le sujet sache ce qu'il cherche. Formuler la bonne question
+        peut être la première construction.
+  \item \textbf{Écart assimilable.} Il faut assez de différence pour appeler un
+        travail et assez de familiarité pour que ce travail puisse commencer.
+        Le déjà connu tend vers la trivialité ; l'étranger absolu vers le bruit.
+  \item \textbf{Production.} Une forme intéressante suscite des comparaisons,
+        hypothèses, questions ou variations qu'elle n'énonce pas elle-même.
+  \item \textbf{Incomplétude structurée.} Une lacune intéresse lorsqu'elle donne
+        aussi des indices pour construire ce qui manque ou reformuler le
+        problème.
+  \item \textbf{Transformation.} Une construction forte modifie les questions
+        formulables, les distinctions disponibles ou les actions concevables.
+  \item \textbf{Non-monotonie.} Plus d'information, de surprise ou d'attention
+        ne produit pas nécessairement plus d'intérêt. Une explication peut
+        aider la construction ou fermer trop vite l'indétermination.
+  \item \textbf{Épuisement ou relance.} Certaines énigmes perdent leur intérêt
+        une fois résolues ; d'autres font apparaître de nouvelles questions.
+  \item \textbf{Neutralité affective.} L'intéressant peut être agréable,
+        pénible, inquiétant ou répugnant. Il ne vaut pas approbation.
+  \item \textbf{Transmission indirecte.} On ne transmet pas l'intérêt comme une
+        propriété d'une chose. On peut préparer son apparition en installant
+        une attente, en faisant voir une différence ou en fournissant un point
+        de départ.
+  \item \textbf{Auto-application.} Le concept de l'intéressant peut lui-même
+        provoquer les distinctions et les révisions qu'il décrit.
+\end{enumerate}
+
+La difficulté ressentie devra recevoir une attention particulière. Une tâche
+trop facile est déjà résolue ; une résistance sans point de départ décourage la
+construction. La \emph{difficultuosité}, introduite dans \emph{La virtuosité à
+la portée des caniches}, désigne la relation entre un sujet, ses compétences et
+une performance perçue \parencite{pachet2027virtuosite}. La
+\emph{chalépodoxie} désigne un autre phénomène : la réputation sociale d'une
+difficulté peut servir à impressionner sans qu'aucune maîtrise soit acquise.
+Durée d'attention, opacité et prestige ne suffisent donc pas à prouver qu'une
+construction a lieu.
+
+Ces propriétés décrivent ensemble un « épluchage » de l'objet. Une première
+distinction dissipe une opacité, mais révèle souvent une nouvelle couche ou une
+nouvelle résistance. La distinction acquise devient alors un moyen pour
+l'opération suivante. Le processus peut s'arrêter parce que l'objet est épuisé,
+parce que le sujet manque de temps ou de moyens, parce que la résistance ne
+laisse plus aucun point de départ, ou simplement parce qu'il décide de finir.
+Une construction achevée n'épuise donc pas toujours l'intérêt de l'objet.
+
+\subsection{Peut-on rendre tout intéressant ?}
+
+Rendre une matière intéressante, ce n'est pas déposer dans l'esprit d'autrui un
+intérêt déjà formé. C'est accompagner le travail par lequel cette personne
+commence à voir des problèmes, des différences et des questions là où elle ne
+voyait qu'une matière indifférente. Cet accompagnement demande de l'ingéniosité
+au sens de l'ingénieur : le professeur construit les conditions d'une
+construction que l'élève devra accomplir lui-même.
+
+Gilles de La Ménardière racontait ainsi comment son professeur avait fini, contre
+toute attente, par lui rendre le droit administratif intéressant. Devenu
+conseiller d'État, il faisait à son tour partager son enthousiasme pour le
+problème du respect de la loi. Ce cas ne prouve pas que tout peut devenir
+intéressant. Il suggère un critère : l'enseignement réussit lorsque l'intérêt
+survit à la présence du professeur, que l'élève poursuit seul les questions
+découvertes et qu'il peut ensuite les faire découvrir.
+
+\section{Temps, apprentissage et récursivité}
+
+L'intérêt change avec l'apprentissage. Une régularité opaque peut devenir
+accessible, produire un gain de compréhension, puis perdre son pouvoir lorsque
+le sujet la maîtrise. Les théories du progrès de compression et de la motivation
+intrinsèque décrivent une version de cette évolution
+\parencite{schmidhuber2009compression,oudeyer2007intrinsic}. Les situations déjà
+maîtrisées et les situations inapprenables ont en commun de ne plus offrir de
+progrès ; entre les deux se trouvent des zones où une amélioration est possible.
+Cette idée rejoint la zone intermédiaire entre ennui et anxiété, sans réduire
+l'intéressant au seul état de \emph{flow}.
+
+Cette zone dépend du parcours. Une œuvre rencontrée trop tôt peut rester opaque,
+puis devenir intéressante après l'acquisition d'une distinction ou d'une
+technique. Elle peut ensuite sembler évidente et ne plus provoquer le même
+travail. L'objet n'a pas changé, mais le sujet n'est plus le même. L'expérience
+répétée peut aussi produire l'effet inverse : un détail négligé lors des
+premières rencontres devient le point de départ d'une nouvelle exploration.
+
+Le langage déplace cette frontière. Un mot, un concept ou une notation rassemble
+des distinctions et parfois des opérations en une unité réutilisable. Ce qui
+exigeait un travail devient le point de départ d'une construction nouvelle.
+Nommer ne suffit pourtant pas : un terme n'aide que s'il peut être déplié en
+comparaisons, prédictions, opérations ou exemples contrôlables.
+
+La construction transforme aussi le sujet. La relation possède donc une boucle
+temporelle :
+\[
+ I(F,S\mid H,t)\longrightarrow \text{construction}\longrightarrow S'
+ \longrightarrow I(F,S'\mid H,t+1).
+\]
+Le même objet est ensuite rencontré par un sujet dont les attentes et les
+capacités ont changé. La formule « l'intéressant est intéressant » décrit un
+cas particulier de cette boucle : comprendre pourquoi une chose intéresse peut
+devenir à son tour un objet de recherche. Cette fécondité ne garantit toutefois
+pas la vérité de la théorie.
+
+\section{Comment expliquer cette relation ?}
+
+L'analyse devra répondre à trois questions concrètes. Comment l'histoire d'un
+sujet change-t-elle ce qu'il remarque et ce qu'il peut faire ? Comment la
+mémoire et l'attente organisent-elles le temps de l'expérience ? Comment une
+forme d'ensemble produit-elle un effet que ses éléments isolés n'expliquent pas ?
+La philosophie du sujet, la phénoménologie du temps et l'étude des systèmes
+complexes fourniront des réponses à comparer
+\parencite{petitot1993phenomenologie,petitot2002naturaliser}.
+
+Spinoza fournit un repère important. Il refuse de traiter les affects humains
+comme un domaine séparé de la nature \parencite{spinoza1966ethique}. Les idées
+des affections enveloppent à la fois le corps du sujet et le corps extérieur qui
+l'affecte. Ce point aide à expliquer pourquoi l'intéressant ne se trouve ni dans
+la forme seule ni dans un état intérieur isolé. L'effet dépend de la rencontre,
+de l'histoire du sujet et des circonstances.
+
+L'explication comparera donc ce que les sujets racontent, ce qu'ils font, ce
+qu'ils apprennent, les propriétés des formes rencontrées et les modèles qui
+tentent de les décrire. Le plaisir de découvrir peut accompagner la
+construction, mais il ne la définit pas : une compréhension pénible peut rester
+intéressante, tandis qu'une explication agréable peut donner une impression de
+clarté sans produire de distinction nouvelle.
+
+\section{Cinq terrains d'étude}
+
+\subsection{Musique}
+
+La musique rend visibles les rapports entre mémoire, attente, surprise,
+résolution, répétition et épuisement. Meyer et Narmour ont montré que l'affect
+musical dépend d'attentes apprises, réalisées, retardées ou déjouées
+\parencite{meyer1956emotion,narmour1990basic}. L'enquête décrira des trajectoires
+d'attention à plusieurs échelles : détail mélodique ou harmonique, forme globale,
+histoire des écoutes et activité de l'auditeur.
+
+Les chansons Jotney fourniront un cas directeur : elles cherchent à maintenir
+une mélodie autonome et chantable tout en faisant voyager l'harmonie sans
+exhiber le procédé. \emph{Histoire d'une oreille} apporte deux moyens de les
+étudier \parencite{pachet2018oreille}. L'écoute superposée compare mentalement
+des variantes. L'\emph{optale} désigne le sentiment qu'une forme est un optimum
+local parce que ses variantes proches échouent ; la \emph{pseudoptale} rappelle
+que la familiarité peut simuler cette nécessité. La parcimonie tonale donnera
+un autre cas : une analyse compacte devient utile si elle permet d'anticiper,
+de varier ou d'intervenir, mais perd sa valeur lorsqu'elle efface une différence
+musicalement pertinente \parencite{pachet2026tonalparsimony}.
+
+La méthode consistera à comparer des passages et leurs variantes proches. Une
+modification locale peut préserver la correction harmonique tout en supprimant
+la tension qui appelait la suite ; une autre peut augmenter la surprise et
+rendre le passage arbitraire. Ces comparaisons permettront de décrire ce que
+l'auditeur anticipe, ce qu'il doit reconstruire et ce qu'il peut ensuite
+réutiliser dans une écoute ou une pratique musicale. Elles aideront aussi à
+distinguer l'effet d'une forme de celui de sa familiarité.
+
+\subsection{Intelligence artificielle}
+
+Les systèmes génératifs rendent explicites l'échantillonnage, la contrainte,
+l'évaluation, la sélection et la construction de modèles. Ils montrent aussi
+combien une mesure peut remplacer la question initiale. Produire une sortie
+correcte, cohérente, nouvelle ou conforme à des contraintes ne suffit pas à
+produire une sortie intéressante. Les métriques de surprise, de diversité, de
+préférence ou de popularité restent des indicateurs locaux.
+
+Les systèmes réflexifs et le Continuator permettent d'étudier la relation entre
+un sujet et une image imparfaite, continuellement révisée, de sa propre pratique
+\parencite{pachet2008machines,addessi2005experiments}. Les meilleures imitations
+immédiates ne donnent pas nécessairement les trajectoires les plus intéressantes.
+Une erreur peut être rejetée ou devenir un matériau selon ce qu'elle permet de
+faire ensuite. La qualité de l'interaction compte alors davantage que celle
+d'un résultat isolé.
+
+La succession des systèmes apporte elle-même une leçon. Les premiers modèles
+isolaient surtout des régularités musicales ; l'écoute active a introduit le
+parcours de l'utilisateur ; les machines de flow ont organisé une boucle entre
+le sujet et une image calculée de son jeu. Chaque étape a rendu certaines
+opérations plus visibles, mais aussi montré la limite de la représentation
+précédente. La thèse ne transformera pas cette histoire en doctrine unitaire.
+Elle s'en servira pour suivre les déplacements de la question.
+
+Les travaux sur la \emph{Hit Song Science} donnent un résultat négatif utile :
+sur 32 978 titres, des descripteurs audio et des étiquettes humaines ne classent
+pas la popularité au-delà du hasard \parencite{pachetroy2008hitsong}. L'exposition
+et l'influence sociale participent en effet à la production du succès
+\parencite{pachet2011hitsong}. La popularité ne peut donc pas servir de mesure
+simple de l'intéressant.
+
+La thèse traitera chaque formalisation comme une hypothèse locale. Elle séparera
+la cible, l'indicateur choisi et le comportement effectif du système. Les cas où
+le calcul réussit tout en effaçant une différence pertinente seront conservés :
+ils indiquent où la représentation doit être corrigée.
+
+Le résultat recherché ne sera donc pas un générateur universel d'objets
+intéressants. Un modèle plus modeste pourra déjà comparer les effets d'une même
+forme selon l'histoire des sujets, prévoir qu'un intérêt va s'épuiser après un
+apprentissage, ou expliquer pourquoi une production techniquement réussie ne
+permet aucune construction nouvelle. Les échecs de prédiction auront ici autant
+d'importance que les réussites s'ils obligent à préciser la relation étudiée.
+
+\subsection{Créativité, philosophie et littérature}
+
+La créativité distingue production du nouveau et production de l'intéressant.
+Une forme peut être inédite mais arbitraire ; une autre peut employer des
+matériaux connus et changer l'espace des possibles. Une solution intéressante
+fait parfois découvrir après coup le problème auquel elle répond. Cette
+reconstruction devra permettre des comparaisons ou des variations : elle ne
+peut pas être une justification inventée après chaque réussite
+\parencite{pachet2026impossibilite}.
+
+Les textes philosophiques aideront à préciser le concept, à révéler ses
+présupposés et à produire des contre-exemples. Ils permettront aussi d'étudier
+l'auto-application : une théorie de l'intéressant doit rendre compte des
+questions qu'elle fait naître, tout en distinguant cette fécondité de sa vérité.
+Le projet \emph{Snarky}, qui formalise la troisième partie de l'\emph{Éthique}
+de Spinoza, servira de cas. La formalisation n'assure pas une interprétation
+juste, mais oblige à reconstruire les dépendances entre définitions, axiomes et
+propositions.
+
+Cette appropriation active devra être séparée de la simple satisfaction d'avoir
+fabriqué quelque chose. Participer à la construction d'un objet peut augmenter
+sa valeur aux yeux du sujet, comme le montre l'effet IKEA
+\parencite{norton2012ikea}. Ce résultat ne prouve ni l'apprentissage ni la
+justesse de l'interprétation. Il invite seulement à comparer la valeur accordée
+au produit avec les distinctions réellement acquises pendant sa construction.
+
+La littérature montre comment le langage, la narration et le style orientent
+l'interprétation sans l'épuiser. Proust permettra de suivre des intérêts qui se
+forment et se transforment ; \emph{Bartleby}, leur déplacement du personnage
+vers le narrateur et le lecteur ; le \emph{Livre de Job}, une motivation morale
+intense qui ne devient pas nécessairement intérêt exploratoire chez le
+personnage \parencite{jps1985tanakh}. Ces comparaisons empêcheront de rebaptiser
+toute motivation « intérescence ».
+
+La littérature permettra aussi de distinguer une opacité structurée d'une
+promesse vide de profondeur. Un texte peut multiplier les commentaires parce
+qu'il fournit des indices et résiste aux paraphrases simples ; il peut aussi
+entretenir l'attente d'une clef qui n'arrive jamais. La comparaison de
+paraphrases, de continuations et de lectures concurrentes montrera si
+l'interprétation produit des distinctions transférables ou seulement une
+fascination.
+
+\section{Méthode, corpus et résultats attendus}
+
+La recherche partira de rencontres effectivement éprouvées : ce qui retient
+l'attention, la résistance rencontrée, ce que le sujet commence à faire, puis
+l'abandon ou la poursuite. Elle comparera ensuite les cas, formulera des
+distinctions et cherchera des contre-exemples. Le concept devra enfin revenir
+aux cas qui l'ont motivé afin de montrer ce qu'il explique et ce qui lui
+résiste.
+
+Les récits à la première personne auront une place précise. Ils permettront de
+repérer le moment où une différence apparaît, les essais accomplis et les
+changements de question. Ils ne vaudront pas à eux seuls comme preuve générale.
+Ils seront comparés aux propriétés des formes, aux comportements observables,
+aux variations construites et, lorsqu'ils existent, aux résultats
+expérimentaux. Aucun de ces matériaux ne suffira isolément.
+
+Le travail réunira :
+
+\begin{itemize}
+  \item l'analyse conceptuelle de l'intéressant et des notions voisines ;
+  \item la lecture directe de Garve et la reconstruction de sa réception ;
+  \item l'étude de cas musicaux, littéraires, scientifiques et philosophiques ;
+  \item la comparaison de variantes, de continuations, de paraphrases et
+        d'imitations ratées ;
+  \item l'analyse de systèmes construits et, lorsque cela est pertinent,
+        d'expériences sur l'attention, l'apprentissage et l'évolution des
+        jugements.
+\end{itemize}
+
+Trois niveaux resteront distincts : les résultats scientifiques et les
+propriétés effectives des systèmes ; les propositions philosophiques ; les
+comparaisons qui montrent ce qu'un cas permet de comprendre sans prétendre le
+démontrer. Une hypothèse gagnera en force si elle décrit une trajectoire,
+identifie les conditions d'une variation de l'intérêt, sépare des phénomènes
+jusque-là confondus ou permet de construire un contre-exemple.
+
+Le corpus principal réunira l'essai de Garve, \emph{Histoire d'une oreille}, les
+chansons Jotney, les essais sur l'impossibilité de créer et la virtuosité, des
+travaux sur les systèmes génératifs et les sources philosophiques et
+scientifiques directement mobilisées. Chaque source sera reliée à la
+proposition qu'elle soutient et à l'état réel de sa lecture.
+
+Le corpus sera organisé en trois ensembles : les textes directement analysés,
+les cas employés pour comparer ou objecter, et les lectures encore à mener.
+Cette distinction empêchera qu'une référence seulement repérée soit présentée
+comme une autorité déjà acquise. Elle permettra aussi de réduire le corpus si
+un texte n'éprouve aucune propriété précise du concept.
+
+La thèse vise cinq résultats :
+
+\begin{enumerate}
+  \item une histoire qui restitue Garve comme antécédent direct et explique
+        pourquoi il n'a pas fait école ;
+  \item une définition relationnelle et constructive de l'intéressant, ainsi
+        qu'une description du processus d'intérescence ;
+  \item un ensemble de propriétés permettant de comparer apparition,
+        poursuite, transmission et épuisement de l'intérêt ;
+  \item une hypothèse sur le rôle de l'intéressant dans la constitution d'un
+        objet puis, parfois, dans sa réification ;
+  \item une série d'épreuves dans la musique, l'IA, la créativité, la
+        philosophie et la littérature, avec une distinction constante entre
+        cible, indicateur et résultat effectif.
+\end{enumerate}
+
+\section{Plan de la thèse}
+
+\begin{enumerate}
+  \item \textbf{Constituer le problème} : notions voisines ; Garve ; raisons
+        pour lesquelles il n'a pas fait école ; histoire discontinue de
+        l'intéressant ; risque de remplacer la question par un indicateur.
+  \item \textbf{Construire le concept} : relation entre forme, sujet, horizon
+        et moment ; intérescence ; objet et réification ; propriétés ;
+        apprentissage ; récursivité.
+  \item \textbf{Le concept au travail} : musique ; intelligence artificielle ;
+        créativité ; philosophie ; littérature ; comparaison des résultats et
+        révision du concept.
+\end{enumerate}
+
+\section{Travaux personnels directement liés}
+
+\begin{itemize}
+  \item \emph{Histoire d'une oreille} décrit la formation d'une écoute musicale
+        et fournit plusieurs concepts employés ici \parencite{pachet2018oreille}.
+  \item Les travaux sur le Continuator et les systèmes réflexifs déplacent
+        l'évaluation du produit isolé vers l'interaction et l'appropriation
+        créative \parencite{pachet2004flowmachines,pachet2008machines}.
+  \item Les recherches sur la génération sous contraintes montrent la puissance
+        des modèles formels et les différences qu'ils risquent d'effacer
+        \parencite{pachet2026markov,pachet2026tonalparsimony}.
+  \item \emph{De l'impossibilité de créer} et \emph{La virtuosité à la portée
+        des caniches} étudient la nouveauté, la fin du processus créatif, la
+        difficultuosité et la chalépodoxie
+        \parencite{pachet2026impossibilite,pachet2027virtuosite}.
+  \item Les travaux sur la créativité musicale, la popularité et la composition
+        par feedback fournissent des résultats empiriques sur la relation entre
+        forme, expérience, jugement et contexte
+        \parencite{pachet2006creativity,pachetroy2008hitsong,martin2016creativeprocess}.
+\end{itemize}
+
+\printbibliography[keyword={francois-pachet},title={Travaux de François Pachet}]
+\printbibliography[notkeyword={francois-pachet},title={Autres références}]
+
+\end{document}
