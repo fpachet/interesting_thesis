@@ -38,6 +38,16 @@ la résistance ou la transformation qu'ils provoquent. Les quatre combinaisons s
 possibles : préféré et intéressant, préféré mais inintéressant, non préféré mais
 intéressant, ni préféré ni intéressant.
 
+Le contraste peut se formuler à l'intérieur même de l'expérience musicale. Je peux
+aimer le blues pour sa couleur, son expressivité, sa familiarité ou l'attachement qu'il
+suscite, sans que cette écoute engendre nécessairement de nouvelles constructions
+mentales. À l'inverse, le régime mélodico-harmonique nommé Jotney peut m'engager à
+anticiper des continuations, imaginer des harmonisations alternatives et reconstruire
+les contraintes résolues par la chanson. Cette opposition ne classe pas les genres :
+le blues peut devenir hautement constructif pour un autre sujet, ou pour le même sujet
+dans une autre pratique d'écoute. Elle distingue des régimes de relation esthétique,
+non des valeurs intrinsèques aux musiques.
+
 L'absence d'implication ne signifie pas indépendance causale. Une exposition rendue
 possible par la préférence peut faire naître un intérêt tardif ; un intérêt répété peut
 former un attachement ou une préférence ; la familiarité peut renforcer le goût tout en
@@ -61,3 +71,6 @@ une fin.
 - Le mauvais objet de `idea_0022` illustre le cas non préféré mais intéressant.
 - Justifie la méthode comportementale de `idea_0011`.
 - Renforce la neutralité axiologique de `idea_0117`.
+- Limite l'interprétation du régime Jotney de `idea_0111` : une structure propice aux
+  constructions ne les déclenche pas nécessairement pour toute oreille.
+- Distingue du goût le travail constructif décrit dans `idea_0123`.

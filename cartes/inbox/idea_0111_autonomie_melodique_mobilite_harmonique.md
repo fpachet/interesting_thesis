@@ -16,6 +16,8 @@ tags:
   - harmonie
   - accessibilite
   - invention
+  - construction
+  - ecoute
 ---
 ## Idée
 
@@ -38,6 +40,20 @@ manière dont ces deux dimensions se soutiennent. Les traits proposés (basse ch
 dominantes secondaires, pivots discrets, mélodie stable sous reharmonisation) sont des
 indices pour enquêter sur cet équilibre, pas sa définition par checklist.
 
+Ce régime de composition peut rendre possible un régime d'écoute lui aussi particulier,
+sans le déterminer automatiquement. L'auditeur peut anticiper plusieurs continuations,
+comparer mentalement des harmonisations voisines, reconstruire les contraintes qui
+motivent un détour et réentendre la mélodie à la lumière de ce qu'il vient de comprendre.
+La chanson ne procure alors pas seulement un plaisir ou un attachement : elle devient le
+support d'une activité constructive dont chaque prise peut en ouvrir une autre.
+
+Il faut donc distinguer la structure mélodico-harmonique de l'objet et la relation
+intéressante qui peut s'établir avec elle. Une chanson peut présenter des traits Jotney
+sans devenir constructive pour une oreille donnée ; inversement, d'autres musiques
+peuvent susciter des constructions par le rythme, le timbre, la forme ou l'interprétation.
+Jotney nomme ici une disposition particulièrement lisible à soutenir ce travail, non une
+garantie universelle d'intérêt.
+
 Cette proposition ne définit pas une supériorité universelle. D'autres traditions
 résolvent la tension compositionnelle par le rythme, le timbre, la modalité ou la
 dramaturgie mélodique. Jotney nomme une solution particulière au problème de réconcilier
@@ -47,10 +63,15 @@ accessibilité populaire et invention structurelle.
 
 La carte fournit une structure musicale plus précise que la formule générale du juste
 milieu entre ordre et surprise. L'intéressant peut naître de deux autonomies qui
-semblent incompatibles mais se contraignent mutuellement sans exhiber leur travail.
+semblent incompatibles mais se contraignent mutuellement sans exhiber leur travail. Le
+cas Jotney montre surtout comment une organisation musicale devient génératrice
+d'anticipations, de comparaisons et de reconstructions plutôt que simple objet de goût.
 
 ## Liens
 
 - Donne son cadre musical à la surprise nécessaire de `idea_0019`.
 - Cas particulier de la complexité invisible de `idea_0087`.
 - Situe musicalement la frontière du presque-apprenable de `idea_0107`.
+- Illustre le travail constructif de l'intéressant défini dans `idea_0123`.
+- Est limitée par `idea_0118` : une préférence ou une organisation musicale ne suffit
+  pas à garantir une relation intéressante.

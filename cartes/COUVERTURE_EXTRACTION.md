@@ -281,13 +281,13 @@ cartes pour une même proposition.
 
 | Pages | Noyaux examinés | Cartes | Statut |
 | --- | --- | --- | --- |
-| 1-4 | Essai développe : surprise nécessaire, propriété relationnelle et continuation simplement compétente | `idea_0019`, `idea_0032`, `idea_0084`, `idea_0111` | traité |
+| 1-4 | Essai développe : surprise nécessaire, propriété relationnelle et continuation simplement compétente | `idea_0019`, `idea_0032`, `idea_0084`, `idea_0111`, `idea_0123` | traité |
 | 5-9 | Version courte de l'essai et page blanche | cartes déjà rattachées au PDF court | doublon interne vérifie |
 | 10-13 | Variante d'essai et notes | `idea_0019`, `idea_0085`, `idea_0087` | traité ; formulations redondantes regroupées |
 | 14-18 | Dialogue exploratoire sur le nom et la définition | `idea_0111` | traité ; échanges metadiscursifs non autonomisés |
-| 19-23 | Traits harmoniques, mélodiques, structurels et checklist | `idea_0039`, `idea_0111` | indices analytiques inventoriés, non érigés en définition |
+| 19-23 | Traits harmoniques, mélodiques, structurels et checklist | `idea_0039`, `idea_0111`, `idea_0123` | indices analytiques inventoriés, non érigés en définition |
 | 24-27 | Cas, contre-exemples et implications théoriques | `idea_0107`, `idea_0111` | traité ; bande d'entropie classée comme hypothèse à tester |
-| 28-36 | Essai The Jotney Equilibrium | `idea_0039`, `idea_0084`, `idea_0111` | traité ; régime graduel distingué du genre |
+| 28-36 | Essai The Jotney Equilibrium | `idea_0039`, `idea_0084`, `idea_0111`, `idea_0123` | traité ; régime graduel distingué du genre |
 | 33-35 | Prosodie, géographie, cognition et contingence historique | - | programme empirique inventorié ; aucune conclusion attribuée |
 | 35-36 | Questions ouvertes et conclusion | cartes précédentes | programme de recherche inventorié |
 | 37-38 | Intercalaire et notes finales | - | exemples et anti-exemple inventoriés |

@@ -65,6 +65,14 @@ Cette rencontre conjugue trois conditions : une intelligibilité suffisante pour
 rester confuse, une singularité qui résiste au déjà-vu, et une fécondité qui ouvre des
 reprises, variations ou pensées nouvelles.
 
+La même mémoire peut ainsi entrer avec les musiques dans plusieurs régimes de relation.
+Un sujet peut aimer une forme pour sa familiarité, sa couleur affective ou son pouvoir
+identitaire sans qu'elle ouvre, à ce moment, de construction nouvelle ; une autre forme
+peut au contraire déclencher anticipations, comparaisons et révisions sans devenir sa
+préférée. Le contraste entre une affection pour le blues et une écoute constructive du
+régime Jotney illustre cette différence sans attribuer une valeur fixe aux genres : ce
+qui change est la relation entre la forme, la mémoire et les opérations disponibles.
+
 Cette relation n'est pas un état mental supplémentaire. Elle peut s'actualiser dans le
 sujet comme attention, curiosité, émotion, désir de reprise ou activité constructive,
 mais elle désigne le couplage qui rend ces passages possibles. L'objet contribue par ses
@@ -110,5 +118,7 @@ le subjectivisme qui rendrait toute explication impossible.
 - Généralise `idea_0029` au-delà des systèmes de croyances explicites.
 - Compatible avec le caractère relatif et temporel de `idea_0071`.
 - Le cas Jotney de `idea_0111` en donne une spécification musicale.
+- La distinction entre préférence et intérêt de `idea_0118` sépare les régimes affectif
+  et constructif que cette rencontre peut actualiser.
 - Le diagnostic de `idea_0116` explique pourquoi cette relation reste difficile à isoler.
 - Reçoit dans `idea_0161` son statut d'opérateur relationnel des transitions psychiques.

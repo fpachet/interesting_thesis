@@ -8,6 +8,7 @@ architecture: core
 sources:
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "input/old_docs/interestingness.pdf"
+  - "input/The Mystery of Jotney Songs -full.pdf"
   - "docs/Bachimont.pdf"
   - "docs/lectures/theses-comparaison-preuve-philosophique.md"
   - "docs/lectures/vazard-interet-attention.md"
@@ -23,6 +24,7 @@ references:
 source_notes:
   - "Histoire d'une oreille, apprentissages perceptifs et construction progressive d'une écoute, PDF p. 27-34 et 281-295"
   - "Schmidhuber, apprentissage de régularités et progrès de compression, PDF p. 1-3 et 20"
+  - "Dossier Jotney, régime mélodico-harmonique graduel, comparaison contrefactuelle des continuations et interdépendance mélodie-harmonie, PDF p. 2-4, 19-23 et 29-36"
   - "Le rapprochement avec les language games de Steels est une articulation proposée par la thèse"
   - "Bachimont, thèse, PDF p. 322-323 (pagination imprimée p. 310-311) : comprendre comme reconstruction et réactualisation de la question à laquelle la chose transmise répond."
   - "Anselin et Thalabard sont mobilisés comme comparants méthodologiques pour séparer exposition du modèle, objections et défense ; la définition révisée reste une proposition propre à cette thèse."
@@ -36,6 +38,8 @@ tags:
   - modelisation
   - categorisation
   - language-games
+  - musique
+  - jotney
 ---
 ## Idée
 
@@ -114,6 +118,23 @@ construction n'est donc pas seulement l'acquisition d'une représentation plus c
 de l'objet : elle transforme la question depuis laquelle l'objet et le sujet peuvent se
 répondre.
 
+## Cas musical : le régime Jotney
+
+Le régime mélodico-harmonique Jotney donne une forme particulièrement nette à cette
+activité. Une écoute constructive ne se borne pas à reconnaître ou à aimer la chanson :
+elle anticipe plusieurs continuations, éprouve mentalement des substitutions harmoniques,
+compare la solution entendue à des alternatives voisines et reconstruit le problème que
+résout l'équilibre entre autonomie mélodique et mobilité harmonique. La prise nouvelle
+peut être perceptive — entendre une note autrement —, explicative — comprendre la
+fonction d'un détour — ou opératoire — produire une variation qui conserve cet équilibre.
+
+Ce cas aide à distinguer l'intérêt du goût. Une préférence esthétique peut rester
+affective, identitaire ou hédonique sans ouvrir, dans une situation donnée, ce travail de
+construction. Inversement, une forme peut soutenir des constructions sans être la musique
+préférée du sujet. Jotney n'est donc ni un genre intrinsèquement supérieur ni une garantie
+d'intérêt : il désigne une organisation musicale susceptible, pour certaines oreilles et
+dans certains horizons, de rendre crédibles et fécondes des prises successives.
+
 ## Trois niveaux de construction
 
 **Construction perceptive et conceptuelle.** Le sujet extrait des invariants,
@@ -173,6 +194,9 @@ devient effectivement capable de produire.
 - Renforce la relation entre forme et mémoire de `idea_0084`.
 - Complète la boucle entre perception et création de `idea_0094`.
 - Trouve dans `idea_0085` une construction particulière : reconstruire le problème depuis sa solution.
+- Trouve dans le régime Jotney de `idea_0111` un cas musical où anticiper, comparer et
+  varier rendent la construction contrôlable.
+- Se distingue de la préférence esthétique grâce à `idea_0118`.
 - Donne à la construction de systèmes de `idea_0018`, `idea_0088` et `idea_0110` une place dans la définition centrale.
 - Est limitée par `idea_0124`, où la promesse de comprendre ne produit aucune prise vérifiable.
 - Est limitée et précisée par `idea_0160` : l'intérêt peut précéder la question et la

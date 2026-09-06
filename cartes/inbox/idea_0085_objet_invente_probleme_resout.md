@@ -103,6 +103,8 @@ forme déterminée au travail constructif du sujet : comprendre ce que la forme 
 - Proche de la surprise rétrospectivement nécessaire de `idea_0019`.
 - À rapprocher de la réification dans `idea_0076`.
 - Donne un contenu de résolution de problème au travail constructif de `idea_0123`.
+- La distinction de `idea_0118` empêche de confondre cette reconstruction avec le simple
+  fait d'aimer ou de préférer la chanson.
 - Se situe dans la zone de flow définie par `idea_0121` et dynamisée par `idea_0122`.
 - Fournit à `idea_0138` le cas où une solution fait énigme avant que son problème
   soit formulé.
