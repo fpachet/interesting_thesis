@@ -1,176 +1,89 @@
-# Pipeline de synchronisation des cartes et des documents
+# Mode de travail : trois documents actifs
 
-## Principe
+> **Règle adoptée le 8 septembre 2026.** Ce texte remplace l'ancien pipeline de
+> propagation systématique. Il documente l'organisation ; ce n'est pas un quatrième
+> document de contenu à mettre à jour après chaque échange.
 
-Les cartes sont le laboratoire propositionnel du projet, mais elles ne constituent pas
-automatiquement le plan de la thèse. Le pipeline doit propager immédiatement les faits
-documentaires et les vues calculées, tout en maintenant une décision éditoriale entre
-une carte et son entrée dans les synthèses ou le manuscrit.
+## Où écrire ?
 
-La règle générale est donc : **synchronisation mécanique immédiate, synchronisation
-conceptuelle par lots, versionnement du projet par états intellectuels archivés**.
-
-## Sources canoniques et produits dérivés
-
-| Élément | Statut | Règle d'édition |
+| Document actif | Responsabilité | Quand le modifier |
 | --- | --- | --- |
-| `cartes/inbox/*.md` | Source canonique des propositions | Éditer directement ; conserver proposition, niveau, provenance, références et limites. |
-| `bibliographie/references.bib` | Bibliographie canonique | Éditer directement ; une carte cite une clé existante et conserve séparément le fichier réellement lu. |
-| `cartes/indexes/*.md` | Vues éditoriales canoniques | Mettre à jour lorsqu'une carte est créée, reclassée ou change de fonction argumentative. |
-| `cartes/relations.tsv` | Graphe canonique des relations fortes | Ajouter seulement les relations directionnelles expliquées qui servent la démonstration. |
-| `cartes/REGISTRE_TRAITEMENT.md` et `cartes/COUVERTURE_EXTRACTION.md` | État canonique du corpus | Mettre à jour lorsque la lecture, la version d'une source ou la couverture change. |
-| `cartes/ORGANISATION.md` | Synthèse argumentative des cartes | Modifier quand un pivot, une famille ou une question ouverte change réellement. |
-| `projet-these/BUT_DE_LA_THESE.md` | Synthèse conceptuelle vivante | Propager les changements du noyau et les distinctions qui modifient la contribution. |
-| `projet-these/STRUCTURE_PROVISOIRE.md` | Architecture éditoriale vivante | Propager les changements de fonction des parties, laboratoires et cas. |
-| `projet-these/PLAN_ACTION_DEMONSTRATION.md` | Plan de travail vivant | Propager les nouveaux tests, objections et décisions encore nécessaires. |
-| `projet-these/projet-these-fr.tex` et `projet-these-en.tex` | Projet bilingue courant | Mettre à jour ensemble lorsqu'un lot est prêt, jamais par copie automatique d'une carte. |
-| `projet-these/versions/*` | Instantanés immuables | Créer à la fin d'un cycle ; ne pas corriger rétrospectivement sans note explicite. |
-| `cartes/catalogue-idees.tex` | Produit généré | Ne pas éditer directement ; régénérer depuis les cartes et l'index argumentatif. |
-| `output/pdf/catalogue-idees.pdf` | Produit compilé | Régénérer après le catalogue ; ne pas traiter comme source. |
-| `site/dist/` | Produit généré et non versionné | Régénérer localement pour vérifier ; GitHub Pages le reconstruit sur `main`. |
+| [Définition et défense](defense-concept-interessant.md) | Définition courante, arguments, objections et cas développés | Une idée ou une analyse fait progresser ou corrige le contenu de la thèse |
+| [Plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md) | Décisions, architecture de travail, état des livrables, prochaine étape | Une décision change le travail à faire ou son état |
+| [Projet français](../projet-these/projet-these-fr.tex) | Présentation synthétique destinée à un lecteur | Un lot argumenté mérite une nouvelle version de présentation |
 
-## Déclencheur : ajout ou modification d'une carte
+Ces documents ont des fonctions distinctes : la Défense fait autorité sur le contenu
+conceptuel courant ; le plan sur les décisions et le travail restant ; le projet
+français sur la dernière présentation rédigée. Une différence de maturité ou de date
+est signalée, pas masquée par une copie automatique. En septembre 2026, la Défense
+contient des développements post-V15 que le projet bilingue n'intègre pas encore.
 
-### 1. Préparer la carte
+## Les cartes restent l'atelier
 
-Vérifier :
+Les cartes conservent les propositions indépendantes et leurs provenances. Un exemple,
+une précision ou une objection locale enrichit d'abord la carte concernée ; il n'impose
+pas une nouvelle carte. Si la proposition centrale évolue, son relais `idea_0123`
+doit rester cohérent avec la Défense.
 
-- une proposition contestable et mobilisable indépendamment ;
-- `kind`, `level`, `status` et, si la fonction est décidée, `architecture` ;
-- les chemins `sources` correspondant aux versions effectivement lues ;
-- les pages ou sections dans `source_notes` ;
-- les clés `references` présentes dans la bibliographie ;
-- les limites d'inférence entre résultat scientifique et proposition philosophique.
+Les index et `relations.tsv` ne changent que si les titres, les affectations ou les
+relations changent. La bibliographie ne change que pour une référence ajoutée ou corrigée.
+Ce sont des données de soutien, pas des synthèses concurrentes.
 
-Une correction pure de provenance ne déclenche pas à elle seule une réécriture du
-projet de thèse. Une modification de la thèse d'une carte `CORE`, en revanche, impose
-un audit immédiat des synthèses.
+Le registre de traitement et la couverture sont mis à jour lorsqu'une lecture ou une
+extraction a réellement eu lieu. L'audit des propositions conserve les fusions,
+retraits et décisions de classement qui demandent une trace. Une simple reformulation
+ne justifie pas un nouvel audit narratif.
 
-### 2. Propager les dépendances canoniques
+## Documents conservés comme références
 
-Pour une nouvelle carte :
+Le [but](../projet-these/BUT_DE_LA_THESE.md), la
+[structure provisoire](../projet-these/STRUCTURE_PROVISOIRE.md),
+l'[organisation des cartes](../cartes/ORGANISATION.md) et la
+[matrice](matrice-tests-interessant.md) sont conservés avec un bandeau de statut.
+Ils ne sont plus des passages obligés de la synchronisation et ne définissent plus
+séparément la position courante. Leur contenu n'est ni supprimé ni tenu pour validé.
 
-1. ajouter ou corriger sa notice dans `bibliographie/references.bib` ;
-2. mettre à jour le registre et la couverture si une source a été nouvellement lue ou
-   si sa version a changé ;
-3. affecter la carte à exactement une famille dans `indexes/by_argument.md` ;
-4. l'ajouter aux index de niveau et de thème ;
-5. déclarer son statut architectural lorsqu'il est décidé ;
-6. ajouter les relations fortes utiles dans `relations.tsv` ;
-7. mettre à jour `ORGANISATION.md` seulement si l'équilibre d'une famille, un pivot ou
-   une question ouverte change.
+Une étude comparative ciblée peut justifier une nouvelle révision de la matrice :
+ce sera un travail explicite, daté, dont la conclusion rejoindra la Défense. Les
+notes de lecture, sources, témoignages et anciens audits restent consultables comme
+matériaux et traces ; on ne les réécrit pas pour les aligner sur une conclusion récente.
 
-Pour une carte modifiée, ne mettre à jour que les dépendances réellement touchées : une
-nouvelle source change la bibliographie ou la couverture ; un changement de fonction
-change les index et éventuellement l'organisation ; une simple reformulation locale ne
-doit pas produire artificiellement une cascade documentaire.
+## Adaptations et versions
 
-### 3. Qualifier l'impact éditorial
+Le français est la source éditoriale du projet de présentation. L'anglais est adapté
+lors de la préparation d'une version bilingue ; les versions diffusées et leurs
+instantanés doivent avoir les mêmes sections, hypothèses, citations et numéro.
+La version courte est adaptée pour un besoin de présentation ou de dossier.
 
-| Niveau d'impact | Exemple | Propagation requise |
-| --- | --- | --- |
-| `D0` — documentaire | Pages, version lue, statut de publication | Bibliographie, provenance, registre, catalogue et site. |
-| `D1` — local | Exemple, mécanisme ou limite sans changement du noyau | Index/relations si nécessaire ; inscrire dans le prochain audit. |
-| `D2` — architectural | Nouveau cas discriminant, objection ou laboratoire | Mettre à jour `STRUCTURE_PROVISOIRE.md` ou `PLAN_ACTION_DEMONSTRATION.md`. |
-| `D3` — central | Définition, proposition `CORE`, méthode ou contribution modifiée | Mettre à jour `BUT_DE_LA_THESE.md`, la structure et le plan ; préparer un lot bilingue. |
+Une version nommée enregistre un progrès identifiable, pas chaque échange. Compiler
+et relire les rendus concernés, renseigner le changelog, puis conserver les sources
+et la bibliographie correspondantes dans `projet-these/versions/`. Ne jamais corriger
+silencieusement les instantanés historiques. Une publication ou un envoi reste une
+action distincte de la préparation locale.
 
-Cette qualification empêche deux erreurs opposées : laisser les synthèses dériver trop
-loin des cartes, ou transformer le manuscrit en concaténation de toutes les cartes.
+## Catalogue et site : des vues, pas des sources
 
-## Audit de rattrapage périodique
+Le [catalogue au 8 septembre 2026](../archives/catalogue-idees/2026-09-08/README.md)
+est archivé avec son PDF, son LaTeX et la bibliographie utilisée. Il est figé :
+modifier les cartes n'impose plus de le régénérer. Si un nouvel export est demandé,
+le générateur écrit par défaut dans `output/catalogue-idees.tex`, sans toucher
+à l'archive.
 
-Chaque version du projet doit enregistrer un **commit d'ancrage** : le dernier commit
-où les projets FR/EN ont été relus comme homologues. Pour trouver les cartes changées
-depuis cette ancre, utiliser :
+Le site continue de proposer un catalogue navigable des cartes actuelles. Sa définition
+et sa question directrice sont extraites de la Défense ; ses questions de travail
+du plan ; son numéro de version du projet français. Un build actualise ces vues.
+Il n'actualise pas automatiquement les développements de présentation codés dans
+le générateur, ni les PDF de présentation. Pas de publication automatique à la suite
+d'un simple échange ; le déploiement GitHub Pages reste déclenché par un push sur main.
 
-```bash
-git diff --name-status <ancre> -- cartes/inbox
-git ls-files --others --exclude-standard cartes/inbox
-```
+## Boucle de travail minimale
 
-L'audit regroupe ensuite les cartes par dossier argumentatif et consigne pour chaque
-dossier : nouveauté, niveau d'impact, documents cibles, décision `intégrer`, `différer`
-ou `écarter`, et justification. Le fichier
-[`audit-rattrapage-v6-cartes-2026-08-23.md`](audit-rattrapage-v6-cartes-2026-08-23.md)
-constitue le premier exemple de ce format.
+1. Travailler un problème déterminé et rédiger le résultat dans la Défense.
+2. Ajuster les cartes directement concernées et leurs données si nécessaire.
+3. Noter une décision ou un changement d'état dans le plan, sans recopier l'argument.
+4. Lorsqu'un ensemble est prêt à être présenté, réviser le projet français puis les
+   adaptations nécessaires ; vérifier les rendus et les liens concernés.
 
-Un audit est requis :
-
-- avant toute nouvelle version bilingue ;
-- après une modification substantielle d'une carte `CORE` ;
-- après l'ajout d'un groupe cohérent de cas ou d'objections ;
-- lorsqu'un document de synthèse n'a pas été revu depuis plusieurs ajouts de cartes.
-
-## Mise à jour des synthèses
-
-La propagation éditoriale suit cet ordre :
-
-1. `BUT_DE_LA_THESE.md` — ce que la thèse veut établir, avec quelles limites ;
-2. `STRUCTURE_PROVISOIRE.md` — où et dans quelle fonction le nouvel élément intervient ;
-3. `PLAN_ACTION_DEMONSTRATION.md` — ce qui doit encore être prouvé, comparé ou testé ;
-4. projets FR/EN — rédaction publique d'un état prêt à être archivé.
-
-Une carte d'architecture `case` doit entrer dans une synthèse par sa fonction
-argumentative, non par la richesse de son domaine. Une carte `speculative` reste
-normalement dans l'audit et le programme de recherche. Une carte de niveau `scientific`
-ne devient pas une conclusion philosophique sans une carte de niveau `articulation`
-qui explicite et limite le passage.
-
-## Cycle d'une nouvelle version bilingue
-
-Une fois le lot conceptuel achevé :
-
-1. choisir le nouveau numéro de version avant les modifications de fond ;
-2. modifier la version française puis produire et relire la version anglaise homologue ;
-3. vérifier mêmes sections, hypothèses, exemples, citations et numéro de version ;
-4. compiler les deux projets ;
-5. mettre à jour `projet-these/CHANGELOG.md` ;
-6. copier exactement les deux sources validées dans
-   `projet-these/versions/projet-these-vN-{fr,en}.tex` ;
-7. archiver la bibliographie sous `projet-these/versions/references-vN.bib` ;
-8. vérifier que les trois fichiers archivés correspondent aux sources compilées ;
-9. enregistrer le commit final comme nouvelle ancre de synchronisation.
-
-Les fichiers courants ne doivent pas conserver un ancien numéro après une modification
-de fond postérieure à l'instantané portant ce numéro.
-
-## Génération et contrôles locaux
-
-Depuis la racine du dépôt :
-
-```bash
-python3 scripts/generate_card_catalog.py
-mkdir -p output/pdf
-latexmk -pdf -interaction=nonstopmode -halt-on-error \
-  -output-directory=output/pdf cartes/catalogue-idees.tex
-python3 scripts/generate_thesis_site.py
-git diff --check
-```
-
-Le générateur du catalogue contrôle notamment que l'index argumentatif est exhaustif,
-sans doublon ni identifiant inconnu. Le générateur du site relit les cartes, la
-bibliographie, l'index argumentatif, l'index thématique, les relations, le but de la
-thèse, l'organisation et le registre. Une génération réussie ne prouve toutefois pas
-que les synthèses éditoriales sont conceptuellement à jour : c'est précisément la
-fonction de l'audit.
-
-Pour tester le site sans modifier la sortie locale habituelle :
-
-```bash
-python3 scripts/generate_thesis_site.py --output /tmp/interesting-thesis-site
-```
-
-Sur `main`, `.github/workflows/deploy-site.yml` reconstruit et publie automatiquement
-`site/dist/`. Ce dossier ne doit pas être versionné ni corrigé manuellement.
-
-## Critère de fin
-
-Une modification est complètement propagée lorsque :
-
-- la carte et ses sources canoniques sont cohérentes ;
-- les index, relations et registres concernés sont à jour ;
-- l'impact éditorial est décidé et consigné, même si la décision est de différer ;
-- les synthèses requises par le niveau d'impact ont été mises à jour ;
-- les produits générés compilent ;
-- si un nouveau projet est publié, les versions FR/EN, le changelog, les instantanés et
-  la bibliographie archivée correspondent exactement.
+Le futur document **« thèse dans l'état présent »** est un manuscrit continu à préparer
+plus tard, pas un export des cartes ni un quatrième résumé à entretenir dès maintenant.
+Sa place dans cette organisation sera fixée au début de sa rédaction.

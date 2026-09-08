@@ -10,6 +10,7 @@ __pycache__/
 output/*.md
 output/*.txt
 output/pdf/
+output/catalogue-idees.tex
 output/graph/
 !output/.gitkeep
 

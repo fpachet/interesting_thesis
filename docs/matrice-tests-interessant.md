@@ -1,6 +1,17 @@
 # Matrice de tests du concept d'intéressant
 
+> **Outil de référence, état du 8 septembre 2026.** Pas de synchronisation
+> systématique avec chaque évolution de la définition. Les verdicts ci-dessous
+> restent provisoires ; une révision comparative ciblée sera datée explicitement
+> et sa conclusion reprise dans la [Défense](defense-concept-interessant.md).
+
 ## 1. Mode d'emploi
+
+La [Défense](defense-concept-interessant.md) fixe la définition courante et ses
+objections. Consolidation du 8 septembre 2026 : distinguer le déclenchement de la
+construction, les modèles de maintien et la fécondité. Les derniers échanges sur
+*Honey Pie* précisent D7 et une épreuve de la réciproque de la définition ; ils ne
+changent pas automatiquement les verdicts comparatifs ci-dessous.
 
 Cette matrice compare quatorze familles d'explication à dix desiderata, puis ajoute une
 comparaison catégoriale de l'attention, des curiosités naturelle et artificielle, des
@@ -116,7 +127,8 @@ des redéscriptions architectoniques.
 
 ### 4.1 Ce que la conception constructive gagne
 
-Elle est la seule candidate de la comparaison à articuler d'un même geste :
+L'avantage recherché est d'articuler les dimensions suivantes, sans tenir pour
+acquise l'incapacité des autres théories à les réunir :
 
 1. la relativité au sujet sans réduction à la préférence ;
 2. la dynamique temporelle sans réduction à la nouveauté ;
@@ -124,8 +136,9 @@ Elle est la seule candidate de la comparaison à articuler d'un même geste :
 4. un résultat cognitif sans exiger vérité ni compréhension achevée ;
 5. la différence entre promesse, réussite, fascination et épuisement.
 
-Son avantage est principalement **architectonique** : elle intègre des mécanismes que
-les autres théories isolent. Ce n'est pas encore une victoire expérimentale.
+L'argument proposé est principalement **architectonique** : réunir des mécanismes
+partiels. Il reste à montrer que cette articulation apporte un pouvoir explicatif
+supplémentaire ; la matrice n'est pas une démonstration de sa supériorité.
 
 ### 4.2 Ses concurrents les plus sérieux
 
@@ -159,6 +172,19 @@ progrès local observable, variété d'opérations déjà réussies, résistance
 paraphrase vide, convergence intersubjective minimale et coût d'exploration borné.
 
 ## 5. Programme de tests prioritaires
+
+**Épreuve conceptuelle immédiate : construction sans intérêt (O12).** Comparer une
+recherche effectivement intéressée, comme celle rapportée dans le
+[dossier Honey Pie](notes/honey-pie-jotney.md), à une analyse où le sujet produit
+réellement des distinctions ou des essais nouveaux tout en la trouvant ennuyeuse.
+Décrire séparément opérations, raisons de poursuivre et intérêt éprouvé. La
+prescription n'exclut pas ce contre-exemple ; la liberté de choisir ne suffit pas
+à attester l'intérêt. Cette épreuve vise la suffisance de la construction, tandis
+que la contemplation sans transformation attestable en vise la nécessité.
+
+Pour D7, séparer l'épuisement de l'énigme du fonctionnement et une éventuelle
+relance vers « comment a-t-il trouvé cette idée ? ». Cette relance est une
+hypothèse issue de la discussion, non un résultat observé ni une suite obligatoire.
 
 | Priorité | Contraste | Mesure recherchée | Théories départagées |
 |---|---|---|---|

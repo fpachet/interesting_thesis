@@ -422,4 +422,4 @@ cas, limitation de portée, concession ou révision — dont le coût reste visi
 - Note préparatoire : `docs/lectures/theses-comparaison-preuve-philosophique.md`.
 - Projet courant : `projet-these/projet-these-fr.tex` et
   `projet-these/BUT_DE_LA_THESE.md`.
-- Catalogue : `cartes/catalogue-idees.tex` et `cartes/inbox/`.
+- Catalogue : [instantané archivé au 8 septembre 2026](../archives/catalogue-idees/2026-09-08/README.md) ; cartes actives dans `cartes/inbox/`.

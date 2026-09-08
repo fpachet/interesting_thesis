@@ -1,12 +1,27 @@
 # Défense de la conception constructive de l'intéressant
 
-> **Statut :** première version autonome, destinée à être attaquée et révisée.
+> **Référence centrale de travail, consolidée le 8 septembre 2026.** Ce document
+> rassemble la définition courante, ses développements et ses objections. La carte
+> `idea_0123` en est le relais dans le corpus ; les documents de référence y renvoient.
+> Consolidation postérieure à la V15 bilingue, qui reste un état archivé distinct.
 > Les propositions sont classées `CORE`, `DERIVED`, `MODEL`, `CASE`, `OBJECTION`
 > ou `SPECULATIVE`. Une réponse provisoire n'est pas une objection résolue.
 
+Le [plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md) porte les décisions,
+l'architecture de rédaction et le travail restant. Le
+[projet français](../projet-these/projet-these-fr.tex) en présente périodiquement
+une synthèse pour un lecteur ; il ne remplace pas ce dossier de travail.
+
+## Question directrice
+
+Dans quelles conditions un objet déclenche-t-il chez un sujet un processus de
+construction ? Comment ce processus se poursuit-il, s'épuise-t-il ou se transforme-t-il ?
+
 ## Thèse défendue
 
-La proposition centrale est la suivante :
+### Définition courante et portée
+
+La proposition centrale est conservée sans ajout de condition :
 
 > **Définition D (`CORE`).** Est intéressant, pour un sujet, ce qui déclenche chez lui
 > un processus de construction.
@@ -17,16 +32,53 @@ modéliser, essayer, produire ou inventer une opération. La définition ne dit 
 l'objet contient l'intérêt et ne fait pas de la réussite finale une condition
 rétrospective : une construction déclenchée peut échouer.
 
-Elle distingue désormais, à la suite de Juliette Vazard, une orientation faible et une
+La formulation est une **définition candidate**, non une équivalence démontrée.
+Elle engage deux directions à examiner séparément :
+
+- **Intérêt → construction :** toute rencontre intéressante engage-t-elle une
+  transformation, même perceptive ou tacite ? La contemplation peut résister à cette
+  proposition (O2, O7).
+- **Construction déclenchée → intérêt :** une rencontre qui fait effectivement
+  construire est-elle nécessairement intéressante pour le sujet ? Une analyse
+  imposée mais réellement inventive peut résister à cette réciproque (O12).
+
+Le cas *Honey Pie* documente leur conjonction dans une expérience rapportée, pas leur
+équivalence générale. La simple possession d'un savoir analytique n'est pas non plus
+le déclenchement d'une construction : ces deux contre-épreuves ne sont pas identiques.
+
+La conception distingue, à la suite de Juliette Vazard, une orientation faible et une
 orientation forte. L'intérêt peut d'abord maintenir une attention large sur un objet
 avant que la question pertinente soit disponible ; la construction devient orientée
 lorsqu'une différence, une résistance ou une opération rend une prise déterminable.
+
+« **Comment ça marche ?** » peut manifester ce basculement : examiner des relations,
+essayer une variation, chercher ce qui produit un effet. « J'aime, j'adore, je déteste »
+expriment une appréciation ; l'exploration peut coexister avec elle sans s'y réduire.
+Cette question n'est ni obligatoire, ni nécessairement verbalisée. L'attention peut
+la précéder, et le travail pratique peut la porter sans discours explicite.
 
 Le néologisme **intérescence** désigne le processus déclenché : rupture de
 l'indifférence, construction, transformations, épuisement, reprise ou transmission.
 L'intéressant qualifie le pouvoir déclencheur de la rencontre ; l'intérescence nomme la
 dynamique qu'elle met en mouvement. L'intérêt éprouvé, l'attention, la curiosité et les
 émotions en sont des manifestations possibles dans le sujet.
+
+### Ce qui relève de la définition et ce qui la développe
+
+| Élément | Rôle et statut de travail |
+| --- | --- |
+| Déclenchement d'une construction | Définition D (`CORE`), dont la généralité est à défendre. |
+| Maintien de l'activité | Hypothèse dynamique (`MODEL`) : quelque chose reste à explorer avec une prise possible ; ce n'est pas une condition ajoutée au premier instant. |
+| Prise effectivement acquise | Résultat : caractérise la fécondité, pas l'existence rétrospective de l'intérêt. |
+| Épuisement de l'énigme | Hypothèse locale (`MODEL`) sur la fin d'une recherche déterminée, pas sur la disparition de toute relation à l'objet. |
+| Relance vers une autre question | Possibilité dérivée (`DERIVED`) : une construction accomplie peut en ouvrir une autre ; elle ne le fait pas nécessairement. |
+| Intérêt éprouvé, plaisir, surprise | Manifestations à distinguer de la construction et à décrire sans les déduire les unes des autres. |
+
+L'ancienne formulation longue centrée sur une activité « ouverte et soutenue » et une
+« prise nouvelle crédible » n'est plus une définition concurrente. Elle est conservée
+comme modèle du maintien et de l'orientation de certaines explorations. La formule
+« reconstruire le problème dont l'objet est la solution » décrit, elle aussi, une
+opération particulière, non une seconde définition générale.
 
 La justification recherchée est **différentielle et abductive**. D sera préférable si
 elle satisfait des contraintes fixées indépendamment, distingue des cas que ses rivales
@@ -51,7 +103,7 @@ servir à la mettre en défaut.
 | D9 | Une chose peut captiver en promettant une compréhension qui n'advient pas | Pseudo-profondeur et fascination promissive (`idea_0124`) | Déduire la fécondité de la durée d'attention |
 | D10 | L'intérêt fécond peut produire de nouvelles capacités | Discriminer, anticiper, varier, transférer, intervenir, reconstruire (`idea_0123`) | Ne décrire qu'une réaction sans transformation |
 
-Deux cas supplémentaires sont des tests de bord, non des desiderata déjà établis :
+Trois cas supplémentaires sont des tests de bord, non des desiderata déjà établis :
 
 - **D11 (`OBJECTION`) :** un visage, un paysage ou une expérience contemplative
   peuvent-ils être intéressants sans construction attestable ?
@@ -79,8 +131,9 @@ orientation, maintien ou relance, transformation — et non une substance psychi
 
 ### 2.2 Quatre régimes
 
-1. **Intérêt occurrent (`CORE`).** Une rencontre ouvre effectivement et soutient une
-   activité orientée vers une prise crédible.
+1. **Intérêt occurrent (`CORE`, selon D).** Une rencontre déclenche effectivement une
+   construction. Son maintien et l'apparition d'une prise déterminée demandent une
+   description supplémentaire ; ils ne sont pas exigés dès le premier instant.
 2. **Intérêt dispositionnel (`DERIVED`).** Une forme est susceptible d'ouvrir cette
    activité pour un sujet dans des conditions déterminées, même si la rencontre
    actuelle est empêchée par le temps, la fatigue ou l'inattention.
@@ -89,10 +142,8 @@ orientation, maintien ou relance, transformation — et non une substance psychi
    mais aucune prise contrôlable n'est livrée ; la crédibilité peut être réelle pour le
    sujet tout en étant mal calibrée.
 
-L'**épuisement** n'est pas l'échec initial de l'intérêt. Il survient lorsque, dans
-l'horizon présent, aucune prise supplémentaire ne paraît crédible. La **relance** se
-produit lorsqu'une prise ou une résistance déplace cet horizon et fait apparaître une
-nouvelle question.
+L'**épuisement local** et la **relance** concernent la trajectoire de ces expériences,
+non deux résultats obligatoires de toute rencontre (voir section 2.5).
 
 ### 2.3 Captation, jugement et fécondité
 
@@ -123,14 +174,61 @@ formation, la pratique, le corpus connu, la langue, les consignes ou les normes 
 groupe. Si `H` n'est ajouté qu'après coup pour sauver la prédiction, il ne joue aucun
 rôle explicatif.
 
+### 2.5 Maintien, épuisement local et relance
+
+L'hypothèse formulée par l'auteur à partir de *Honey Pie* est une première
+approximation : l'intérêt de la recherche se maintient tant que l'énigme du
+fonctionnement n'est pas épuisée. Cela suppose qu'il reste quelque chose à chercher
+et une possibilité d'exploration : l'incompréhension seule peut laisser indifférent
+ou décourager. Cette hypothèse ne définit pas tout intérêt par une énigme et ne rend
+pas le maintien obligatoire jusqu'à sa résolution ; on peut aussi abandonner.
+
+Une fois l'astuce comprise, cette recherche peut s'achever. Mais une nouvelle question
+peut apparaître : **« Comment a-t-il trouvé cette idée ? »** Comprendre comment une
+forme fonctionne n'est pas encore comprendre comment elle a pu être inventée. Une
+construction achevée peut ainsi ouvrir une construction nouvelle. Le terme
+« supérieur », proposé par l'auteur, peut se lire comme un second niveau portant
+sur l'invention, sans hiérarchie de valeur ou d'intensité établie.
+
+Cette relance est possible, non automatique. La genèse historique demanderait des
+sources sur la composition ; explorer des chemins possibles d'invention relève
+d'une reconstruction qui ne prouve pas ce que le compositeur a effectivement fait.
+Enfin, continuer à aimer ou à jouer le passage une fois compris n'atteste pas, à soi
+seul, la continuation de l'intérêt constructif. Il faut décrire ce qui s'y poursuit
+ou s'y renouvelle, sans déclarer par principe la réécoute épuisée.
+
 ## 3. Attester une construction sans circularité
+
+### 3.1 Le cas Honey Pie : ce qui est désormais rapporté
+
+Le [dossier Honey Pie](notes/honey-pie-jotney.md) distingue l'essai de la V15 du
+témoignage recueilli ensuite. L'auteur rapporte avoir cherché les accords à la guitare,
+rencontré une difficulté avec Sol majeur–Mi bémol septième, puis éprouvé une seconde
+surprise : l'accord suivant, Mi septième, semblait expliquer l'étrangeté du précédent.
+Il dit avoir joué avec le fragment jusqu'à saisir une astuce comparable à celle d'un
+tour de magie. Il évoque aussi la possibilité d'en supprimer un passage pour retrouver
+un enchaînement standard, sans en avoir encore précisé le découpage.
+
+La construction n'est donc plus seulement illustrée par une liste d'opérations
+possibles : elle est rapportée comme recherche instrumentale et jeu avec le fragment.
+L'opposition du dehors et du dedans distingue suivre l'effet et examiner son
+fonctionnement ; l'écoute analytique peut elle aussi être intéressée. Ce cas donne
+un contenu au mot « construction », sans valoir comme preuve universelle ni comme
+observation enregistrée au moment des faits. La relance vers l'invention est une
+hypothèse proposée ensuite par l'auteur, pas une étape attestée de ce même récit.
+
+### 3.2 Indices de construction, conditions et résultats
 
 Le mot « construction » ne peut pas désigner toute interprétation produite après coup.
 Le déclenchement doit modifier l'activité du sujet et laisser des traces qui puissent
 être décrites indépendamment du verdict « c'était intéressant ».
 
-Un processus de construction est **engagé pour `S` à `t`** lorsqu'au moins un faisceau
-des indices suivants est présent :
+Pour examiner si une construction est **engagée pour `S` à `t`**, on cherchera des
+opérations effectivement entreprises et leur rapport à l'objet. Les conditions qui
+les rendent possibles ne suffisent pas à attester leur engagement. Les six repères
+ci-dessous ont donc des rôles différents : ancrage, analogie, confiance et possibilité
+d'essai indiquent des ressources ; résistance informative et progrès éventuel
+renseignent sur le déroulement ou le résultat.
 
 > **Statut (`MODEL`).** Cette liste est un premier modèle opératoire des traces de
 > construction, non une analyse conceptuelle tenue pour acquise.
@@ -148,7 +246,9 @@ des indices suivants est présent :
 6. **Possibilité d'essai.** Le sujet dispose d'une opération déterminée à tenter et
    peut reconnaître au moins certains modes d'échec.
 
-Aucun indice n'est isolément nécessaire ou suffisant. Leur rôle est d'empêcher que la
+Aucun indice n'est isolément nécessaire ou suffisant pour établir l'intérêt. Un progrès
+réussi n'est pas nécessaire pour attester une tentative de construction. Leur rôle est
+d'empêcher que la
 crédibilité ne soit définie par la seule persistance subjective. La fascination
 promissive est précisément le cas où les signes de crédibilité sont entretenus, mais ne
 se convertissent pas en progrès ou en résistance informative.
@@ -382,6 +482,33 @@ plus général n'est pas établi.
 **Statut :** hypothèse centrale nouvelle, directement réfutable par absence de pouvoir
 explicatif différentiel.
 
+### O12 - Construction sans intérêt
+
+**Objection forte.** Une analyse prescrite peut faire produire des distinctions,
+des hypothèses et des essais nouveaux tout en restant ennuyeuse pour celui qui
+l'accomplit. Elle satisfait alors le sens non trivial de « construction » sans
+être vécue comme intéressante. L'objection vise la réciproque de D, non la seule
+possession d'un savoir déjà acquis.
+
+**Réponse provisoire.** Il faut distinguer la cause de la mise au travail et ce qui
+en soutient l'exploration : consigne, enjeu externe, difficulté rencontrée, question
+que le sujet reprend à son compte. Mais cette distinction ne résout pas l'objection.
+Une activité prescrite peut devenir intéressante ; une activité libre peut ennuyer.
+La spontanéité, le plaisir et le volontariat ne sont donc pas des critères décisifs.
+
+**Épreuve à conduire.** Comparer le récit de recherche de *Honey Pie* à un cas où
+une analyse réellement constructive reste sans intérêt pour le sujet. Décrire
+séparément ses opérations, ses raisons de poursuivre et son appréciation, sans
+déduire l'intérêt de la seule réussite ou de la durée du travail.
+
+**Révision possible.** Si le contre-exemple résiste, restreindre D à une condition
+nécessaire ou à une famille de relations intéressantes, ou chercher une condition
+supplémentaire spécifiable sans circularité. Aucune de ces révisions n'est adoptée
+à ce stade.
+
+**Statut : ouverte et prioritaire.** La consolidation clarifie la difficulté ; elle
+ne la déclare pas résolue.
+
 ## 7. Conditions de révision ou d'abandon
 
 La théorie doit être révisée si l'un des résultats suivants se confirme :
@@ -389,9 +516,10 @@ La théorie doit être révisée si l'un des résultats suivants se confirme :
 1. **Intérêt sans transformation.** Des sujets compétents décrivent durablement des
    expériences comme intéressantes sans qu'aucune modification perceptive, affective,
    conceptuelle ou opératoire ne soit détectable, même dans les reprises ultérieures.
-2. **Construction sans intérêt.** Des activités satisfont régulièrement tous les
-   critères de prise et de crédibilité, mais sont jugées non intéressantes par les mêmes
-   sujets, indépendamment de la fatigue ou de contraintes externes.
+2. **Construction sans intérêt.** Des activités engagent réellement des opérations
+   nouvelles, éventuellement jusqu'à des prises robustes, mais restent non
+   intéressantes pour les sujets. Le contexte prescrit doit être documenté, non
+   exclu par principe pour protéger D (O12).
 3. **Absence de pouvoir différentiel.** Plaisir, curiosité, pertinence ou progrès
    d'apprentissage prédisent tous les cas aussi bien que D, sans résidu supplémentaire.
 4. **Horizon non prédictif.** Les variables attribuées à `H` n'améliorent aucune
@@ -415,16 +543,17 @@ opérationnelle.
 
 ## 8. Bilan provisoire
 
-La conception constructive explique mieux que les modèles mono-variables la
-combinaison suivante : dépendance au sujet et au chemin, maintien temporel,
-transformation possible, distinction entre promesse et réussite, extinction et relance.
-Son avantage n'est cependant pas acquis. Elle reste vulnérable sur cinq points : la
-crédibilité, la contemplation, le caractère partageable du jugement, le statut des
-constructions fausses mais puissantes et la portée explicative réelle de la métaphore
-du moteur.
+La définition courte D reste la proposition à défendre. Le dossier distingue désormais
+ce qu'elle affirme du déclenchement, ce que les modèles proposent sur le maintien et
+ce que les résultats permettent de dire de la fécondité. *Honey Pie* rend cette
+distinction concrète ; l'épuisement local et la relance vers l'invention précisent une
+dynamique possible, sans établir l'équivalence générale entre intérêt et construction.
 
-La thèse la plus défendable n'est donc pas : « toute chose intéressante produit une
-compréhension ». Elle est plus étroite : **dans une classe importante de rencontres,
-l'intérêt est le régime prospectif qui sélectionne et soutient une transformation
-possible ; sa fécondité se mesure aux prises effectivement acquises, sans que celles-ci
-garantissent la vérité ou la valeur.**
+L'avantage sur les théories concurrentes reste à argumenter. Les deux épreuves
+prioritaires portent sur l'intérêt sans construction attestable (O2, O7) et sur la
+construction sans intérêt (O12). Les difficultés de crédibilité, de jugement public,
+de constructions fausses et de pouvoir explicatif du « moteur » demeurent ouvertes.
+
+**Prochain travail argumentatif :** rédiger le contraste avec une construction vécue
+comme ennuyeuse, puis décider ce qu'il impose à D. Les questions musicologiques
+restantes documenteront le cas ; elles ne sont pas un préalable à cette épreuve.

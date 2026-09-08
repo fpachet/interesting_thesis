@@ -69,7 +69,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0004` - L'ennui est le prix de l'excitation parce que le plaisir vient d'une variation.
 - `idea_0032` - L'intéressant peut être opérationnalisé comme choix du meilleur prochain événement.
 - `idea_0097` - Mesurer une préférence la modifie lorsque l'exposition fait évoluer le goût.
-- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
+- `idea_0123` - L'intéressant déclenche un processus de construction pour un sujet.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 

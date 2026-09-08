@@ -1,5 +1,11 @@
 # Organisation argumentative des cartes
 
+> **Référence conservée en l'état au 8 septembre 2026.** Les analyses ci-dessous
+> ne sont plus synchronisées après chaque échange. Voir la
+> [Défense](../docs/defense-concept-interessant.md) pour la position courante et le
+> [plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md) pour les questions
+> prioritaires. Les index et relations restent des données actives des cartes.
+
 Cette organisation articule quatre vues : niveau épistémique, famille argumentative,
 statut architectural et graphe restreint de relations fortes. Elle reste volontairement
 antérieure au plan de thèse. Son but est de
@@ -56,12 +62,18 @@ seule crédibilité peut déjà soutenir l'intérêt orienté, et son ajournemen
 promissive. Cette distinction empêche de juger rétrospectivement que toute enquête
 infructueuse n'avait jamais été intéressante.
 
-La formulation développée et son statut dans le projet se trouvent dans
-[`BUT_DE_LA_THESE.md`](../projet-these/BUT_DE_LA_THESE.md#hypothèse-centrale--lintéressant-comme-déclencheur-dune-construction).
-La carte [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) en est
-la proposition canonique dans le corpus manipulable. Les deux documents ont des rôles
-différents : le premier expose l'objet, les tâches et le résultat attendu de la thèse ;
-la seconde permet de relier l'hypothèse centrale aux autres propositions du graphe.
+La [Défense de la conception constructive](../docs/defense-concept-interessant.md)
+est la référence de travail pour la définition courante, ses développements et ses
+objections. Le [but de la thèse](../projet-these/BUT_DE_LA_THESE.md) en expose la
+portée dans le projet ; la carte [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md)
+en est le relais canonique dans le graphe.
+
+La consolidation du 8 septembre 2026 distingue déclenchement, maintien, fécondité,
+épuisement local et relance. Le passage possible du fonctionnement à l'invention,
+proposé à partir de *Honey Pie*, développe la dynamique sans changer D. La
+construction effective mais non intéressante devient une objection prioritaire (O12).
+Les anciennes formulations longues sont des modèles ou des opérations particulières,
+non des définitions générales concurrentes.
 
 ### Architecture de l'hypothèse
 
@@ -71,8 +83,8 @@ la seconde permet de relier l'hypothèse centrale aux autres propositions du gra
 | Statut dynamique | [`idea_0161`](inbox/idea_0161_interessant_operateur_transitions_psychiques.md) | L'intéressant n'est pas un état psychique supplémentaire, mais l'opérateur relationnel qui actualise et enchaîne attention, curiosité, émotions et activité. |
 | Constitution de l'objet | [`idea_0165`](inbox/idea_0165_interessant_racine_reification.md) | Ce qui devient intéressant peut se détacher du fond, devenir un objet pour le sujet, puis être réifié si cette naissance relationnelle est oubliée. |
 | Programme de naturalisation | [`idea_0125`](inbox/idea_0125_naturaliser_interessant_relation_psychique.md) | L'intéressant devient un phénomène psychique explicable sans être assigné comme propriété intrinsèque à l'objet. |
-| Condition de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit les conditions dans lesquelles une construction reste possible. |
-| Activité centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Une prise perceptive, explicative ou opératoire constitue d'abord une issue crédible ; son obtention caractérise l'intérêt fécond. |
+| Modèle partiel de maintien | [`idea_0121`](inbox/idea_0121_interessant_zone_flow.md) | La zone entre ennui et anxiété décrit un régime possible, non une définition de tout intérêt. |
+| Définition centrale | [`idea_0123`](inbox/idea_0123_interessant_travail_construction_sujet.md) | Déclenchement d'une construction pour un sujet ; maintien et prise acquise sont distingués. Les deux implications restent à défendre. |
 | Antériorité sur la question | [`idea_0160`](inbox/idea_0160_interet_precede_question.md) | L'intérêt peut d'abord soutenir une attention exploratoire ouverte ; faire apparaître l'aspect ou la question pertinente constitue alors une première prise. |
 | Antécédent historique direct | [`idea_0139`](inbox/idea_0139_garve_lacune_construction_extensions.md) | Garve formule déjà la lacune éprouvée, l'orientation prospective et la construction depuis des matériaux antérieurs ; la thèse précise la résistance, la prise, l'épuisement et la relance. |
 | Diagnostic de l'échec historique | [`idea_0142`](inbox/idea_0142_echec_garve_capture_dispersion.md) | La défaite de la Popularphilosophie, les captures esthétique et romantique, puis la dispersion disciplinaire expliquent pourquoi le programme de Garve n'a pas fondé de lignée canonique. |
@@ -154,7 +166,7 @@ usage fréquent mais faible densité théorique (0130)
   -> attention exploratoire antérieure à la question (0160)
   -> opérateur relationnel des transitions psychiques (0161)
   -> distinction entre sélection heuristique et validation vraie (0134)
-  -> ouverture d'une prise nouvelle crédible (0123)
+  -> déclenchement d'une construction pour un sujet (0123)
 
 émergence d'une forme (0083)
   -> relation forme-mémoire (0084)

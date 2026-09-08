@@ -19,63 +19,52 @@ transformer automatiquement ces travaux en théorie philosophique. Il faut
 distinguer les constructions et résultats scientifiques, les propositions
 conceptuelles, puis argumenter explicitement les passages entre les deux.
 
-## Travail actuel
+## Trois documents de travail
 
-Le travail se concentre maintenant sur quatre activités :
+Depuis le 8 septembre 2026, l'entretien éditorial courant repose sur trois documents,
+en plus des cartes et de leurs données :
 
-1. constituer un corpus fiable de sources actuelles et d'archives ;
-2. distiller ces documents en propositions substantielles et sourcées ;
-3. organiser progressivement ces propositions en familles et en arguments ;
-4. maintenir un projet de thèse vivant, versionné et compilable.
+1. [Définition et défense](docs/defense-concept-interessant.md) : ce que nous
+   soutenons, les arguments, les cas développés et les objections encore ouvertes.
+2. [Plan d'action](projet-these/PLAN_ACTION_DEMONSTRATION.md) : les décisions,
+   l'architecture envisagée, l'avancement et le prochain travail.
+3. [Projet de thèse français](projet-these/projet-these-fr.tex) : la présentation
+   destinée à un lecteur, actualisée par étapes intellectuelles significatives.
 
-Le projet antérieur d'orchestration de dialogues entre rôles philosophiques reste
-disponible comme outil expérimental. Il n'est plus le centre du dépôt et pourra
-être réactivé plus tard pour mettre à l'épreuve une question délimitée, formuler
-des objections ou comparer plusieurs architectures argumentatives.
+**Prochain travail :** mettre à l'épreuve la définition avec O12, une construction
+réellement inventive mais sans intérêt éprouvé. Le futur manuscrit « thèse dans
+l'état présent » est demandé et inscrit au plan, mais sa rédaction est différée.
 
-## Points d'entrée
+Une idée nouvelle n'entraîne plus une mise à jour de tous les documents. La
+[Défense](docs/defense-concept-interessant.md) porte l'état conceptuel post-V15 ;
+le projet français et sa traduction anglaise restent pour l'instant en V15.
+Le [mode de travail](docs/pipeline-synchronisation-cartes-documents.md) précise
+quand intervenir dans chaque fichier.
 
-- [`site/`](site/) : site statique de présentation et de suivi, généré dynamiquement
-  depuis les cartes et les documents d'organisation ;
-- [`projet-these/projet-these-fr.tex`](projet-these/projet-these-fr.tex) et
-  [`projet-these/projet-these-en.tex`](projet-these/projet-these-en.tex) :
-  versions courantes française et anglaise du projet de thèse ;
-- [`projet-these/projet-these-court-fr.tex`](projet-these/projet-these-court-fr.tex) :
-  version française courte pour les dossiers administratifs ;
-- [`projet-these/versions/`](projet-these/versions/) : instantanés historiques
-  immuables ;
-- [`projet-these/CHANGELOG.md`](projet-these/CHANGELOG.md) : évolution explicite
-  du projet ;
-- [`docs/pipeline-synchronisation-cartes-documents.md`](docs/pipeline-synchronisation-cartes-documents.md) :
-  propagation d'un ajout ou d'une modification de carte vers les synthèses, le
-  projet bilingue, le catalogue et le site ;
-- [`docs/audit-rattrapage-v6-cartes-2026-08-23.md`](docs/audit-rattrapage-v6-cartes-2026-08-23.md) :
-  premier audit de rattrapage entre le projet courant et les cartes ;
-- [`projet-these/BUT_DE_LA_THESE.md`](projet-these/BUT_DE_LA_THESE.md) : objet,
-  tâches philosophiques et résultat attendu de la thèse ;
-- [`cartes/inbox/`](cartes/inbox/) : propositions extraites du corpus ;
-- [`cartes/ORGANISATION.md`](cartes/ORGANISATION.md) : lignes argumentatives,
-  pivots, recouvrements et questions ouvertes ;
-- [`cartes/indexes/by_argument.md`](cartes/indexes/by_argument.md) : affectation
-  exhaustive des cartes à huit familles argumentatives ;
-- [`cartes/indexes/by_architecture.md`](cartes/indexes/by_architecture.md) :
-  hiérarchie provisoire entre noyau, conséquences, tests, cas, objections et
-  réserve spéculative ;
-- [`cartes/relations.tsv`](cartes/relations.tsv) : premier graphe de relations
-  fortes et typées entre propositions ;
-- [`cartes/indexes/by_theme.md`](cartes/indexes/by_theme.md) : regroupement
-  thématique provisoire ;
-- [`cartes/indexes/by_level.md`](cartes/indexes/by_level.md) : distinction entre
-  propositions conceptuelles, scientifiques et articulations ;
-- [`cartes/REGISTRE_TRAITEMENT.md`](cartes/REGISTRE_TRAITEMENT.md) : état de
-  lecture de chaque source ;
-- [`cartes/COUVERTURE_EXTRACTION.md`](cartes/COUVERTURE_EXTRACTION.md) : contrôle détaillé de la couverture propositionnelle ;
-- [`bibliographie/references.bib`](bibliographie/references.bib) : bibliographie
-  canonique ;
-- [`input/theses-comparaison/`](input/theses-comparaison/) : deux thèses de
-  philosophie conservées comme étalons méthodologiques ;
-- [`input/`](input/) : corpus documentaire, avec les archives dans
-  `input/old_docs/`.
+## Références, adaptations et vues
+
+- [Cartes](cartes/README.md), [index argumentatif](cartes/indexes/by_argument.md)
+  et [relations](cartes/relations.tsv) : propositions et navigation dans le corpus.
+- [Bibliographie](bibliographie/references.bib) et [sources](input/) : appuis
+  documentaires ; le [registre](cartes/REGISTRE_TRAITEMENT.md) et la
+  [couverture](cartes/COUVERTURE_EXTRACTION.md) suivent les lectures effectives.
+- [But de la thèse](projet-these/BUT_DE_LA_THESE.md),
+  [structure provisoire](projet-these/STRUCTURE_PROVISOIRE.md),
+  [organisation des cartes](cartes/ORGANISATION.md) et
+  [matrice comparative](docs/matrice-tests-interessant.md) : références conservées
+  en l'état, sans synchronisation systématique.
+- [Version anglaise](projet-these/projet-these-en.tex) et
+  [version courte](projet-these/projet-these-court-fr.tex) : adaptations, à reprendre
+  lors d'une diffusion ou d'un besoin précis.
+- [Catalogue des idées archivé au 8 septembre 2026](archives/catalogue-idees/2026-09-08/README.md) :
+  instantané conservant le PDF, sa source et sa bibliographie ; les cartes restent vivantes.
+- [Site](site/README.md) : vue générée des cartes et des documents actifs, sans
+  deuxième saisie de la définition ni des questions courantes.
+- [Versions historiques](projet-these/versions/) et
+  [journal des versions](projet-these/CHANGELOG.md) : mémoire des étapes achevées.
+
+L'orchestrateur de dialogues reste un outil expérimental disponible, et non le
+centre du travail de thèse.
 
 ## Principe des cartes
 
@@ -99,15 +88,14 @@ Les PDF initiaux français et anglais, respectivement
 [`input/Project philosophy thesis.pdf`](input/Project%20philosophy%20thesis.pdf),
 constituent la version 1 du projet. Ils sont conservés dans
 `projet-these/versions/`. Les deux fichiers de travail bilingues portent
-actuellement la version 14 et partagent la bibliographie canonique. Cette version ajoute
-l'hypothèse selon laquelle l'intéressant peut contribuer à constituer un objet pour un
-sujet, avant qu'une réification éventuelle ne fasse oublier l'origine relationnelle de
-cet objet.
+actuellement la version 15 et partagent la bibliographie canonique. Cette version
+intègre l'essai court sur *Honey Pie*. Les développements ultérieurs sont conservés
+dans la Défense et signalés dans le plan jusqu'à leur intégration à une prochaine version.
 
 Lorsqu'une nouvelle étape intellectuelle est prête à être archivée :
 
-1. mettre à jour les deux fichiers courants en maintenant leurs sections
-   synchronisées ;
+1. réviser le projet français à partir du lot argumenté, puis adapter l'anglais
+   pour obtenir deux versions homologues ;
 2. compiler et relire les deux rendus ;
 3. décrire les changements dans `projet-these/CHANGELOG.md` ;
 4. copier l'état valide dans les deux instantanés
@@ -119,6 +107,7 @@ versionnement.
 ## Structure
 
 ```text
+archives/            instantanés documentaires retirés du travail courant
 bibliographie/       références et règles bibliographiques
 cartes/              propositions, index et suivi de couverture
 input/               sources actuelles et archives

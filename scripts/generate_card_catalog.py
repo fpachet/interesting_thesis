@@ -806,8 +806,8 @@ def main() -> None:
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("cartes/catalogue-idees.tex"),
-        help="LaTeX output path, relative to the repository root",
+        default=Path("output/catalogue-idees.tex"),
+        help="Optional export path, relative to the repository root (never the dated archive)",
     )
     args = parser.parse_args()
 

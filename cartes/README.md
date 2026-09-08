@@ -49,27 +49,32 @@ L'organisation actuelle ne repose pas sur une taxonomie unique :
   (`CORE`, `DERIVED`, `TEST`, `CASE`, `OBJECTION`, `SPECULATIVE`). Cette vue
   commence volontairement par le noyau de dix-sept cartes avant de classer le reste.
 
-Le document `ORGANISATION.md` présente les pivots, les recouvrements et les
-questions ouvertes. Le registre `relations.tsv` conserve un graphe plus restreint
+Le document `ORGANISATION.md` conserve l'analyse des pivots et recouvrements au
+8 septembre 2026 ; il n'est plus synchronisé systématiquement. Les questions de travail
+courantes se trouvent dans le [plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md). Le registre `relations.tsv` conserve un graphe plus restreint
 de relations fortes et typées (`supports`, `limits`, `operationalizes`, etc.). Il
 complète les liens associatifs inscrits dans chaque carte sans les remplacer.
 
-## Catalogue partageable
+## Catalogue archivé et exports facultatifs
 
-`catalogue-idees.tex` rassemble le texte des 162 cartes dans l'ordre de
-`indexes/by_argument.md`, avec leurs statuts, provenances et références. Il est
-régénéré depuis les cartes, puis compile en PDF avec :
+Le [catalogue du 8 septembre 2026](../archives/catalogue-idees/2026-09-08/README.md)
+rassemble les 162 cartes dans l'ordre de `indexes/by_argument.md`. Son PDF, son
+source LaTeX et sa bibliographie sont archivés ensemble. **Cet instantané ne sera
+plus mis à jour.** Les cartes restent actives, indépendamment du catalogue.
+
+Un nouvel export peut être produit sur demande, depuis la racine du dépôt :
 
 ```bash
 python3 scripts/generate_card_catalog.py
 mkdir -p output/pdf
 latexmk -pdf -interaction=nonstopmode -halt-on-error \
-  -output-directory=output/pdf cartes/catalogue-idees.tex
+  -output-directory=output/pdf output/catalogue-idees.tex
 ```
 
-Le rendu partageable est `output/pdf/catalogue-idees.pdf`. Le générateur refuse
-de produire le document si l'index oublie une carte, contient un doublon ou cite
-un identifiant inconnu.
+La source générée est désormais `output/catalogue-idees.tex` et le rendu
+`output/pdf/catalogue-idees.pdf`. Ni l'un ni l'autre ne remplace l'archive datée.
+Le générateur refuse toujours un index incomplet, un doublon ou un identifiant inconnu.
+Le catalogue navigable du site continue de refléter les cartes au prochain build.
 
 On ne crée pas une carte pour chaque détail d'un argument. Les mécanismes, exemples,
 résultats expérimentaux et limites restent dans la même carte lorsqu'ils servent une

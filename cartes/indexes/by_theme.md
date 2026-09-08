@@ -66,7 +66,7 @@
 - `idea_0159` - La parcimonie tonale construit une prise compacte dont l'anti-compression révèle la limite.
 - `idea_0121` - Le flow décrit un régime de maintien de l'intérêt, non sa définition.
 - `idea_0122` - Un objet intéressant est soumis à deux dérives constantes vers l'ennui et l'anxiété.
-- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
+- `idea_0123` - L'intéressant déclenche un processus de construction pour un sujet.
 - `idea_0126` - Se comprendre devient intéressant lorsque l'affect est reconstruit comme un système de causes.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
@@ -175,7 +175,7 @@
 - `idea_0164` - Peut-on rendre tout intéressant ?
 - `idea_0161` - L'intéressant est un opérateur relationnel de transitions psychiques, non un état mental.
 - `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.
-- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
+- `idea_0123` - L'intéressant déclenche un processus de construction pour un sujet.
 - `idea_0137` - Après le déclenchement, la vie de l'intéressant est un épluchage constructif dont la fin doit être produite.
 - `idea_0127` - Le langage compacte l'acquis pour rendre manipulable la frange du nouveau.
 - `idea_0014` - PathBuilder : l'intéressant entre deux choses aimées.

@@ -464,6 +464,58 @@ le caractère pharmacologique de la technique chez Stiegler est conservé. Le te
 « manipulation » reçoit des critères causaux et normatifs distincts de la qualité du
 contenu.
 
+## Précision du 8 septembre 2026 : « Comment ça marche ? »
+
+La proposition de François Pachet précise `idea_0123` et `idea_0118` : l'intérescence
+peut faire surgir la question « comment ça marche ? », qui ouvre une construction
+au-delà des appréciations « j'aime, j'adore, je déteste ». Elle reste compatible avec
+`idea_0160` : la question peut émerger de l'attention et demeurer tacite. L'appréciation
+et l'exploration peuvent coexister ; une question imposée ne suffit pas à établir
+l'intérêt.
+
+Impact `D1` : explicitation du déclenchement constructif et de sa différence avec le
+goût, sans nouvelle définition ni carte autonome. Intégration dans le but de la thèse,
+la structure et le plan de démonstration ; reprise dans le prochain lot bilingue,
+sans modifier les instantanés archivés. Ce lot a été repris dans les deux langues
+en V15, avec le renvoi au cas *Honey Pie*.
+
+## Intégration du 8 septembre 2026 : Honey Pie
+
+`idea_0111` reçoit un cas précis, sans changement de sa proposition : le si bémol
+de « CRA-zy », son appui sur Mi bémol septième, puis le retour via Mi septième,
+La septième et Ré septième. L'essai approuvé suit un cheminement possible de
+l'accroche à la construction et à la réécoute. Les opérations suggérées ne sont
+pas déclarées accomplies et aucune nouvelle carte n'est créée.
+
+Impact local `D1`, avec intégration rédactionnelle dans le terrain musical (`D2`).
+La V15 française et anglaise, les synthèses, le plan, les références et la provenance
+sont raccordés. Voir l'[audit du lot](../docs/audit-honey-pie-v15-2026-09-08.md).
+
+## Consolidation centrale du 8 septembre 2026, après la V15
+
+La Défense devient le document de référence pour la définition D, conservée mot pour
+mot, ses développements et ses objections. `idea_0123` reçoit un titre conforme à D ;
+son ancienne formulation longue est requalifiée en modèle de maintien. Les index,
+l'organisation, le but, la structure, la matrice et le plan sont mis en cohérence.
+
+Le témoignage sur la guitare et le jeu extérieur/intérieur est repris comme récit
+rétrospectif. L'épuisement local et la relance vers l'invention restent des hypothèses
+de dynamique, non des conditions ajoutées à D ni une séquence d'écoute prouvée.
+O12 explicite la construction effective sans intérêt ; la nécessité et la suffisance
+de la construction sont désormais discutées séparément. Les ressources permettant
+une construction, son engagement et ses résultats sont distingués dans les indicateurs.
+
+Impact `D3` de clarification de la carte CORE et de sa portée, sans nouvelle définition
+ni nouvelle carte. La formule de reconstruction à rebours et la zone de flow ne sont
+plus présentées comme des définitions concurrentes dans les synthèses actualisées.
+La comparaison détaillée des auteurs n'est pas refaite ; ses verdicts demeurent
+provisoires et la consolidation n'en établit pas la supériorité.
+
+**Décision de propagation :** dossier central, carte, synthèses et vues générées
+actualisés ; reprise bilingue préparée mais différée jusqu'à un nouveau lot éditorial.
+Les sources françaises et anglaises et les instantanés V15 restent inchangés. Aucun
+déploiement ni envoi n'est inclus. Prochain travail : argumenter O12.
+
 ## Identifiants retires
 
 | Identifiant | Motif | Destination |

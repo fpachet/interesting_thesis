@@ -4,6 +4,26 @@ Ce fichier décrit les changements de fond entre les versions archivées. Les
 corrections locales restent visibles dans Git mais ne justifient pas seules une
 nouvelle version.
 
+## Version 15 - 8 septembre 2026
+
+- intégration de l'essai court approuvé « Honey Pie : une note qui fait question »
+  dans la partie musicale des projets français et anglais ;
+- parcours de l'accroche sur « CRA-zy » à la question, à la reconstruction harmonique
+  et à une possible transformation de la réécoute ;
+- distinction du glissement Mi bémol septième–Mi septième et de la chaîne de dominantes
+  qui reconduit à Sol ; ajout des références de Matt Blick et Alan W. Pollack ;
+- lien explicite depuis la définition constructive vers ce cas : « comment ça marche ? »
+  ouvre un autre rapport à l'objet sans abolir l'appréciation ni imposer une question verbalisée ;
+- conservation du statut d'essai : ni transcription exacte, ni variantes testées, ni
+  témoignage expérimental ne sont présentés comme acquis ;
+- raccordement de la carte `idea_0111`, des synthèses et du plan d'action ; maintien
+  du dossier musical et de la source de la réduction notée comme matériaux de travail ;
+- archivage des deux sources et de la bibliographie V15 ; la version courte
+  administrative n'est pas modifiée par cette intégration du cas développé.
+
+L'[audit V15](../docs/audit-honey-pie-v15-2026-09-08.md) précise le périmètre du lot
+et les travaux restant à conduire.
+
 ## Version 14 - 5 septembre 2026
 
 - création de `idea_0165`, « L'intéressant peut être à la racine de la réification » ;

@@ -1,6 +1,6 @@
 ---
 id: idea_0123
-title: "L'intéressant ouvre une activité orientée vers une prise nouvelle crédible"
+title: "L'intéressant déclenche un processus de construction pour un sujet"
 kind: definition
 level: conceptual
 status: inbox
@@ -12,6 +12,8 @@ sources:
   - "docs/Bachimont.pdf"
   - "docs/lectures/theses-comparaison-preuve-philosophique.md"
   - "docs/lectures/vazard-interet-attention.md"
+  - "docs/defense-concept-interessant.md"
+  - "docs/notes/honey-pie-jotney.md"
 references:
   - pachet2018oreille
   - schmidhuber1997interesting
@@ -22,6 +24,8 @@ references:
   - thalabard2012attention
   - vazard2026inquiry
 source_notes:
+  - "Consolidation du 8 septembre 2026 : définition courte maintenue ; ancienne formulation longue requalifiée en modèle du maintien. Témoignage de recherche à la guitare, hypothèse d'épuisement local et de relance vers l'invention ; réciproque construction-intérêt ouverte (O12 de la Défense)."
+  - "Précision proposée par François Pachet le 8 septembre 2026 : l'intérescence fait surgir « comment ça marche ? », au-delà des appréciations « j'aime, j'adore, je déteste »."
   - "Histoire d'une oreille, apprentissages perceptifs et construction progressive d'une écoute, PDF p. 27-34 et 281-295"
   - "Schmidhuber, apprentissage de régularités et progrès de compression, PDF p. 1-3 et 20"
   - "Dossier Jotney, régime mélodico-harmonique graduel, comparaison contrefactuelle des continuations et interdépendance mélodie-harmonie, PDF p. 2-4, 19-23 et 29-36"
@@ -43,19 +47,21 @@ tags:
 ---
 ## Idée
 
-Un objet ne reste intéressant que s'il ouvre et soutient une activité orientée vers une
-prise nouvelle. Cette activité peut consister à comparer, anticiper, discriminer, former
-une catégorie, réviser une croyance ou construire un modèle partiel de ce qui est perçu.
-L'intéressant n'est donc pas seulement une stimulation reçue : il inaugure une relation
-dans laquelle une transformation devient crédible pour le sujet.
+**Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de
+construction.** Cette carte reprend la définition candidate D du dossier de défense,
+document de référence pour son état courant et ses objections.
 
-Cette proposition fournit un candidat révisé pour le cœur de la thèse : **est
-intéressant ce qui, pour un sujet situé et relativement à un horizon donné, ouvre et
-soutient une activité dont l'exploration paraît valoir la peine et dont une prise
-nouvelle sur un objet, un problème ou un espace de possibilités peut devenir une issue
-crédible**. La construction est le terme médiateur
-entre l'attention initiale et la compréhension. Elle explique ce que l'intéressant met
-en mouvement, sans définir rétrospectivement l'intérêt par la réussite de cette activité.
+Construire consiste à modifier sa manière de percevoir, de questionner, de comprendre
+ou d'agir : comparer, distinguer, relier, élaborer une hypothèse, essayer une variation
+ou inventer une opération. Le déclenchement ne garantit ni maintien ni réussite.
+La prise effectivement acquise caractérise la fécondité, non l'existence rétrospective
+de l'intérêt.
+
+La formulation antérieure, selon laquelle l'objet ouvre et soutient une exploration
+paraissant valoir la peine et orientée vers une prise nouvelle crédible, est conservée
+comme modèle du maintien et de l'orientation. Elle n'est plus une définition générale
+concurrente de D. Les deux implications restent à examiner séparément : intérêt sans
+construction attestable, et construction effective sans intérêt (O2, O7 et O12).
 
 Cette formulation distingue désormais deux degrés d'orientation. Dans une phase
 ouverte, décrite par Juliette Vazard, le sujet maintient une attention exploratoire sur
@@ -65,10 +71,24 @@ identifiable crédible. La première prise peut donc être la constitution de la
 elle-même. Cette correction empêche d'attribuer après coup à toute rencontre
 intéressante un but qu'elle ne possédait pas encore.
 
-Quatre états doivent alors être distingués :
+Ce passage peut se manifester par une question qui surgit tout à coup : **« Comment
+ça marche ? »** Le sujet commence à examiner comment les éléments tiennent ensemble,
+ce qui produit un effet et ce qu'une variation ferait changer. « J'aime », « j'adore »,
+« je déteste » expriment son appréciation ; cette question ouvre une construction,
+éventuellement à partir d'une œuvre qu'il n'aime pas. Dans le cas Jotney, elle devient :
+comment cette mélodie tient-elle avec cette harmonie, et que perdrait-on en changeant
+cet accord ?
 
-- **intérêt** : l'attention exploratoire paraît valoir la peine, même si sa question
-  directrice n'est pas encore disponible ;
+Cette formulation condense une orientation exploratoire ; elle ne requiert ni une
+verbalisation ni la recherche d'un mécanisme technique. Une réécoute comparative ou un
+essai peuvent déjà la porter. Son apparition peut être soudaine ou préparée par une
+attention encore sans question : elle caractérise un basculement possible de
+l'intérescence, sans devenir une condition préalable universelle de l'intérêt.
+
+Il faut distinguer le déclenchement, son orientation, ses résultats et ses issues :
+
+- **déclenchement** : selon D, la rencontre engage une construction, même si sa
+  question directrice n'est pas encore disponible ;
 - **intérêt orienté** : une prise nouvelle constitue une issue crédible de l'activité ;
 - **intérêt fécond** : une prise nouvelle est effectivement acquise ;
 - **fascination promissive** : la crédibilité est entretenue sans prise contrôlable ;
@@ -99,9 +119,9 @@ provisoirement dans la zone intermédiaire. Chaque réussite augmente les compé
 ouvre une compréhension nouvelle ; elle rend aussi la tâche plus facile et prépare ainsi
 une dérive vers l'ennui. À l'inverse, si le sujet ne parvient plus à construire de
 modèle, les échecs s'accumulent et la relation dérive vers l'anxiété ou l'abandon.
-Soutenir l'intérêt exige donc que l'objet rende possible une construction dont les
-résultats renouvellent, plutôt qu'ils n'épuisent immédiatement, ce qui reste à
-comprendre.
+Ce modèle partiel suggère un maintien lorsque des possibilités de construction
+restent ouvertes ; il ne définit pas tout intérêt par le flow ni par un progrès
+continu. Une recherche peut aussi échouer, être abandonnée ou s'achever.
 
 Une forme privilégiée de cette construction est la résolution de problème à rebours. Le
 sujet rencontre d'abord une solution, puis infère progressivement les contraintes
@@ -134,6 +154,29 @@ construction. Inversement, une forme peut soutenir des constructions sans être 
 préférée du sujet. Jotney n'est donc ni un genre intrinsèquement supérieur ni une garantie
 d'intérêt : il désigne une organisation musicale susceptible, pour certaines oreilles et
 dans certains horizons, de rendre crédibles et fécondes des prises successives.
+
+Dans le cas précis de Honey Pie, l'auteur rapporte une recherche des accords à la
+guitare et un jeu avec le fragment jusqu'à en comprendre l'astuce. L'accord suivant
+éclaire rétrospectivement l'étrangeté du précédent. Suivre l'effet du dehors et
+examiner son fonctionnement du dedans sont deux positions possibles dans ce jeu ;
+l'écoute analytique peut elle aussi être intéressée.
+
+## Maintien, épuisement local et relance
+
+En première approximation, l'intérêt d'une recherche énigmatique subsiste tant que
+son fonctionnement reste à comprendre et que des possibilités d'exploration demeurent.
+Une énigme non résolue ne suffit pas : elle peut laisser indifférent ou ne donner
+aucune prise. Cette proposition porte sur un régime de maintien, non sur tout intérêt.
+
+Une fois l'astuce comprise, la recherche locale peut s'achever. La question
+« comment a-t-il trouvé cette idée ? » peut cependant ouvrir une autre construction,
+du fonctionnement vers l'invention. Cet intérêt de second niveau n'est ni obligatoire
+ni nécessairement plus intense. Reconstituer une genèse historique exige des sources ;
+imaginer un chemin d'invention possible ne prouve pas que l'auteur l'a suivi.
+
+La recherche à la guitare est rapportée par l'auteur ; cette relance est une hypothèse
+qu'il propose ensuite, pas une étape attestée du même récit. Le détail des suppressions
+musicales évoquées reste à documenter.
 
 ## Trois niveaux de construction
 
@@ -177,6 +220,15 @@ lorsque le sujet devient nouvellement capable de :
 
 Ces opérations distinguent la construction d'une simple impression de profondeur sans
 supposer que toute expérience intéressante doive immédiatement livrer un résultat.
+
+## Limite prioritaire : construire sans intérêt
+
+Une analyse imposée peut susciter des distinctions et des essais nouveaux tout en
+restant ennuyeuse. Il ne suffit pas de la rebaptiser exécution mécanique ni d'exclure
+la prescription pour sauver D : une activité prescrite peut aussi devenir intéressante.
+Ce cas met à l'épreuve la suffisance de la construction, tandis que la contemplation
+sans transformation attestable met à l'épreuve sa nécessité. Aucune condition de
+spontanéité, de plaisir ou de volontariat n'est ajoutée à la définition à ce stade.
 
 ## Intérêt pour la thèse
 

@@ -1,5 +1,10 @@
 # But de la thèse
 
+> **Référence conservée en l'état au 8 septembre 2026.** Ce cadrage n'est plus
+> synchronisé après chaque échange. La [Défense](../docs/defense-concept-interessant.md)
+> fixe le contenu conceptuel courant ; le [plan d'action](PLAN_ACTION_DEMONSTRATION.md)
+> porte les décisions et l'architecture en travail.
+
 ## Objet
 
 La thèse vise à constituer **l'intéressant** comme objet philosophique : non comme
@@ -95,6 +100,11 @@ auto-transformatrice. Il n'est ni une faculté cachée ni la cause de tout état
 
 ## Hypothèse centrale : l'intéressant comme déclencheur d'une construction
 
+**Référence de travail :** la [Défense de la conception constructive](../docs/defense-concept-interessant.md)
+réunit la définition courante, ses développements et ses objections. Consolidation
+du 8 septembre 2026, postérieure à la V15 : les distinctions ci-dessous ne constituent
+pas encore une nouvelle version du projet bilingue.
+
 Cette hypothèse n'est plus présentée comme une découverte sans antécédent. Dans
 *Einige Gedanken über das Interessirende* (1779), Garve relie déjà l'intéressant à une
 attention sans effort volontaire, à une difficulté antérieurement éprouvée, à une lacune
@@ -122,6 +132,44 @@ Cette définition porte sur le déclenchement et non sur la réussite. La constr
 échouer, s'égarer, épuiser son objet ou conduire à une prise nouvelle. Elle reste
 relationnelle et indexée par `I(F, S | H, t)` : le pouvoir déclencheur dépend de la forme,
 du sujet, de son horizon et du moment de la rencontre.
+
+Un signe de ce basculement tient dans la question qui surgit tout à coup :
+**« Comment ça marche ? »** L'intérescence ouvre une interrogation sur la manière dont
+la chose tient, se transforme ou produit ses effets. « J'aime », « j'adore »,
+« je déteste » expriment une appréciation ; « comment ça marche ? » engage à explorer,
+comparer, essayer et construire une compréhension. Ces attitudes peuvent coexister :
+on peut aimer sans enquêter et chercher à comprendre ce que l'on déteste.
+
+La question peut être encore tacite, portée par une réécoute, un geste ou une variation.
+Elle peut aussi émerger progressivement de l'attention ouverte. Elle désigne ainsi un
+basculement caractéristique vers la construction, sans imposer à toute intérescence
+une question explicite dès son commencement. « Marcher » se prend ici au sens large :
+comment une mélodie tient-elle avec cette harmonie, comment un récit produit-il cet
+effet, comment une idée permet-elle de penser autrement ?
+
+### Déclenchement, maintien et relance : trois engagements distincts
+
+La définition porte sur le déclenchement. L'ancienne formulation longue, qui exigeait
+une activité soutenue orientée vers une prise crédible, sert désormais de modèle du
+maintien, non de définition concurrente. Une construction peut échouer ; sa réussite
+qualifie sa fécondité. Dans une recherche énigmatique déjà engagée, l'intérêt peut
+subsister tant que le fonctionnement reste à comprendre et que des essais sont
+possibles. L'incompréhension seule ne suffit pas, et la recherche peut être abandonnée.
+
+Le témoignage complémentaire sur *Honey Pie* rapporte la recherche des accords à la
+guitare et le jeu avec le fragment jusqu'à saisir une astuce. Suivre l'effet du dehors
+et examiner le fonctionnement du dedans sont deux positions, toutes deux susceptibles
+d'être intéressées. L'auteur propose ensuite une relance possible : une fois compris
+« comment ça marche », demander « comment a-t-il trouvé cette idée ? ». Cet intérêt
+de second niveau porte sur l'invention ; il n'est ni obligatoire ni nécessairement
+supérieur en intensité. Une genèse historique et un chemin d'invention possible ne
+sont pas le même objet d'enquête.
+
+Les deux implications de D restent ouvertes : intérêt sans construction attestable,
+et construction déclenchée sans intérêt. Une analyse prescrite peut être réellement
+constructive et pourtant ennuyeuse ; la prescription ne l'exclut pas du champ de
+l'objection. C'est l'épreuve prioritaire O12 de la Défense. Aucune condition nouvelle
+de spontanéité ou de plaisir n'est ajoutée à D pour la résoudre par définition.
 
 ### De l'objet à la réification
 
@@ -597,12 +645,13 @@ Pour une tâche fixe, l'apprentissage inverse ce parcours : **anxiété →
 intéressant/flow → ennui**. Une même forme peut donc changer de statut à mesure que le
 sujet apprend.
 
-Une hypothèse directrice identifiera ainsi l'intéressant à la **zone de flow** comprise
-entre ennui et anxiété. Cette zone structurelle d'ajustement ne doit pas être confondue
+Un modèle partiel du maintien situe certaines explorations dans la **zone de flow**
+comprise entre ennui et anxiété. Il ne remplace pas la définition constructive. Cette
+zone structurelle d'ajustement ne doit pas être confondue
 avec le seul **état de flow**, expérience d'absorption intense : une difficulté presque
 accessible, une hésitation ou une rupture peuvent rester dans la zone intéressante tant
 que le sujet conserve une prise et peut réorganiser ses attentes. Cette distinction
-permet de proposer une définition forte sans réduire l'intéressant à la fluidité.
+précise ce modèle sans identifier tout intérêt à cet équilibre ni à la fluidité.
 
 Cette zone devra être pensée comme un équilibre métastable soumis à deux dérives
 constantes. La répétition et l'acquisition de compétences diminuent la difficulté
@@ -632,9 +681,9 @@ d'épuiser immédiatement la relation.
 La résolution de problème à rebours constituera une forme privilégiée de cette
 construction. L'objet intéressant peut être rencontré avant que son problème soit connu
 : le sujet infère depuis la solution les contraintes qu'elle satisfait, les alternatives
-qu'elle exclut et la question qu'elle rend rétrospectivement visible. Une définition
-candidate devient alors : **est intéressant l'objet qui engage le sujet à reconstruire
-le problème dont il apparaît comme une solution**. Dans le modèle du flow, une solution
+qu'elle exclut et la question qu'elle rend rétrospectivement visible. **Reconstruire
+le problème dont l'objet apparaît comme une solution** désigne ici une opération
+particulière de construction, non une définition générale concurrente. Dans le modèle du flow, une solution
 trop évidente conduit à l'ennui ; un problème impossible à reconstruire conduit à
 l'opacité ou à l'anxiété ; l'intéressant occupe la zone où cette reconstruction progresse.
 
@@ -644,6 +693,13 @@ en faisant voyager l'harmonie sans exhiber le procédé. L'analyse prolonge alor
 en rendant perceptibles les contraintes réconciliées par la chanson. Cette méthode devra
 toutefois éviter la reconstruction ad hoc d'un problème sur mesure qui rendrait
 artificiellement n'importe quelle forme nécessaire.
+
+Le premier cas rédigé est [*Honey Pie*](../docs/notes/honey-pie-jotney.md), intégré
+à la V15 du projet bilingue. Le si bémol de « CRA-zy », étranger à Sol majeur mais
+appuyé par Mi bémol septième, ouvre une question précise : comment ce détour
+rejoint-il le retour tonal ? L'essai suit une reconstruction possible et ce qu'elle
+peut changer à la réécoute. Il donne un contenu au « comment ça marche ? », sans
+confondre le savoir analytique, le plaisir et le déclenchement effectif de l'intérêt.
 
 La thèse devra enfin étudier un cas limite : la fascination soutenue par une promesse de
 compréhension qui ne produit pas de compréhension vérifiable. Certains discours donnent

@@ -38,7 +38,7 @@ classification encore à faire en résultat acquis.
 
 - `idea_0084` - L'intéressant est la rencontre entre une forme organisée et une mémoire capable d'en éprouver la singularité.
 - `idea_0120` - L'intéressant est une modalité dynamique qui reconfigure le possible.
-- `idea_0123` - L'intéressant ouvre une activité orientée vers une prise nouvelle crédible.
+- `idea_0123` - L'intéressant déclenche un processus de construction pour un sujet.
 - `idea_0132` - Le jugement d'intéressant est une recommandation prospective de second ordre.
 - `idea_0134` - L'intéressant sélectionne l'enquête sans valider ses conclusions.
 - `idea_0160` - L'intérêt peut précéder la question qu'il rend possible.

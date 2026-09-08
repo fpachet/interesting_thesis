@@ -42,20 +42,24 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     output = generate_site(tmp_path)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
 
-    assert manifest["cards"] == 162
-    assert manifest["families"] == 8
-    assert manifest["relations"] == 282
-    assert manifest["references"] == 139
-    assert manifest["referenced_cards"] == 97
+    generator = runpy.run_path(ROOT / "scripts" / "generate_thesis_site.py")
+    cards = generator["load_cards"]()
+    bibliography = generator["load_bibliography"]()
+    version = generator["current_project_version"]()
+    assert manifest["cards"] == len(cards)
+    assert manifest["families"] == len(generator["load_families"](cards))
+    assert manifest["relations"] == len(generator["load_relations"](cards))
+    assert manifest["references"] == len(bibliography)
+    assert manifest["referenced_cards"] == sum(bool(card.references) for card in cards.values())
     assert manifest["public_documents"] > 0
-    assert len(list((output / "cartes").glob("idea_*/index.html"))) == 162
-    assert len(list((output / "bibliographie").glob("*/index.html"))) == 139
+    assert len(list((output / "cartes").glob("idea_*/index.html"))) == len(cards)
+    assert len(list((output / "bibliographie").glob("*/index.html"))) == len(bibliography)
 
     homepage = (output / "index.html").read_text(encoding="utf-8")
-    assert "version 14" in homepage
+    assert f"version {version}" in homepage
     assert "Thèse centrale actuelle" in homepage
     assert "Est intéressant, pour un sujet, ce qui déclenche" in homepage
-    assert "162 propositions" in homepage
+    assert f"{len(cards)} propositions" in homepage
     assert (output / "these" / "index.html").is_file()
     assert (output / "lectures" / "index.html").is_file()
     assert (output / "graphe" / "index.html").is_file()
@@ -100,7 +104,7 @@ def test_site_contains_all_cards_and_core_views(tmp_path: Path) -> None:
     assert "stabilis" not in public_html
 
     status_page = (output / "suivi" / "index.html").read_text(encoding="utf-8")
-    assert "Version 14" in status_page
+    assert f"Version {version}" in status_page
     assert "8 familles de travail" in status_page
 
     job_card = (output / "cartes" / "idea_0162" / "index.html").read_text(
@@ -167,6 +171,30 @@ def test_missing_local_document_uses_bibliography_url(tmp_path: Path) -> None:
     assert external is True
     assert f'href="{public_url}"' in rendered_link
     assert "Consulter en ligne" in rendered_link
+
+
+def test_editorial_extracts_use_only_active_documents(tmp_path: Path) -> None:
+    generator = runpy.run_path(ROOT / "scripts" / "generate_thesis_site.py")
+    generator["thesis_statement"].__globals__["ROOT"] = tmp_path
+    (tmp_path / "docs").mkdir()
+    (tmp_path / "projet-these").mkdir()
+    (tmp_path / "docs" / "defense-concept-interessant.md").write_text(
+        "# Défense\n\n## Question directrice\n\nComment une rencontre\n"
+        "devient-elle intéressante ?\n\n## Thèse défendue\n\n"
+        "### Définition courante et portée\n\n"
+        "> **Définition D (`CORE`).** Une rencontre déclenche\n"
+        "> une construction.\n\nUn commentaire distinct.\n",
+        encoding="utf-8",
+    )
+    (tmp_path / "projet-these" / "PLAN_ACTION_DEMONSTRATION.md").write_text(
+        "# Plan\n\n## Questions de travail\n\n- Première question ?\n"
+        "- Seconde question,\n  précisée ici ?\n\n## Ensuite\n\n- Autre chose.\n",
+        encoding="utf-8",
+    )
+    # No README, BUT_DE_LA_THESE or ORGANISATION exists in this fixture.
+    assert generator["thesis_statement"]() == "Une rencontre déclenche une construction."
+    assert generator["direct_question"]() == "Comment une rencontre devient-elle intéressante ?"
+    assert generator["open_questions"]() == ["Première question ?", "Seconde question, précisée ici ?"]
 
 
 def test_generated_internal_links_resolve(tmp_path: Path) -> None:

@@ -635,7 +635,22 @@ de haut niveau. Trente-cinq PDF ont désormais une décision. À la demande de l
 la campagne est close : les 208 autres restent indécidés et ne sont pas déclarés non
 pertinents.
 
+## Complément ciblé du 8 septembre 2026 : Honey Pie
+
+Le [dossier Honey Pie](../docs/notes/honey-pie-jotney.md) rassemble l'essai court
+approuvé et intégré en V15, les analyses de Blick et Pollack consultées en ligne
+et le rapprochement avec les p. 119-120 d'*Histoire d'une oreille*. Il enrichit
+`idea_0111`, sans nouvelle carte ni nouvelle lecture intégrale du livre.
+Le motif et le trajet harmonique sont documentés par ces analyses ; le rythme,
+les octaves et le minutage sur un fichier audio choisi restent à contrôler.
+La réduction notée n'est pas une transcription de l'enregistrement.
+
 ## Conclusion
+
+La consolidation centrale du 8 septembre 2026 reprend les témoignages et hypothèses
+du dossier *Honey Pie* dans la Défense et `idea_0123`, sans nouvelle extraction de
+sources externes. Elle précise leur statut : recherche instrumentale rapportée,
+suppression non spécifiée, relance vers l'invention proposée comme possibilité.
 
 La couverture propositionnelle est maintenant établie pour les 32 rangs de
 `ORDRE_TRAITEMENT_DOCUMENTS.md`. Cela signifie que toutes les sources présentes

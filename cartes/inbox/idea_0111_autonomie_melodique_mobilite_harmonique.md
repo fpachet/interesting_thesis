@@ -7,9 +7,14 @@ status: inbox
 sources:
   - "input/The Mystery of Jotney Songs.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"
+  - "docs/notes/honey-pie-jotney.md"
+references:
+  - blick2013honeypie
+  - pollack1998honeypie
 source_notes:
   - "Jotney, définition de l'équilibre et contrastes stylistiques, PDF p. 1-3"
   - "Dossier Jotney, essais, profil analytique et programme de recherche, PDF p. 2-4, 19-23 et 29-36"
+  - "Honey Pie : essai court approuvé le 8 septembre 2026 ; analyses de Blick et Pollack, références et limites conservées dans la note."
 tags:
   - musique
   - melodie
@@ -58,6 +63,17 @@ Cette proposition ne définit pas une supériorité universelle. D'autres tradit
 résolvent la tension compositionnelle par le rythme, le timbre, la modalité ou la
 dramaturgie mélodique. Jotney nomme une solution particulière au problème de réconcilier
 accessibilité populaire et invention structurelle.
+
+## Cas retenu : Honey Pie
+
+Le si bémol de « CRA-zy » est étranger à la gamme de Sol majeur mais quinte de
+Mi bémol septième. Le glissement vers Mi septième rejoint la chaîne La septième,
+Ré septième, Sol. Ce passage permet de suivre l'accroche, la question « comment ça
+marche ? », la reconstruction du détour et une possible transformation de la
+réécoute. L'essai court du dossier Honey Pie est intégré à la
+version 15 du projet bilingue. Les variantes sont des opérations proposées, non
+des expériences déjà réalisées ; le cas ne prouve pas que toute écoute devient
+constructive.
 
 ## Intérêt pour la thèse
 

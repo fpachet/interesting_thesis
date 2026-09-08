@@ -1,158 +1,242 @@
-# Plan d'action : construire la démonstration philosophique
+# Plan d'action : passer du projet à la rédaction
 
-> **Décision de travail :** ne pas ajouter de nouveau terrain avant d'avoir rendu la
-> définition attaquable et comparativement défendable. Les cartes restent le
-> lieu d'essai ; elles ne deviennent pas le plan de la thèse.
+> **Actualisé le 8 septembre 2026 après la revue générale du projet.**
+> Ce document fixe l'ordre du prochain cycle. Les cartes conservent les pistes de
+> recherche ; l'avancement se mesure par des textes argumentés, relus et révisés.
+> Les échéances sont indicatives, sans engagement calendaire ni envoi automatique.
 
-Ce plan traduit la comparaison avec les thèses de Gautier Anselin et d'Émile
-Thalabard en livrables concrets. Il complète la structure en trois mouvements sans
-remplacer le calendrier doctoral général.
+## État de départ
 
-## Résultat visé
+Le dépôt possède 162 cartes, une définition candidate, un dossier de défense et une
+matrice comparative. La revue a constaté que 35 cartes portent un statut architectural
+explicite, dont 17 CORE, et que toutes restent en inbox. Ces métadonnées ne mesurent
+donc pas encore la maturité rédactionnelle.
 
-À l'issue de cette séquence, un lecteur doit pouvoir reconstruire sans ambiguïté :
+| Élément | État constaté | Travail restant |
+| --- | --- | --- |
+| D1-D10 et définition constructive | Définition et développements consolidés dans la Défense | Éprouver séparément nécessité et suffisance de la construction |
+| Typologie des prises | Première version disponible | Distinguer engagement, réussite et indices observables |
+| Matrice des rivaux | Première version disponible | Reconstruire les positions fortes et argumenter les verdicts |
+| Objections | Douze objections dans la Défense, dont O12 construction sans intérêt | Traiter O12 en priorité, sans tenir O2/O7 pour résolues |
+| Cas musicaux et scientifiques | Sources et cartes disponibles | Produire des analyses suivies avec contre-épreuves |
+| Projet bilingue | V15 locale compilée et archivée ; consolidation centrale post-V15 | Reprendre le lot consolidé dans une prochaine version après révision argumentative |
 
-1. ce qu'une théorie de l'intéressant est tenue d'expliquer ;
-2. la proposition exacte défendue ;
-3. les rivaux auxquels elle est comparée ;
-4. les objections qui la menacent ;
-5. les raisons différentielles de la préférer ;
-6. ce qu'elle permet de voir dans les cas, et ce qu'elle ne prétend pas établir.
+La [Défense](../docs/defense-concept-interessant.md) porte le contenu courant.
+La [matrice](../docs/matrice-tests-interessant.md), le [but](BUT_DE_LA_THESE.md)
+et la [structure](STRUCTURE_PROVISOIRE.md) restent des références de travail,
+sans synchronisation systématique.
 
-## Chantier 1 - Cahier des charges du concept
+## Décision d'organisation du 8 septembre 2026
 
-**Livrable :** une liste D1-D10 de desiderata, chacun associé à deux cas contrastés et
-à au moins une carte existante.
+Trois documents actifs, hors cartes : la [Défense](../docs/defense-concept-interessant.md),
+ce plan et le [projet français](projet-these-fr.tex). Le français est actualisé par
+lots ; l'anglais à l'occasion d'une version bilingue, la version courte selon les
+besoins. Les anciennes synthèses sont conservées comme références et leur statut
+est signalé. Le [mode de travail](../docs/pipeline-synchronisation-cartes-documents.md)
+remplace la propagation systématique.
 
-- choisir des variations indépendantes de la définition candidate ;
-- inclure des faux positifs et des faux négatifs ;
-- distinguer captation causale, jugement prospectif et fécondité effective ;
-- inclure la variation catégoriale entre état du sujet et relation sujet-objet ;
-- formuler pour chaque desideratum ce qui compterait comme échec explicatif.
+Le [catalogue des idées](../archives/catalogue-idees/2026-09-08/README.md) est archivé
+au 8 septembre 2026 avec son PDF, son source et sa bibliographie. Les cartes restent
+actives et consultables sur le site ; aucun export PDF n'est requis à chaque modification.
 
-**Critère de sortie :** les desiderata pourraient être acceptés par un adversaire de la
-théorie constructive.
+### Livrable demandé, différé : « thèse dans l'état présent »
 
-## Chantier 2 - Matrice différentielle des rivaux
+Préparer ultérieurement un manuscrit français continu qui rassemble les passages
+déjà rédigés dans un ordre de lecture, en distinguant les arguments développés,
+les hypothèses encore à défendre et les sections manquantes. Il ne s'agit ni du
+projet de présentation, ni d'un catalogue des cartes, ni d'une thèse réputée achevée.
 
-**Livrable :** une matrice argumentée comparant plaisir, préférence, surprise,
-nouveauté, attention, curiosité naturelle, curiosité artificielle, émotions,
-attention exploratoire chez Vazard, flow, compression, pertinence, Garve et théorie
-constructive.
+**État : demandé par l'auteur, non commencé ; réalisation différée.** Point de reprise
+proposé : après une première rédaction d'O12, sélectionner les textes disponibles
+dans la Défense et le cas *Honey Pie*, puis les assembler sans combler artificiellement
+les lacunes. Au démarrage, choisir ce qui devient source rédactionnelle afin de ne
+pas entretenir deux manuscrits concurrents. Aucun nouveau fichier vide n'est nécessaire.
 
-- éviter les croix non justifiées ;
-- distinguer « explique », « accommode » et « laisse comme résidu » ;
-- traiter Garve comme prédécesseur à prolonger, non comme rival à éliminer ;
-- tester Vazard comme concurrent direct sur la phase antérieure à la question ;
-- identifier ce que chaque modèle partiel conserve dans la théorie finale.
+## Questions de travail
 
-**Critère de sortie :** au moins trois cas doivent réellement discriminer les théories,
-et la conception constructive doit pouvoir perdre sur certains critères.
+- Une construction réellement inventive mais vécue comme ennuyeuse réfute-t-elle la réciproque de la définition (O12) ?
+- La contemplation fournit-elle un intérêt sans construction attestable (O2/O7) ?
+- Comment décrire maintien, épuisement et relance sans en faire des conditions ajoutées au déclenchement ?
 
-## Chantier 3 - Définition et théorie de la prise
+## Point de référence et prochain travail
 
-**Livrable :** une définition à deux niveaux et une typologie opératoire de la prise.
+**Premier essai court rédigé :** [« Une note qui fait question »](../docs/notes/honey-pie-jotney.md#premier-essai-court--une-note-qui-fait-question)
+suit le cheminement de l'écoute dans *Honey Pie*. Approuvé par l'auteur et intégré
+à la V15 française et anglaise ; il ne démontre pas la validité générale des deux
+implications de la définition. À la demande de l'auteur, la longueur de deux à trois
+pages n'est pas un objectif pour cette première rédaction.
 
-Définition candidate :
+**Définition désormais consolidée :** la [Défense](../docs/defense-concept-interessant.md)
+est le document de référence. Son ouverture expose la proposition et ses deux
+implications ; la section 2.5 précise maintien, épuisement et relance ; la section 3.1
+reprend le témoignage à la guitare. Il n'est pas nécessaire de créer une autre note
+de définition. La proposition reste :
 
-> Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de
-> construction.
+> Est intéressant, pour un sujet, ce qui déclenche chez lui un processus de construction.
 
-La définition doit être suivie d'une caractérisation explicite de la construction et du
-néologisme *intérescence*. La typologie doit traiter au minimum : discrimination,
-anticipation, variation contrefactuelle, transfert, intervention/artefact et
-reconstruction du problème.
+**Prochaine action : rédiger la mise à l'épreuve O12, construction sans intérêt.**
 
-**Critère de sortie :** distinguer sans ambiguïté intérêt, intérêt fécond, fascination
-promissive et épuisement, mais aussi l'intéressant relationnel de l'intérêt éprouvé
-comme état ou disposition du sujet.
+1. Décrire une analyse réellement constructive mais vécue comme ennuyeuse ; ne pas
+   la réduire par principe à l'exécution d'une procédure déjà maîtrisée.
+2. Comparer à la recherche de *Honey Pie* : opérations, raisons de poursuivre,
+   appréciation et rôle de la rencontre. Distinguer intérêt et prescription sans
+   faire de l'activité libre une garantie d'intérêt.
+3. Dire ce que le contraste impose à la réciproque « construction → intérêt » :
+   objection résistante, restriction de portée ou condition supplémentaire à défendre.
+   Aucune modification de D n'est décidée par avance. Conserver séparément l'épreuve
+   « intérêt sans construction attestable » (O2/O7).
 
-## Chantier 4 - Dossier d'objections
+**Critère de sortie :** un argument écrit distingue le cas positif du contre-exemple
+sans circularité, ou reconnaît explicitement la restriction qu'il impose. La précision
+des notes supprimées dans *Honey Pie* n'est pas un préalable à ce travail.
 
-**Livrable :** onze fiches d'objection de deux pages maximum, chacune composée de la
-forme la plus forte de l'objection, d'un cas, d'une réponse et d'une révision éventuelle.
+Appuis prioritaires : idea_0123, idea_0118, idea_0160, idea_0084, idea_0124 et les
+objections O2, O7 et O12 de la Défense.
 
-1. sur-extension ;
-2. sous-extension ;
-3. circularité de la construction ;
-4. échec rétrospectif de la prise ;
-5. contemplation ;
-6. réduction à la curiosité ;
-7. causalité contre normativité ;
-8. horizon `H` absorbant et irréfutabilité.
+## Les quatre étapes du cycle
 
-Une neuvième fiche devra éprouver la formule de « moteur de la vie psychique » : est-ce
-un mécanisme de transition spécifiable ou une métaphore qui redécrit seulement la
-succession de l'attention, de la curiosité et des émotions ?
+### 1. Stabiliser le noyau et son périmètre
 
-Une dixième fiche devra éprouver la généalogie morale : l'intérescence reprend-elle
-historiquement une fonction d'orientation devenue vacante, ou la capacité de faire
-compter précède-t-elle et traverse-t-elle déjà les systèmes moraux ? Cette fiche devra
-séparer succession culturelle, antériorité psychologique et justification normative.
+**Livrables :** la définition consolidée dans la Défense (disponible), une liste des décisions conceptuelles et une
+sélection d'environ vingt à trente cartes rattachées aux premiers chapitres.
 
-Une onzième fiche portera sur la réification. L'intéressant est-il nécessaire pour qu'une
-chose devienne un objet pour un sujet, ou accompagne-t-il seulement une objectivation qui
-peut naître autrement ? La fiche comparera une réification issue d'une intérescence, une
-réification administrative ou automatique sans intérêt préalable, et une intérescence
-qui ne produit aucun objet durable.
+- Donner à chaque formulation son rôle : définition, condition de maintien,
+  mécanisme local, conséquence ou cas particulier.
+- La définition courte et les formulations longues sont maintenant hiérarchisées ;
+  l'identification générale au flow a été requalifiée en modèle partiel dans le but
+  de la thèse. Éprouver la portée de ces modèles sans en faire des conditions de D.
+- Examiner comme noyau de rédaction cinq propositions : relation située ;
+  déclenchement constructif ; antériorité possible sur la question ; distinction entre
+  intérêt et fécondité ; maintien, épuisement et relance. Ce choix de travail ne
+  reclasse pas automatiquement les dix-sept cartes CORE existantes.
+- Séparer la valeur d'une exploration de la vérité, du plaisir et de la valeur morale
+  de ses objets ou de ses résultats.
 
-La fiche sur la sur-extension devra traiter explicitement la question « Peut-on rendre
-tout intéressant ? ». Elle distinguera l'accompagnement d'une construction durable de
-la simple séduction et prendra l'anecdote du droit administratif comme cas positif, non
-comme preuve d'une possibilité universelle.
+**État : consolidation documentaire réalisée ; défense des implications et sélection
+des cartes encore en cours.** Repère indicatif : semaine 1.
 
-**Critère de sortie :** chaque objection doit pouvoir modifier le texte central ; une
-réponse qui se contente d'ajouter une condition dans `H` est insuffisante.
+### 2. Rédiger le cas Jotney et une contre-épreuve
 
-## Chantier 5 - Deux terrains principaux et des épreuves courtes
+**Livrable :** une analyse autonome d'environ dix à quinze pages, accompagnée d'une
+contre-épreuve brève.
 
-**Livrable :** un protocole propre à chaque terrain, indiquant la proposition mise à
-l'épreuve et le résultat possible.
+**Passage sélectionné le 8 septembre 2026 : *Honey Pie*.** Le
+[dossier préparatoire](../docs/notes/honey-pie-jotney.md) contient une première
+analyse et une réduction notée : si♭ sur « crazy » (et non « lazy »), détour
+Sol–Mi♭7–Mi7, puis La7–Ré7–Sol. Fixer encore le fichier audio de référence,
+le minutage et une transcription rythmiquement fidèle des quelques mesures.
 
-- **Musique :** dépendance au chemin, attentes, optale/pseudoptale, extinction et
-  relance de la prise ; utiliser la parcimonie tonale pour comparer compacité statique,
-  progrès de compression et échecs d'anti-compression.
-- **IA et création :** distinguer cible conditionnelle, distribution effectivement
-  générée, distorsion des poids et perte de support ; comparer transformer seul,
-  solveur seul et boucle hybride de reformulation.
-- **Épreuves différentielles :** énigme et mots croisés ; texte littéraire ;
-  contemplation ; pseudo-profondeur ; texte philosophique vrai mais peu fécond ;
-  distinguer, comme épreuve politique optionnelle, volume de production, diversité
-  effective des directions et concentration de l'exposition.
-- **Épreuve intérescentielle :** comparer une trajectoire longue de transformation
-  chez Proust, une panne interne transférée au lecteur dans *Bartleby* et une motivation
-  morale intense sans intérescence interne identifiable dans Job ; distinguer dans ce
-  dernier cas souffrance, demande de justice, orientation vers Dieu et intérescence
-  externe du lecteur, puis confronter les résultats
-  aux analyses du désir, de la focalisation, des affects et de la réception.
-- **Épreuve morale et généalogique :** comparer, dans Job puis dans un texte moderne,
-  commandement moral, motif d'agir et prise effective ; ne reconnaître un cas religieux
-  d'intérescence que si un objet non prescrit et non nécessaire ouvre une exploration
-  transformatrice pour le personnage. Utiliser Kant sur l'intérêt moral comme charnière et non
-  comme preuve de la succession historique.
+**Témoignage complémentaire reçu après la V15 :** l'auteur rapporte la recherche
+des accords à la guitare, la difficulté de Sol–Mi bémol septième, puis la surprise
+de voir l'accord suivant éclairer le détour. Il décrit le jeu avec le fragment
+comme l'exploration d'un tour de magie, accessible de l'extérieur ou de l'intérieur.
+Le dossier conserve ce récit et une proposition de rédaction, repris dans la Défense
+mais non encore intégrés au projet bilingue. Une première hypothèse sur la suite est consolidée :
+l'énigme du fonctionnement peut s'épuiser, puis l'intérêt se relancer vers
+« comment a-t-il trouvé cette idée ? ». Ce second niveau reste une possibilité,
+non une étape attestée de l'expérience ni une règle universelle.
+**Compléments musicaux ultérieurs :** préciser le fragment que l'auteur propose de
+supprimer ; pour la relance vers l'invention, distinguer la genèse historique et la
+reconstruction de chemins possibles. Ces précisions ne bloquent pas le traitement d'O12.
 
-**Critère de sortie :** aucun cas n'est conservé pour la seule richesse de son domaine ;
-chacun doit pouvoir confirmer, limiter ou réviser une proposition précise.
+Compléter la description de l'écoute avant le basculement, l'événement qui retient l'attention, la question qui
+apparaît, les variantes comparées, ce qu'elles font comprendre et ce qui change lors
+de la réécoute. Distinguer témoignage rétrospectif et observation documentée. Ne pas
+inventer une histoire d'écoute pour compléter le schéma.
 
-## Ordre de réalisation
+La contre-épreuve doit éprouver l'interprétation : familiarité qui simule la nécessité,
+surattention qui fabrique une justification, construction sans intérêt ou intérêt sans
+prise attestable. Le blues reste une comparaison entre expériences situées, sans
+classement des genres. Appréciation, surprise et construction sont décrites séparément.
 
-1. Arrêter D1-D10 et les 17 cartes `CORE`.
-2. Construire la matrice des rivaux.
-3. Réviser la définition et la typologie de la prise.
-4. Rédiger les onze objections avant les réponses.
-5. Réorganiser le plan détaillé du deuxième mouvement.
-6. Affecter une fonction différentielle à chaque étude de cas.
-7. Utiliser la V8 comme première refonte argumentative après Vazard, la V9 comme
-   clarification ontologique du caractère relationnel et moteur de l'intéressant, puis
-   la V10 comme introduction de l'épreuve littéraire et généalogique Proust–*Bartleby*–Job.
+**Critère de sortie :** le lecteur suit les opérations musicales et comprend pourquoi
+une interprétation rivale reste possible ou devient moins convaincante. Une expérience
+avec participants n'est pas un préalable à cette première analyse.
 
-## Documents concernés
+Appuis : idea_0111, idea_0019, idea_0085, idea_0113, idea_0115, idea_0118 et
+idea_0123. Le dossier relie aussi le passage à `idea_0112` et à sa description
+antérieure dans *Histoire d'une oreille*, p. 119-120, présentée un ton plus haut.
 
-- [`STRUCTURE_PROVISOIRE.md`](STRUCTURE_PROVISOIRE.md) : architecture générale ;
-- [`BUT_DE_LA_THESE.md`](BUT_DE_LA_THESE.md) : définition, type de preuve et limites ;
-- [`../cartes/indexes/by_architecture.md`](../cartes/indexes/by_architecture.md) :
-  noyau `CORE` et statuts architecturaux ;
-- [`../docs/lectures/theses-comparaison-preuve-philosophique.md`](../docs/lectures/theses-comparaison-preuve-philosophique.md) :
-  justification méthodologique ;
-- `projet-these-fr.tex` et `projet-these-en.tex` : nouvelle version seulement après
-  achèvement des chantiers 1 à 4.
+**État : cas choisi, essai court intégré à la V15, témoignage et dynamique repris dans
+la Défense ; analyse suivie et contre-épreuve à développer.** Repère : semaines 2-3.
+
+### 3. Transformer la défense existante en chapitre
+
+**Livrable :** un chapitre continu comprenant proposition, arguments, objections,
+réponses, comparaison et portée du résultat.
+
+- Reprendre le dossier existant plutôt que recréer une liste d'objections.
+- Privilégier quelques confrontations approfondies : Garve, Grimm, Vazard et un modèle
+  précis du progrès d'apprentissage ou de compression. Les quatorze colonnes de la
+  matrice restent un outil de repérage.
+- Relier « comment ça marche ? » à Grimm, *What Is Interesting?*, section IV,
+  p. 525-527 : [texte primaire](https://philpapers.org/archive/GRIWII-5.pdf).
+  Préciser l'apport propre de la dynamique constructive et des cas musicaux.
+- Réexaminer le verdict sur Vazard et l'expérience désagréable : la valeur positive
+  du maintien de l'attention ne suffit pas à exclure un objet détesté ou pénible.
+  Comparer les arguments de sa [section V](https://academic.oup.com/pq/advance-article/doi/10.1093/pq/pqag014/8571347).
+- Traiter en priorité les deux implications de la définition, la circularité, la
+  fascination, la contemplation, la curiosité, la normativité, l'horizon ajouté après
+  coup et le pouvoir explicatif du « moteur » relationnel.
+- Distinguer chez Garve ce qui est établi par lecture, ce qui relève de la réception
+  documentée et ce qui reste une hypothèse sur son histoire.
+
+**Critère de sortie :** préciser ce que la proposition explique mieux, ce qu'elle
+concède aux autres analyses et les cas susceptibles de la faire échouer.
+
+**État : matériaux disponibles, rédaction suivie à produire.** Repère : semaines 4-6.
+
+### 4. Faire lire et réviser un ensemble cohérent
+
+**Livrable :** un dossier comprenant définition, cas musical, contre-épreuve et
+défense, puis une liste de révisions issue des retours.
+
+Questions aux lecteurs : quelle proposition comprennent-ils ? Quel argument les
+convainc ? Quel cas résiste ? Quelle source ou analyse manque pour décider ?
+Préparer le dossier pour la direction ; son envoi constitue une action distincte.
+
+**Critère de sortie :** retours reçus et décisions de révision consignées. Préparer
+ensuite, si le lot est stabilisé, une nouvelle version publique bilingue.
+
+**État : dépend des trois premières étapes.** Repère : semaines 7-8, selon disponibilité
+des lecteurs. Ce calendrier est une cadence proposée, non une date garantie.
+
+## Architecture de rédaction proposée
+
+| Mouvement | Chapitre | Fonction |
+| --- | --- | --- |
+| Constituer le problème | 1. Aimer, être captivé, trouver intéressant | Établir les distinctions à expliquer |
+| | 2. Garve et les théories de l'intéressant | Définir les interlocuteurs et l'apport recherché |
+| Construire et défendre | 3. La rencontre qui déclenche une construction | Formuler le noyau et ses engagements |
+| | 4. Commencement, prises, échecs et relances | Développer la dynamique et ses contre-exemples |
+| | 5. Pourquoi retenir cette conception ? | Comparer et borner le résultat |
+| Mettre à l'épreuve | 6. Construire dans l'écoute musicale | Analyser Jotney, les variantes et la surattention |
+| | 7. Construire avec des systèmes | Étudier l'interaction, les représentations et les indicateurs |
+
+Ce plan est une proposition issue de la revue. Il sera éprouvé par les premières
+rédactions avant de remplacer le plan public. L'ordre de rédaction commence par la
+définition et la musique, indépendamment de l'ordre de lecture final.
+
+## Réserve et règles de travail
+
+Pour ce cycle, conserver en réserve la généalogie morale, la généralisation de la
+réification, l'axiomatisation, la rareté statistique et une théorie générale du roman.
+Les cartes et les analyses existantes restent disponibles. Un cas littéraire,
+pédagogique ou philosophique peut servir une objection précise. Les mêmes critères de
+construction s'appliquent à tous les domaines : une activité prescrite peut devenir
+intéressante ; la prescription n'exclut pas un éventuel contre-exemple religieux ou
+pédagogique.
+
+Pour les cartes sélectionnées, tenir un tableau unique : identifiant, chapitre,
+fonction, état rédactionnel, difficulté restante. Reclasser les 162 cartes n'est pas
+un préalable. Les états du suivi sont « à défendre », « rédigée », « discutée » et
+« révisée » ; ils ne modifient pas encore les métadonnées du catalogue.
+
+Les cartes servent d'atelier ; une synthèse courte expose la position courante ; les
+chapitres portent la démonstration. Une nouvelle lecture répond à une difficulté
+identifiée. Une nouvelle carte apporte une proposition indépendante nécessaire. Une
+nouvelle version du projet enregistre un progrès argumentatif identifiable.
+
+La synchronisation suit le [pipeline existant](../docs/pipeline-synchronisation-cartes-documents.md).
+La [comparaison avec Anselin et Thalabard](../docs/lectures/theses-comparaison-preuve-philosophique.md)
+reste l'appui méthodologique de la progression problème, modèle, défense et épreuves.

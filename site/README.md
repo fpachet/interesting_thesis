@@ -2,14 +2,18 @@
 
 Ce dossier contient l'interface publique du projet. Le site est entièrement généré
 depuis les documents canoniques du dépôt : cartes Markdown, index argumentatifs,
-relations typées, bibliographie BibTeX, corpus documentaire, but de la thèse,
-questions ouvertes et registre de traitement.
+relations typées, bibliographie BibTeX, corpus documentaire et registre de traitement.
+La définition et la question directrice viennent de la
+[Défense](../docs/defense-concept-interessant.md), les questions de travail du
+[plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md), et le numéro de version
+du projet français. Le site ne dépend plus du but ou de l'organisation conservés en référence.
 
-Il ne constitue donc pas une seconde source éditoriale. Toute modification d'une carte
-ou de l'organisation apparaît au prochain build.
+Les cartes et ces extraits sont actualisés au prochain build, sans seconde saisie.
+Les autres textes de présentation codés dans le générateur et le PDF court ne sont
+pas automatiquement réécrits. Le catalogue HTML des cartes reste actif, distinct
+du catalogue PDF désormais archivé.
 
-La place du site dans la chaîne complète, depuis une carte jusqu'aux synthèses et au
-projet bilingue, est décrite dans le
+La règle des trois documents actifs et des vues dérivées est décrite dans le
 [`pipeline de synchronisation`](../docs/pipeline-synchronisation-cartes-documents.md).
 
 ## Génération

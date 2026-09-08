@@ -3,27 +3,34 @@
 Ce dossier contient les versions française et anglaise du projet de thèse, ainsi
 que leurs instantanés historiques.
 
-## Fichiers courants
+## Documents actifs et adaptations
 
-- `projet-these-fr.tex` : version française courante ;
-- `projet-these-en.tex` : version anglaise courante ;
-- `projet-these-court-fr.tex` : version française courte, destinée aux dossiers
-  administratifs qui demandent une présentation resserrée ;
-- `BUT_DE_LA_THESE.md` : cadrage de l'objet, des tâches philosophiques et du
-  résultat attendu avant la sélection des propositions pivots ;
-- `STRUCTURE_PROVISOIRE.md` : note d'architecture issue de la discussion avec
-  Olivia Chevallier ; trois mouvements possibles et questions de composition ;
-- `PLAN_ACTION_DEMONSTRATION.md` : chantiers destinés à transformer la définition
-  candidate en position philosophiquement défendue avant une nouvelle version ;
-- `versions/projet-these-vN-fr.tex` et `versions/projet-these-vN-en.tex` :
-  versions archivées et immuables ;
-- `CHANGELOG.md` : différences intellectuelles et documentaires entre versions ;
-- `Makefile` : compilation et nettoyage des trois rendus courants.
+Les trois documents actifs du projet sont :
 
-Les deux versions longues, française et anglaise, doivent rester homologues :
-mêmes sections, mêmes hypothèses, mêmes citations et même numéro de version. La
-version courte reprend leurs éléments essentiels dans un texte indépendant et
-plus resserré.
+1. [Définition et défense](../docs/defense-concept-interessant.md) : contenu
+   conceptuel courant et arguments, y compris les développements post-V15.
+2. [Plan d'action](PLAN_ACTION_DEMONSTRATION.md) : décisions, architecture,
+   avancement et étapes à franchir.
+3. [Projet français](projet-these-fr.tex) : présentation pour un lecteur,
+   actualisée par étapes significatives ; actuellement V15.
+
+L'anglais (`projet-these-en.tex`) est une adaptation du français lors de la préparation
+d'une version bilingue. La version courte (`projet-these-court-fr.tex`) est adaptée
+pour les besoins de présentation et les dossiers administratifs. Ce ne sont pas
+deux sources conceptuelles supplémentaires à synchroniser après chaque échange.
+
+[BUT_DE_LA_THESE.md](BUT_DE_LA_THESE.md) et
+[STRUCTURE_PROVISOIRE.md](STRUCTURE_PROVISOIRE.md) sont des références conservées
+en l'état, sans maintenance systématique. Les décisions d'architecture vont désormais
+dans le plan, les formulations conceptuelles dans la Défense.
+
+`versions/` conserve les instantanés immuables ; `CHANGELOG.md` décrit les différences
+entre versions ; `Makefile` compile les trois rendus de présentation.
+Les versions longues française et anglaise diffusées doivent rester homologues :
+mêmes sections, hypothèses, citations et numéro de version.
+
+Le manuscrit **« thèse dans l'état présent »** demandé par l'auteur est un livrable
+distinct, différé et inscrit au plan. Il n'est pas encore rédigé.
 
 ## Versions historiques
 
@@ -113,9 +120,17 @@ sujet ; la réification commence lorsque cette naissance relationnelle est oubli
 version distingue ce cas vécu des réifications administratives, marchandes ou
 automatiques qui peuvent s'imposer sans intérêt préalable.
 
+La V15 intègre l'essai court *Honey Pie : une note qui fait question* dans la partie
+musicale et sa traduction anglaise. Elle relie l'accroche, la question « comment ça
+marche ? », la reconstruction et la réécoute à la définition constructive, sans
+présenter les variantes proposées comme des observations déjà réalisées.
+Le [dossier musical](../docs/notes/honey-pie-jotney.md) conserve les sources,
+la réduction notée et les vérifications restant à faire.
+
 ## Cycle d'une nouvelle version
 
-1. Modifier `projet-these-fr.tex` et `projet-these-en.tex`.
+1. Réviser `projet-these-fr.tex` à partir d'un lot argumenté, puis adapter
+   `projet-these-en.tex` pour cette version bilingue.
 2. Incrémenter `\projectversion` dans les deux fichiers.
 3. Compiler avec `make` et relire les deux PDF.
 4. Décrire dans `CHANGELOG.md` les changements de question, d'hypothèses, de
@@ -130,7 +145,7 @@ typographique. Git conserve l'historique fin entre deux versions nommées.
 
 ## Synchronisation avec les cartes
 
-Le passage des cartes aux documents de synthèse, aux deux projets et au site est décrit
+Le mode de travail à trois documents actifs et les adaptations à la demande sont décrits
 dans [`../docs/pipeline-synchronisation-cartes-documents.md`](../docs/pipeline-synchronisation-cartes-documents.md).
 L'[`audit du 23 août 2026`](../docs/audit-rattrapage-v6-cartes-2026-08-23.md)
 prend le commit `302cfa2` comme état éditorial terminal de fait de la V6.
@@ -148,7 +163,9 @@ La V8 conserve cette correspondance et ajoute son propre triplet d'instantanés
 `projet-these-v11-{fr,en}.tex` et `references-v11.bib`. La V12 est archivée dans
 `projet-these-v12-{fr,en}.tex` et `references-v12.bib`. La V13 est archivée dans
 `projet-these-v13-{fr,en}.tex` et `references-v13.bib`. La V14 est archivée dans
-`projet-these-v14-{fr,en}.tex` et `references-v14.bib`.
+`projet-these-v14-{fr,en}.tex` et `references-v14.bib`. La V15 est archivée dans
+`projet-these-v15-{fr,en}.tex` et `references-v15.bib` ; son
+[audit](../docs/audit-honey-pie-v15-2026-09-08.md) consigne l'intégration de l'essai.
 
 ## Compilation
 

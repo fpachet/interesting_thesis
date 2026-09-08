@@ -9,6 +9,7 @@ sources:
   - "input/old_docs/Synopsis MIT Press.doc"
   - "projet-these/projet-these-fr.tex"
 source_notes:
+  - "Précision proposée par François Pachet le 8 septembre 2026 : distinguer « comment ça marche ? » des appréciations « j'aime, j'adore, je déteste »."
   - "TBKLullyNOTES, distinction entre aimer un objet et aimer l'activité qu'il provoque, rendu PDF p. 2"
   - "Synopsis MIT Press, préférence déclarée et comportement effectif, rendu PDF p. 10"
   - "Question directrice : l'intéressant ne se réduit pas à une préférence subjective donnée sans histoire"
@@ -30,6 +31,15 @@ morceau intéressant sans l'aimer.
 Préférer un objet peut consister à l'aimer davantage, à le choisir ou à anticiper qu'il
 procurera plus de satisfaction qu'une alternative. Ces relations peuvent coïncider avec
 l'intérêt, mais aucune ne l'implique.
+
+La différence devient sensible dans le passage de « j'aime, j'adore, je déteste » à
+**« comment ça marche ? »** L'appréciation dit comment le sujet est affecté ; la
+question engage une exploration de l'organisation de l'objet et de ses effets. Elle
+peut accompagner l'amour comme le rejet, ou surgir sans appréciation arrêtée. Il ne
+s'agit donc pas d'une intensification du goût : l'objet devient le support de
+comparaisons, d'hypothèses et d'essais. La formule est un indice de ce déplacement,
+pas un test verbal obligatoire ; une question récitée par devoir ne suffit pas à
+attester l'intérêt, et une exploration peut rester tacite.
 
 On peut préférer une forme familière, confortable ou identitaire tout en la trouvant
 prévisible et sans intérêt. Inversement, une œuvre déplaisante, une idée inquiétante, un

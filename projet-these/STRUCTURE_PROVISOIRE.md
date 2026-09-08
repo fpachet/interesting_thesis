@@ -1,5 +1,10 @@
 # Structure provisoire de la thèse
 
+> **Référence conservée en l'état au 8 septembre 2026.** Cette note garde la trace
+> d'une proposition d'architecture et de ses développements. Les nouvelles décisions
+> de composition sont consignées dans le [plan d'action](PLAN_ACTION_DEMONSTRATION.md),
+> sans réécriture systématique de cette note.
+
 > **Statut :** note d'architecture, et non carte-proposition ni plan arrêté.
 >
 > **Contexte :** formulation issue d'une discussion avec Olivia Chevallier,
@@ -54,6 +59,10 @@ donc aussi importants que les lacunes.
 
 Le deuxième mouvement rassemble le cœur théorique de la thèse :
 
+La [Défense](../docs/defense-concept-interessant.md) en est désormais le document
+de référence. Sa consolidation post-V15 distingue la définition, les hypothèses de
+maintien et de relance, les résultats et les objections, sans nouvelle définition.
+
 - la relation minimale `I(F, S | H, t)` entre une forme, un sujet, un horizon
   collectif et un moment ;
 - la distinction catégoriale entre les états ou activités actualisés dans le sujet
@@ -68,6 +77,9 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
   conduire à une réification lorsque cette naissance relationnelle est oubliée ;
 - la distinction entre attention exploratoire antérieure à la question et construction
   déjà orientée vers une prise ;
+- le basculement que condense « comment ça marche ? », lorsque l'objet appelle une
+  exploration au-delà de « j'aime, j'adore, je déteste » ; cette question peut émerger
+  de l'attention ouverte et rester tacite ;
 - la comparaison avec l'attention, la curiosité naturelle et artificielle, et les
   émotions : chacune saisit une actualisation ou un mécanisme partiel, non le régime
   complet de la relation sujet-objet ;
@@ -78,6 +90,10 @@ Le deuxième mouvement rassemble le cœur théorique de la thèse :
 - la récursivité par laquelle une construction transforme les conditions de
   l'intérêt futur et le concept de l'intéressant peut devenir lui-même un objet
   intéressant ;
+- la relance possible d'une énigme de fonctionnement vers une question d'invention,
+  distincte d'une genèse historique établie ;
+- les deux épreuves de portée : intérêt sans construction attestable et construction
+  effective sans intérêt, y compris dans une activité prescrite (O12) ;
 - les propriétés logiques ou modales candidates et les limites de toute
   axiomatisation.
 
@@ -138,6 +154,19 @@ La musique permet d'étudier dans le temps l'attente, la mémoire, la
 surprise, de l'apprentissage et de l'épuisement. Les micro-émotions musicales et
 les analyses de morceaux permettent d'observer comment une forme devient
 intéressante, cesse de l'être ou le redevient autrement.
+
+**Premier cas rédigé : *Honey Pie*.** L'[essai court](../docs/notes/honey-pie-jotney.md)
+est intégré à la partie musicale de la V15 française et anglaise. Sa fonction est de
+suivre le passage de la surprise à la question, puis à la reconstruction et à une
+réécoute transformée. Il distingue préférence et activité constructive, sans faire
+du régime Jotney une garantie d'intérêt. La transcription fidèle, les variantes et
+la contre-épreuve restent à produire ; le cheminement proposé n'est pas un protocole
+expérimental déjà réalisé.
+
+Le témoignage ultérieur sur la recherche à la guitare et le jeu extérieur/intérieur
+est maintenant repris dans la Défense. Sa fonction argumentative est de donner un
+contenu à « construire » ; l'hypothèse d'épuisement et de relance précise une dynamique
+possible. Ces compléments post-V15 sont préparés pour une prochaine reprise bilingue.
 
 La parcimonie tonale y exercera une fonction discriminante précise. Elle permet de
 comparer continuité locale, compacité globale et progrès temporel de compréhension, puis

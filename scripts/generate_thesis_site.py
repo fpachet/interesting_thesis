@@ -773,26 +773,33 @@ def base_page(
 
 
 def thesis_statement() -> str:
-    text = (ROOT / "projet-these" / "BUT_DE_LA_THESE.md").read_text(encoding="utf-8")
-    central = section(text, "Hypothèse centrale : l'intéressant comme déclencheur d'une construction")
-    match = re.search(r"\*\*([^*]+)\*\*", central, re.DOTALL)
+    text = (ROOT / "docs" / "defense-concept-interessant.md").read_text(encoding="utf-8")
+    central = section(text, "Thèse défendue")
+    match = re.search(
+        r"^> \*\*Définition D \(`CORE`\)\.\*\* (.+(?:\n> .+)*)",
+        central,
+        re.MULTILINE,
+    )
     if not match:
         raise ValueError("Impossible d'extraire la thèse centrale")
-    statement = re.sub(r"\s+", " ", match.group(1)).strip()
+    statement = re.sub(r"\s+", " ", match.group(1).replace("\n> ", " ")).strip()
     return statement[:1].upper() + statement[1:]
 
 
 def direct_question() -> str:
-    text = (ROOT / "README.md").read_text(encoding="utf-8")
-    match = re.search(r"La question directrice est : \*\*(.+?)\*\*", text, re.DOTALL)
-    if not match:
+    text = (ROOT / "docs" / "defense-concept-interessant.md").read_text(encoding="utf-8")
+    question = section(text, "Question directrice").strip()
+    if not question:
         raise ValueError("Impossible d'extraire la question directrice")
-    return re.sub(r"\s+", " ", match.group(1))
+    return re.sub(r"\s+", " ", question)
 
 
 def open_questions() -> list[str]:
-    text = (ROOT / "cartes" / "ORGANISATION.md").read_text(encoding="utf-8")
-    return extract_bullets(section(text, "Questions ouvertes"))
+    text = (ROOT / "projet-these" / "PLAN_ACTION_DEMONSTRATION.md").read_text(encoding="utf-8")
+    questions = extract_bullets(section(text, "Questions de travail"))
+    if not questions:
+        raise ValueError("Impossible d'extraire les questions de travail")
+    return questions
 
 
 def git_metadata() -> tuple[str, list[tuple[str, str, str]]]:
