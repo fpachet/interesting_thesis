@@ -6,11 +6,17 @@ level: conceptual
 status: inbox
 sources:
   - "projet-these/projet-these-fr.tex"
+  - "docs/notes/interet-spontane-volonte-exemples.md"
+  - "https://frenchlessonsparis.blogspot.com/2022/04/catherine-sketch-de-sylvie-joly-avec.html"
+  - "https://pierre-philippe.blogspot.com/2010/09/nouvelles-petites-annonces-delie-semoun.html"
 references:
   - academie2026interet
   - cnrtl2026interet
   - wierzbicka2006english
+  - catherine2022transcription
+  - ppc2010semoun
 source_notes:
+  - "Exemples proposés par l'auteur le 28 septembre 2026 ; Catherine repéré dans une transcription secondaire, formule de Semoun attestée indirectement, interprétations pragmatiques proposées pour la thèse."
   - "Académie française et CNRTL : filiation d'intérêt depuis le latin interest et passage par le préjudice, le dédommagement et le sens financier."
   - "Wierzbicka, English: Meaning and Culture, p. 29-30 : l'understatement comme pratique anglophone, plus particulièrement associée à l'anglais britannique."
   - "Projet de thèse, section « Un mot déjà divisé » : articulation conceptuelle entre polysémie lexicale et ambiguïté pragmatique."
@@ -51,6 +57,49 @@ par son emploi et la relation d'intérêt effectivement vécue. La présence de
 « intéressant » dans un discours ou une réponse à un questionnaire ne prouve pas, à
 elle seule, que l'activité caractéristique de l'intérêt soit engagée.
 
+## Je m'intéresse : l'objet laissé en suspens
+
+L'auteur propose la bourgeoise de Sylvie Joly comme exemple d'une intérescence saisie
+dans son mouvement même. Dans la [transcription de *Catherine*](https://frenchlessonsparis.blogspot.com/2022/04/catherine-sketch-de-sylvie-joly-avec.html),
+la formule « Je vis, je sors, j'm'intéresse, je m'passionne » inscrit l'intérêt parmi
+des manières de vivre. Le complément attendu, « à quelque chose », reste inexprimé.
+La phrase donne à entendre une disposition à entrer en relation, avant la désignation
+d'un objet particulier. L'absence de complément exprimé ne prouve pas une expérience
+sans objet ; elle permet de mettre le mouvement de s'intéresser au premier plan.
+
+Le contexte comique ouvre aussi une lecture sociale : le personnage peut se présenter
+comme une personne ouverte et passionnée. Il faut conserver les deux possibilités,
+disposition vécue et disposition affichée. La formule éclaire l'intuition de l'auteur
+sans suffire à attester une intérescence chez le personnage. La prosodie et le jeu
+restent à vérifier sur l'enregistrement.
+
+## Ça m'intéresse : attrait, désir et disponibilité
+
+L'auteur rappelle la formule des petites annonces d'Élie Semoun : « Si tu es blonde,
+... ça m'intéresse ». Un [billet de 2010](https://pierre-philippe.blogspot.com/2010/09/nouvelles-petites-annonces-delie-semoun.html)
+en atteste une variante ; l'extrait original reste à identifier. Dans cet emploi,
+la formule peut annoncer un désir ou une disponibilité à la rencontre sur la base de
+traits attendus. Elle n'annonce pas nécessairement une énigme ou une exploration.
+
+L'exemple rend visible l'ajustement entre une sollicitation et les dispositions d'un
+sujet, mais il oblige à distinguer satisfaction d'une préférence et ouverture d'une
+construction. Il fournit un contraste utile avec les cas musicaux de `idea_0166`.
+
+## Ça ne m'intéresse pas : nier un état ou fermer un échange
+
+L'auteur souligne l'emploi agressif de cette formule. Dans une conversation, elle
+peut accomplir un refus : interrompre, congédier une proposition, refuser d'entendre
+une justification ou signifier que la parole de l'autre ne mérite pas de suite.
+Elle agit alors sur la relation entre interlocuteurs, au-delà du constat d'un état
+intérieur. En ce sens, elle n'est pas le simple envers pragmatique de « ça m'intéresse ».
+
+Cette lecture dépend du contexte et du ton. La même phrase peut exprimer sobrement
+une préférence ou poser une limite sans agressivité. Il faut donc distinguer négation
+du contenu, refus d'engagement et disqualification de l'interlocuteur. De même, un
+refus de poursuivre ne prouve pas toujours l'absence de tout intérêt : un sujet peut
+fermer l'échange pour d'autres raisons. L'asymétrie proposée concerne des usages,
+non une propriété universelle des deux phrases.
+
 ## Intérêt pour la thèse
 
 Cette distinction empêche de faire glisser silencieusement la définition entre
@@ -69,9 +118,15 @@ pragmatique proposé ici constitue donc une articulation conceptuelle fondée su
 usages ordinaires ; une affirmation historique ou quantitative plus forte demanderait
 une étude de corpus propre.
 
+Les exemples français ajoutés le 28 septembre 2026 proviennent de la discussion avec
+l'auteur et du repérage documentaire consigné dans la note source. Les textes en ligne
+ne remplacent pas le contrôle des enregistrements ; les analyses de la disposition,
+du désir et de la clôture conversationnelle restent des propositions de la thèse.
+
 ## Liens
 
 - Précise l'opacité théorique du prédicat ordinaire décrite dans `idea_0130`.
 - Limite `idea_0132` : l'énoncé « c'est intéressant » n'accomplit pas toujours une recommandation prospective sincère.
 - Étend la distinction entre préférence et intérêt de `idea_0118` au rapport entre jugement verbal et relation vécue.
 - Applique au vocabulaire lui-même le risque de substitution entre indicateur et cible formulé dans `idea_0128`.
+- Complète `idea_0166` : déclarer un intérêt, porter attention et être entraîné par la rencontre ne coïncident pas nécessairement.

@@ -62,7 +62,7 @@ est un outil de travail réversible, pas encore un plan de thèse.
 - `idea_0141` - Chez Garve, la morale oriente certains effets de l'intéressant sans en définir la nature.
 - `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
 
-## 3. Temporalité, attention et apprentissage (28)
+## 3. Temporalité, attention et apprentissage (30)
 
 ### Pivots
 
@@ -86,6 +86,8 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ### Trajectoires, cas et limites
 
+- `idea_0166` - On peut décider de porter attention sans pouvoir décréter son intérêt.
+- `idea_0167` - Dans le cas Lassalle, comprendre le passage au cinéma fait retomber l'intérêt.
 - `idea_0164` - Peut-on rendre tout intéressant ?
 - `idea_0015` - Une réponse adaptée au contexte peut rester inintéressante si elle ignore l'histoire.
 - `idea_0022` - Un objet raté peut soutenir l'attention en transformant le spectateur en diagnosticien.
@@ -254,6 +256,6 @@ est un outil de travail réversible, pas encore un plan de thèse.
 
 ## Couverture
 
-Les huit familles contiennent respectivement 11, 27, 28, 33, 11, 20, 12 et 20
-cartes, soit les 162 cartes actives. Toute modification de cet index doit
+Les huit familles contiennent respectivement 11, 27, 30, 33, 11, 20, 12 et 20
+cartes, soit les 164 cartes actives. Toute modification de cet index doit
 maintenir une affectation principale unique pour chaque identifiant.

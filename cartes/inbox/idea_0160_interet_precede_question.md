@@ -6,10 +6,12 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/lectures/vazard-interet-attention.md"
 references:
   - vazard2026inquiry
 source_notes:
+  - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Vazard, sections III-IV : l'intérêt vise un objet et soutient une attention exploratoire avant qu'une question déterminée ne soit disponible."
   - "Vazard, sections V-VI : intérêt comme sentiment de la valeur d'attendre et distinction entre intérêt ajusté et mal ajusté."
 tags:
@@ -81,6 +83,19 @@ rester exploratoire. Elle doit également tester, au-delà du domaine épistémi
 si l'opposition entre familiarisation ouverte et enquête dirigée vaut dans
 l'esthétique, la création et l'interaction.
 
+## Cas : la question se précise avec la découverte
+
+Le récit sur les obsèques d'Agnès Lassalle (`idea_0167`) fournit un cas esthétique
+à confronter à cette distinction. L'auteur revient à la vidéo sans savoir ce qui
+l'intéresse. Après des visionnages prolongés, il identifie l'entrée des violons
+comme le moment où la musique de la cérémonie devient pour lui une musique de
+film. Il peut alors nommer ce qui le retenait : le passage perçu au cinéma.
+
+La question précise se formule ainsi à partir de la découverte. Il ne faut pas
+la projeter sur le début comme si l'auteur avait entrepris une analyse des cordes
+avec cet objectif. Le témoignage n'est pas un relevé contemporain des étapes ;
+il soutient une antériorité rapportée de l'intérêt sur sa question déterminée.
+
 ## Intérêt pour la thèse
 
 Cette proposition fournit un comparant contemporain direct à Garve et à la
@@ -98,3 +113,4 @@ constituer ce sur quoi il deviendra possible d'enquêter.
 - Donne une base contemporaine au moment pré-problématique de `idea_0138`.
 - Rejoint les aguets de `idea_0143` sans identifier la disponibilité essayistique de Pachet à une attitude épistémique unique.
 - Distingue l'intérêt mal ajusté de la fascination promissive de `idea_0124`.
+- Est illustrée par `idea_0167`, dans les limites du témoignage de réception documenté.

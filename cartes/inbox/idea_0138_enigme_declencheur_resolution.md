@@ -5,8 +5,10 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/notes/enigme-interessant.md"
 source_notes:
+  - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Formulation personnelle consignée le 30 juillet 2026 ; la distinction entre contrainte, énigme, problème et construction est une hypothèse propre à la thèse."
 tags:
   - interessant
@@ -80,6 +82,20 @@ sa solution. Une **énigme générative** se transforme au cours de sa résoluti
 chaque prise ferme une couche et en ouvre une autre. Cette différence articule
 l'énigme à l'épluchage constructif et à la récursivité de l'intéressant.
 
+## Cas : l'énigme de ce qui nous retient
+
+Dans le cas Lassalle (`idea_0167`), l'opacité porte sur l'expérience même du
+spectateur : la vidéo l'intéresse sans qu'il sache pourquoi. Les explications
+symboliques lui semblent possibles mais ne suffisent pas à achever sa recherche.
+La découverte de l'entrée des violons comme seuil vers une réception
+cinématographique lui fournit une réponse déterminée : la musique de la cérémonie
+prend pour lui la fonction d'une musique de film.
+
+La retombée de l'intérêt, une fois cette articulation comprise, illustre une
+énigme localement consumable. L'objet peut encore émouvoir ou offrir d'autres
+questions ; aucune de ces suites n'est attestée par le récit. Cette interprétation
+reste distincte d'une preuve acoustique ou causale, comme le précise `idea_0134`.
+
 ## Intérêt pour la thèse
 
 Cette hypothèse précise ce qui peut mettre la construction en mouvement sans
@@ -104,3 +120,4 @@ la solution ?
   `idea_0137`.
 - Est limitée par `idea_0124`, où la promesse de compréhension ne produit pas
   de prise vérifiable.
+- Est illustrée par `idea_0167` : la compréhension du passage perçu au cinéma dans la vidéo des obsèques d'Agnès Lassalle s'accompagne d'une retombée de l'intérêt.

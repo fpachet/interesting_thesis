@@ -39,6 +39,33 @@ Le [catalogue des idées](../archives/catalogue-idees/2026-09-08/README.md) est 
 au 8 septembre 2026 avec son PDF, son source et sa bibliographie. Les cartes restent
 actives et consultables sur le site ; aucun export PDF n'est requis à chaque modification.
 
+### Précision du 28 septembre 2026 : génération et critères d'intérêt
+
+La carte `idea_0109` est enrichie, sans nouvelle carte, sur la détermination progressive
+du problème et des critères ; trois relations sont ajoutées et l'hypothèse rejoint le
+§ 4.3 de la Défense. Pour le chapitre sur les systèmes, il restera à éprouver la
+différence entre contraintes fixes et contraintes révisables en distinguant genèse
+effective, genèse perçue et problème reconstruit. La priorité reste le traitement d'O12.
+
+### Ajout du 28 septembre 2026 : volonté, usages et cas de la danse
+
+Deux cartes créées : `idea_0166` (intérêt spontané et attention volontaire, `TEST`) et
+`idea_0167` (danse aux obsèques d'Agnès Lassalle, `CASE`). Les exemples de langage
+enrichissent `idea_0155` ; la Défense reprend les distinctions et le cas. Le corpus
+compte désormais 164 cartes. Le récit de réception de la danse, reçu ensuite le même
+jour, recentre `idea_0167` et le § 3.3 de la Défense sur le passage perçu au cinéma
+lors de l'entrée des violons et la retombée de l'intérêt après compréhension. À
+compléter : enregistrements des sketches, passage de *Michelle* et vérification par
+écoute du repère sonore vers 0:35. La vidéo de référence a été fournie par l'auteur
+(YouTube `YI8gciBRrs8`, chaîne Stef Do, durée affichée 2 min 44 s). Le cas précise
+l'épuisement local ; la mise à l'épreuve O12 reste prioritaire.
+La chanson et les crédits de l'arrangement sont désormais documentés ; la note,
+la carte et la Défense précisent le changement de fonction de la musique. Les
+cartes liées `0001`, `0084`, `0123`, `0134`, `0137`, `0138`, `0160` et `0166`
+explicitent chacune l'apport du cas ; les relations et la présentation du site
+reprennent cette articulation. L'accès au fichier sonore a échoué : l'analyse du passage 0:20–0:50 reste à faire sur un
+fichier accessible, en distinguant entrée réelle des cordes et mise au premier plan.
+
 ### Livrable demandé, différé : « thèse dans l'état présent »
 
 Préparer ultérieurement un manuscrit français continu qui rassemble les passages

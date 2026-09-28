@@ -7,6 +7,8 @@ La séquence de reprise systématique est définie dans
 
 | Document | Statut | Notes | Cartes créées |
 | --- | --- | --- | --- |
+| `docs/notes/agnes-lassalle-reportage-cinema.md` | temoignage_retrospectif_conserve | Récit du 28 septembre 2026 conservé verbatim : intérêt inexpliqué, visionnages prolongés, entrée des violons vers 0:35, passage perçu au cinéma et retombée après compréhension. Version ensuite fournie par l'auteur : YouTube YI8gciBRrs8, Stef Do, durée affichée 2 min 44 s. Métadonnées consultées ; chanson française identifiée par TF1 Info (extrait indexé), RTL et métadonnées officielles ; crédits et effectif relevés dans Taylor–Hewitt. Extraction audio infructueuse, aucune écoute indépendante ni mesure acoustique ; repère à vérifier. | `idea_0167` recentrée ; `idea_0001`, `idea_0084`, `idea_0123`, `idea_0134`, `idea_0137`, `idea_0138`, `idea_0160`, `idea_0166` enrichies et reliées |
+| `docs/notes/interet-spontane-volonte-exemples.md` | note_conceptuelle_et_reperage_cible | Discussion du 28 septembre 2026 ; textes secondaires sur Joly et Semoun, extrait accessible du Parisien et notice officielle TF1 lus. Enregistrements non visionnés ; Michelle à préciser ; Honey Pie repris du dossier existant. | `idea_0166`, `idea_0167` créées ; `idea_0155` enrichie |
 | `docs/defense-concept-interessant.md` | reference_centrale_consolidee | Consolidation du 8 septembre 2026 post-V15 : définition courte inchangée, maintien et relance distingués, témoignage Honey Pie repris, O12 construction sans intérêt ouverte et prioritaire. Pas de nouvelle lecture du corpus externe. | `idea_0123` alignée ; aucune nouvelle carte |
 | `docs/notes/honey-pie-jotney.md` | essai_court_integre | Cas proposé et essai approuvé le 8 septembre 2026, intégré à la V15 bilingue. Sources analytiques : Blick (2013), motif sur « crazy » et accords ; Pollack (1998), trajet harmonique. Rapprochement avec *Histoire d'une oreille*, p. 119-120, transposé un ton plus haut. Réduction schématique disponible ; transcription exacte et variantes à vérifier. | `idea_0111` enrichie ; aucune nouvelle carte |
 | `docs/notes/interessant-racine-reification.md` | note_conceptuelle_speculative | Discussion du 5 septembre 2026 développée en hypothèse : l'intéressant peut détacher quelque chose du fond et contribuer à sa constitution comme objet pour un sujet ; la réification commence lorsque cette naissance relationnelle est oubliée. Le rapprochement étymologique entre objet et problème est précisé sans leur attribuer une racine commune. La programmation par objets reste une analogie issue de la pratique. | `idea_0165` créée ; `idea_0076`, `idea_0085`, `idea_0125`, `idea_0161` articulées |
@@ -120,6 +122,6 @@ propositionnelle intégrale. Les deux MP3 ont
 été vérifiés comme fichiers distincts et décodables ; une analyse harmonique ne
 serait nécessaire que pour tester empiriquement l'hypothèse de `idea_0034`.
 
-Le corpus comprend désormais 162 cartes. L'organisation argumentative reste l'activité
+Le corpus comprend désormais 164 cartes. L'organisation argumentative reste l'activité
 principale. La revue des publications personnelles est close après 35 décisions ; les
 208 autres PDF ne sont ni programmés ni déclarés non pertinents.

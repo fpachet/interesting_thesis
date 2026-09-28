@@ -38,6 +38,9 @@ l'état présent » est demandé et inscrit au plan, mais sa rédaction est diff
 Une idée nouvelle n'entraîne plus une mise à jour de tous les documents. La
 [Défense](docs/defense-concept-interessant.md) porte l'état conceptuel post-V15 ;
 le projet français et sa traduction anglaise restent pour l'instant en V15.
+Les ajouts du 28 septembre portent sur le conditionnement en IA générative,
+l’intérêt spontané et le [cas Lassalle](docs/notes/agnes-lassalle-reportage-cinema.md),
+avec sa chanson, son interprétation et la vérification sonore encore ouverte.
 Le [mode de travail](docs/pipeline-synchronisation-cartes-documents.md) précise
 quand intervenir dans chaque fichier.
 

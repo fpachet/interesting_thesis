@@ -20,6 +20,30 @@ utilisables par la thèse.
 
 ## Sources externes intégrées
 
+### Intérêt spontané, usages ordinaires et danse aux obsèques d'Agnès Lassalle
+
+Statut : `note_conceptuelle_et_reperage_cible` (28 septembre 2026).
+
+La note `docs/notes/interet-spontane-volonte-exemples.md` conserve les propositions et
+exemples de l'auteur. Elle alimente `idea_0166`, `idea_0167` et `idea_0155`. Lecture
+ciblée d'une transcription secondaire de *Catherine*, d'un billet attestant une variante
+de la formule de Semoun, de l'extrait accessible du Parisien et de la notice TF1 Pro.
+Les enregistrements n'ont pas été visionnés. *Michelle* reste un exemple à préciser ;
+le dossier existant de *Honey Pie* est mobilisé sans nouvelle transcription musicale.
+
+Le témoignage ultérieur du même jour est conservé verbatim dans
+`docs/notes/agnes-lassalle-reportage-cinema.md`. Il recentre `idea_0167` sur l'entrée des
+violons vers 0:35, le passage perçu au cinéma et la retombée de l'intérêt après
+compréhension. L'auteur a ensuite fourni la version YouTube `YI8gciBRrs8` : titre,
+chaîne Stef Do et durée affichée de 2 min 44 s identifiés dans le navigateur. Le son
+n'est pas restitué par les outils employés ; le repère reste à vérifier par écoute.
+Complément documentaire : *L-O-V-E* en français (*Je ne repartirai pas*) identifiée
+par TF1 Info (extrait indexé) et RTL ; crédits et orchestre documentés par la
+discographie Taylor–Hewitt. La note développe l'hypothèse d'un changement de fonction
+de la musique. Les tentatives d'extraction audio ont échoué ; aucune mesure acoustique
+n'a été produite.
+
+
 ### Note sur l'intéressant et la réification
 
 Statut actuel : `note_conceptuelle_speculative` (5 septembre 2026).

@@ -966,6 +966,8 @@ def thesis_page(cards: dict[str, Card], statement: str, question: str) -> str:
         ("Cadre relationnel", "idea_0084", "Une forme, un sujet, une mémoire et un horizon historique."),
         ("Régime partiel", "idea_0121", "Le flow décrit certaines conditions de maintien, non la définition générale."),
         ("Mécanisme", "idea_0123", "Une rencontre déclenche un processus perceptif, explicatif ou opératoire de construction."),
+        ("Intérêt et volonté", "idea_0166", "Un intérêt spontané peut soutenir un effort prolongé ; décider de porter attention ne suffit pas à le faire naître."),
+        ("Cas Lassalle", "idea_0167", "L'auteur décrit un passage au cinéma lors de l'entrée des violons, puis une retombée de l'intérêt après compréhension. Le seuil sonore reste à vérifier."),
         ("Test pédagogique", "idea_0164", "Peut-on rendre tout intéressant en accompagnant le travail mental d'autrui ?"),
         ("Médiation symbolique", "idea_0127", "Le langage compacte l'acquis et déplace la frange du presque-apprenable."),
         ("Garde-fou méthodologique", "idea_0128", "Un indicateur peut se substituer à la cible qu'il devait rendre testable."),

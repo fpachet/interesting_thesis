@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 import unittest
 from pathlib import Path
+from urllib.parse import urlsplit
 
 
 class CardMetadataTests(unittest.TestCase):
@@ -52,6 +53,9 @@ class CardMetadataTests(unittest.TestCase):
             sources = re.findall(r'^  - "([^"]+)"\s*$', source_block["items"], re.MULTILINE)
             self.assertTrue(sources, card.name)
             for source in sources:
+                if source.startswith(("https://", "http://")):
+                    self.assertTrue(urlsplit(source).netloc, f"{card.name}: {source}")
+                    continue
                 self.assertTrue((project_root / source).exists(), f"{card.name}: {source}")
 
     def test_architectural_statuses_are_valid_and_core_index_matches_metadata(self) -> None:

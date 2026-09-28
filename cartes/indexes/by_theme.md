@@ -25,6 +25,7 @@
 
 ## Définition de l'intéressant
 
+- `idea_0166` - On peut décider de porter attention sans pouvoir décréter son intérêt.
 - `idea_0165` - L'intéressant peut être à la racine de la réification.
 - `idea_0164` - Peut-on rendre tout intéressant ?
 - `idea_0163` - L'intérescence peut être la relève immanente de la fonction motrice de la morale.
@@ -199,6 +200,8 @@
 
 ## Exemples et symptômes
 
+- `idea_0166` - On peut décider de porter attention sans pouvoir décréter son intérêt.
+- `idea_0167` - Dans le cas Lassalle, comprendre le passage au cinéma fait retomber l'intérêt.
 - `idea_0124` - La promesse de compréhension peut fasciner sans produire de compréhension.
 - `idea_0018` - L'IA comme laboratoire philosophique de la naissance des idées.
 - `idea_0020` - L'appropriation par participation s'oppose à l'appropriation par confrontation.

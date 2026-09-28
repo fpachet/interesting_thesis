@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "input/projet thèse philo.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
@@ -19,6 +20,7 @@ references:
   - martin2016creativeprocess
   - kubovy1999pleasures
 source_notes:
+  - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "PDF p. 1-2"
   - "Dossier Jotney, propriété relationnelle robuste et effet de l'analyse, PDF p. 3-4"
   - "Histoire d'une oreille, apprentissages passifs qui préparent des effets futurs, PDF p. 27-34 ; changement de goût et dépendance au contexte, p. 281-295 ; impossibilité de retrouver l'oreille antérieure, p. 306-310."
@@ -108,6 +110,20 @@ juges moins expérimentés présentent la préférence inverse. Une moyenne de j
 peut donc masquer plusieurs relations entre formes et mémoires musicales ; le consensus
 n'est pas un regard sans horizon.
 
+## Cas : reconnaître du cinéma dans une musique de cérémonie
+
+Le cas Lassalle (`idea_0167`) précise la contribution de la mémoire : l'entrée des
+violons rapportée par l'auteur devient pour lui un indice de cinéma. La musique
+choisie pour la cérémonie, *Je ne repartirai pas* de Nat King Cole, prend dans
+son expérience une fonction de musique de film. La forme sonore rencontre une
+histoire d'écoute qui permet cette reconnaissance ; le timbre des cordes ne
+possède pas à lui seul ce sens pour tous les spectateurs.
+
+La découverte transforme ensuite la relation à la même vidéo : l'auteur rapporte
+une retombée de l'intérêt après avoir identifié cette articulation. Le témoignage
+ne décrit pas le devenir de l'émotion. L'identification de l'arrangement et les
+limites de sa vérification sont conservées dans la note source de `idea_0167`.
+
 ## Intérêt pour la thèse
 
 Cette définition relationnelle évite à la fois l'objectivisme des traits universels et
@@ -122,3 +138,4 @@ le subjectivisme qui rendrait toute explication impossible.
   et constructif que cette rencontre peut actualiser.
 - Le diagnostic de `idea_0116` explique pourquoi cette relation reste difficile à isoler.
 - Reçoit dans `idea_0161` son statut d'opérateur relationnel des transitions psychiques.
+- Est illustrée par `idea_0167`, dans les limites du témoignage de réception documenté.

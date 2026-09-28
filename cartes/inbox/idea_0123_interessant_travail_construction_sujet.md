@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "input/old_docs/interestingness.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"
@@ -24,6 +25,7 @@ references:
   - thalabard2012attention
   - vazard2026inquiry
 source_notes:
+  - "Cas Lassalle, 28 septembre 2026 : une distinction perceptive nommable puis une retombée de l’intérêt sont rapportées ; la validité causale de l’explication reste à éprouver."
   - "Consolidation du 8 septembre 2026 : définition courte maintenue ; ancienne formulation longue requalifiée en modèle du maintien. Témoignage de recherche à la guitare, hypothèse d'épuisement local et de relance vers l'invention ; réciproque construction-intérêt ouverte (O12 de la Défense)."
   - "Précision proposée par François Pachet le 8 septembre 2026 : l'intérescence fait surgir « comment ça marche ? », au-delà des appréciations « j'aime, j'adore, je déteste »."
   - "Histoire d'une oreille, apprentissages perceptifs et construction progressive d'une écoute, PDF p. 27-34 et 281-295"
@@ -178,6 +180,14 @@ La recherche à la guitare est rapportée par l'auteur ; cette relance est une h
 qu'il propose ensuite, pas une étape attestée du même récit. Le détail des suppressions
 musicales évoquées reste à documenter.
 
+Le cas Lassalle (`idea_0167`) apporte un autre récit d'épuisement local. L'auteur
+identifie, après des reprises prolongées, le passage d'une musique accompagnant
+la cérémonie à une musique reçue comme celle d'un film, lors de l'entrée des
+violons qu'il situe vers 0:35. Il rapporte ensuite une retombée de l'intérêt,
+sans relance vers une autre recherche. La construction décrite est une distinction
+perceptive devenue formulable. Sa validité causale reste à contrôler : l'explication
+vécue et la vérification de son mécanisme sont deux étapes distinctes.
+
 ## Trois niveaux de construction
 
 **Construction perceptive et conceptuelle.** Le sujet extrait des invariants,
@@ -258,3 +268,4 @@ devient effectivement capable de produire.
   issues : épuisement, abandon ou relance par la résistance.
 - `idea_0138` propose l'énigme comme médiation entre la rencontre avec l'objet,
   la formulation du problème et le déclenchement de la construction.
+- Est illustrée par `idea_0167` : une distinction perceptive devient formulable, puis l’intérêt retombe ; aucune relance n’est rapportée.

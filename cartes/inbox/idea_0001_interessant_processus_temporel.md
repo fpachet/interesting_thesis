@@ -5,6 +5,7 @@ kind: definition
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "input/old_docs/Synopsis MIT Press.doc"
   - "input/projet thèse philo.pdf"
   - "input/old_docs/TBKLullyNOTES.doc"
@@ -12,6 +13,7 @@ sources:
 references:
   - kubovy1999pleasures
 source_notes:
+  - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Projet thèse philo, PDF p. 1-3"
   - "Synopsis MIT Press, rendu PDF p. 7-10 et 18-20"
   - "TBKLullyNOTES, distinction temporel/atemporal, rendu PDF p. 5"
@@ -45,6 +47,20 @@ d'autres utilisent des matériaux pauvres dont toute la force vient de l'organis
 Inverser ou permuter la séquence fournit ainsi un test empirique du poids propre de la
 structure temporelle.
 
+## Cas : une entrée instrumentale requalifie les images
+
+Dans le récit de réception des obsèques d'Agnès Lassalle (`idea_0167`), l'auteur
+situe vers 0:35 une entrée de violons qui lui fait recevoir la vidéo comme une
+scène de cinéma. Le contraste avec le début peu instrumenté compte dans cette
+expérience : relever seulement la présence de cordes perdrait l'opération
+temporelle décrite. La musique de la cérémonie semble alors organiser les images
+pour celui qui les regarde.
+
+Ce cas illustre l'hypothèse à partir d'un témoignage ; le minutage et la texture
+restent à vérifier par écoute indépendante. Il faudrait comparer plusieurs
+placements de la même entrée pour éprouver son rôle, sans déduire cet effet de
+la seule liste des instruments.
+
 ## Intérêt pour la thèse
 
 Cette carte peut servir de définition de départ : l'intéressant n'est pas seulement ce
@@ -55,3 +71,4 @@ qui attire, mais ce qui organise une durée d'attention.
 - Proche de `idea_0004` sur l'ennui.
 - Proche de `idea_0015` sur les ordres d'intéressant.
 - à mettre en tension avec les approches statiques du goût.
+- Est illustrée par `idea_0167`, dans les limites du témoignage de réception documenté.

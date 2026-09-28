@@ -22,6 +22,7 @@ references:
   - papadopoulos2016flowcomposer
   - pachet2012virtuosity
 source_notes:
+  - "Discussion avec l'auteur du 28 septembre 2026 : précision sur les limites d'un critère d'intérêt fixé sur les propriétés finales et sur la détermination progressive du problème, de la solution et des critères."
   - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "Hidden Biases, insuffisance du sampling local pour les propriétés globales, PDF p. 1-3 et 10-14"
   - "Notes thèse, doodling comme échantillonnage peu contraint, PDF p. 1"
@@ -82,6 +83,45 @@ idées ; les décisions de haut niveau forment une « partition intentionnelle �
 pilote contour, chromatisme, continuité et ruptures. Ce cas montre comment le sampling
 et les contraintes peuvent aussi distribuer l'intention entre plusieurs échelles.
 
+## L'intéressant comme critère de conditionnement ?
+
+Lorsque l'intérêt d'un objet tient au problème qu'il fait émerger, à la rareté de sa
+solution et à la difficulté perceptible de son élaboration, un critère fixé sur ses
+seules propriétés finales ne suffit pas à en rendre compte. La carte `idea_0085`
+situe une part de l'invention dans l'apparition du problème ; `idea_0096` précise que
+la rareté pertinente est relative à ce problème, et non à la seule probabilité de
+l'objet sous un modèle. Cette reconstruction doit rester contestable : choisir des
+contraintes sur mesure pour rendre un objet unique ne suffit pas à établir son intérêt.
+
+Le parcours peut aussi modifier les critères du créateur (`idea_0099`). Les essais
+font apparaître des contraintes, des possibilités et des raisons de préférer une
+solution qui n'étaient pas disponibles au départ. L'hypothèse à explorer est donc
+celle d'une génération où problème, solution et critères d'appréciation se déterminent
+progressivement. Le couplage entre sampling et contraintes prédéfinies fournit un
+premier dispositif ; l'invention et la révision de ces contraintes en constituent un
+prolongement, développé dans `idea_0158`.
+
+La difficultuosité (`idea_0010`) oblige ici à distinguer trois dimensions :
+
+- la **genèse effective**, faite des essais, bifurcations et choix de production ;
+- la **genèse perçue**, c'est-à-dire la démarche et la difficulté que le sujet attribue
+  à cette production ;
+- le **problème reconstruit**, soit les contraintes que le sujet découvre dans sa
+  rencontre avec l'objet, sans nécessairement retrouver celles du créateur.
+
+Ces dimensions peuvent diverger. Une production laborieuse ne garantit pas l'intérêt ;
+une apparence de difficulté ne prouve pas la genèse qu'elle suggère. La carte
+`idea_0087` maintient ouverte la question des traces perceptibles de la facture, tandis
+que `idea_0068` propose de documenter le parcours effectif. Un objet peut ainsi engager
+une reconstruction intéressante sans que son histoire réelle soit connue.
+
+Cette proposition ne démontre pas l'impossibilité de guider un modèle par un score
+d'intérêt. Elle en limite la portée : optimiser un indicateur fixé sur les sorties ne
+garantit pas de préserver la relation entre forme, genèse, problème et sujet. La
+critique relève de `idea_0128`, sur la substitution de l'indicateur à la cible. Elle
+reste distincte de la difficulté technique étudiée dans `idea_0017`, qui concerne
+l'échantillonnage fidèle d'une loi conditionnelle déjà définie.
+
 ## Statut de la source
 
 Cette carte est une synthèse pour la thèse, non une conclusion explicite de `Hidden
@@ -91,6 +131,10 @@ lien proprement dit avec la production de formes intéressantes. NetNeg constitu
 construction scientifique antécédente que la thèse peut réinterpréter, sans lui
 attribuer cette généralisation philosophique.
 
+La section sur le critère de conditionnement explicite la discussion avec l'auteur du
+28 septembre 2026 à partir des cartes existantes. Elle formule une hypothèse
+d'articulation pour la thèse, sans l'attribuer aux résultats techniques cités.
+
 ## Intérêt pour la thèse
 
 La proposition donne un mécanisme commun à l'exploration sans but, au sens de la
@@ -98,9 +142,20 @@ direction et à l'objet perçu comme solution rare. Elle suggère aussi une arch
 expérimentale : comparer sampling seul, résolution seule et boucle hybride, puis mesurer
 la diversité, la légalité et l'intérêt des objets obtenus.
 
+Pour éprouver le prolongement proposé ici, distinguer une boucle à contraintes fixes
+d'une boucle qui permet leur révision, et conserver la trace des changements de
+problème et de critères. L'évaluation doit confronter ce parcours aux reconstructions
+des sujets, sans déduire l'intérêt de la seule difficulté ou de la réussite du calcul.
+
 ## Liens
 
 - Articule l'échantillonnage de `idea_0012` avec la résolution implicite de `idea_0096`.
-- `idea_0017` explique pourquoi un simple sampling conditionne ne réalise pas cette articulation exactement.
+- `idea_0085` soutient l'émergence du problème pendant la génération.
+- `idea_0099` précise que le parcours transforme aussi les critères de choix.
+- `idea_0010` et `idea_0087` distinguent difficulté effective et difficulté perceptible.
+- `idea_0068` propose de documenter la genèse effective sans la confondre avec sa reconstruction.
+- `idea_0128` limite la portée du couplage technique : sa réussite ne garantit pas de préserver l'intéressant.
+- `idea_0158` prolonge la boucle par l'invention et la révision des représentations et des contraintes.
+- `idea_0017` distingue la satisfaction des contraintes de la fidélité à la loi conditionnelle visée.
 - `idea_0098` montre l'échec symétrique d'un solveur qui ne produit que des solutions légales.
-- `idea_0100` précise quand le couplage modèle-contrainte peut être calcule exactement.
+- `idea_0100` précise quand le couplage modèle-contrainte peut être calculé exactement.

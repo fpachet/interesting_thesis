@@ -6,8 +6,10 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/notes/discussion-heinz-wismann-vrai-interessant.md"
 source_notes:
+  - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Discussion avec Heinz Wismann rapportée par François Pachet le 27 juillet 2026 ; propos conservés tels qu'ils ont été rapportés."
 tags:
   - interessant
@@ -79,6 +81,19 @@ examen fait progresser vers une théorie plus adéquate. Son auto-application
 explique sa fécondité, jamais sa validité. Ce cas confirme que la performativité
 de « l'intéressant est intéressant » ne constitue pas un critère de vérité.
 
+## Cas : une explication satisfaisante de sa propre réception
+
+Dans le cas Lassalle (`idea_0167`), reconnaître un passage au cinéma lors de
+l'entrée des violons met fin, selon le récit de l'auteur, à une recherche prolongée.
+Cette satisfaction est un fait rapporté de son expérience. L'explication causale
+reste à éprouver : le rôle propre des cordes devrait être distingué de celui du
+volume, de la phrase vocale, des gestes et d'éventuels changements de plan.
+
+L'identité de la chanson est documentée ; le seuil vers 0:35 n'a pas été vérifié
+par une écoute indépendante. Le cas permet ainsi de conserver une hypothèse
+féconde et une compréhension vécue sans en faire une explication démontrée de
+l'émotion publique ou de la diffusion de la vidéo.
+
 ## Intérêt pour la thèse
 
 Cette distinction protège la définition de l'intéressant contre une extension
@@ -101,3 +116,4 @@ entre-t-elle dans une enquête, et quelles constructions permet-elle encore ?
 - Se distingue de `idea_0124` : une erreur féconde produit des prises permettant
   sa rectification, tandis qu'une promesse vide ne fait que différer indéfiniment
   la compréhension.
+- Limite `idea_0167` : comprendre son intérêt ne démontre pas la cause de l’effet audiovisuel.

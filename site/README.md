@@ -45,7 +45,7 @@ python3 scripts/generate_thesis_site.py --output /tmp/interesting-thesis-site
 - un lien vers la version française courte du projet de thèse en PDF ;
 - un programme de lecture en dix séances avec questions de travail, statut des
   sources et liens d'accès public vérifiés ;
-- un catalogue des 162 cartes avec recherche et filtres ;
+- un catalogue des 164 cartes avec recherche et filtres ;
 - une fiche complète pour chaque carte, avec provenance et relations ;
 - une bibliographie recherchable, avec notices détaillées, documents publics et
   navigation bidirectionnelle entre références et propositions ;

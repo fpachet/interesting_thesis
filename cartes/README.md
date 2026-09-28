@@ -43,7 +43,7 @@ L'organisation actuelle ne repose pas sur une taxonomie unique :
 
 - `indexes/by_theme.md` rassemble les cartes par objet ou vocabulaire ;
 - `indexes/by_level.md` distingue leur statut épistémique ;
-- `indexes/by_argument.md` affecte chacune des 162 cartes à une famille
+- `indexes/by_argument.md` affecte chacune des 164 cartes à une famille
   argumentative principale, de manière exhaustive et réversible.
 - `indexes/by_architecture.md` distingue leur rôle dans la démonstration
   (`CORE`, `DERIVED`, `TEST`, `CASE`, `OBJECTION`, `SPECULATIVE`). Cette vue

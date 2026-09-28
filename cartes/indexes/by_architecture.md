@@ -106,6 +106,22 @@ travail de l'élève ; elle ne démontre pas que toute matière pourrait l'être
 oblige donc la thèse à distinguer accompagnement durable, séduction momentanée et échec
 de la construction.
 
+### Attention et volonté
+
+- `idea_0166` - On peut décider de porter attention sans pouvoir décréter son intérêt.
+
+Cette carte reçoit le statut `TEST` : elle compare intérêt spontané, attention
+volontaire et intérêt cultivé, sans faire de la spontanéité une condition nécessaire.
+Elle précise l'épreuve de la construction sans intérêt (O12).
+
+## Cas de vie documenté
+
+- `idea_0167` - Dans le cas Lassalle, comprendre le passage au cinéma fait retomber l'intérêt.
+
+Cette carte reçoit le statut `CASE` : le témoignage décrit un intérêt encore inexpliqué,
+des visionnages répétés, la découverte d'un passage perçu au cinéma par l'entrée des
+violons et la retombée de l'intérêt. Le repère sonore reste à vérifier sur la vidéo exacte.
+
 ## Extensions spéculatives
 
 - `idea_0162` - Les grands textes peuvent révéler l'intérescence comme structure profonde de l'action et de la lecture.

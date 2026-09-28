@@ -6,6 +6,8 @@
 > Consolidation postérieure à la V15 bilingue, qui reste un état archivé distinct.
 > Les propositions sont classées `CORE`, `DERIVED`, `MODEL`, `CASE`, `OBJECTION`
 > ou `SPECULATIVE`. Une réponse provisoire n'est pas une objection résolue.
+> Complément du 28 septembre 2026 : portée du conditionnement en IA générative (§ 4.3).
+> Même date : intérêt et volonté (§ 2.6), usages ordinaires (§ 2.3) et cas Lassalle (§ 3.3).
 
 Le [plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md) porte les décisions,
 l'architecture de rédaction et le travail restant. Le
@@ -147,7 +149,8 @@ non deux résultats obligatoires de toute rencontre (voir section 2.5).
 
 ### 2.3 Captation, jugement et fécondité
 
-Il faut distinguer trois propositions souvent confondues :
+Dans leur emploi descriptif ou évaluatif, il faut distinguer trois propositions
+souvent confondues :
 
 - « cela m'intéresse » rapporte d'abord une mobilisation effective ;
 - « je trouve cela intéressant » comporte un jugement sur la relation ;
@@ -157,6 +160,14 @@ Il faut distinguer trois propositions souvent confondues :
 Cette recommandation est **prospective et révisable**. Elle ne garantit ni la vérité,
 ni la beauté, ni le bien, ni l'importance sociale. Une erreur peut mériter d'être
 examinée ; une vérité peut rester valide tout en n'ouvrant aucune enquête nouvelle.
+
+Les emplois ordinaires peuvent cependant accomplir d'autres actes (`idea_0155`).
+« Je m'intéresse », sans complément exprimé, peut présenter une disposition générale
+ou une image de soi ; « ça m'intéresse » peut annoncer un désir. « Ça ne m'intéresse
+pas » peut fermer agressivement un échange plutôt que seulement décrire une absence
+d'intérêt. Ce dernier emploi dépend du contexte : une limite posée calmement n'est
+pas nécessairement agressive. Les exemples proposés de Sylvie Joly et d'Élie Semoun
+sont documentés dans la carte, avec le statut de leurs sources.
 
 ### 2.4 L'horizon `H`
 
@@ -196,6 +207,28 @@ d'une reconstruction qui ne prouve pas ce que le compositeur a effectivement fai
 Enfin, continuer à aimer ou à jouer le passage une fois compris n'atteste pas, à soi
 seul, la continuation de l'intérêt constructif. Il faut décrire ce qui s'y poursuit
 ou s'y renouvelle, sans déclarer par principe la réécoute épuisée.
+
+### 2.6 Intérêt spontané, attention volontaire et intérêt cultivé
+
+**Distinction à éprouver (`TEST`, `idea_0166`).** On peut décider de porter attention
+sans pouvoir décréter que la rencontre nous intéresse. L'intérêt spontané peut
+entraîner un effort considérable ; l'effort ne mesure donc pas son absence. L'attention
+volontaire peut être soutenue par une responsabilité ou un engagement, puis découvrir
+une question qui l'entraîne : c'est le passage possible à un intérêt cultivé.
+
+Le parent qui écoute son enfant illustre cette différence sans que l'intérêt immédiat
+pour un récit ou un jeu mesure l'amour ou la valeur de l'attention donnée. *Honey Pie*
+permet d'examiner un attrait musical qui soutient un travail ; *Michelle*, également
+proposée par l'auteur, reste à préciser par un passage et une expérience. Une histoire
+d'apprentissage peut préparer une saisie immédiate (`idea_0084`). La volonté peut en
+favoriser les conditions ou régler le temps consacré, sans produire à elle seule cet
+appel. Ce point rejoint la distinction des attentions conservée dans le dossier
+Garve (`idea_0139`).
+
+Ces distinctions précisent O12 sans la résoudre. La spontanéité ne devient pas une
+condition nécessaire de D : une activité prescrite peut devenir intéressante. Il faut
+décrire séparément les opérations réalisées, les raisons de s'y engager et la manière
+dont la rencontre entraîne ou non leur poursuite.
 
 ## 3. Attester une construction sans circularité
 
@@ -253,6 +286,46 @@ crédibilité ne soit définie par la seule persistance subjective. La fascinati
 promissive est précisément le cas où les signes de crédibilité sont entretenus, mais ne
 se convertissent pas en progrès ou en résistance informative.
 
+### 3.3 Agnès Lassalle : découvrir le passage au cinéma
+
+La carte [0167](../cartes/inbox/idea_0167_lassalle_danse_absence_interescence.md)
+porte désormais sur un [témoignage de réception de l'auteur](notes/agnes-lassalle-reportage-cinema.md),
+recueilli le 28 septembre 2026. Il regarde la vidéo de la danse de Stéphane Voirin
+sans savoir pourquoi elle l'intéresse. Les explications symboliques qu'il évoque,
+comme la vie après la mort, lui paraissent pouvoir être justes sans le convaincre
+entièrement. Après des heures de visionnage, il identifie un seuil sonore : les
+violons entrent vers 0:35, après un début chanté peu instrumenté. Le repère vient de
+son récit ; la [version fournie par l'auteur](https://www.youtube.com/watch?v=YI8gciBRrs8)
+est désormais identifiée, mais le seuil sonore reste à vérifier par écoute.
+
+La chanson est *L-O-V-E* en français, également intitulée *Je ne repartirai pas*,
+interprétée par Nat King Cole (1964), sur un arrangement de Ralph Carmichael. Les
+[références et le statut de vérification](notes/agnes-lassalle-reportage-cinema.md)
+sont conservés dans la note. L'hypothèse se précise : la musique choisie pour la
+cérémonie devient, dans cette réception, une musique de film. L'entrée des cordes
+semble organiser les images pour le spectateur. Ce changement de fonction peut
+se produire avec une musique appartenant à l'événement filmé. Il porte sur une
+transition temporelle, au-delà de la seule présence de violons.
+
+Cette entrée évoque pour lui le cinéma. L'événement filmé devient un moment de film,
+capable de le transporter ; « willing suspension of disbelief » nomme dans son récit
+ce rapprochement. Il s'agit d'un changement de réception, sans transformation du fait
+réel en fiction. Une fois ce mécanisme compris, il rapporte que son intérêt retombe.
+Il ne précise pas si l'émotion demeure, ni si une autre enquête se forme ensuite.
+
+Le cas articule intérêt antérieur à l'identification de sa raison (`idea_0160`),
+effort prolongé (`idea_0166`), distinction perceptive acquise (`idea_0123`) et
+épuisement local de l'énigme (`idea_0138`, `idea_0137`). Il donne aussi un contenu
+situé à la rencontre entre forme et mémoire : une entrée instrumentale devient un
+indice de cinéma pour cette oreille (`idea_0084`). Une explication du thème de la
+scène pouvait laisser ouverte la recherche de ce qui opérait dans sa réception.
+
+Ce témoignage établit une trajectoire rapportée, pas une cause universelle de
+l'émotion publique. Le choix d'une musique pendant la cérémonie est documenté par le témoignage de
+Voirin rapporté par TF1. L'hypothèse sonore reste à éprouver ; le traitement du son
+de cette mise en ligne et l'intention cinématographique ne sont pas établis. Le cas offre un contraste avec la relance possible décrite pour *Honey Pie* :
+ici, la retombée est attestée dans le récit, sans relance rapportée.
+
 ## 4. La « prise » sans métaphore
 
 ### 4.1 Définition
@@ -287,6 +360,33 @@ Ces opérations sont des **indices pluralistes**, non une liste de conditions n�
 Une seule opération peut suffire à attester une prise si les trois conditions de
 nouveauté, contrainte et robustesse sont satisfaites. Inversement, leur multiplication
 ne garantit ni vérité ni valeur morale.
+
+### 4.3 Conséquence pour l'IA générative : faire émerger le problème
+
+**Hypothèse d'articulation (`SPECULATIVE`, précisée le 28 septembre 2026).** Dans les
+cas où une forme engage le sujet à reconstruire le problème dont elle constitue une
+solution rare, l'intéressant ne se laisse pas épuiser par un critère fixé sur les
+propriétés finales. Le problème pertinent peut apparaître avec les propositions, et
+le parcours peut transformer les critères du créateur. La rareté est alors relative
+aux contraintes reconstruites ; leur pertinence doit pouvoir être discutée, pour ne
+pas fabriquer après coup l'unicité de n'importe quel objet.
+
+La carte [0109](../cartes/inbox/idea_0109_interessant_sampling_resolution_contraintes.md)
+en tire une hypothèse de génération : faire évoluer conjointement les propositions,
+les contraintes et les critères d'appréciation. Elle articule l'invention du problème
+(`idea_0085`), la rareté de la solution (`idea_0096`) et la transformation des critères
+au cours du parcours (`idea_0099`). Un dispositif associant sampling et contraintes
+fixes n'éprouve pas encore à lui seul cette transformation.
+
+La difficultuosité impose de distinguer genèse effective, genèse perçue et problème
+reconstruit : la difficulté réelle ne garantit pas l'intérêt, sa perception ne prouve
+pas l'histoire de la production, et la reconstruction du sujet peut ouvrir un problème
+que le créateur n'avait pas formulé (`idea_0010`, `idea_0087`, `idea_0068`). Ces
+distinctions ne rendent pas impossible le guidage par un score ; elles limitent ce que
+sa réussite permet de conclure. Le risque de substitution de la cible (`idea_0128`)
+reste distinct du problème technique de fidélité à une loi conditionnelle déjà définie
+(`idea_0017`). Cette conséquence demeure locale aux cas examinés et ne transforme pas
+la genèse difficile en condition générale de l'intéressant.
 
 ## 5. Pourquoi les théories concurrentes ne suffisent pas
 

@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/notes/epluchage-interessant-contemplation.md"
   - "input/De l'impossibilité de créer.pdf"
   - "input/publications-francois-pachet/pachet-04-designflowmachines.pdf"
@@ -19,6 +20,7 @@ references:
   - pachet2006reflective
   - addessi2005experiments
 source_notes:
+  - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Formulation personnelle consignée le 29 juillet 2026 ; l'opposition à la contemplation est une hypothèse propre à la thèse."
   - "De l'impossibilité de créer, PDF p. 96-101 : la fin comme décision imposée à un processus qui pourrait continuer."
   - "On the Design of Flow Machines, PDF p. 12-14 : séquence observée scepticisme, surprise/Aha, excitation, concentration et conduite analytique ; résultat empirique partiel, non modèle général de l'épluchage."
@@ -151,6 +153,20 @@ temps morts peuvent servir à réajuster la relation. Lorsque le miroir devient 
 lointain, l'intérêt se défait ; lorsqu'une erreur reste appropriable, elle peut être
 reprise comme matériau musical. `idea_0149` isole ce cas et ses limites expérimentales.
 
+## Cas : une retombée après compréhension, sans relance rapportée
+
+Le témoignage sur la vidéo des obsèques d'Agnès Lassalle (`idea_0167`) décrit des
+reprises prolongées jusqu'à la reconnaissance d'une opération : l'entrée des
+violons fait percevoir la musique de la cérémonie comme une musique de film.
+L'auteur rapporte alors une retombée de l'intérêt. Le résultat de la recherche
+est une distinction dans sa perception de l'agencement audiovisuel.
+
+Cette fin est décrite comme un épuisement local de la recherche : le récit ne
+mentionne ni fatigue imposant l'arrêt, ni décision de clore malgré un intérêt
+persistant, ni nouvelle énigme. Il ne justifie pas d'inventer une relance pour
+compléter le modèle. Le devenir de l'émotion et de possibles intérêts ultérieurs
+reste ouvert ; la vérification indépendante du seuil sonore reste à faire.
+
 ## Intérêt pour la thèse
 
 Cette carte déplie la temporalité interne laissée compacte dans la notion de
@@ -172,3 +188,4 @@ théorie.
 - Fournit à `idea_0011` une objection contre la durée d'attention prise isolément.
 - Déplie dans le temps la mort locale et la relance des énigmes décrites dans
   `idea_0138`.
+- Est illustrée par `idea_0167`, dans les limites du témoignage de réception documenté.
