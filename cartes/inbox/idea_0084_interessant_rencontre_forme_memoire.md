@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/pascal-divertissement-interessant.md"
   - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "input/projet thèse philo.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"
@@ -14,12 +15,14 @@ sources:
   - "input/publications-francois-pachet/martin-16a.pdf"
   - "docs/On_the_pleasures_of_the_mind.pdf"
 references:
+  - pascal1921divertissement
   - pachet2018oreille
   - spinoza1861oeuvres
   - bachimont1996hermeneutique
   - martin2016creativeprocess
   - kubovy1999pleasures
 source_notes:
+  - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "PDF p. 1-2"
   - "Dossier Jotney, propriété relationnelle robuste et effet de l'analyse, PDF p. 3-4"
@@ -29,6 +32,8 @@ source_notes:
   - "The Creative Process in Lead Sheet Composition, PDF p. 10-15 : désaccord entre auteurs et commentateurs et interaction entre l'expérience du juge et celle du compositeur."
   - "Kubovy, prépublication, PDF p. 6-8 : complexité perçue comme structure d'un ensemble d'alternatives imaginées, dépendante des intérêts et connaissances du sujet."
 tags:
+  - pascal
+  - divertissement
   - interessant
   - memoire
   - forme
@@ -123,6 +128,20 @@ La découverte transforme ensuite la relation à la même vidéo : l'auteur rapp
 une retombée de l'intérêt après avoir identifié cette articulation. Le témoignage
 ne décrit pas le devenir de l'émotion. L'identification de l'arrangement et les
 limites de sa vérification sont conservées dans la note source de `idea_0167`.
+
+## Prolongement du programme de Pascal : pourquoi cette rencontre ?
+
+La question « pourquoi ce divertissement-ci plutôt que celui-là ? » donne un
+contenu précis au prolongement du programme de Pascal proposé par la thèse
+(`idea_0123`). Une fonction commune ne rend pas les occupations interchangeables
+pour un sujet. La présente carte situe cette différence dans la rencontre entre
+une forme organisée et une mémoire : ce qui ouvre une recherche pour l'un peut
+rester opaque ou indifférent pour un autre, ou pour lui-même à un autre moment.
+
+Cette question ne se réduit pas à la préférence entre des activités connues.
+La rencontre peut rendre perceptible un aspect que le sujet ne savait pas encore
+chercher ; la construction transforme alors ce qui compte pour lui. La filiation
+pascalienne et ses limites sont précisées dans la note source.
 
 ## Intérêt pour la thèse
 

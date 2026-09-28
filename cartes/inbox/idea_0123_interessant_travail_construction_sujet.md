@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: core
 sources:
+  - "docs/notes/pascal-divertissement-interessant.md"
   - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "input/PACHET_HISTOIRE_OREILLE_BAT.pdf"
   - "input/old_docs/interestingness.pdf"
@@ -16,6 +17,7 @@ sources:
   - "docs/defense-concept-interessant.md"
   - "docs/notes/honey-pie-jotney.md"
 references:
+  - pascal1921divertissement
   - pachet2018oreille
   - schmidhuber1997interesting
   - steels2005coordinating
@@ -25,6 +27,7 @@ references:
   - thalabard2012attention
   - vazard2026inquiry
 source_notes:
+  - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Cas Lassalle, 28 septembre 2026 : une distinction perceptive nommable puis une retombée de l’intérêt sont rapportées ; la validité causale de l’explication reste à éprouver."
   - "Consolidation du 8 septembre 2026 : définition courte maintenue ; ancienne formulation longue requalifiée en modèle du maintien. Témoignage de recherche à la guitare, hypothèse d'épuisement local et de relance vers l'invention ; réciproque construction-intérêt ouverte (O12 de la Défense)."
   - "Précision proposée par François Pachet le 8 septembre 2026 : l'intérescence fait surgir « comment ça marche ? », au-delà des appréciations « j'aime, j'adore, je déteste »."
@@ -36,6 +39,8 @@ source_notes:
   - "Anselin et Thalabard sont mobilisés comme comparants méthodologiques pour séparer exposition du modèle, objections et défense ; la définition révisée reste une proposition propre à cette thèse."
   - "Vazard, 2026, sections III-IV : l'intérêt peut soutenir une attention exploratoire avant qu'une question ou une issue déterminée ne soit représentée."
 tags:
+  - pascal
+  - divertissement
   - interessant
   - flow
   - travail
@@ -239,6 +244,26 @@ la prescription pour sauver D : une activité prescrite peut aussi devenir inté
 Ce cas met à l'épreuve la suffisance de la construction, tandis que la contemplation
 sans transformation attestable met à l'épreuve sa nécessité. Aucune condition de
 spontanéité, de plaisir ou de volontariat n'est ajoutée à la définition à ce stade.
+
+## Continuer le programme de Pascal
+
+La conception constructive s'inscrit dans le prolongement du programme de Pascal
+sur le divertissement : **pourquoi ce divertissement-ci nous prend-il plutôt que
+celui-là ?** Le projet poursuit l'enquête sur ce qui occupe les hommes en étudiant
+la singularité des rencontres qui déclenchent et soutiennent leur activité.
+
+La fonction commune d'une occupation ne suffit pas à expliquer son pouvoir
+d'appel pour un sujet. Il faut décrire ce que la forme lui permet de distinguer,
+de chercher ou de construire, et comment ces possibilités se transforment.
+L'enquête porte ainsi sur l'émergence, le maintien et l'épuisement de l'intérêt.
+
+Les fragments 135, 137 et 139 des *Pensées* fournissent les appuis et les nuances
+de cette filiation, détaillés dans la [note source](../../docs/notes/pascal-divertissement-interessant.md).
+Pascal prépare lui-même l'examen des différences d'engagement ; la thèse propose
+de le poursuivre systématiquement. L'hypothèse constructive reste sa réponse
+propre, sans faire de tout intérêt une fuite ni supposer une adhésion à toute
+l'anthropologie pascalienne. `idea_0084` porte la singularité de la rencontre,
+`idea_0138` ses transformations et `idea_0167` un cas concret de réception.
 
 ## Intérêt pour la thèse
 

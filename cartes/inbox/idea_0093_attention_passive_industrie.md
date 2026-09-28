@@ -5,9 +5,11 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/proliferation-contenus-interessants.md"
   - "input/ERCGrantPachetInterestingness.pdf"
   - "input/old_docs/ERCInteractiveReflexions2.docx"
 source_notes:
+  - "Discussion du 28 septembre 2026 : dépolitiser la question de la prolifération et reconnaître les intérêts réels ; constat qualitatif, sans proportion globale mesurée. Cadrage des auteurs et limites conservés dans la note source."
   - "PDF p. 1"
   - "Projet REFLEX, background, rendu PDF p. 2"
 tags:
@@ -33,6 +35,19 @@ Cette fabrication ne doit toutefois pas être appelée manipulation par définit
 contrefactuelle et préciser l'asymétrie par laquelle il dissimule ses fins, contourne les
 raisons du sujet ou contrarie ses préférences réfléchies. La médiation forme toujours
 l'attention ; elle ne la manipule pas toujours.
+
+## La formation de l'attention peut donner accès à un intérêt réel
+
+La proposition de dépolitiser l'entrée dans la question des contenus (`idea_0140`)
+précise la portée de cette carte. Être exposé à un flux ne suffit pas à établir
+une passivité de la réception : le sujet peut y découvrir une forme, comparer,
+apprendre ou entreprendre une recherche. L'origine industrielle d'une rencontre
+ne décide pas de sa fécondité.
+
+L'enquête doit donc décrire séparément les effets du dispositif et l'intérêt de
+ce qu'il rend accessible. Beaucoup de contenus peuvent offrir des possibilités
+réelles de construction. Leur reconnaissance n'annule pas la question du pouvoir
+de distribution ; celle-ci ne dispense pas d'expliquer ces possibilités.
 
 ## Intérêt pour la thèse
 

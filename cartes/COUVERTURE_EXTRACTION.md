@@ -20,6 +20,25 @@ utilisables par la thèse.
 
 ## Sources externes intégrées
 
+### Prolifération des contenus et intérêts réels
+
+La note `docs/notes/proliferation-contenus-interessants.md` conserve la proposition
+du 28 septembre 2026 : dépolitiser l'entrée dans la question en reconnaissant
+l'intérêt réel de nombreux contenus. Le cadrage est contrôlé par une lecture des
+thèses 4–6 de Debord, de la notice éditoriale de *Festivus festivus* et de la
+présentation de la pharmacologie de Stiegler sur Ars Industrialis. Les livres
+de Muray et de Stiegler ne sont pas relus intégralement ; aucune proportion
+empirique n'est établie. Les cartes `idea_0140`, `idea_0117`, `idea_0157`,
+`idea_0156`, `idea_0093` et le § 1.2 de la Défense reprennent cette orientation.
+
+### Pascal : du divertissement aux occupations singulières
+
+La note `docs/notes/pascal-divertissement-interessant.md` conserve la proposition
+du 28 septembre 2026 et une lecture ciblée des fragments 135, 137 et 139 des
+*Pensées* (Brunschvicg), dans la transcription Wikisource. Elle précise la filiation
+revendiquée et ses limites, sans prétendre couvrir l'œuvre. Elle alimente les cartes
+`idea_0123`, `idea_0084`, `idea_0138`, `idea_0167` et le § 1.1 de la Défense.
+
 ### Intérêt spontané, usages ordinaires et danse aux obsèques d'Agnès Lassalle
 
 Statut : `note_conceptuelle_et_reperage_cible` (28 septembre 2026).

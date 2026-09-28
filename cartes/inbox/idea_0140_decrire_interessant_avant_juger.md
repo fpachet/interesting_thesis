@@ -5,12 +5,14 @@ kind: distinction
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/proliferation-contenus-interessants.md"
   - "docs/lectures/passages-interessant-etat-art.md"
   - "docs/lectures/interessant-etat-art.md"
 references:
   - garve1779interessirende
   - bachmannmedick2008anziehungskraft
 source_notes:
+  - "Discussion du 28 septembre 2026 : dépolitiser la question de la prolifération et reconnaître les intérêts réels ; constat qualitatif, sans proportion globale mesurée. Cadrage des auteurs et limites conservés dans la note source."
   - "Garve fournit le noyau descriptif de l'attention suscitée, mais réoriente une partie de l'analyse vers l'éducation et la conduite morale."
   - "Bachmann-Medick accentue cette portée pratique et morale. La séparation entre genèse et valeur est une reconstruction méthodologique proposée par la thèse, non une thèse explicitement formulée par ces auteurs."
 tags:
@@ -84,6 +86,28 @@ concept ni dispositif. L'agnosticisme porte sur la valeur de ce qui intéresse, 
 sur la possibilité d'un accès naïf au phénomène. Sa fonction est de rendre
 comparables des cas hétérogènes et de retarder le jugement assez longtemps pour
 voir le mécanisme à l'œuvre.
+
+## Dépolitiser la question de la prolifération
+
+La proposition du 28 septembre 2026 précise la méthode : **reconnaître que beaucoup
+de contenus sont réellement intéressants**, y compris dans la production populaire,
+commerciale ou industrielle. Le point de départ est qualitatif et situé ; aucune
+proportion globale n'est établie. Il appelle une description de ce qui suscite
+des questions, soutient les reprises et permet des découvertes.
+
+Dépolitiser signifie ici retirer au jugement politique le rôle de verdict préalable
+sur l'intérêt. Les conditions de production et de diffusion peuvent contribuer
+causalement à la rencontre sans épuiser ce qu'elle permet au sujet. Une critique
+du dispositif et une reconnaissance de l'intérêt du contenu peuvent être vraies
+ensemble. L'enquête doit rendre compte de chacune.
+
+Cette position va au-delà de la tolérance envers des objets jugés médiocres :
+elle prend pour objet les raisons effectives de s'y intéresser. Elle ouvre aussi
+l'hypothèse d'une abondance de sollicitations intéressantes qui excède le temps
+disponible pour les explorer. Le choix entre plusieurs intérêts réels devient
+alors un problème à étudier, dans le prolongement du programme de Pascal
+(`idea_0123`). Le cadrage concernant Debord, Muray et Stiegler est documenté dans
+la note source ; ils ne sont pas traités comme une doctrine unique.
 
 ## Intérêt pour la thèse
 

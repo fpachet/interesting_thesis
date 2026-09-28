@@ -24,6 +24,21 @@ l'expérience d'écoute de *Michelle* restent à préciser. Le témoignage déta
 danse, fourni ensuite le même jour, est conservé dans la
 [note consacrée au passage du reportage au cinéma](agnes-lassalle-reportage-cinema.md).
 
+## Précision de l'auteur : le paradoxe de « je m'intéresse »
+
+> Pour le sketch de Sylvie Joly: "Je m'intéresse" est une expression drôle car paradoxale. On ne peut s'intéresser en général, par définition, on s'intéresse à ceci plutôt qu'à cela. Elle signifie donc "je ne m'intéresse à rien de spécial" dont à rien du tout.
+
+Cette précision du 28 septembre 2026 corrige la première interprétation de la carte
+`idea_0155`, qui insistait sur une disposition à entrer en relation. Le point retenu
+est désormais le paradoxe d'une déclaration d'intérêt qui efface ce qui devrait
+se distinguer : « ceci plutôt que cela ». Le personnage affiche une qualité de soi,
+sans donner de contenu à la relation qu'il prétend vivre.
+
+Le passage de « rien de spécial » à « rien du tout » conserve la force comique
+voulue par l'auteur. La carte distingue cette lecture du sketch d'une règle sur
+tout emploi sans complément, ainsi que d'un intérêt singulier encore sans
+explication disponible (`idea_0160`). Aucun nouveau visionnage n'est revendiqué.
+
 ## Repérage des sources au 28 septembre 2026
 
 - **Sylvie Joly, *Catherine*.** Une [transcription pédagogique publiée le 30 avril

@@ -5,9 +5,11 @@ kind: distinction
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/proliferation-contenus-interessants.md"
   - "projet-these/BUT_DE_LA_THESE.md"
   - "input/old_docs/TBKLullyNOTES.doc"
 source_notes:
+  - "Discussion du 28 septembre 2026 : dépolitiser la question de la prolifération et reconnaître les intérêts réels ; constat qualitatif, sans proportion globale mesurée. Cadrage des auteurs et limites conservés dans la note source."
   - "Cadrage méthodologique : neutralité axiologique provisoire dans l'étude de l'attention et de l'attachement"
   - "TBKLullyNOTES, divergence entre aimer un objet et aimer l'activité qu'il provoque, rendu PDF p. 2"
 tags:
@@ -39,6 +41,20 @@ et entretenir une pratique sans suffire à produire une addiction clinique. Inve
 une conduite automatisée ou compulsive peut persister lorsque l'objet n'est plus vécu
 comme intéressant. La thèse doit donc étudier les passages et les dissociations entre
 ces régimes plutôt que les disposer sur une échelle unique.
+
+## Prendre au sérieux l'intérêt pour les contenus ordinaires
+
+La suspension du jugement permet aussi de reconnaître positivement ce que les
+contenus offrent : un objet populaire, commercial ou diffusé à grande échelle
+peut réellement intéresser. Les retours du sujet peuvent être soutenus par des
+questions et des découvertes. Leur réalité doit être examinée, sans les traiter
+d'emblée comme les signes d'une illusion ou d'une manipulation.
+
+La formule proposée par l'auteur, « dépolitiser la question de la prolifération »,
+précise cette autonomie de l'enquête. Elle concerne la manière d'aborder le
+phénomène ; les conditions sociales de sa production et ses conséquences restent
+examinables. `idea_0140` développe cette position et `idea_0157` la distingue de
+la critique des dispositifs.
 
 ## Intérêt pour la thèse
 

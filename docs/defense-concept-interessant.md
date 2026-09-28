@@ -8,6 +8,7 @@
 > ou `SPECULATIVE`. Une réponse provisoire n'est pas une objection résolue.
 > Complément du 28 septembre 2026 : portée du conditionnement en IA générative (§ 4.3).
 > Même date : intérêt et volonté (§ 2.6), usages ordinaires (§ 2.3) et cas Lassalle (§ 3.3).
+> Filiation explicitée : continuer le programme de Pascal sur le divertissement (§ 1.1).
 
 Le [plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md) porte les décisions,
 l'architecture de rédaction et le travail restant. Le
@@ -114,6 +115,65 @@ Trois cas supplémentaires sont des tests de bord, non des desiderata déjà ét
 - **D13 (`OBJECTION`) :** la notion de moteur relationnel explique-t-elle les passages
   entre états psychiques ou redécrit-elle seulement leur succession ?
 
+### 1.1 Continuer le programme de Pascal
+
+**La thèse poursuit le programme de Pascal sur le divertissement en faisant de la
+singularité des occupations une question centrale : pourquoi ce divertissement-ci
+nous prend-il plutôt que celui-là ?** Cette filiation situe le projet dans une
+enquête sur ce qui occupe les hommes et les engage dans une recherche. Les
+[fragments 135, 137 et 139 des *Pensées*](notes/pascal-divertissement-interessant.md)
+en constituent les appuis textuels ; Pascal examine déjà certaines conditions
+de l'engagement et de sa retombée.
+
+Le prolongement proposé étudie comment une fonction générale se réalise dans
+une rencontre singulière. Il faut expliquer pourquoi telle forme mobilise
+l'expérience de tel sujet, ce qu'il devient capable d'y chercher et pourquoi il
+continue, abandonne ou cesse d'y trouver intérêt. Le besoin d'être occupé ne
+détermine pas à lui seul cette trajectoire. La question dépasse le choix entre
+des loisirs : l'objet même de la recherche peut se préciser au cours des reprises.
+
+La carte `idea_0123` porte ce prolongement ; `idea_0084` examine la rencontre entre
+forme et mémoire, `idea_0138` l'épuisement ou la relance. Le cas Lassalle (§ 3.3,
+`idea_0167`) l'illustre : ce qui demande explication est l'attrait de cette vidéo,
+les visionnages répétés et la retombée après compréhension. L'interprétation sonore
+donne un contenu précis à l'enquête, sans établir que le spectateur cherchait à
+fuir la pensée de sa condition.
+
+Cette continuité est une orientation explicite de la thèse. La réponse constructive
+reste à éprouver ; elle n'exige pas d'adopter l'ensemble de l'anthropologie
+pascalienne ni de ramener tout intérêt au divertissement.
+
+### 1.2 Reconnaître l'intérêt réel dans la prolifération des contenus
+
+**La thèse veut dépolitiser l'entrée dans cette question et prendre au sérieux
+le constat que beaucoup de contenus sont manifestement intéressants.** Ce point
+de départ porte sur des rencontres situées ; il ne chiffre pas leur proportion
+dans l'ensemble de la production. Il impose de décrire les formes, les questions
+qu'elles suscitent et les constructions qu'elles rendent possibles.
+
+Les médias, la publicité et les plateformes appartiennent aux conditions de
+ces rencontres. Les qualifier politiquement ne suffit cependant pas à expliquer
+pourquoi tel contenu retient tel sujet ni ce qu'il en fait. Une organisation
+critiquable peut rendre accessibles des contenus réellement intéressants ; une
+expérience féconde ne justifie pas à elle seule l'organisation qui la distribue.
+L'enquête doit articuler ces deux constats sans substituer l'un à l'autre.
+
+La position ajoute ainsi à la suspension normative (`idea_0117`, `idea_0140`)
+une reconnaissance positive des intérêts ordinaires. Elle complète la distinction
+des médiocrités (`idea_0157`) et précise la rareté située (`idea_0156`) : même une
+faible proportion peut correspondre à beaucoup de rencontres intéressantes, et
+une sélection peut en augmenter la fréquence pour un sujet. L'abondance peut
+alors poser le problème du choix entre plusieurs explorations qui valent
+effectivement la peine, compte tenu de la finitude du temps.
+
+Debord, Muray et Stiegler sont des interlocuteurs distincts. La
+[note de cadrage](notes/proliferation-contenus-interessants.md) précise les textes
+consultés et évite de leur attribuer une même théorie de forces malveillantes.
+La dépolitisation proposée concerne le point de départ de l'enquête ; elle ne
+suppose pas que les relations entre formes et sujets soient sans histoire sociale.
+Dans la continuité de Pascal (§ 1.1), il s'agit d'expliquer pourquoi ces occupations
+nous prennent, y compris lorsque plusieurs le font réellement.
+
 ## 2. Les distinctions nécessaires
 
 ### 2.1 Relation, état et manifestation
@@ -162,12 +222,19 @@ ni la beauté, ni le bien, ni l'importance sociale. Une erreur peut mériter d'�
 examinée ; une vérité peut rester valide tout en n'ouvrant aucune enquête nouvelle.
 
 Les emplois ordinaires peuvent cependant accomplir d'autres actes (`idea_0155`).
-« Je m'intéresse », sans complément exprimé, peut présenter une disposition générale
-ou une image de soi ; « ça m'intéresse » peut annoncer un désir. « Ça ne m'intéresse
-pas » peut fermer agressivement un échange plutôt que seulement décrire une absence
-d'intérêt. Ce dernier emploi dépend du contexte : une limite posée calmement n'est
-pas nécessairement agressive. Les exemples proposés de Sylvie Joly et d'Élie Semoun
-sont documentés dans la carte, avec le statut de leurs sources.
+Chez la bourgeoise de Sylvie Joly, « je m'intéresse » est lu par l'auteur comme un
+paradoxe comique : s'intéresser suppose que ceci se distingue de cela, alors que
+le personnage affiche un intérêt général sans lui donner d'objet. « Rien de
+spécial, donc rien du tout » condense cette déclaration qui se vide de son contenu.
+Cette pointe concerne la lecture du sketch ; un complément omis peut ailleurs
+rester implicite. Un intérêt encore sans explication (`idea_0160`) possède déjà
+une direction et ne se confond pas avec cette généralité affichée.
+
+« Ça m'intéresse » peut aussi annoncer un désir, comme dans l'exemple d'Élie Semoun.
+« Ça ne m'intéresse pas » peut fermer agressivement un échange plutôt que seulement
+décrire une absence d'intérêt. Ce dernier emploi dépend du contexte : une limite
+posée calmement n'est pas nécessairement agressive. Les exemples et le statut de
+leurs sources sont conservés dans la carte.
 
 ### 2.4 L'horizon `H`
 

@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: speculative
 sources:
+  - "docs/notes/proliferation-contenus-interessants.md"
   - "docs/notes/rarete-interessant-mediocrite-liberte.md"
   - "input/De l'impossibilité de créer.pdf"
 references:
@@ -14,6 +15,7 @@ references:
   - stiegler2010pharmacologie
   - pachet2026impossibilite
 source_notes:
+  - "Discussion du 28 septembre 2026 : dépolitiser la question de la prolifération et reconnaître les intérêts réels ; constat qualitatif, sans proportion globale mesurée. Cadrage des auteurs et limites conservés dans la note source."
   - "Note de travail du 16 août 2026 : formulation, distinctions, prédictions et protocoles proposés par la thèse."
   - "De l'impossibilité de créer, PDF p. 2-7 : rareté des œuvres transformatrices, liquéfaction des contenus, surabondance et crise de la qualité. La thèse du coût d'exploration est une correction proposée ici, non la conclusion du manuscrit."
 tags:
@@ -153,6 +155,21 @@ supérieure. L'hypothèse serait affaiblie si une sélection forte éliminait du
 médiocrité sans diminuer la diversité ni perdre aucune réussite rare. Une comparaison à
 budget constant entre nombreuses variantes proches et essais moins nombreux mais plus
 divers permettrait en outre de séparer le simple volume de l'exploration effective.
+
+## Une rareté située peut coexister avec beaucoup de contenus intéressants
+
+Le constat formulé par l'auteur le 28 septembre 2026 — beaucoup de contenus sont
+manifestement intéressants — oblige à préserver la portée conditionnelle de cette
+carte. Une probabilité faible dans une population non sélectionnée peut coexister
+avec un grand nombre de rencontres fécondes lorsque le volume est élevé. Un
+ensemble sélectionné pour un sujet relève d'une autre distribution et peut lui
+offrir fréquemment de véritables raisons de poursuivre son attention.
+
+La thèse doit donc documenter les intérêts ordinaires aussi bien que les réussites
+exceptionnelles. Le constat qualitatif ne fournit pas une estimation de `p`, et
+l'hypothèse de rareté ne permet pas de récuser les expériences rapportées. La
+multiplication d'intérêts réels peut même rendre le temps disponible insuffisant
+pour les explorer : cette question complète celle du coût des essais infructueux.
 
 ## Intérêt pour la thèse
 

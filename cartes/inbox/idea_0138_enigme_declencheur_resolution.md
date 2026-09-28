@@ -5,12 +5,18 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/pascal-divertissement-interessant.md"
   - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/notes/enigme-interessant.md"
+references:
+  - pascal1921divertissement
 source_notes:
+  - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Formulation personnelle consignée le 30 juillet 2026 ; la distinction entre contrainte, énigme, problème et construction est une hypothèse propre à la thèse."
 tags:
+  - pascal
+  - divertissement
   - interessant
   - enigme
   - resolution
@@ -95,6 +101,20 @@ La retombée de l'intérêt, une fois cette articulation comprise, illustre une
 énigme localement consumable. L'objet peut encore émouvoir ou offrir d'autres
 questions ; aucune de ces suites n'est attestée par le récit. Cette interprétation
 reste distincte d'une preuve acoustique ou causale, comme le précise `idea_0134`.
+
+## Poursuivre le programme de Pascal dans le temps
+
+Le prolongement proposé du programme de Pascal (`idea_0123`) porte aussi sur
+la durée : pourquoi cette occupation nous retient-elle, puis cesse-t-elle de
+nous retenir ? Les fragments 135 et 139 des *Pensées* offrent des antécédents
+à cette question, documentés dans la note source.
+
+L'hypothèse de l'énigme propose un mécanisme à examiner : une recherche demeure
+désirable tant que la prise compte pour le sujet et reste à acquérir. Sa
+résolution peut épuiser cet intérêt particulier ou faire apparaître une autre
+question. Le cas Lassalle (`idea_0167`) illustre cette première issue dans un
+récit de réception. Cette hypothèse développe la filiation revendiquée ; elle
+n'est pas attribuée à Pascal comme une théorie déjà formulée de l'intéressant.
 
 ## Intérêt pour la thèse
 

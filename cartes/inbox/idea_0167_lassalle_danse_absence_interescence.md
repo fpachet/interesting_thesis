@@ -6,12 +6,14 @@ level: conceptual
 status: inbox
 architecture: case
 sources:
+  - "docs/notes/pascal-divertissement-interessant.md"
   - "https://www.youtube.com/watch?v=YI8gciBRrs8"
   - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/notes/interet-spontane-volonte-exemples.md"
   - "https://www.leparisien.fr/societe/pourquoi-les-pas-de-danse-du-compagnon-dagnes-lassalle-devant-son-cercueil-nous-emeuvent-tant-06-03-2023-QLQWRT6PBVBDXKHQQLXCLETR6E.php"
   - "https://tf1pro.com/programmes/episode/sept-huit-episode-35-0"
 references:
+  - pascal1921divertissement
   - stefdo_lassalle_video
   - metayer2023danse
   - tf12023voirin
@@ -19,12 +21,15 @@ references:
   - cole1964love_fr
   - taylor_hewitt_cole1964
 source_notes:
+  - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Témoignage détaillé de l'auteur du 28 septembre 2026 : visionnages répétés, entrée des violons vers 0:35, passage perçu au cinéma et retombée de l'intérêt ; verbatim conservé dans la note source."
   - "Vidéo fournie par l'auteur le 28 septembre 2026 : https://www.youtube.com/watch?v=YI8gciBRrs8 ; titre et chaîne Stef Do identifiés sur la page, durée affichée 2 min 44 s. Le repère 0:35 et l'instrumentation restent rapportés par l'auteur, sans écoute indépendante."
   - "Complément documentaire : version française de L-O-V-E identifiée par TF1 Info (extrait indexé), titre français confirmé par RTL, arrangement et crédits relevés dans la discographie Taylor–Hewitt. Extraction audio infructueuse ; aucune analyse acoustique réalisée."
   - "Le Parisien, 6 mars 2023 : extrait accessible lu ; description de la scène du 3 mars, lieu, chanson et participation d'autres couples."
   - "TF1 Pro : notice officielle de l'entretien de Sept à huit diffusé le 30 avril 2023 ; ni l'entretien ni la séquence audiovisuelle complète n'ont été visionnés pour cette carte."
 tags:
+  - pascal
+  - divertissement
   - interessant
   - interescence
   - emotion
@@ -154,6 +159,20 @@ la danse à deux, reste une interprétation possible de l'hommage. Elle n'expliq
 à la place de l'auteur l'intérêt qu'il décrit désormais. Son témoignage fournit un
 mécanisme plus précis pour cette expérience : une transition musicale qui change la
 manière de recevoir les images.
+
+## Un cas pour continuer le programme de Pascal
+
+La question proposée à partir du divertissement pascalien — pourquoi celui-ci
+plutôt que celui-là ? — se précise ici : pourquoi cette vidéo retient-elle
+l'auteur, pourquoi y revient-il et pourquoi son intérêt retombe-t-il après
+compréhension ? Le cas permet de poursuivre l'enquête sur les occupations en
+décrivant un engagement singulier et ses transformations (`idea_0123`, `idea_0084`,
+`idea_0138`).
+
+Le rapprochement concerne la réception du spectateur. Il ne présume pas qu'il
+cherchait à se divertir ni que son intérêt avait pour fonction d'éviter la
+pensée de la mort. L'entrée des violons et le passage perçu au cinéma fournissent
+l'hypothèse précise à examiner, dans les limites documentaires déjà indiquées.
 
 ## Intérêt pour la thèse
 

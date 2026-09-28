@@ -66,6 +66,35 @@ explicitent chacune l'apport du cas ; les relations et la présentation du site
 reprennent cette articulation. L'accès au fichier sonore a échoué : l'analyse du passage 0:20–0:50 reste à faire sur un
 fichier accessible, en distinguant entrée réelle des cordes et mise au premier plan.
 
+### Filiation précisée le 28 septembre 2026 : poursuivre Pascal
+
+Le projet se présente comme une continuation du programme de Pascal sur le
+divertissement : expliquer pourquoi telle occupation engage tel sujet, puis
+comment cet engagement se maintient ou s'épuise. Les fragments 135, 137 et 139
+(Brunschvicg) sont documentés dans `docs/notes/pascal-divertissement-interessant.md`.
+Les cartes `idea_0123`, `idea_0084`, `idea_0138` et `idea_0167` sont enrichies ;
+la Défense porte cette filiation au § 1.1. À reprendre dans la prochaine synthèse
+de présentation, avec les limites de l'attribution à Pascal. Aucune nouvelle carte ;
+la priorité O12 reste inchangée.
+
+### Orientation du 28 septembre 2026 : prolifération et intérêts réels
+
+La Défense (§ 1.2) précise la dépolitisation méthodologique de la question des
+contenus : prendre au sérieux les nombreux intérêts réels sans les déduire de
+leur provenance ni les récuser par un diagnostic global. Les cartes `idea_0140`,
+`idea_0117`, `idea_0157`, `idea_0156` et `idea_0093` sont enrichies ; le cadrage
+documentaire est conservé dans `docs/notes/proliferation-contenus-interessants.md`.
+À documenter : des cas ordinaires d'exploration effective et les arbitrages entre
+plusieurs intérêts réels. Le constat reste qualitatif, la rareté située reste
+hypothétique et O12 conserve sa priorité.
+
+### Précision du 28 septembre 2026 : le paradoxe de Sylvie Joly
+
+La carte `idea_0155` et le § 2.3 de la Défense sont recentrés sur la lecture comique
+précisée par l'auteur : « je m'intéresse » affiche une généralité qui efface le
+« ceci plutôt que cela » propre à l'intérêt. La note source conserve la correction.
+La vérification du jeu et de la prosodie sur l'enregistrement reste ouverte.
+
 ### Livrable demandé, différé : « thèse dans l'état présent »
 
 Préparer ultérieurement un manuscrit français continu qui rassemble les passages
