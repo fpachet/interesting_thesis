@@ -27,6 +27,7 @@ references:
   - thalabard2012attention
   - vazard2026inquiry
 source_notes:
+  - "Discussion du 29 septembre 2026, prompt sur la solution en quête de son problème : définition D conservée ; précision du renvoi à idea_0085 et des critères de fécondité de la reconstruction."
   - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Cas Lassalle, 28 septembre 2026 : une distinction perceptive nommable puis une retombée de l’intérêt sont rapportées ; la validité causale de l’explication reste à éprouver."
   - "Consolidation du 8 septembre 2026 : définition courte maintenue ; ancienne formulation longue requalifiée en modèle du maintien. Témoignage de recherche à la guitare, hypothèse d'épuisement local et de relance vers l'invention ; réciproque construction-intérêt ouverte (O12 de la Défense)."
@@ -130,12 +131,13 @@ Ce modèle partiel suggère un maintien lorsque des possibilités de constructio
 restent ouvertes ; il ne définit pas tout intérêt par le flow ni par un progrès
 continu. Une recherche peut aussi échouer, être abandonnée ou s'achever.
 
-Une forme privilégiée de cette construction est la résolution de problème à rebours. Le
-sujet rencontre d'abord une solution, puis infère progressivement les contraintes
-auxquelles elle répond, les alternatives qu'elle exclut et le problème qu'elle rend
-visible. Demander « de quel problème cet objet est-il la solution ? » devient ainsi une
-opération générale pour prolonger l'intérêt et transformer la perception en
-compréhension.
+Une forme particulière de cette construction est la résolution de problème à rebours.
+Le sujet rencontre une forme, puis construit le problème dont elle pourrait être une
+solution (`idea_0085`). Cette opération peut retrouver des exigences de production,
+proposer une interprétation ou faire émerger un problème nouveau. Elle devient féconde
+lorsqu'elle explique des traits et permet d'éprouver des alternatives (`idea_0096`,
+`idea_0113`). Ni la rareté, ni l'unicité, ni la réussite finale de cette reconstruction
+ne sont ajoutées à D. L'intérêt peut précéder toute question déterminée (`idea_0160`).
 
 Cette opération reçoit une détermination herméneutique dans la thèse de Bachimont.
 Comprendre une chose transmise revient à reconstruire la question à laquelle elle répond,

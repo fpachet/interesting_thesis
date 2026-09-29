@@ -95,6 +95,34 @@ précisée par l'auteur : « je m'intéresse » affiche une généralité qui ef
 « ceci plutôt que cela » propre à l'intérêt. La note source conserve la correction.
 La vérification du jeu et de la prosodie sur l'enregistrement reste ouverte.
 
+### Repères du 29 septembre 2026 : quatre exemples paradigmatiques
+
+La Défense (§ 3.4) distribue les exemples proposés selon leur fonction : appel
+impérieux de l'énigme (magie), résolution et retombée (Lassalle, bebop), évidence
+de la solution (« Do »), reconstruction du problème (Jotney, *Honey Pie*).
+Les cartes `0138`, `0167`, `0136`, `0085` et `0111` sont enrichies, sans nouvelle
+carte. La note `docs/notes/exemples-paradigmatiques-interessant.md` conserve
+la sélection et les limites documentaires. Le passage de Perec est revérifié :
+il attribue la définition à Robert Scipion.
+
+À compléter : sélectionner les tours de Blaine ou Ladanye et préciser les gammes,
+accords et passages du cas bebop. Distinguer dans la rédaction l'exigence de
+résoudre, la résolution effective et l'évidence de la réponse. Reprendre ce
+choix d'exemples lors de la prochaine synthèse de présentation.
+
+### Précision du 29 septembre 2026 : reconstruire un problème explicatif
+
+Le prompt sur la « solution en quête de son problème » enrichit les cartes existantes
+`0085`, `0096`, `0138`, `0109`, `0113` et le renvoi de `0123`, sans nouvelle carte
+ni modification de D. La Défense (§ 4.4) porte le mécanisme particulier et les
+critères de fécondité ; `0160` conserve son rôle de limite à la généralisation.
+
+Pour la rédaction, placer ce développement dans le chapitre 4 sur les prises et
+les relances, puis l'éprouver dans les chapitres 6 (musique) et 7 (systèmes).
+Travail restant : confronter une reconstruction de *Honey Pie* à des variantes
+contrôlées ; distinguer sélectivité, reconstructibilité et intérêt dans le protocole
+de génération. Cette précision ne résout pas O12 et n'en change pas la priorité.
+
 ### Livrable demandé, différé : « thèse dans l'état présent »
 
 Préparer ultérieurement un manuscrit français continu qui rassemble les passages

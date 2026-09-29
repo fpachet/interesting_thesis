@@ -11,10 +11,12 @@ idea_0005	limits	idea_0038	La surprise ou l'ecart a l'attente ne suffit pas seul
 idea_0079	objects_to	idea_0083	Avertit qu'un concept unificateur peut masquer les mecanismes.
 idea_0095	limits	idea_0027	Exige des predictions et des criteres de falsification.
 idea_0085	specifies	idea_0083	Caracterise l'emergence comme invention simultanee d'un probleme.
-idea_0096	operationalizes	idea_0085	Reformule la necessite inventee comme rarete dans un probleme implicite.
+idea_0096	operationalizes	idea_0085	Propose une opérationnalisation partielle par la sélectivité et les critères de reconstruction ; la rareté ne prouve pas la nécessité ressentie.
 idea_0087	supports	idea_0085	Explique pourquoi une solution peut paraitre simple apres une genese improbable.
 idea_0099	specifies	idea_0087	Distingue simplicite du resultat et singularite du chemin.
 idea_0113	operationalizes	idea_0085	Teste la necessite par variations voisines.
+idea_0113	operationalizes	idea_0096	Éprouve le problème reconstruit par les effets des variantes et distingue cette épreuve du sentiment de nécessité produit par la familiarité.
+idea_0160	limits	idea_0085	L'intérêt peut précéder toute question déterminée sans attester un problème préformé à découvrir.
 idea_0115	limits	idea_0113	La surattention peut fabriquer l'optimum qu'elle croit constater.
 idea_0114	illustrates	idea_0001	La suite requalifie retrospectivement une phrase initialement banale.
 idea_0112	specifies	idea_0084	Decrit la rencontre forme-memoire a l'echelle d'une micro-emotion.

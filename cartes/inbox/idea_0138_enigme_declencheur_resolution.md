@@ -5,12 +5,15 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/exemples-paradigmatiques-interessant.md"
   - "docs/notes/pascal-divertissement-interessant.md"
   - "docs/notes/agnes-lassalle-reportage-cinema.md"
   - "docs/notes/enigme-interessant.md"
 references:
   - pascal1921divertissement
 source_notes:
+  - "Discussion du 29 septembre 2026, prompt sur la solution en quête de son problème : information manquante, promesse d'intelligibilité et maintien d'une énigme ouverte ; précisions propres à la thèse."
+  - "Discussion du 29 septembre 2026 : quatre exemples paradigmatiques et distinction de leurs fonctions ; précisions et statut documentaire dans la note dédiée."
   - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Cas Lassalle, récit rétrospectif du 28 septembre 2026 : interprétation de la réception et retombée de l’intérêt ; repère sonore rapporté, sans écoute indépendante. Voir idea_0167 et sa note source."
   - "Formulation personnelle consignée le 30 juillet 2026 ; la distinction entre contrainte, énigme, problème et construction est une hypothèse propre à la thèse."
@@ -56,6 +59,42 @@ rencontre même une solution avant de connaître la question : l'objet fait
 énigme, puis la construction révèle les contraintes qu'il satisfait et le
 problème dont il apparaît comme la solution.
 
+Le schéma possible est : rencontre, énigme, hypothèses de problème, exploration et
+variations, compréhension partielle, puis clôture ou relance. Il ne décrit pas une
+succession obligatoire : la surprise peut manquer, la question se transformer et
+l'enquête échouer. L'éventuelle impression de nécessité rétrospective est une issue
+à éprouver (`idea_0113`), pas une condition de l'intérêt initial.
+
+## Information manquante et promesse d'intelligibilité
+
+Si quelqu'un choisit un nombre au hasard et demande de le deviner sans fournir
+d'indice, il manque une information, mais aucune structure ne permet par elle-même
+de progresser vers la réponse. Le jeu peut intéresser pour un enjeu social ou ludique ;
+cet intérêt ne découle pas du seul déficit d'information.
+
+L'énigme explicative promet au contraire que des indices, des relations ou des
+opérations rendront certains traits intelligibles. Cette promesse est perçue par
+un sujet ; elle ne garantit ni qu'un problème préexiste dans l'objet ni qu'une
+solution sera trouvée. La fascination promissive (`idea_0124`) montre qu'elle peut
+entretenir un intérêt réel sans livrer la compréhension attendue. Les critères de
+`idea_0096` évaluent la reconstruction obtenue, sans devenir des conditions
+rétrospectives de l'existence de l'intérêt.
+
+## Exemple paradigmatique : le tour de magie
+
+Les tours de David Blaine ou de Jason Ladanye sont proposés comme exemples de
+l'énigme qui nous prend : pour le spectateur intéressé, l'effet appelle un
+« comment est-ce possible ? » dont il ne choisit pas d'abord l'importance.
+**L'exigence de résoudre s'impose au sujet**, même si l'explication reste hors
+de portée. C'est cette exigence qui est vécue comme nécessaire, sans garantie
+qu'une résolution soit effectivement accessible. L'accessibilité perçue peut
+alors devenir une condition du maintien de l'enquête, plutôt que de sa première
+saisie. Le tour précis reste à sélectionner.
+
+Ce cas distingue la force spontanée de l'intérêt de l'effort requis pour
+comprendre (`idea_0166`). Il distingue aussi la nécessité de chercher de
+l'évidence de la réponse, illustrée par le mot croisé (`idea_0136`).
+
 ## Conditions de l'envie de résolution
 
 L'énigme est insuffisante par elle-même. Une devinette sans enjeu peut être
@@ -88,6 +127,12 @@ sa solution. Une **énigme générative** se transforme au cours de sa résoluti
 chaque prise ferme une couche et en ouvre une autre. Cette différence articule
 l'énigme à l'épluchage constructif et à la récursivité de l'intéressant.
 
+Une énigme ouverte peut aussi rester féconde sans résolution finale, si l'enquête
+produit des distinctions, des questions plus précises ou des hypothèses mieux
+éprouvées. Elle peut alors entretenir davantage d'intérêt qu'une réponse qui clôt
+toute recherche. La seule obscurité persistante ne suffit pas à établir cette
+fécondité ; il faut distinguer les prises partielles de leur promesse indéfinie.
+
 ## Cas : l'énigme de ce qui nous retient
 
 Dans le cas Lassalle (`idea_0167`), l'opacité porte sur l'expérience même du
@@ -101,6 +146,15 @@ La retombée de l'intérêt, une fois cette articulation comprise, illustre une
 énigme localement consumable. L'objet peut encore émouvoir ou offrir d'autres
 questions ; aucune de ces suites n'est attestée par le récit. Cette interprétation
 reste distincte d'une preuve acoustique ou causale, comme le précise `idea_0134`.
+
+### Autre exemple proposé : comprendre une mécanique bebop
+
+L'auteur propose un second cas de résolution : comprendre la mécanique derrière
+certaines gammes bebop sur des accords altérés. Ce qui intriguait peut devenir
+intelligible, puis cesser d'appeler la même recherche. La compréhension peut
+rester disponible comme savoir-faire alors que l'intérêt pour cette énigme
+retombe. Les gammes et accords concernés restent à préciser ; cet exemple
+complète le cas Lassalle sans disposer encore de son récit détaillé.
 
 ## Poursuivre le programme de Pascal dans le temps
 

@@ -9,6 +9,7 @@ sources:
 references:
   - pachet2018oreille
 source_notes:
+  - "Discussion du 29 septembre 2026 : articulation de l'épreuve par variantes aux critères de reconstruction explicative de idea_0096."
   - "Écoute superposée, optale et pseudoptale, PDF p. 17-21 ; sentiment d'optale, p. 64-66 ; accord d'ouverture trouvé comme optale, p. 282-283."
 tags:
   - musique
@@ -35,6 +36,13 @@ déclarer une forme inévitable après l'avoir beaucoup entendue ; il faut produ
 variantes suffisamment proches, montrer ce qu'elles détruisent et rester attentif au
 fait que l'exercice lui-même modifie l'oreille qui juge.
 
+Appliquée au problème reconstruit (`idea_0096`), l'épreuve demande de préciser ce
+qu'une variante conserve ou détruit selon les contraintes proposées. Elle peut
+contester une interprétation sans établir l'unicité globale de l'original : un
+optimum dans le voisinage exploré n'est pas une preuve que toute autre solution
+échouerait. La nécessité ressentie, la sélectivité du problème et la fécondité
+explicative restent ainsi distinctes.
+
 ## Exemples
 
 L'ouverture harmonique trouvée par Claude Barthélemy pour une chanson à boire est
@@ -52,6 +60,7 @@ de perfection.
 ## Liens
 
 - Operationnalise la nécessité inventée de `idea_0085`.
+- Éprouve la reconstruction explicative de `idea_0096` par les effets des variations ; la pseudoptale en limite la validation par le seul sentiment de nécessité.
 - Met à l'épreuve l'autostabilité de `idea_0087`.
 - Complète la comparaison contrefactuelle de `idea_0032`.
 - Trouve dans la bonne définition de mots croisés de Perec (`idea_0136`) un

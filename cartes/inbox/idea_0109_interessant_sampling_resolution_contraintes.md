@@ -22,6 +22,7 @@ references:
   - papadopoulos2016flowcomposer
   - pachet2012virtuosity
 source_notes:
+  - "Discussion du 29 septembre 2026, prompt sur la solution en quête de son problème : distinction entre contraintes de production et reconstructibilité à la réception ; proposition d'évaluation séparée de la sélectivité, de la reconstruction et de l'intérêt."
   - "Discussion avec l'auteur du 28 septembre 2026 : précision sur les limites d'un critère d'intérêt fixé sur les propriétés finales et sur la détermination progressive du problème, de la solution et des critères."
   - "Hidden Biases : version longue de 16 pages soumise à NeurIPS ; la version publique arXiv:2604.07855v1 compte 9 pages."
   - "Hidden Biases, insuffisance du sampling local pour les propriétés globales, PDF p. 1-3 et 10-14"
@@ -122,7 +123,32 @@ critique relève de `idea_0128`, sur la substitution de l'indicateur à la cible
 reste distincte de la difficulté technique étudiée dans `idea_0017`, qui concerne
 l'échantillonnage fidèle d'une loi conditionnelle déjà définie.
 
+## Des contraintes de production à leur reconstruction
+
+Produire une séquence sous contraintes ne garantit pas que ces contraintes soient
+perceptibles ou reconstructibles pour celui qui la reçoit. La séquence peut satisfaire
+un problème très sélectif et ne fournir à l'auditeur aucune prise pour le découvrir.
+À l'inverse, celui-ci peut construire un problème pertinent que le système ou le
+compositeur n'avait pas formulé (`idea_0085`).
+
+Le schéma `P → x → P̂` distingue le problème de production de celui que reconstruit
+le sujet. Il convient lorsque `P` guide effectivement la production ; la boucle
+d'essais et de révisions décrite plus haut couvre les cas où problème et forme se
+déterminent ensemble. L'écart entre `P` et `P̂` n'est donc pas automatiquement une
+erreur : retrouver l'intention et produire une interprétation féconde sont deux
+tâches différentes.
+
+Le sampling et la résolution désignent ici des régimes de génération qui peuvent
+coopérer : on peut échantillonner parmi des solutions admissibles. Leur comparaison
+technique doit rester distincte de l'évaluation de la réception. Le pont avec la
+thèse consiste à construire des objets dont on contrôle certaines contraintes,
+puis à examiner ce que des sujets y découvrent.
+
 ## Statut de la source
+
+La distinction entre construction et réception, ainsi que les critères expérimentaux
+ajoutés le 29 septembre 2026, sont des propositions pour la thèse ; les publications
+citées n'établissent pas leur validité psychologique.
 
 Cette carte est une synthèse pour la thèse, non une conclusion explicite de `Hidden
 Biases`. Ce papier établit la tension computationnelle entre sampling autoregressif
@@ -146,6 +172,17 @@ Pour éprouver le prolongement proposé ici, distinguer une boucle à contrainte
 d'une boucle qui permet leur révision, et conserver la trace des changements de
 problème et de critères. L'évaluation doit confronter ce parcours aux reconstructions
 des sujets, sans déduire l'intérêt de la seule difficulté ou de la réussite du calcul.
+
+Pour étudier la réception, distinguer trois observations : la sélectivité du problème
+de production, la reconstructibilité pour des sujets d'expertises différentes et
+l'intérêt effectivement éprouvé au cours de l'exploration. La faible probabilité sous
+le modèle est une mesure supplémentaire, distincte du nombre de solutions.
+Recueillir les premières réactions avant de demander une analyse permet de ne pas
+confondre intérêt spontané et construction suscitée par la consigne. Confronter ensuite
+les problèmes proposés par les sujets à des variantes contrôlées (`idea_0096`,
+`idea_0113`), en autorisant plusieurs reconstructions et en documentant l'effet des
+indices fournis. Une divergence entre réussite technique, reconstruction féconde et
+intérêt constitue un résultat à expliquer, pas une anomalie à éliminer.
 
 ## Liens
 

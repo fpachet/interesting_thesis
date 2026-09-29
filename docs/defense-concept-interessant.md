@@ -9,6 +9,7 @@
 > Complément du 28 septembre 2026 : portée du conditionnement en IA générative (§ 4.3).
 > Même date : intérêt et volonté (§ 2.6), usages ordinaires (§ 2.3) et cas Lassalle (§ 3.3).
 > Filiation explicitée : continuer le programme de Pascal sur le divertissement (§ 1.1).
+> Précision du 29 septembre 2026 : reconstruction explicative d'un problème et critères de fécondité (§ 4.4), sans modification de D.
 
 Le [plan d'action](../projet-these/PLAN_ACTION_DEMONSTRATION.md) porte les décisions,
 l'architecture de rédaction et le travail restant. Le
@@ -393,6 +394,30 @@ Voirin rapporté par TF1. L'hypothèse sonore reste à éprouver ; le traitement
 de cette mise en ligne et l'intention cinématographique ne sont pas établis. Le cas offre un contraste avec la relance possible décrite pour *Honey Pie* :
 ici, la retombée est attestée dans le récit, sans relance rapportée.
 
+### 3.4 Quatre exemples paradigmatiques
+
+Les [exemples proposés le 29 septembre](notes/exemples-paradigmatiques-interessant.md)
+fixent quatre fonctions distinctes dans l'argumentation :
+
+| Proposition | Exemple | Apport |
+| --- | --- | --- |
+| L'énigme impose le désir de sa résolution. | Tours de David Blaine ou de Jason Ladanye (`idea_0138`). | L'effet prend le sujet et appelle une explication, avant toute décision de s'y intéresser. |
+| L'intéressant peut se résoudre. | Obsèques d'Agnès Lassalle (`idea_0167`) ; mécanique de gammes bebop sur accords altérés. | La compréhension peut fermer l'enquête et faire retomber l'intérêt. |
+| La solution s'impose d'elle-même. | « Do », onze lettres : DEMISOMMEIL (`idea_0136`). | « Do » est la moitié de « dodo » : comprendre le jeu suffit à reconnaître la réponse, sans corrigé extérieur. |
+| Le problème fait énigme à partir de sa solution. | Chansons Jotney, notamment *Honey Pie* (`idea_0085`, `idea_0111`). | La chanson déjà entendue engage à reconstruire les exigences qu'elle concilie. |
+
+Deux nécessités doivent être distinguées : **devoir comprendre** et **reconnaître
+que c'est la solution**. La première peut rester insatisfaite ; la seconde
+exprime une évidence rétrospective. L'unicité éprouvée n'établit pas à elle seule
+une unicité démontrée. Perec attribue le mot croisé à Robert Scipion (p. 14) ;
+la vérification et les sources figurent dans la note liée.
+
+Le cas Lassalle dispose d'un récit de retombée de l'intérêt ; *Honey Pie*, d'un
+récit de recherche instrumentale. Les tours précis et le passage bebop restent
+à sélectionner pour donner aux deux autres propositions le même degré de
+précision. Ces exemples peuvent croiser plusieurs fonctions : leur rôle
+paradigmatique indique ce qu'on choisit d'éclairer en priorité.
+
 ## 4. La « prise » sans métaphore
 
 ### 4.1 Définition
@@ -454,6 +479,69 @@ sa réussite permet de conclure. Le risque de substitution de la cible (`idea_01
 reste distinct du problème technique de fidélité à une loi conditionnelle déjà définie
 (`idea_0017`). Cette conséquence demeure locale aux cas examinés et ne transforme pas
 la genèse difficile en condition générale de l'intéressant.
+
+### 4.4 Reconstruire un problème : portée et critères
+
+**Mécanisme particulier (`MODEL`, précisé le 29 septembre 2026).** Dans certains
+cas, une forme devient intéressante pour un sujet en l'engageant à construire le
+problème dont elle pourrait être une solution. Cette reconstruction devient féconde
+lorsqu'elle explique des traits de la forme et permet d'éprouver des alternatives
+(`idea_0085`, `idea_0096`). Elle développe D sans constituer une définition concurrente.
+
+Trois opérations se distinguent : retrouver les exigences qui ont effectivement
+guidé le créateur, construire un problème interprétatif sans lui attribuer ces
+exigences, et faire émerger un problème nouveau. Seule la première prétend restituer
+la genèse et demande des sources historiques. Plusieurs reconstructions peuvent
+éclairer différents aspects d'une même forme.
+
+Le schéma `P → x → P̂` distingue le problème de production et le problème reconstruit.
+Il s'applique lorsque `P` précède effectivement `x` ; ailleurs, les essais font
+émerger ou réviser le problème (`idea_0109`). La réception n'est pas l'inversion
+exacte de la création. L'intérêt peut aussi précéder toute question déterminée
+(`idea_0160`) : cette antériorité ne prouve pas qu'un problème préformé attendait
+d'être découvert.
+
+Une information manquante ne suffit pas à constituer une énigme explicative : un
+nombre choisi au hasard, à deviner sans indice, n'offre par lui-même aucune structure
+sur laquelle progresser. Le jeu peut néanmoins intéresser pour d'autres raisons.
+L'énigme explicative promet une intelligibilité ; elle peut maintenir une recherche
+ouverte grâce à des prises partielles sans conduire à une solution finale (`idea_0138`).
+La surprise initiale et la nécessité rétrospective sont des moments possibles,
+non des étapes obligatoires.
+
+**Épreuve contre le problème ad hoc.** Une reconstruction qui demande seulement
+de reproduire exactement l'objet n'explique pas sa forme. Cinq dimensions permettent
+de discuter l'hypothèse de la solution rare :
+
+- **sélectivité** : préciser l'espace admissible et établir ou estimer combien de
+  solutions subsistent ; la faible probabilité sous un modèle et la difficulté du
+  calcul ne suffisent pas à l'établir ;
+- **simplicité relative** : formuler le problème sans recopier sa solution, tout
+  en reconnaissant qu'une condition arbitraire peut être courte ;
+- **pertinence sémantique** : justifier le rôle des contraintes dans le domaine ;
+- **reconstructibilité située** : identifier les indices et les ressources qui
+  rendent le problème accessible à ce sujet, dans cet horizon ;
+- **épreuve par variations** : montrer ce que des changements de l'objet conservent
+  ou détruisent, et exposer l'interprétation à des alternatives qui la contredisent.
+
+Cette grille n'est pas un score d'intérêt. Une reconstruction peut être féconde sans
+isoler une petite classe de solutions ; la sélectivité appartient à l'hypothèse locale
+de `idea_0096`. Dans *Honey Pie*, les substitutions harmoniques doivent permettre
+d'examiner ce qui arrive à l'autonomie mélodique et à la mobilité harmonique.
+L'optale fournit cette épreuve ; la pseudoptale avertit que la familiarité peut
+simuler la nécessité (`idea_0113`). Un optimum local ne démontre aucune unicité globale.
+
+Ces critères évaluent une compréhension obtenue. La promesse peut avoir réellement
+intéressé sans être tenue (`idea_0124`). En IA, il faut donc examiner séparément
+la sélectivité du problème de production, les reconstructions des sujets et l'intérêt
+éprouvé, en recueillant les réactions initiales avant de solliciter une analyse.
+Leur éventuelle divergence met l'hypothèse à l'épreuve au lieu de la confirmer d'avance.
+
+Enfin, toute explication n'est pas la reconstruction d'un problème résolu par l'objet.
+Une formation nuageuse peut susciter une enquête causale sans être une solution ;
+une œuvre ou un visage peut appeler une exploration avant toute question précise.
+Le mot « problème » doit conserver des exigences et des alternatives identifiables.
+L'élargir à toute question ou à toute tension rendrait cette proposition irréfutable.
 
 ## 5. Pourquoi les théories concurrentes ne suffisent pas
 

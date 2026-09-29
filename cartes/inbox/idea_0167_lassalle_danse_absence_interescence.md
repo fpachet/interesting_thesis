@@ -6,6 +6,7 @@ level: conceptual
 status: inbox
 architecture: case
 sources:
+  - "docs/notes/exemples-paradigmatiques-interessant.md"
   - "docs/notes/pascal-divertissement-interessant.md"
   - "https://www.youtube.com/watch?v=YI8gciBRrs8"
   - "docs/notes/agnes-lassalle-reportage-cinema.md"
@@ -21,6 +22,7 @@ references:
   - cole1964love_fr
   - taylor_hewitt_cole1964
 source_notes:
+  - "Discussion du 29 septembre 2026 : quatre exemples paradigmatiques et distinction de leurs fonctions ; précisions et statut documentaire dans la note dédiée."
   - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
   - "Témoignage détaillé de l'auteur du 28 septembre 2026 : visionnages répétés, entrée des violons vers 0:35, passage perçu au cinéma et retombée de l'intérêt ; verbatim conservé dans la note source."
   - "Vidéo fournie par l'auteur le 28 septembre 2026 : https://www.youtube.com/watch?v=YI8gciBRrs8 ; titre et chaîne Stef Do identifiés sur la page, durée affichée 2 min 44 s. Le repère 0:35 et l'instrumentation restent rapportés par l'auteur, sans écoute indépendante."
@@ -51,6 +53,14 @@ après des heures de visionnage, il identifie dans l'entrée des violons un basc
 perceptif du reportage vers le cinéma ; une fois cette articulation comprise, son
 intérêt retombe. Ce cas donne une trajectoire située à l'hypothèse d'une énigme dont
 la compréhension épuise localement le pouvoir de relance.
+
+## Fonction paradigmatique : l'intéressant peut se résoudre
+
+L'auteur retient ce cas comme repère principal de l'intérêt qui retombe après
+compréhension. La vidéo demeure disponible ; la relation change parce que
+l'énigme qui entretenait le visionnage a reçu sa réponse. Le cas bebop proposé
+le 29 septembre (`idea_0138`) doit fournir un second terrain pour examiner ce
+passage d'une mécanique intrigante à une mécanique comprise.
 
 ## La scène documentée
 

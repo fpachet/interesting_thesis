@@ -5,11 +5,13 @@ kind: example
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/exemples-paradigmatiques-interessant.md"
   - "docs/lectures/perec-mots-croises-interessant.md"
 references:
   - perec1999motscroises
   - pachet2018oreille
 source_notes:
+  - "Discussion du 29 septembre 2026 : quatre exemples paradigmatiques et distinction de leurs fonctions ; précisions et statut documentaire dans la note dédiée."
   - "Avant-propos, p. 8-17 ; typologie des définitions p. 13-15 ; bonne définition p. 14 ; préférence pour les mots simples et les définitions déconcertantes p. 17. Passages vérifiés dans l'extrait électronique de l'éditeur."
   - "Rapprochement avec l'optale développée dans Histoire d'une oreille, via idea_0113."
 tags:
@@ -64,6 +66,23 @@ soutient les constructions du joueur. Une fois le déplacement compris, cette
 énigme locale meurt : elle ne peut redevenir intéressante qu'après oubli ou
 depuis un autre niveau d'analyse, par exemple celui de l'élégance de la
 définition.
+
+## Cas paradigmatique : « Do », en onze lettres
+
+**DEMI-SOMMEIL** : « do » est la moitié de « dodo ». Perec raconte cet exemple
+p. 14 et attribue la définition à **Robert Scipion**. La grille compte onze
+lettres : DEMISOMMEIL.
+
+L'exemple donne une forme précise à l'idée d'une solution qui s'impose
+d'elle-même. Une fois le déplacement compris, le sujet n'a pas besoin de
+consulter le corrigé pour reconnaître la réponse : comprendre le jeu et voir
+l'ajustement aux onze lettres emportent ensemble son assentiment. La réponse
+paraît unique parce qu'elle rend soudain lisible l'indice entier.
+
+Cette unicité éprouvée se distingue d'une preuve exhaustive excluant toute
+autre réponse. La force du cas tient à la coïncidence de la découverte et de
+la reconnaissance de sa justesse : la vérification est portée par la
+compréhension elle-même.
 
 ## Une optale linguistique
 

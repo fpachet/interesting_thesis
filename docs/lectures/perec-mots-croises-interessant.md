@@ -37,6 +37,19 @@ mais la nécessité de la réponse n'apparaît qu'après le changement de
 représentation. Le résultat reconfigure rétroactivement l'indice au lieu de
 simplement compléter une information manquante.
 
+## Complément du 29 septembre 2026 : « Do » et l'évidence de la solution
+
+La page 14 de l'extrait a été relue pour vérifier l'exemple proposé par l'auteur
+comme paradigme d'une solution qui s'impose : « Do », en onze lettres, donne
+DEMI-SOMMEIL, puisque « do » représente la moitié de « dodo ». Perec en attribue
+explicitement la définition à **Robert Scipion**. Il est ici le narrateur de
+l'expérience de résolution, et non l'auteur de la définition.
+
+La thèse retient l'assentiment produit par la découverte du jeu de mots : le
+sujet peut reconnaître la justesse sans consulter de corrigé. L'interprétation
+en termes d'unicité éprouvée est développée dans `idea_0136` ; elle ne constitue
+pas une démonstration formelle de l'unicité de toutes les réponses possibles.
+
 ## Typologie des déclencheurs
 
 L'avant-propos permet de distinguer plusieurs opérations :

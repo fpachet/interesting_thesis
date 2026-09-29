@@ -5,6 +5,7 @@ kind: hypothesis
 level: conceptual
 status: inbox
 sources:
+  - "docs/notes/exemples-paradigmatiques-interessant.md"
   - "input/The Mystery of Jotney Songs.pdf"
   - "input/The Mystery of Jotney Songs -full.pdf"
   - "docs/notes/honey-pie-jotney.md"
@@ -12,6 +13,7 @@ references:
   - blick2013honeypie
   - pollack1998honeypie
 source_notes:
+  - "Discussion du 29 septembre 2026 : quatre exemples paradigmatiques et distinction de leurs fonctions ; précisions et statut documentaire dans la note dédiée."
   - "Jotney, définition de l'équilibre et contrastes stylistiques, PDF p. 1-3"
   - "Dossier Jotney, essais, profil analytique et programme de recherche, PDF p. 2-4, 19-23 et 29-36"
   - "Honey Pie : essai court approuvé le 8 septembre 2026 ; analyses de Blick et Pollack, références et limites conservées dans la note."
@@ -24,6 +26,14 @@ tags:
   - construction
   - ecoute
 ---
+## Fonction paradigmatique de Honey Pie
+
+Dans les exemples retenus le 29 septembre 2026, *Honey Pie* illustre surtout
+l'énigme du **problème dont la chanson est la solution** (`idea_0085`).
+L'équilibre entre autonomie mélodique et mobilité harmonique explicite une
+partie de ce problème. L'auditeur entend d'abord une réussite, puis cherche
+à comprendre les exigences qu'elle parvient à concilier.
+
 ## Idée
 
 Une chanson peut conserver une mélodie autonome - chantable sans arrangement, mémorable
