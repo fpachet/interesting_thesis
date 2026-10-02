@@ -12,6 +12,7 @@ sources:
 references:
   - pascal1921divertissement
 source_notes:
+  - "Discussion du 2 octobre 2026 : le non-intéressant n'est pas nécessairement épuisé ; horoscopes et guérison à mains nues comme exemples de désintérêt rapporté, sans enquête empirique sur ces pratiques."
   - "Discussion du 29 septembre 2026, prompt sur la solution en quête de son problème : information manquante, promesse d'intelligibilité et maintien d'une énigme ouverte ; précisions propres à la thèse."
   - "Discussion du 29 septembre 2026 : quatre exemples paradigmatiques et distinction de leurs fonctions ; précisions et statut documentaire dans la note dédiée."
   - "Discussion du 28 septembre 2026 : poursuivre le programme de Pascal en examinant pourquoi telle occupation engage tel sujet ; lecture ciblée des Pensées, fragments 135, 137 et 139 (Brunschvicg), conservée dans la note source."
@@ -132,6 +133,34 @@ produit des distinctions, des questions plus précises ou des hypothèses mieux
 éprouvées. Elle peut alors entretenir davantage d'intérêt qu'une réponse qui clôt
 toute recherche. La seule obscurité persistante ne suffit pas à établir cette
 fécondité ; il faut distinguer les prises partielles de leur promesse indéfinie.
+
+## Le non-intéressant n'est pas nécessairement épuisé
+
+**L'absence d'intérêt ne prouve ni une compréhension achevée ni l'épuisement
+des possibilités de l'objet.** L'épuisement local décrit l'issue d'une recherche
+qui a eu lieu ; le non-intéressant peut aussi désigner une rencontre qui ne
+déclenche aucune recherche, parce qu'aucune prise nouvelle n'est anticipée.
+
+François Pachet propose les horoscopes et la guérison à mains nues comme sujets
+qui ne l'intéressent pas : serait-ce parce qu'il estime qu'il n'y a derrière
+que des « trucs » ? La proposition porte sur cette anticipation, sans établir
+ici les mécanismes de ces pratiques. Tenir un ressort pour déjà compris ou
+une promesse pour dépourvue de contenu peut désamorcer l'appel de l'énigme,
+même si le procédé précis n'a pas été examiné. Reconnaître une catégorie de
+procédés n'est pas encore connaître le fonctionnement de chaque cas.
+
+Il faut distinguer une compréhension acquise, une compréhension présumée et
+l'absence de désir d'approfondir. Le sujet peut estimer à raison qu'une enquête
+ne lui apporterait rien qui compte pour lui ; il peut aussi méconnaître des
+différences susceptibles de l'intéresser. Le désintérêt ne tranche pas cette
+question et n'oblige pas à poursuivre chaque possibilité encore ouverte.
+
+Enfin, le jugement reste relatif à l'angle de rencontre. Une prétention peut
+ne susciter aucune enquête, tandis que la manière de convaincre, la réception
+sociale ou les attentes des participants ouvriraient d'autres questions.
+Ces déplacements sont possibles, sans devoir intéresser le même sujet.
+**Un objet peut donc rester inexploré et porteur de questions sans être
+intéressant pour quelqu'un, dans une rencontre donnée.**
 
 ## Cas : l'énigme de ce qui nous retient
 

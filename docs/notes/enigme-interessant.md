@@ -49,3 +49,21 @@ intéressant : la solution peut modifier sa perception et faire apparaître une
 nouvelle énigme. Il faut ainsi distinguer les énigmes consumables, que la
 solution épuise, des énigmes génératives, dont chaque résolution déplace ou
 relance la construction.
+
+## Complément du 2 octobre 2026 : le non-intéressant non épuisé
+
+François Pachet demande pourquoi certains sujets, comme les horoscopes ou la
+guérison à mains nues, ne l'intéressent pas : serait-ce parce qu'il estime
+qu'il n'y a derrière que des « trucs » ? Il précise ensuite :
+
+> oui rajoute cette idée du "non intéressant" qui n'est pourtant pas forcément épuisé
+
+La distinction ajoutée à `idea_0138` porte sur l'absence d'appel, qui peut
+précéder toute exploration. Un ressort tenu pour connu peut ne plus promettre
+de prise désirable, sans que le cas particulier ait été compris. Compréhension
+acquise, compréhension présumée et absence de désir d'approfondir ne sont donc
+pas équivalentes. Le désintérêt n'établit pas l'épuisement de l'objet ; il reste
+relatif au sujet, au moment et à la question sous laquelle il le rencontre.
+Les exemples documentent une position de l'auteur, pas une analyse empirique
+des pratiques citées. Les autres angles d'enquête proposés dans la carte sont
+des élaborations conceptuelles, pas des intérêts rapportés par l'auteur.

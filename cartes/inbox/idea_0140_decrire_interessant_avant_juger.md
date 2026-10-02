@@ -12,6 +12,7 @@ references:
   - garve1779interessirende
   - bachmannmedick2008anziehungskraft
 source_notes:
+  - "Discussion du 2 octobre 2026 : hypothèse d'une société exposée à des choses trop intéressantes ; brièveté des reels et profondeur de la réflexion déclenchée doivent être distinguées."
   - "Discussion du 28 septembre 2026 : dépolitiser la question de la prolifération et reconnaître les intérêts réels ; constat qualitatif, sans proportion globale mesurée. Cadrage des auteurs et limites conservés dans la note source."
   - "Garve fournit le noyau descriptif de l'attention suscitée, mais réoriente une partie de l'analyse vers l'éducation et la conduite morale."
   - "Bachmann-Medick accentue cette portée pratique et morale. La séparation entre genèse et valeur est une reconstruction méthodologique proposée par la thèse, non une thèse explicitement formulée par ces auteurs."
@@ -108,6 +109,33 @@ disponible pour les explorer. Le choix entre plusieurs intérêts réels devient
 alors un problème à étudier, dans le prolongement du programme de Pascal
 (`idea_0123`). Le cadrage concernant Debord, Muray et Stiegler est documenté dans
 la note source ; ils ne sont pas traités comme une doctrine unique.
+
+## Des choses « trop intéressantes » : brièveté et profondeur
+
+Le complément proposé le 2 octobre 2026 précise cette abondance : les réseaux
+sociaux et l'hypercommunication pourraient nous exposer à des choses « trop
+intéressantes », capables de mobiliser notre attention de manière continue et
+profonde. La difficulté pourrait tenir à la multiplication des intérêts réels
+auxquels un sujet ne peut donner suite. Cette hypothèse ne constitue pas un
+diagnostic empirique établi sur l'ensemble des usages.
+
+La brièveté d'un reel ne suffit pas à établir la superficialité de sa réception.
+Un contenu bref peut déclencher une réflexion profonde qui se poursuit après
+son visionnage. Il faut distinguer la durée de la forme, celle de l'exposition
+et celle du processus de pensée qu'elle amorce. Le pouvoir déclencheur de ces
+formes devient ainsi un objet d'enquête à part entière.
+
+« Trop » désigne ici un rapport entre les sollicitations et la capacité située
+du sujet à les poursuivre. Chaque rencontre peut ouvrir une construction, tandis
+que leur succession rend difficile son développement. Cette tension entre
+déclenchement et poursuite est une conséquence proposée pour l'enquête, et non
+une expérience explicitement rapportée pour chaque reel.
+
+Ce déplacement complète le passage sur la société du spectacle et Homo festivus :
+comprendre le pouvoir de l'intéressant précède l'organisation d'une défense contre
+lui. Une mobilisation intense de l'attention ne suffit à établir ni profondeur
+ni manipulation ; il faut examiner les questions, les reprises et les
+transformations qu'elle suscite effectivement.
 
 ## Intérêt pour la thèse
 

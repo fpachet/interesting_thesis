@@ -86,6 +86,26 @@ suscite une recherche sur le passage perçu au cinéma. Sa circulation ne suffit
 la distinction obtenue. Il ne permet pas d'estimer l'intérêt de tous les autres
 spectateurs ni la qualité d'ensemble des contenus en ligne.
 
+## Complément du 2 octobre 2026 : des choses « trop intéressantes »
+
+François Pachet propose :
+
+> Nous vivons aujourd'hui (l'époque des réseaux sociaux et de l'hypercommunication)
+> dans une société où nous sommes exposés à des choses « trop intéressantes ».
+> C'est-à-dire qui mobilisent notre attention de manière continue et profonde.
+> En ce sens je ne suis pas convaincu par l'argument de la superficialité
+> (les reels sont courts, oui, mais souvent déclencheurs de réflexion profonde,
+> et c'est précisément leur pouvoir qu'il nous faut mieux comprendre, plutôt
+> que d'organiser une défense a priori).
+
+Transcription avec corrections orthographiques. Cette proposition complète
+`idea_0140` : elle précise la reconnaissance des intérêts réels par la distinction
+entre brièveté du contenu et profondeur de la réflexion déclenchée. Le « trop »
+peut être compris comme un excès de sollicitations par rapport au temps et à la
+capacité de leur donner suite. Cette dernière formulation est une élaboration
+conceptuelle de l'échange, pas un résultat empirique. Aucun taux de reels féconds
+ni effet général sur leurs utilisateurs n'est établi ici.
+
 ## Sources et niveau de consultation
 
 - [Guy Debord, *La Société du spectacle*, thèses 4–6](https://classiques.uqam.ca/contemporains/debord_guy/societe_du_spectacle/societe_du_spectacle.pdf) : texte consulté dans la reproduction de la troisième édition, PDF p. 10–11. Lecture ciblée.

@@ -167,6 +167,21 @@ une sélection peut en augmenter la fréquence pour un sujet. L'abondance peut
 alors poser le problème du choix entre plusieurs explorations qui valent
 effectivement la peine, compte tenu de la finitude du temps.
 
+Le complément du 2 octobre 2026 formule cette possibilité comme celle d'une
+société exposée à des choses **« trop intéressantes »** (`idea_0140`). La brièveté
+d'un reel ne suffit pas à conclure à la superficialité de son effet : quelques
+secondes peuvent déclencher une réflexion profonde, poursuivie après le
+visionnage. Durée du contenu, durée de l'exposition et durée de la construction
+amorcée doivent donc être distinguées. Le pouvoir déclencheur de ces formes
+demande à être compris avant d'organiser une défense contre lui.
+
+Le « trop » exprime alors un rapport possible entre la multiplication des
+sollicitations et la capacité du sujet à leur donner suite. Des rencontres
+fécondes prises séparément peuvent entrer en concurrence dans une même vie.
+La tension entre déclenchement et poursuite constitue une hypothèse à examiner,
+sans assimiler toute mobilisation intense de l'attention à une réflexion
+profonde ni généraliser ce diagnostic à tous les usages des réseaux sociaux.
+
 Debord, Muray et Stiegler sont des interlocuteurs distincts. La
 [note de cadrage](notes/proliferation-contenus-interessants.md) précise les textes
 consultés et évite de leur attribuer une même théorie de forces malveillantes.
@@ -275,6 +290,24 @@ d'une reconstruction qui ne prouve pas ce que le compositeur a effectivement fai
 Enfin, continuer à aimer ou à jouer le passage une fois compris n'atteste pas, à soi
 seul, la continuation de l'intérêt constructif. Il faut décrire ce qui s'y poursuit
 ou s'y renouvelle, sans déclarer par principe la réécoute épuisée.
+
+**Le non-intéressant n'est pourtant pas nécessairement épuisé** (`idea_0138`,
+complément du 2 octobre 2026). L'épuisement local suppose une recherche dont une
+prise acquise termine l'appel. L'absence d'intérêt peut précéder toute recherche :
+le sujet n'anticipe aucune découverte qui compte pour lui, même si l'objet reste
+inexploré. Les horoscopes et la guérison à mains nues sont proposés par l'auteur
+comme exemples de ce désintérêt : estimer qu'il n'y a derrière que des « trucs »
+peut désamorcer la promesse sans connaître le procédé précis. Il s'agit ici de
+décrire son anticipation, sans établir les mécanismes de ces pratiques.
+
+Compréhension acquise, compréhension présumée et absence de désir d'approfondir
+doivent donc être distinguées. Le désintérêt ne prouve pas que toutes les prises
+possibles ont été obtenues. Il peut être justifié pour une question donnée ou
+reposer sur une fermeture prématurée. Un autre angle, par exemple la manière de
+convaincre ou la réception sociale, peut ouvrir une enquête ; cette possibilité
+ne garantit pas qu'elle intéressera le même sujet. L'existence de questions
+encore ouvertes ne suffit ainsi pas à rendre leur objet intéressant dans une
+rencontre donnée.
 
 ### 2.6 Intérêt spontané, attention volontaire et intérêt cultivé
 
